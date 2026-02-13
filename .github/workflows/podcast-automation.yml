@@ -1,0 +1,60 @@
+name: Podcast Automation Pipeline
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # 06:00 JST = 21:00 UTC前日
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Create episodes directory
+        run: mkdir -p episodes
+
+      - name: Run Pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python scripts/run_pipeline.py --themes technology,business,health
+
+      - name: Upload Artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: podcast-outputs-${{ github.run_id }}
+          path: episodes/
+          retention-days: 30
+
+      - name: Upload RSS Feed
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-feed-${{ github.run_id }}
+          path: episodes/feed.xml
+          retention-days: 90
+
+      - name: Notify on Failure
+        if: failure()
+        run: |
+          echo "❌ Pipeline failed. Check logs for details."
+          echo "Run ID: ${{ github.run_id }}"
+          echo "Run URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
