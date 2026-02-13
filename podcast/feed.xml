@@ -6,7 +6,7 @@
         <description>AI自動生成のニュースポッドキャスト</description>
         <language>ja-jp</language>
         <managingEditor>Podcast Automation System</managingEditor>
-        <lastBuildDate>2026-02-13T16:10:15.085464</lastBuildDate>
+        <lastBuildDate>2026-02-13T21:42:52.618365</lastBuildDate>
         <generator>Podcast Automation System</generator>
     <item>
         <title>エピソード 1: Technology</title>
@@ -16,20 +16,20 @@
 
 ---
 
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
+【セクション 1: Coindesk Japan】
+信頼度スコア: 9.7/10
 
 **導入（30秒）**
-こんにちは、テクノロジー愛好家の皆さんへ。今日は、まさにあなたの想像力を掻き立てるような、夢のようなテクノロジーを紹...]]>
+こんにちは、リスナーさん。今日はテクノロジーの世界で話題になっているニュースを紹介します。フランクリン・テンプ...]]>
 
 
 記事一覧:
-  • 推しキャラとAIで会話できる! デジタルフィギュアボックス「CODE27」日本上陸 (出典: Mynavi News, 信頼度: 8.5/10)
-  • 中国の生成AI「StepFun」、約1200億円調達 スマホや車載AIで存在感(36Kr Japan) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 『リトルナイトメア1&2』クリエイターによる2人協力ホラーゲーム『REANIMAL』正式リリース。孤児の姉弟が行方不明の仲間たちを救い出し、怪異蔓延る島からの脱出を目指す (出典: 電ファミニコゲーマー – ゲームの面白い記事読んでみない？, 信頼度: 7.0/10)</description>
+  • Franklin TempletonとBinance、機関投資家向け取引所外担保プログラムを開始 (出典: Coindesk Japan, 信頼度: 9.7/10)
+  • AIで進化したヤマハのバイク。そのデザインはもはやアート (出典: Gizmodo, 信頼度: 7.5/10)
+  • Kling AI 3.0 シリーズを正式リリース 誰もが「監督」になれる時代の幕開け (出典: Pr Times, 信頼度: 8.5/10)</description>
         <category>technology</category>
-        <pubDate>2026-02-13T16:10:15.085426</pubDate>
-        <guid isPermaLink="false">episode_technology_1_1770999015</guid>
+        <pubDate>2026-02-13T21:42:52.618309</pubDate>
+        <guid isPermaLink="false">episode_technology_1_1771018972</guid>
         <link>https://github.com/yourusername/podcast-automation/episodes/technology/1</link>
     </item>
     <item>
@@ -40,20 +40,20 @@
 
 ---
 
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
+【セクション 1: Lifehacker】
 信頼度スコア: 7.5/10
 
 **導入（30秒）**
-こんにちは、皆さん。今日はビジネスの最新ニュースを紹介します。AI6株式会社が、NEDOの「SBIR推進プロ...]]>
+こんにちは、リスナーさん。今日は、ワークマンのリカバリーウェア「メデイヒール」を取り上げます。上下4,000円以下という低...]]>
 
 
 記事一覧:
-  • AI6株式会社、NEDO「SBIR推進プログラム」に採択 ― Wi-Fiセンシング×AIプラットフォームで、多様な社会課題の解決を加速 ― (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • ネガティブも素直にさらけ出すことが、ファンとの関係を築く|南聖羅のB面(AMP[アンプ]) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • いいものを、長く大切に使い続けたい|南聖羅のA面(AMP[アンプ]) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+  • ワークマンで上下4,000円以下。話題のリカバリーウェアを5日間着てみた「私の本音」 (出典: Lifehacker, 信頼度: 7.5/10)
+  • 「お金で不幸は変わらない。だが、ストレスは変わる」と、マーク・キューバンは言う (出典: Business Insider, 信頼度: 7.5/10)
+  • 「不動産は大嫌い」なセルフメイド・ミリオネアが語る、不動産を管理せずに不動産に投資する方法 (出典: Business Insider, 信頼度: 7.5/10)</description>
         <category>business</category>
-        <pubDate>2026-02-13T16:10:15.085446</pubDate>
-        <guid isPermaLink="false">episode_business_2_1770999015</guid>
+        <pubDate>2026-02-13T21:42:52.618337</pubDate>
+        <guid isPermaLink="false">episode_business_2_1771018972</guid>
         <link>https://github.com/yourusername/podcast-automation/episodes/business/2</link>
     </item>
     <item>
@@ -64,20 +64,20 @@
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
 
 **導入（30秒）**
-こんにちは、リスナーさん。今日は健康に関するニュースを取り上げます。特定非営利活動法人日本医療政策機構から発表された「2026年 ...]]>
+こんにちは、今日は健康に関するニュースを取り上げます。特に、食道がんの治療とその後の生活習慣について話しましょう。食道がんは...]]>
 
 
 記事一覧:
-  • 【調査報告】「2026年 日本の医療に関する世論調査」を公表(2026年2月13日) (出典: Pr Times, 信頼度: 8.0/10)
-  • 高齢心不全患者の「退院時の身体機能」が1年後の生命を左右する (出典: Pr Times, 信頼度: 7.5/10)
-  • TIME誌による「TIME100 Health 2026」(最も影響力のある医療リーダー100人)への選定について (出典: Pr Times, 信頼度: 8.0/10)</description>
+  • 内視鏡治療後の食道がん 禁酒と禁煙で再発大幅に抑制 - 京大など(医療介護CBニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • キリングループ長期経営構想 「Innovate2035!」を策定 (出典: Pr Times, 信頼度: 8.0/10)
+  • ヘルスサイエンス事業のグローバル展開加速を目指し「Kirin Health Science International Pty Ltd」を設立 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)</description>
         <category>health</category>
-        <pubDate>2026-02-13T16:10:15.085458</pubDate>
-        <guid isPermaLink="false">episode_health_3_1770999015</guid>
+        <pubDate>2026-02-13T21:42:52.618355</pubDate>
+        <guid isPermaLink="false">episode_health_3_1771018972</guid>
         <link>https://github.com/yourusername/podcast-automation/episodes/health/3</link>
     </item>
     </channel>

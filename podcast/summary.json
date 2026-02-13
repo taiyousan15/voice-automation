@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-02-13T16:10:15.084740",
+  "generated_at": "2026-02-13T21:42:52.617605",
   "total_episodes": 3,
   "episodes": [
     {
-      "name": "episode_technology_20260213_161004",
+      "name": "episode_technology_20260213_214241",
       "theme": "technology",
       "status": "success",
       "articles": [
         {
-          "title": "推しキャラとAIで会話できる! デジタルフィギュアボックス「CODE27」日本上陸",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "中国の生成AI「StepFun」、約1200億円調達 スマホや車載AIで存在感(36Kr Japan)",
-          "source": "Yahoo Japan",
+          "title": "Franklin TempletonとBinance、機関投資家向け取引所外担保プログラムを開始",
+          "source": "Coindesk Japan",
           "trust_score": 9.7
         },
         {
-          "title": "『リトルナイトメア1&2』クリエイターによる2人協力ホラーゲーム『REANIMAL』正式リリース。孤児の姉弟が行方不明の仲間たちを救い出し、怪異蔓延る島からの脱出を目指す",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
+          "title": "AIで進化したヤマハのバイク。そのデザインはもはやアート",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Kling AI 3.0 シリーズを正式リリース 誰もが「監督」になれる時代の幕開け",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_business_20260213_161009",
+      "name": "episode_business_20260213_214246",
       "theme": "business",
       "status": "success",
       "articles": [
         {
-          "title": "AI6株式会社、NEDO「SBIR推進プログラム」に採択 ― Wi-Fiセンシング×AIプラットフォームで、多様な社会課題の解決を加速 ―",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "ワークマンで上下4,000円以下。話題のリカバリーウェアを5日間着てみた「私の本音」",
+          "source": "Lifehacker",
           "trust_score": 7.5
         },
         {
-          "title": "ネガティブも素直にさらけ出すことが、ファンとの関係を築く|南聖羅のB面(AMP[アンプ])",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "「お金で不幸は変わらない。だが、ストレスは変わる」と、マーク・キューバンは言う",
+          "source": "Business Insider",
+          "trust_score": 7.5
         },
         {
-          "title": "いいものを、長く大切に使い続けたい|南聖羅のA面(AMP[アンプ])",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "「不動産は大嫌い」なセルフメイド・ミリオネアが語る、不動産を管理せずに不動産に投資する方法",
+          "source": "Business Insider",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_health_20260213_161015",
+      "name": "episode_health_20260213_214252",
       "theme": "health",
       "status": "success",
       "articles": [
         {
-          "title": "【調査報告】「2026年 日本の医療に関する世論調査」を公表(2026年2月13日)",
+          "title": "内視鏡治療後の食道がん 禁酒と禁煙で再発大幅に抑制 - 京大など(医療介護CBニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "キリングループ長期経営構想 「Innovate2035!」を策定",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "高齢心不全患者の「退院時の身体機能」が1年後の生命を左右する",
-          "source": "Pr Times",
+          "title": "ヘルスサイエンス事業のグローバル展開加速を目指し「Kirin Health Science International Pty Ltd」を設立",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "TIME誌による「TIME100 Health 2026」(最も影響力のある医療リーダー100人)への選定について",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
