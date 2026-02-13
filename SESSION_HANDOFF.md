@@ -177,4 +177,57 @@
 
 ---
 
+---
+
+## PC再起動後の再開ガイド（2026-02-13 更新）
+
+### ステップ 1: 環境確認
+```bash
+cd /Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム
+
+# Git status確認（Commit: ba8134a で初回コミット完了）
+git log --oneline  # ba8134a が表示されることを確認
+
+# Python環境確認
+source venv/bin/activate
+python scripts/run_pipeline.py --dry-run
+```
+
+### ステップ 2: 現在のタスク状態
+- ✅ **PIPELINE-001**: 完成（Commit: ba8134a）
+  - RSS フィード生成完了
+  - 13 統合テスト全通過（13/13）
+  - 実行時間: 7.27 秒
+- ⏳ **GH-ACTIONS-001**: 次のフェーズ（実装ガイド: `NEXT_PHASE_GH_ACTIONS.md`）
+
+### ステップ 3: 次フェーズ実装
+`NEXT_PHASE_GH_ACTIONS.md` を参照して GH-ACTIONS-001 を実装します：
+1. GitHub Actions Workflow YAML 作成
+2. Secrets 登録（GROQ_API_KEY, NEWSDATA_API_KEY）
+3. Cron スケジュール設定（毎日 06:00 JST）
+4. Manual trigger でテスト実行
+
+---
+
+### Git コミット情報（初回コミット）
+```
+commit ba8134a704705b16e22b77fc7dc3da8cb7e223ce
+Author: Toshihiko Matsumoto <toshihiko@podcast-automation.local>
+Date:   Fri Feb 13 17:06:56 2026 +0900
+
+feat(pipeline): complete PIPELINE-001 with RSS feed generation and integration tests
+
+- Implemented RSSFeedGenerator with RSS 2.0 compliance
+- Created PipelineOrchestrator for async multi-theme processing
+- Added 13 integration tests (100% passing)
+- Executed full pipeline: NewsData.io → Dedup → TrustScore → Groq LLM → RSS Feed
+- Performance: 7.27 seconds for 3 articles + RSS + dashboard generation
+- Generated outputs: episode_*.txt, feed.xml, summary.json, dashboard.json
+
+95 files changed, 22445 insertions(+)
+```
+
+---
+
 *このファイルはセッション終了時に自動更新されます*
+**最後の更新**: 2026-02-13T17:06:56+09:00
