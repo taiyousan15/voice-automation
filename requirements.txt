@@ -1,0 +1,48 @@
+# Podcast Automation System - Python Dependencies
+# Created: 2026-02-12
+
+# ===== AI & LLM =====
+anthropic>=0.7.0
+groq>=0.4.1
+openai>=1.0.0  # For OpenRouter compatibility
+requests>=2.31.0
+
+# ===== Data Processing =====
+pydantic>=2.0
+pydantic-settings>=2.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# ===== Web & HTTP =====
+aiohttp>=3.9.0
+httpx>=0.24.0
+
+# ===== Database (Future) =====
+sqlalchemy>=2.0
+alembic>=1.12
+psycopg2-binary>=2.9
+
+# ===== Caching (Future) =====
+redis>=5.0
+
+# ===== Testing =====
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# ===== Code Quality =====
+black>=23.0
+flake8>=6.0
+mypy>=1.0
+isort>=5.12
+
+# ===== Audio Processing (TTS) =====
+ffmpeg-python>=0.2.0
+
+# ===== Utilities =====
+loguru>=0.7.0
+tqdm>=4.66.0
+
+# ===== CLI =====
+typer>=0.9.0
+rich>=13.0

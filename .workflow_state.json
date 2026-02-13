@@ -1,0 +1,40 @@
+{
+  "version": "2.0.0",
+  "meta": {
+    "workflowId": "user_request",
+    "strict": true,
+    "currentPhase": 1,
+    "startedAt": "2026-02-11T20:07:24.021Z",
+    "lastUpdated": "2026-02-11T20:07:24.021Z"
+  },
+  "intentContractRef": null,
+  "activeSkillId": null,
+  "activeSkillStepId": null,
+  "baseline": {
+    "files": {}
+  },
+  "registeredInputs": {
+    "referenceAssets": []
+  },
+  "locks": {
+    "referenceAssets": []
+  },
+  "evidence": {
+    "skills_used": {},
+    "read_log": [],
+    "approved_deviations": [],
+    "skillEvidence": [],
+    "skillEvidenceIndexByStepId": {}
+  },
+  "decisions": {
+    "assetReuse": []
+  },
+  "approvals": {
+    "deviations": []
+  },
+  "validations": {
+    "lastResults": []
+  },
+  "completed_phases": [],
+  "blockers": []
+}

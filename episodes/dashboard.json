@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-02-13T14:08:46.670527",
+  "total_time": 7.266512,
+  "total_episodes": 1,
+  "successful_episodes": 1,
+  "failed_episodes": 0,
+  "episodes": [
+    {
+      "name": "episode_technology_20260213_140846",
+      "theme": "technology",
+      "status": "success",
+      "articles_count": 3,
+      "script_length": 2517,
+      "processing_time": 6.428984,
+      "error": null
+    }
+  ],
+  "files": {
+    "episode_technology": "episodes/episode_technology_20260213_140846.txt",
+    "summary": "episodes/summary.json"
+  },
+  "rss_feed": "episodes/feed.xml"
+}

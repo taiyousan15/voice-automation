@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ポッドキャスト自動配信</title>
+        <link>https://github.com/yourusername/podcast-automation</link>
+        <description>AI自動生成のニュースポッドキャスト</description>
+        <language>ja-jp</language>
+        <managingEditor>Podcast Automation System</managingEditor>
+        <lastBuildDate>2026-02-13T14:08:46.670336</lastBuildDate>
+        <generator>Podcast Automation System</generator>
+    <item>
+        <title>エピソード 1: Technology</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【technology】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Itmedia】
+信頼度スコア: 7.5/10
+
+**導入（30秒）**
+こんにちは、皆さん。今日はテクノロジーの最新ニュースを取り上げたいと思います。特に、Samsung Electronicsの...]]>
+
+
+記事一覧:
+  • 「業界初」SamsungがHBM4の量産、出荷開始 (出典: Itmedia, 信頼度: 7.5/10)
+  • [プロモーション]TKP、APAMANが運営する「あるあるCity」を大分駅前に誘致 「あるあるCityおおいた分校」、2026年4月開業予定(@Press) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • Ray-Banのスマートグラスなら、見たものをすぐ買えちゃう? (出典: Gizmodo, 信頼度: 7.5/10)</description>
+        <category>technology</category>
+        <pubDate>2026-02-13T14:08:46.670325</pubDate>
+        <guid isPermaLink="false">episode_technology_1_1770959326</guid>
+        <link>https://github.com/yourusername/podcast-automation/episodes/technology/1</link>
+    </item>
+    </channel>
+</rss>

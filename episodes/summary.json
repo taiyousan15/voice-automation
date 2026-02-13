@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-02-13T14:08:46.670110",
+  "total_episodes": 1,
+  "episodes": [
+    {
+      "name": "episode_technology_20260213_140846",
+      "theme": "technology",
+      "status": "success",
+      "articles": [
+        {
+          "title": "「業界初」SamsungがHBM4の量産、出荷開始",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[プロモーション]TKP、APAMANが運営する「あるあるCity」を大分駅前に誘致 「あるあるCityおおいた分校」、2026年4月開業予定(@Press)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Ray-Banのスマートグラスなら、見たものをすぐ買えちゃう?",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "id": "58eec3ad-10cc-411c-8030-eb53c7e1a5a6",
+  "timestamp": "2026-02-11T20:10:54.701Z",
+  "files": [
+    {
+      "path": ".kiro/specs/podcast-automation/tasks.md",
+      "conversations": [
+        {
+          "contributor_type": "ai",
+          "model": "anthropic/claude-opus-4-5-20251101",
+          "ranges": [
+            {
+              "start_line": 1,
+              "end_line": -1
+            }
+          ],
+          "description": "Edit: text replacement"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "name": "taisun-agent",
+    "version": "2.10.1"
+  },
+  "metadata": {
+    "dev.taisun": {
+      "hook": "agent-trace-capture",
+      "tool_used": "Edit"
+    }
+  }
+}

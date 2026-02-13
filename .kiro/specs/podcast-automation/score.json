@@ -1,0 +1,97 @@
+{
+  "score_total": 73,
+  "score_breakdown": {
+    "C": 17,
+    "U": 24,
+    "T": 13,
+    "E": 19
+  },
+  "counts": {
+    "requirements": 4,
+    "missing_sections": 0,
+    "open_questions": 0,
+    "banned_word_total": 1
+  },
+  "violations": [
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-900 に必須フィールド欠落: 受入テスト"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-900 に必須フィールド欠落: 例外・エラー"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-901 に必須フィールド欠落: 受入テスト"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-901 に必須フィールド欠落: 例外・エラー"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-902 に必須フィールド欠落: 受入テスト"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-902 に必須フィールド欠落: 例外・エラー"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-903 に必須フィールド欠落: 受入テスト"
+    },
+    {
+      "code": "MISSING_REQ_FIELD",
+      "severity": "high",
+      "message": "REQ-903 に必須フィールド欠落: 例外・エラー"
+    },
+    {
+      "code": "AMBIGUOUS_WORDS",
+      "severity": "medium",
+      "message": "曖昧語が 1 個出現: [{'word': 'optimal', 'count': 1}]"
+    },
+    {
+      "code": "NO_ACCEPTANCE_TEST",
+      "severity": "high",
+      "message": "REQ-900 に受入テストがありません"
+    },
+    {
+      "code": "NO_ACCEPTANCE_TEST",
+      "severity": "high",
+      "message": "REQ-901 に受入テストがありません"
+    },
+    {
+      "code": "NO_ACCEPTANCE_TEST",
+      "severity": "high",
+      "message": "REQ-902 に受入テストがありません"
+    },
+    {
+      "code": "NO_ACCEPTANCE_TEST",
+      "severity": "high",
+      "message": "REQ-903 に受入テストがありません"
+    },
+    {
+      "code": "EARS_NOT_OK",
+      "severity": "high",
+      "message": "REQ-901 の要件文(EARS)がEARSパターンに一致しません: システムは月間99パーセント以上の可用性を維持しなければならない。可用性は（正常実行日数 / 30日）× 100で計算される。ダウン時間合計は月間4.3時間以内に制限される。"
+    },
+    {
+      "code": "EARS_NOT_OK",
+      "severity": "high",
+      "message": "REQ-902 の要件文(EARS)がEARSパターンに一致しません: システムのすべてのコードベースは、ユニットテスト・統合テスト・E2Eテストによって、80パーセント以上のコードカバレッジを達成しなければならない。関数の複雑度（Cyclomatic Complexity）は最大10以下に制限される。"
+    },
+    {
+      "code": "EARS_NOT_OK",
+      "severity": "high",
+      "message": "REQ-903 の要件文(EARS)がEARSパターンに一致しません: システムの月間運用コスト（外部API + インフラ）は、選択したプランに従い、ゼロコスト版は1,600円以下、プロレベル品質版は44,000円以下に抑えなければならない。コスト超過が発生した場合は、翌月のAPI呼び出しを制限または段階的に削減しなければならない。"
+    }
+  ]
+}

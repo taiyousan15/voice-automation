@@ -1,0 +1,295 @@
+{
+  "total_fetched": 5,
+  "unique": 5,
+  "passed_trust_score": 5,
+  "articles": [
+    {
+      "title": "「業界初」SamsungがHBM4の量産、出荷開始",
+      "description": "Samsung Electronicsが「業界初」(同社)となる広帯域メモリ(HBM)の最新世代「HBM4」の量産開始および商用製品の出荷を発表した。競争が激化するAIデータセンター向けHBM市場で先行確保を狙う。",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "source": "itmedia",
+      "source_name": "Itmedia",
+      "link": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news110.html",
+      "image": "https://image.itmedia.co.jp/ee/articles/2602/12/jn20260212samsung001.jpg",
+      "published_at": "2026-02-12 11:08:00",
+      "country": [
+        "japan"
+      ],
+      "category": [
+        "top",
+        "technology"
+      ],
+      "language": "japanese",
+      "original_data": {
+        "article_id": "7500602991b454ecf447f6e91856c06a",
+        "link": "https://eetimes.itmedia.co.jp/ee/articles/2602/12/news110.html",
+        "title": "「業界初」SamsungがHBM4の量産、出荷開始",
+        "description": "Samsung Electronicsが「業界初」(同社)となる広帯域メモリ(HBM)の最新世代「HBM4」の量産開始および商用製品の出荷を発表した。競争が激化するAIデータセンター向けHBM市場で先行確保を狙う。",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+          "メモリ"
+        ],
+        "creator": [
+          "永山準"
+        ],
+        "language": "japanese",
+        "country": [
+          "japan"
+        ],
+        "category": [
+          "top",
+          "technology"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-02-12 11:08:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-02-12 11:40:37",
+        "image_url": "https://image.itmedia.co.jp/ee/articles/2602/12/jn20260212samsung001.jpg",
+        "video_url": null,
+        "source_id": "itmedia",
+        "source_name": "Itmedia",
+        "source_priority": 161400,
+        "source_url": "https://corp.itmedia.co.jp",
+        "source_icon": "https://n.bytvi.com/itmedia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+      },
+      "trust_score": 7.5,
+      "trust_score_normalized": 0.75
+    },
+    {
+      "title": "[ITmedia Mobile] LINEが使える2つ折り「mive ケースマ」が韓国から上陸、3万円台でスマホとケータイの「いいとこ取り」",
+      "description": "韓国で実績を持つALTが日本法人ALT JAPANを設立し、折りたたみ型の新端末を市場に投入する。「mive ケースマ」は物理キーによる確実な文字入力と、LINE等のアプリが使える利便性を両立している。SOSボタンや見守り機能などシニア向けの配慮を凝縮し、安心と使いやすさを追求した一台だ。",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "source": "itmedia",
+      "source_name": "Itmedia",
+      "link": "https://www.itmedia.co.jp/mobile/articles/2602/12/news107.html",
+      "image": "https://image.itmedia.co.jp/mobile/articles/2602/12/rk1640414_ALTJapan-01.jpg",
+      "published_at": "2026-02-12 09:10:00",
+      "country": [
+        "japan"
+      ],
+      "category": [
+        "top"
+      ],
+      "language": "japanese",
+      "original_data": {
+        "article_id": "dcc49254e818ab1385cc1e93286eba7c",
+        "link": "https://www.itmedia.co.jp/mobile/articles/2602/12/news107.html",
+        "title": "[ITmedia Mobile] LINEが使える2つ折り「mive ケースマ」が韓国から上陸、3万円台でスマホとケータイの「いいとこ取り」",
+        "description": "韓国で実績を持つALTが日本法人ALT JAPANを設立し、折りたたみ型の新端末を市場に投入する。「mive ケースマ」は物理キーによる確実な文字入力と、LINE等のアプリが使える利便性を両立している。SOSボタンや見守り機能などシニア向けの配慮を凝縮し、安心と使いやすさを追求した一台だ。",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+          "トップニュース",
+          "android"
+        ],
+        "creator": [
+          "金子麟太郎"
+        ],
+        "language": "japanese",
+        "country": [
+          "japan"
+        ],
+        "category": [
+          "top"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-02-12 09:10:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-02-12 10:11:32",
+        "image_url": "https://image.itmedia.co.jp/mobile/articles/2602/12/rk1640414_ALTJapan-01.jpg",
+        "video_url": null,
+        "source_id": "itmedia",
+        "source_name": "Itmedia",
+        "source_priority": 161400,
+        "source_url": "https://corp.itmedia.co.jp",
+        "source_icon": "https://n.bytvi.com/itmedia.jpg",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+      },
+      "trust_score": 7.5,
+      "trust_score_normalized": 0.75
+    },
+    {
+      "title": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始",
+      "description": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始 monoAI technology株式会社のプレスリリース",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "source": "prtimes",
+      "source_name": "Pr Times",
+      "link": "https://prtimes.jp/main/html/rd/p/000000174.000013447.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/13447/174/13447-174-d5688037213c3b106fc7f55c09c658f1-1183x642.png?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400",
+      "published_at": "2026-02-12 08:00:01",
+      "country": [
+        "japan"
+      ],
+      "category": [
+        "technology",
+        "business"
+      ],
+      "language": "japanese",
+      "original_data": {
+        "article_id": "61c93c27d6c0810b8118e335033c26be",
+        "link": "https://prtimes.jp/main/html/rd/p/000000174.000013447.html",
+        "title": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始",
+        "description": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始 monoAI technology株式会社のプレスリリース",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+          "ネットサービス,ai"
+        ],
+        "creator": [
+          "pr times"
+        ],
+        "language": "japanese",
+        "country": [
+          "japan"
+        ],
+        "category": [
+          "technology",
+          "business"
+        ],
+        "datatype": "pressrelease",
+        "pubDate": "2026-02-12 08:00:01",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-02-12 08:31:37",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/13447/174/13447-174-d5688037213c3b106fc7f55c09c658f1-1183x642.png?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400",
+        "video_url": null,
+        "source_id": "prtimes",
+        "source_name": "Pr Times",
+        "source_priority": 2475,
+        "source_url": "https://prtimes.jp",
+        "source_icon": "https://n.bytvi.com/prtimes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+      },
+      "trust_score": 8.5,
+      "trust_score_normalized": 0.85
+    },
+    {
+      "title": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始",
+      "description": "ONLY AVAILABLE IN PAID PLANS",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "source": "zaikei",
+      "source_name": "財経新聞：経済・株式の最新ニュース",
+      "link": "https://www.zaikei.co.jp/releases/3300718/",
+      "image": "https://www.zaikei.co.jp/files/press/20260212172411161prt0.jpg",
+      "published_at": "2026-02-12 08:00:00",
+      "country": [
+        "japan"
+      ],
+      "category": [
+        "business"
+      ],
+      "language": "japanese",
+      "original_data": {
+        "article_id": "ce797e4a53a13982bb9fc0370312915c",
+        "link": "https://www.zaikei.co.jp/releases/3300718/",
+        "title": "monoAI technology、ビジネスで利用可能なOpenClaw同等のAIエージェント『SuperCat』を本日から提供開始",
+        "description": null,
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": null,
+        "creator": null,
+        "language": "japanese",
+        "country": [
+          "japan"
+        ],
+        "category": [
+          "business"
+        ],
+        "datatype": "news",
+        "pubDate": "2026-02-12 08:00:00",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-02-12 08:40:42",
+        "image_url": "https://www.zaikei.co.jp/files/press/20260212172411161prt0.jpg",
+        "video_url": null,
+        "source_id": "zaikei",
+        "source_name": "財経新聞：経済・株式の最新ニュース",
+        "source_priority": 167978,
+        "source_url": "https://www.zaikei.co.jp",
+        "source_icon": "https://n.bytvi.com/zaikei.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": true
+      },
+      "trust_score": 6.5,
+      "trust_score_normalized": 0.65
+    },
+    {
+      "title": "ブラックライン、CFO・経理財務プロフェッショナル向け年次カンファレンス「BlackLine Summit 2026」を2/25(水)に開催",
+      "description": "ブラックライン、CFO・経理財務プロフェッショナル向け年次カンファレンス「BlackLine Summit 2026」を2/25(水)に開催 ブラックライン株式会社のプレスリリース",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "source": "prtimes",
+      "source_name": "Pr Times",
+      "link": "https://prtimes.jp/main/html/rd/p/000000014.000054368.html",
+      "image": "https://prcdn.freetls.fastly.net/release_image/54368/14/54368-14-d038032bf4fb3360d852a03a2e666a8a-1000x1000.jpg?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400",
+      "published_at": "2026-02-12 07:41:48",
+      "country": [
+        "japan"
+      ],
+      "category": [
+        "technology",
+        "business"
+      ],
+      "language": "japanese",
+      "original_data": {
+        "article_id": "7f65d9b9deb8b19fc8e7f33edf570e1c",
+        "link": "https://prtimes.jp/main/html/rd/p/000000014.000054368.html",
+        "title": "ブラックライン、CFO・経理財務プロフェッショナル向け年次カンファレンス「BlackLine Summit 2026」を2/25(水)に開催",
+        "description": "ブラックライン、CFO・経理財務プロフェッショナル向け年次カンファレンス「BlackLine Summit 2026」を2/25(水)に開催 ブラックライン株式会社のプレスリリース",
+        "content": "ONLY AVAILABLE IN PAID PLANS",
+        "keywords": [
+          "財務・経理,アプリケーション・セキュリティ,経理,財務,cfo,会計,決算業務,経営管理,dx,ai活用,経営改革,生成ai"
+        ],
+        "creator": [
+          "pr times"
+        ],
+        "language": "japanese",
+        "country": [
+          "japan"
+        ],
+        "category": [
+          "technology",
+          "business"
+        ],
+        "datatype": "pressrelease",
+        "pubDate": "2026-02-12 07:41:48",
+        "pubDateTZ": "UTC",
+        "fetched_at": "2026-02-12 08:01:34",
+        "image_url": "https://prcdn.freetls.fastly.net/release_image/54368/14/54368-14-d038032bf4fb3360d852a03a2e666a8a-1000x1000.jpg?auto=webp&fit=bounds&format=jpeg&height=1260&width=2400",
+        "video_url": null,
+        "source_id": "prtimes",
+        "source_name": "Pr Times",
+        "source_priority": 2475,
+        "source_url": "https://prtimes.jp",
+        "source_icon": "https://n.bytvi.com/prtimes.png",
+        "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+        "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+        "ai_summary": "ONLY AVAILABLE IN PAID PLANS",
+        "duplicate": false
+      },
+      "trust_score": 8.0,
+      "trust_score_normalized": 0.8
+    }
+  ]
+}
