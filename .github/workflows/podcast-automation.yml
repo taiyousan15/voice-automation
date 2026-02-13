@@ -52,6 +52,16 @@ jobs:
           path: episodes/feed.xml
           retention-days: 90
 
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./episodes
+          destination_dir: podcast
+          keep_files: false
+          commit_message: "chore: deploy podcast episodes and RSS feed"
+
       - name: Notify on Failure
         if: failure()
         run: |
