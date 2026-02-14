@@ -1,70 +1,25 @@
 {
-  "generated_at": "2026-02-14T16:03:14.744695",
-  "total_episodes": 2,
+  "generated_at": "2026-02-14T16:10:16.550527",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ_20260214_160014",
-      "theme": "思想 おすすめ",
+      "name": "episode_Claude Code 活用_20260214_160603",
+      "theme": "Claude Code 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "児童が“暮らしのヒーロー”と交流 鹿児島・鹿屋市(鹿児島ニュースKTS)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "ルールに基づく秩序は「もはや存在しない」 独首相がミュンヘン会議で警告、アメリカとの深まる溝を懸念(BBC News)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【ニトリ】この発想はなかった!1冊だけでも倒れない「優秀ブックスタンド」あまりに便利で感動しました!《使用レビュー》(BuzzFeed Japan)",
-          "source": "Yahoo Japan",
-          "trust_score": 8.7
-        },
-        {
-          "title": "森たけしアナ、中道代表選「相変わらずの自民党批判」に驚き「また国会でそんなこと...」",
-          "source": "Nikkan Sports",
-          "trust_score": 7.5
-        },
-        {
-          "title": "森たけしアナ、中道代表選「相変わらずの自民党批判」に驚き「また国会でそんなこと...」(日刊スポーツ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "山中柔太朗(M!LK)&高松アロハ(超特急)、実際にキュンとしたシーン「本当に何年ぶりだろう」 “おしゃれ”演出した撮影裏話も【純愛上等!】",
-          "source": "Model Press",
-          "trust_score": 8.5
-        },
-        {
-          "title": "日本将棋連盟初の女性会長・清水市代「師匠に《タイトルを取るまで恋愛・化粧禁止》と言われ、19歳で初タイトル。恋愛解禁と喜んでいたら...」(婦人公論.jp)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260214_160021",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260214_160021.mp3",
-      "audio_length": 7400385,
-      "audio_duration": "00:07:42",
-      "articles": [
-        {
-          "title": "非構造化データ時代のAI活用を支えるElasticの新機能「Agent Builder」と「Workflows」",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
           "title": "2026年2月13日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
+        },
+        {
+          "title": "AI導入の「上流から下流」まで一気通貫で担える新職種「FDE」。DXHRがその育成研修プログラムの提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
           "title": "Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動",
@@ -72,9 +27,89 @@
           "trust_score": 8.0
         },
         {
-          "title": "Elastic、Agent Builderおよび数々の拡張機能の一般提供を発表",
+          "title": "商品比較サービス「マイベスト」と「ハッカー飯」が共同開催!エンジニア向けイベント「ハッカー鮨」3/5(木)開催",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "Spotifyが「AIのおかげで優秀な開発者が12月以来コードを一行も書いてない」と報告",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【独自】アマゾンがAIツール「Claude Code」社内使用を制限、自社開発「Kiro」優先指示に社員は猛反発",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "PE-BANK、国内最大級のITエンジニア向けカンファレンス「Developers Summit 2026」に協賛・出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260214_160615",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260214_160615.mp3",
+      "audio_length": 12128339,
+      "audio_duration": "00:12:38",
+      "articles": [
+        {
+          "title": "名門大生の人気職業「コンサル」とは?現役&元コンサル「成功への鍵を持ち合わせている仕事」「企業のお医者さん」業界の今後は",
+          "source": "テレ朝new",
+          "trust_score": 7.5
+        },
+        {
+          "title": "名門大生の人気職業「コンサル」とは?現役&元コンサル「成功への鍵を持ち合わせている仕事」「企業のお医者さん」業界の今後は(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "深圳市、中国初の総合都市開発指数「UIS」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "誰にいくらでどうやって? トヨタの「GR GT」の販売戦略を大胆予測(webCG)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "楽観がバルセロナに上陸。",
+          "source": "Pr Times",
+          "trust_score": 7.0
+        },
+        {
+          "title": "女性エスコートは「店選びから会計まで」一気通貫、マナー以上の一流スタイルとは(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "被災地での白鵬土俵入り、手を合わせて拝む人々も 相撲の不思議と歴史が詰まった一冊『白鵬はなぜ嫌われなければならなかったのか』(AERA DIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20260214_160618",
+      "theme": "skill 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260214_160618.mp3",
+      "audio_length": 3134693,
+      "audio_duration": "00:03:15",
+      "articles": [
+        {
+          "title": "日本国内初「2026 BYD TECH Skill Contest」を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI支援ツールは若手のスキル獲得を妨げるのか、2026年1月の注目AI論文",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
         }
       ]
     }
