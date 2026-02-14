@@ -43,7 +43,7 @@ jobs:
           FISH_AUDIO_VOICE_ID: ${{ secrets.FISH_AUDIO_VOICE_ID }}
           VOICEVOX_API_URL: ${{ secrets.VOICEVOX_API_URL }}
           GITHUB_PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
-          FISH_AUDIO_TIMEOUT_SECONDS: 180
+          FISH_AUDIO_TIMEOUT_SECONDS: 240
         run: |
           python3 -m src.orchestrator --enable-audio
 
