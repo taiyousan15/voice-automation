@@ -1,16 +1,66 @@
 {
-  "generated_at": "2026-02-14T16:10:16.550527",
-  "total_episodes": 3,
+  "generated_at": "2026-02-14T16:23:40.842563",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 活用_20260214_160603",
-      "theme": "Claude Code 活用",
+      "name": "episode_占い おすすめ_20260214_162000",
+      "theme": "占い おすすめ",
       "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260214_162000.mp3",
+      "audio_length": 10790870,
+      "audio_duration": "00:11:14",
       "articles": [
+        {
+          "title": "Mixin Networkの300億円規模ハッキング、犯人が仮想通貨を移動・売却",
+          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "trust_score": 7.0
+        },
+        {
+          "title": "山中柔太朗、“鶴”書けるようになる「ちゃんと勉強してきた」 高松アロハとバレンタインメッセージ公開",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "山中柔太朗&高松アロハ、hitomiのサプライズ登場に感激「まさか来てもらえるとは」「マジで知らなかった」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年 「生成AI」事業戦略総調査(50社)",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026年F1バーレーンテスト3日目 ハイライト動画:メルセデスが1-2体制",
+          "source": "F1-gate",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「火中の栗を拾う」わずか49議席の中道新代表・小川氏 与党3分の2以上...存在感示せるか(西日本新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「鉄道廃止」から5年、高速さらに延伸へ! 「日高道」9.1kmが2月開通 日本一の“競走馬の里”つらぬく(乗りものニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20260214_162012",
+      "theme": "Claude Code 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260214_162012.mp3",
+      "audio_length": 12078602,
+      "audio_duration": "00:12:34",
+      "articles": [
+        {
+          "title": "Amazonが自社製AIコーディングアシスタント「Kiro」を本番環境で使用するよう指示するも約1500人の従業員は「Claude Code」の使用を要望",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
         {
           "title": "2026年2月13日のヘッドラインニュース",
           "source": "Gigazine",
@@ -22,21 +72,6 @@
           "trust_score": 8.0
         },
         {
-          "title": "Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "商品比較サービス「マイベスト」と「ハッカー飯」が共同開催!エンジニア向けイベント「ハッカー鮨」3/5(木)開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Spotifyが「AIのおかげで優秀な開発者が12月以来コードを一行も書いてない」と報告",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
           "title": "【独自】アマゾンがAIツール「Claude Code」社内使用を制限、自社開発「Kiro」優先指示に社員は猛反発",
           "source": "Business Insider",
           "trust_score": 7.5
@@ -45,66 +80,11 @@
           "title": "PE-BANK、国内最大級のITエンジニア向けカンファレンス「Developers Summit 2026」に協賛・出展",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ_20260214_160615",
-      "theme": "哲学 おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260214_160615.mp3",
-      "audio_length": 12128339,
-      "audio_duration": "00:12:38",
-      "articles": [
-        {
-          "title": "名門大生の人気職業「コンサル」とは?現役&元コンサル「成功への鍵を持ち合わせている仕事」「企業のお医者さん」業界の今後は",
-          "source": "テレ朝new",
-          "trust_score": 7.5
         },
         {
-          "title": "名門大生の人気職業「コンサル」とは?現役&元コンサル「成功への鍵を持ち合わせている仕事」「企業のお医者さん」業界の今後は(ABEMA TIMES)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "深圳市、中国初の総合都市開発指数「UIS」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "誰にいくらでどうやって? トヨタの「GR GT」の販売戦略を大胆予測(webCG)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "楽観がバルセロナに上陸。",
-          "source": "Pr Times",
-          "trust_score": 7.0
-        },
-        {
-          "title": "女性エスコートは「店選びから会計まで」一気通貫、マナー以上の一流スタイルとは(Forbes JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "被災地での白鵬土俵入り、手を合わせて拝む人々も 相撲の不思議と歴史が詰まった一冊『白鵬はなぜ嫌われなければならなかったのか』(AERA DIGITAL)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260214_160618",
-      "theme": "skill 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260214_160618.mp3",
-      "audio_length": 3134693,
-      "audio_duration": "00:03:15",
-      "articles": [
-        {
-          "title": "日本国内初「2026 BYD TECH Skill Contest」を開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AIスタートアップのつくり方──大胆に、奇妙に、そしておそらく失敗する現実を受け入れよ",
+          "source": "Wired.jp",
+          "trust_score": 6.5
         },
         {
           "title": "AI支援ツールは若手のスキル獲得を妨げるのか、2026年1月の注目AI論文",
