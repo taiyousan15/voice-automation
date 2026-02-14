@@ -1,0 +1,132 @@
+{
+  "generated_at": "2026-02-14T15:38:47.782525",
+  "total_episodes": 3,
+  "audio_enabled": true,
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260214_153722",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "非構造化データ時代のAI活用を支えるElasticの新機能「Agent Builder」と「Workflows」",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "2026年2月13日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Elastic、Agent Builderおよび数々の拡張機能の一般提供を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "[ITmedia エンタープライズ] Claude拡張機能にCVSS10.0の脆弱性 現在も未修正のため注意",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 方法_20260214_153734",
+      "theme": "思想 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【ニトリ】この発想はなかった!1冊だけでも倒れない「優秀ブックスタンド」あまりに便利で感動しました!《使用レビュー》(BuzzFeed Japan)",
+          "source": "Yahoo Japan",
+          "trust_score": 8.7
+        },
+        {
+          "title": "日本将棋連盟初の女性会長・清水市代「師匠に《タイトルを取るまで恋愛・化粧禁止》と言われ、19歳で初タイトル。恋愛解禁と喜んでいたら...」(婦人公論.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "競歩・藤井菜々子「日本女子競歩で初のメダルに、積み重ねてきたことがやっと実ったとホッとした。恩師の急逝に、感謝の意で喪章をつけて大会に挑んで」(婦人公論.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ぷくぷくほっぺの男の子→大人になると...... 驚きの姿が300万再生「結婚してくれ」「少し頬が残ってるのにイケメンすぎて無理」【海外】(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "太平洋側ほど晴れて暖かい日が多い 朝晩と日中の寒暖差に注意 2週間天気予報(tenki.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "こども未来プロジェクト・新体操で北信越で全国へ ジュニア2位の中学生・長野県長野市(SBC信越放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「ロレックス」でも「オメガ」でもない。インディ・ジョーンズがシリーズ初着用した“意外すぎる”時計ブランド。納得の理由とは?(MEN’S CLUB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 方法_20260214_153746",
+      "theme": "占い 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "エンツォ・フェラーリが愛用したスーツと靴がオークションに|自らオーダーした完全なるビスポーク(octane.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ゴルフ場閉鎖も従業員が営業続行 メガソーラー計画に反対 オーナー側「不法占拠」(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「注文したのに何が悪いの?」 駐韓米国大使館で面接受けるCAたち、手荷物でスタバ30-40席占領し物議 /ソウル(朝鮮日報日本語版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "孤立しない母の味方「産後ドゥーラ」ベビーシッターとの違いは?「お話し相手だったり、育児の相談に乗るのが大きなシェアを占めている」(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "《東京と島根では外国人宿泊者数格差が710倍》インバウンド需要の偏在をどう是正するか? 解決のカギは、高付加価値な「コト消費」につながる「文化資本の活用」(マネーポストWEB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "孤立しない母の味方「産後ドゥーラ」ベビーシッターとの違いは?「お話し相手だったり、育児の相談に乗るのが大きなシェアを占めている」",
+          "source": "テレ朝new",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「給付付き税額控除」実現へ再始動ーー食料品消費税ゼロは“つなぎ”措置に(THE GOLD ONLINE(ゴールドオンライン))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
+}
