@@ -1,60 +1,140 @@
 {
-  "generated_at": "2026-02-14T16:23:40.842563",
-  "total_episodes": 2,
+  "generated_at": "2026-02-14T21:36:25.976738",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ_20260214_162000",
-      "theme": "占い おすすめ",
+      "name": "episode_思想 活用_20260214_213134",
+      "theme": "思想 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260214_162000.mp3",
-      "audio_length": 10790870,
-      "audio_duration": "00:11:14",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 活用_20260214_213134.mp3",
+      "audio_length": 9812427,
+      "audio_duration": "00:10:13",
       "articles": [
         {
-          "title": "Mixin Networkの300億円規模ハッキング、犯人が仮想通貨を移動・売却",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
-          "trust_score": 7.0
-        },
-        {
-          "title": "山中柔太朗、“鶴”書けるようになる「ちゃんと勉強してきた」 高松アロハとバレンタインメッセージ公開",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "山中柔太朗&高松アロハ、hitomiのサプライズ登場に感激「まさか来てもらえるとは」「マジで知らなかった」",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "2026年 「生成AI」事業戦略総調査(50社)",
-          "source": "Pr Times",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年F1バーレーンテスト3日目 ハイライト動画:メルセデスが1-2体制",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「火中の栗を拾う」わずか49議席の中道新代表・小川氏 与党3分の2以上...存在感示せるか(西日本新聞)",
+          "title": "旧陸軍被服支廠 工事状況を説明 被爆者も思い語る 広島(HOME広島ホームテレビ)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "「鉄道廃止」から5年、高速さらに延伸へ! 「日高道」9.1kmが2月開通 日本一の“競走馬の里”つらぬく(乗りものニュース)",
+          "title": "「忙しいけど楽しい!」 学生評価の高い“愛知県の大学” ランキング上位はキャンパスも人気「イルミネーションがとても幻想的」「何より学食が美味しい」(ねとらぼ)",
           "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "trust_score": 9.7
+        },
+        {
+          "title": "他者のまなざしへの抵抗から、内なる静かな自信と気品へ──「フェティコ」26年秋冬(FASHIONSNAP)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【大阪・谷六】まるでイギリス旅行気分♡英国式の紅茶体験ができる「Torrington Tea Room」で人気アフタヌーンティータイムを! (ufu.)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日本相撲協会が小学校に1万2000個を贈呈「国技館カレー」の原点",
+          "source": "ライブドアニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【上野観光】名画から歴史的建造物まで!ル・コルビュジエ設計の美術館や東照宮へ。上野恩賜公園をのんびり歩く“大人の芸術散歩”のススメ(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "横浜港で養殖ワカメ収穫イベント開催 今年は収穫930キロ!しゃぶしゃぶがおいしい(日刊スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     },
     {
-      "name": "episode_Claude Code 方法_20260214_162012",
-      "theme": "Claude Code 方法",
+      "name": "episode_占い 活用_20260214_213146",
+      "theme": "占い 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260214_162012.mp3",
-      "audio_length": 12078602,
-      "audio_duration": "00:12:34",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260214_213146.mp3",
+      "audio_length": 10993998,
+      "audio_duration": "00:11:27",
+      "articles": [
+        {
+          "title": "東大和市で建物火災 消火活動続く(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "メガソーラー計画 各地深まる対立",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "田久保前市長 “卒業証書”は... 静岡県警が家宅捜索(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「注目の軽EV」販売好調な『日産サクラ』はすべてが上質! 日産らしい快適な走りも好印象な人気モノ!(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【速報】2階建ての建物から出火 消火活動続く 東京・東大和市(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "離婚後の子の養育計画 作成促しへ",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "2月下旬は気温変化大きく 新モデルが捉えた「熱帯の春」が日本に影響か(tenki.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 方法_20260214_213156",
+      "theme": "占い 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 方法_20260214_213156.mp3",
+      "audio_length": 7369874,
+      "audio_duration": "00:07:40",
+      "articles": [
+        {
+          "title": "自民党青森県連が衆院選を総括「高市総理への支持が追い風に」(ABA青森朝日放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "新たな価値の創出目指す 愛知県が主催「スタートアップ企業」への就職・転職イベント 名古屋・昭和区(CBCテレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "時代劇のような「チャンバラ」はありえない...武士たちが「非効率な日本刀」で命を懸けて戦った理由(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "バレンタイン商戦 価格高騰で“脱カカオ”広がる(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "石原良純、歴史的惨敗の中道に「どういう政党で何をするのか分からなかった」(日刊スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 比較_20260214_213425",
+      "theme": "Claude Code 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260214_213425.mp3",
+      "audio_length": 6524342,
+      "audio_duration": "00:06:47",
       "articles": [
         {
           "title": "Amazonが自社製AIコーディングアシスタント「Kiro」を本番環境で使用するよう指示するも約1500人の従業員は「Claude Code」の使用を要望",
@@ -67,17 +147,7 @@
           "trust_score": 7.5
         },
         {
-          "title": "AI導入の「上流から下流」まで一気通貫で担える新職種「FDE」。DXHRがその育成研修プログラムの提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【独自】アマゾンがAIツール「Claude Code」社内使用を制限、自社開発「Kiro」優先指示に社員は猛反発",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        },
-        {
-          "title": "PE-BANK、国内最大級のITエンジニア向けカンファレンス「Developers Summit 2026」に協賛・出展",
+          "title": "商品比較サービス「マイベスト」と「ハッカー飯」が共同開催!エンジニア向けイベント「ハッカー鮨」3/5(木)開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -85,11 +155,21 @@
           "title": "AIスタートアップのつくり方──大胆に、奇妙に、そしておそらく失敗する現実を受け入れよ",
           "source": "Wired.jp",
           "trust_score": 6.5
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20260214_213508",
+      "theme": "skill 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260214_213508.mp3",
+      "audio_length": 1727425,
+      "audio_duration": "00:01:47",
+      "articles": [
         {
-          "title": "AI支援ツールは若手のスキル獲得を妨げるのか、2026年1月の注目AI論文",
-          "source": "日経クロステック（xtech）",
-          "trust_score": 7.5
+          "title": "日本国内初「2026 BYD TECH Skill Contest」を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
