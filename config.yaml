@@ -64,8 +64,8 @@ world_research:
 # ==================== ニュース収集設定 ====================
 news_collection:
   # 記事数
-  max_articles_per_theme: 7
-  articles_per_episode: 7
+  max_articles_per_theme: 5
+  articles_per_episode: 5
   
   # 言語（日本語のみ）
   language: "ja"
