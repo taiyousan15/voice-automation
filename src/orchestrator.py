@@ -521,10 +521,14 @@ class PipelineOrchestrator:
                 # Copy audio file if it exists
                 if result.audio_file and result.audio_file.exists():
                     audio_dest = output_dir / result.audio_file.name
-                    import shutil
-                    shutil.copy2(result.audio_file, audio_dest)
+                    # Only copy if source and destination are different
+                    if result.audio_file.resolve() != audio_dest.resolve():
+                        import shutil
+                        shutil.copy2(result.audio_file, audio_dest)
+                        self.logger.info(f"✓ Saved audio: {audio_dest}")
+                    else:
+                        self.logger.debug(f"✓ Audio already in place: {audio_dest}")
                     saved_files[f"audio_{result.theme}"] = audio_dest
-                    self.logger.info(f"✓ Saved audio: {audio_dest}")
 
         # Save summary with audio metadata
         summary_file = output_dir / "summary.json"
