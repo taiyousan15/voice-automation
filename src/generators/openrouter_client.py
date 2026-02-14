@@ -19,7 +19,7 @@ class OpenRouterClient:
 
         self.client = Anthropic(api_key=api_key, base_url=base_url)
         self.model = os.getenv("CLAUDE_MODEL", "anthropic/claude-3-5-haiku")
-        self.max_tokens = int(os.getenv("CLAUDE_MAX_TOKENS", "1500"))
+        self.max_tokens = int(os.getenv("CLAUDE_MAX_TOKENS", "4000"))
         self.timeout = int(os.getenv("CLAUDE_TIMEOUT_SECONDS", "30"))
 
         logger.info(f"OpenRouter client initialized - Model: {self.model}")
@@ -90,7 +90,7 @@ class OpenRouterClient:
         """Build the prompt for podcast script generation"""
         return f"""以下のニュース記事をポッドキャスト台本に変換してください。
 対象テーマ: {theme}
-目標時間: 約5分間の音声放送
+目標時間: 約4-7分間の音声放送（日本語のみ）
 
 【ニュース記事】
 {article_text}

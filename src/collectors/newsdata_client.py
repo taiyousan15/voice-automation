@@ -18,7 +18,7 @@ class NewsDataClient:
 
         self.api_key = api_key
         self.base_url = "https://newsdata.io/api/1"
-        self.languages = os.getenv("NEWSDATA_LANGUAGES", "ja,en").split(",")
+        self.languages = os.getenv("NEWSDATA_LANGUAGES", "ja").split(",")
         self.country = os.getenv("NEWSDATA_COUNTRY", "jp")
         self.search_limit = int(os.getenv("NEWSDATA_SEARCH_LIMIT", "10"))
         self.timeout = 30

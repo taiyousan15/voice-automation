@@ -54,7 +54,7 @@ class GroqClient:
                         }
                     ],
                     temperature=0.7,
-                    max_tokens=1500,
+                    max_tokens=4000,  # 4-7分の長尺台本対応
                     top_p=0.9
                 )
 
@@ -91,7 +91,7 @@ class GroqClient:
         """Build the prompt for podcast script generation"""
         return f"""以下のニュース記事をポッドキャスト台本に変換してください。
 対象テーマ: {theme}
-目標時間: 約5分間の音声放送
+目標時間: 約4-7分間の音声放送（日本語のみ）
 
 【ニュース記事】
 {article_text}
