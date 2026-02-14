@@ -2,7 +2,7 @@
 import json
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 from urllib.parse import quote
 
 
@@ -44,6 +44,11 @@ class RSSGenerator:
             # Build description with article list
             description = self._build_description(articles, script)
 
+            # Get audio metadata if available
+            audio_url = episode.get("audio_url")
+            audio_length = episode.get("audio_length")
+            audio_duration = episode.get("audio_duration")
+
             # Create item
             item = self._create_item(
                 title=f"エピソード {i}: {theme.capitalize()}",
@@ -52,6 +57,9 @@ class RSSGenerator:
                 index=i,
                 pub_date=datetime.now().isoformat(),
                 guid=f"episode_{theme}_{i}_{int(datetime.now().timestamp())}",
+                audio_url=audio_url,
+                audio_length=audio_length,
+                audio_duration=audio_duration,
             )
 
             items.append(item)
@@ -90,23 +98,54 @@ class RSSGenerator:
         index: int,
         pub_date: str,
         guid: str,
+        audio_url: Optional[str] = None,
+        audio_length: Optional[int] = None,
+        audio_duration: Optional[str] = None,
     ) -> str:
-        """Create RSS item XML"""
+        """
+        Create RSS item XML with optional MP3 enclosure
+
+        Args:
+            title: Episode title
+            description: Episode description
+            theme: Episode theme/category
+            index: Episode number
+            pub_date: Publication date (RFC 2822 format)
+            guid: Unique identifier
+            audio_url: Public URL of MP3 file
+            audio_length: Audio file size in bytes
+            audio_duration: Audio duration (HH:MM:SS format)
+
+        Returns:
+            RSS <item> element XML string
+        """
+        # MP3 enclosure tag (required for podcast platforms)
+        enclosure = ""
+        if audio_url and audio_length:
+            enclosure = f'\n        <enclosure url="{self._escape_xml(audio_url)}" type="audio/mpeg" length="{audio_length}" />'
+
+        # iTunes duration tag
+        itunes_duration = ""
+        if audio_duration:
+            itunes_duration = f'\n        <itunes:duration>{audio_duration}</itunes:duration>'
+
         return f"""    <item>
         <title>{self._escape_xml(title)}</title>
         <description>{description}</description>
         <category>{theme}</category>
         <pubDate>{pub_date}</pubDate>
         <guid isPermaLink="false">{guid}</guid>
-        <link>{self.link}/episodes/{quote(theme)}/{index}</link>
+        <link>{self.link}/episodes/{quote(theme)}/{index}</link>{enclosure}{itunes_duration}
     </item>
 """
 
     def _build_rss(self, items_xml: str) -> str:
-        """Build complete RSS 2.0 feed"""
+        """Build complete RSS 2.0 feed with iTunes podcast extensions"""
         now = datetime.now().isoformat()
         return f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>{self._escape_xml(self.title)}</title>
         <link>{self.link}</link>
@@ -115,6 +154,9 @@ class RSSGenerator:
         <managingEditor>{self.author}</managingEditor>
         <lastBuildDate>{now}</lastBuildDate>
         <generator>Podcast Automation System</generator>
+        <itunes:author>{self._escape_xml(self.author)}</itunes:author>
+        <itunes:summary>{self._escape_xml(self.description)}</itunes:summary>
+        <itunes:explicit>false</itunes:explicit>
 {items_xml}    </channel>
 </rss>
 """

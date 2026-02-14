@@ -1,36 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
-        <title>ポッドキャスト自動配信</title>
-        <link>https://github.com/yourusername/podcast-automation</link>
-        <description>AI自動生成のニュースポッドキャスト</description>
-        <language>ja-jp</language>
-        <managingEditor>Podcast Automation System</managingEditor>
-        <lastBuildDate>2026-02-13T14:08:46.670336</lastBuildDate>
+        <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
+        <language>ja</language>
+        <managingEditor>AI Podcast System</managingEditor>
+        <lastBuildDate>2026-02-15T00:14:12.994099</lastBuildDate>
         <generator>Podcast Automation System</generator>
+        <itunes:author>AI Podcast System</itunes:author>
+        <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
+        <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Technology</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【technology】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Itmedia】
-信頼度スコア: 7.5/10
-
-**導入（30秒）**
-こんにちは、皆さん。今日はテクノロジーの最新ニュースを取り上げたいと思います。特に、Samsung Electronicsの...]]>
-
+        <title>エピソード 1: Mcp おすすめ</title>
+        <description>
 
 記事一覧:
-  • 「業界初」SamsungがHBM4の量産、出荷開始 (出典: Itmedia, 信頼度: 7.5/10)
-  • [プロモーション]TKP、APAMANが運営する「あるあるCity」を大分駅前に誘致 「あるあるCityおおいた分校」、2026年4月開業予定(@Press) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • Ray-Banのスマートグラスなら、見たものをすぐ買えちゃう? (出典: Gizmodo, 信頼度: 7.5/10)</description>
-        <category>technology</category>
-        <pubDate>2026-02-13T14:08:46.670325</pubDate>
-        <guid isPermaLink="false">episode_technology_1_1770959326</guid>
-        <link>https://github.com/yourusername/podcast-automation/episodes/technology/1</link>
+  • 非構造化データ時代のAI活用を支えるElasticの新機能「Agent Builder」と「Workflows」 (出典: Mynavi News, 信頼度: 8.5/10)
+  • 2026年2月13日のヘッドラインニュース (出典: Gigazine, 信頼度: 8.0/10)
+  • Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動 (出典: Pr Times, 信頼度: 8.5/10)
+  • Elastic、Agent Builderおよび数々の拡張機能の一般提供を発表 (出典: Pr Times, 信頼度: 8.5/10)
+  • [ITmedia エンタープライズ] Claude拡張機能にCVSS10.0の脆弱性 現在も未修正のため注意 (出典: Itmedia, 信頼度: 8.0/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-02-15T00:14:12.994057</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1771082052</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+    </item>
+    <item>
+        <title>エピソード 2: Claude code 活用</title>
+        <description>
+
+記事一覧:
+  • AI導入の「上流から下流」まで一気通貫で担える新職種「FDE」。DXHRがその育成研修プログラムの提供を開始 (出典: Pr Times, 信頼度: 8.5/10)
+  • 商品比較サービス「マイベスト」と「ハッカー飯」が共同開催!エンジニア向けイベント「ハッカー鮨」3/5(木)開催 (出典: Pr Times, 信頼度: 8.5/10)
+  • Spotifyが「AIのおかげで優秀な開発者が12月以来コードを一行も書いてない」と報告 (出典: Gigazine, 信頼度: 7.5/10)
+  • 【独自】アマゾンがAIツール「Claude Code」社内使用を制限、自社開発「Kiro」優先指示に社員は猛反発 (出典: Business Insider, 信頼度: 8.0/10)
+  • PE-BANK、国内最大級のITエンジニア向けカンファレンス「Developers Summit 2026」に協賛・出展 (出典: Pr Times, 信頼度: 8.5/10)
+  • Anthropicが300億ドル調達、創業3年で評価額3800億ドル - Claudeが企業AIの中核に (出典: Mynavi News, 信頼度: 8.5/10)
+  • AIスタートアップのつくり方──大胆に、奇妙に、そしておそらく失敗する現実を受け入れよ (出典: Wired.jp, 信頼度: 7.0/10)</description>
+        <category>Claude Code 活用</category>
+        <pubDate>2026-02-15T00:14:12.994090</pubDate>
+        <guid isPermaLink="false">episode_Claude Code 活用_2_1771082052</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/Claude%20Code%20%E6%B4%BB%E7%94%A8/2</link>
     </item>
     </channel>
 </rss>

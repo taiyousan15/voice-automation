@@ -1,0 +1,153 @@
+# ポッドキャスト自動配信システム設定ファイル
+# Podcast Automation System Configuration
+
+# ==================== テーマ設定 ====================
+themes:
+  # メインテーマ（複合可能）
+  - "AIのビジネスモデルと世界中のAI活用と稼ぎ方"
+  - "バイブコーディング"
+  - "エージェント"
+  - "skill"
+  - "MCP"
+  - "Claude Code"
+  
+  # マーケティング系
+  - "マーケティング戦略"
+  - "セールスライティング"
+  
+  # 哲学・思想系
+  - "哲学"
+  - "思想"
+  
+  # スピリチュアル系
+  - "スピリチュアル"
+  - "占い"
+
+# ==================== キーワード展開設定 ====================
+keyword_expansion:
+  enabled: true  # キーワード展開を有効化
+  
+  # 展開タイプ
+  types:
+    - "compound"      # 複合キーワード
+    - "longtail"      # ロングテール
+    - "buying"        # 売れるキーワード（購買意図高）
+    - "related"       # 関連キーワード
+    - "question"      # 質問キーワード
+  
+  # 最大展開数（テーマあたり）
+  max_keywords_per_theme: 20
+  
+  # 購買意図スコア閾値（0.0-1.0）
+  min_buying_intent: 0.5
+
+# ==================== ワールドリサーチ設定 ====================
+world_research:
+  enabled: false  # 本番運用時はtrueに設定
+  
+  # リサーチモード
+  mode: "quick"  # quick, deep, academic, survey, crypto, ecosystem
+  
+  # プラットフォーム指定（空の場合は全プラットフォーム）
+  platforms:
+    - "X"
+    - "Reddit"
+    - "note.com"
+    - "Arxiv"
+    - "Medium"
+  
+  # 言語
+  languages:
+    - "ja"
+    - "en"
+
+# ==================== ニュース収集設定 ====================
+news_collection:
+  # 記事数
+  max_articles_per_theme: 7
+  articles_per_episode: 7
+  
+  # 言語（日本語のみ）
+  language: "ja"
+  
+  # 信頼性スコア閾値
+  min_trust_score: 0.6
+  
+  # クエリ数制限（APIクォータ節約）
+  max_queries: 10
+
+# ==================== エピソード設定 ====================
+episode:
+  # 目標時間（分）
+  target_duration_min: 4
+  target_duration_max: 7
+  
+  # 言語
+  language: "ja"
+  
+  # 出力ディレクトリ
+  output_dir: "episodes"
+
+# ==================== LLM設定 ====================
+llm:
+  # プライマリLLM（Groq Llama 3.3 70B）
+  primary:
+    provider: "groq"
+    model: "llama-3.3-70b-versatile"
+    max_tokens: 4000
+    temperature: 0.7
+  
+  # フォールバック（OpenRouter Claude Haiku）
+  fallback:
+    provider: "openrouter"
+    model: "anthropic/claude-3-5-haiku"
+    max_tokens: 4000
+    timeout_seconds: 30
+
+# ==================== TTS設定 ====================
+tts:
+  # プライマリTTS（Fish Audio）
+  primary:
+    provider: "fish_audio"
+    voice_id: null  # ユーザーが手動で指定（必須）
+    speed: 1.0
+    format: "mp3"
+  
+  # フォールバック（VOICEVOX）
+  fallback:
+    provider: "voicevox"
+    speaker_id: 46  # ナレーション向け（ずんだもん ノーマル）
+    speed: 1.0
+    format: "mp3"
+
+# ==================== RSS Feed設定 ====================
+rss:
+  # フィード情報
+  title: "AI情報ポッドキャスト - 最新トレンド自動配信"
+  description: "AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信"
+  author: "AI Podcast System"
+  language: "ja"
+  
+  # GitHub Pages URL
+  base_url: "https://USERNAME.github.io/REPO_NAME"  # 要変更
+  
+  # 出力ファイル
+  output_file: "episodes/feed.xml"
+
+# ==================== GitHub Actions設定 ====================
+github_actions:
+  # スケジュール（cron形式）
+  schedule: "0 0 * * *"  # 毎日00:00 UTC (09:00 JST)
+  
+  # ブランチ
+  branch: "main"
+  
+  # 自動コミット
+  auto_commit: true
+  commit_message: "chore: auto-generate podcast episode"
+
+# ==================== ログ設定 ====================
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "text"  # text, json
+  output: "console"  # console, file, both
