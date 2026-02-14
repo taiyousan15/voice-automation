@@ -1,9 +1,20 @@
 {
   "sessionId": "1770842014725",
-  "taskToolUsed": true,
-  "filesEdited": [],
-  "complexTaskDetected": false,
-  "detectedPatterns": [],
-  "lastUpdated": "2026-02-11T20:35:01.854Z",
-  "lastTaskToolAt": "2026-02-11T20:35:01.853Z"
+  "taskToolUsed": false,
+  "filesEdited": [
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/orchestrator.py",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/generators/groq_client.py",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/collectors/newsdata_client.py",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/collectors/keyword_researcher.py",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/.env",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/.github/workflows/podcast-automation.yml",
+    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/docs/GITHUB_PAGES_SETUP.md",
+    "SESSION_HANDOFF.md"
+  ],
+  "complexTaskDetected": true,
+  "detectedPatterns": [
+    "Fish Audio"
+  ],
+  "lastUpdated": "2026-02-14T16:12:42.642Z",
+  "lastTaskToolAt": "2026-02-13T16:45:40.954Z"
 }

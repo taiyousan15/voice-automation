@@ -1,0 +1,241 @@
+{
+  "themes": [
+    "AIビジネスモデル",
+    "バイブコーディング",
+    "エージェント活用"
+  ],
+  "timestamp": "2026-02-14T23:36:53.191150",
+  "expanded_keywords": {
+    "AIビジネスモデル": {
+      "seed": "AIビジネスモデル",
+      "keywords": [
+        {
+          "keyword": "AIビジネスモデル とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIビジネスモデル 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIビジネスモデル ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIビジネスモデル 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIビジネスモデル 機械学習",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIビジネスモデル 深層学習",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIビジネスモデル ChatGPT",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIビジネスモデル Claude",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIビジネスモデル LLM",
+          "type": "related",
+          "buying_intent": 0.4
+        }
+      ],
+      "timestamp": "2026-02-14T23:36:53.191214"
+    },
+    "バイブコーディング": {
+      "seed": "バイブコーディング",
+      "keywords": [
+        {
+          "keyword": "バイブコーディング とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-14T23:36:53.191264"
+    },
+    "エージェント活用": {
+      "seed": "エージェント活用",
+      "keywords": [
+        {
+          "keyword": "エージェント活用 とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント活用 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント活用 ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント活用 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント活用 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-14T23:36:53.191315"
+    }
+  },
+  "world_research": {},
+  "suggested_queries": [
+    "バイブコーディング 方法",
+    "エージェント活用 方法",
+    "エージェント活用 やり方",
+    "エージェント活用 ランキング",
+    "エージェント活用 稼ぎ方",
+    "AIビジネスモデル ランキング",
+    "バイブコーディング 稼ぎ方",
+    "バイブコーディング おすすめ",
+    "エージェント活用 使い方",
+    "エージェント活用 2026",
+    "エージェント活用 比較",
+    "AIビジネスモデル 活用",
+    "AIビジネスモデル 方法",
+    "バイブコーディング ランキング",
+    "バイブコーディング 比較",
+    "バイブコーディング 活用",
+    "エージェント活用 活用",
+    "エージェント活用 おすすめ",
+    "エージェント活用 最新",
+    "AIビジネスモデル おすすめ"
+  ]
+}

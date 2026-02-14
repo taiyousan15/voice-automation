@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-02-13T15:17:52.702904",
+  "total_time": 16.465358,
+  "total_episodes": 3,
+  "successful_episodes": 3,
+  "failed_episodes": 0,
+  "episodes": [
+    {
+      "name": "episode_technology_20260213_151743",
+      "theme": "technology",
+      "status": "success",
+      "articles_count": 3,
+      "script_length": 2616,
+      "processing_time": 6.256318,
+      "error": null
+    },
+    {
+      "name": "episode_business_20260213_151747",
+      "theme": "business",
+      "status": "success",
+      "articles_count": 3,
+      "script_length": 2253,
+      "processing_time": 4.427617,
+      "error": null
+    },
+    {
+      "name": "episode_health_20260213_151752",
+      "theme": "health",
+      "status": "success",
+      "articles_count": 3,
+      "script_length": 2303,
+      "processing_time": 5.147876,
+      "error": null
+    }
+  ],
+  "files": {
+    "episode_technology": "/home/runner/work/voice-automation/voice-automation/episodes/episode_technology_20260213_151743.txt",
+    "episode_business": "/home/runner/work/voice-automation/voice-automation/episodes/episode_business_20260213_151747.txt",
+    "episode_health": "/home/runner/work/voice-automation/voice-automation/episodes/episode_health_20260213_151752.txt",
+    "summary": "/home/runner/work/voice-automation/voice-automation/episodes/summary.json"
+  },
+  "rss_feed": "/home/runner/work/voice-automation/voice-automation/episodes/feed.xml"
+}

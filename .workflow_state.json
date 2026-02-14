@@ -5,7 +5,16 @@
     "strict": true,
     "currentPhase": 1,
     "startedAt": "2026-02-11T20:07:24.021Z",
-    "lastUpdated": "2026-02-11T20:07:24.021Z"
+    "lastUpdated": "2026-02-14T14:13:22.649Z",
+    "autoMappedSkills": [
+      {
+        "name": "TTS音声生成（Fish Audio）",
+        "required_skills": [
+          "interactive-video-platform"
+        ],
+        "strict": true
+      }
+    ]
   },
   "intentContractRef": null,
   "activeSkillId": null,
@@ -24,7 +33,109 @@
     "read_log": [],
     "approved_deviations": [],
     "skillEvidence": [],
-    "skillEvidenceIndexByStepId": {}
+    "skillEvidenceIndexByStepId": {},
+    "required_skills": {
+      "stand": {
+        "requestedAt": "2026-02-13T16:21:40.088Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Users": {
+        "requestedAt": "2026-02-14T14:13:22.648Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "matsumototoshihiko": {
+        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Desktop": {
+        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "API": {
+        "requestedAt": "2026-02-13T16:44:23.933Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "n8n": {
+        "requestedAt": "2026-02-13T17:14:29.433Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "workflows": {
+        "requestedAt": "2026-02-13T17:14:29.433Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "interactive-video-platform": {
+        "requestedAt": "2026-02-13T18:53:10.357Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "taisun_agent": {
+        "requestedAt": "2026-02-14T11:06:41.415Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "generators": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fish_audio_client": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bin": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "activate": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voices": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tts": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "orchestrator": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hooks": {
+        "requestedAt": "2026-02-14T11:06:41.415Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "agent-enforcement-guard": {
+        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "skills": {
+        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "keyword-mega-extractor": {
+        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "used": false,
+        "autoMapped": false
+      }
+    }
   },
   "decisions": {
     "assetReuse": []

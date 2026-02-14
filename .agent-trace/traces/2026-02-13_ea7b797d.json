@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "id": "ea7b797d-d399-469c-8d1e-79a06a1c4bc6",
+  "timestamp": "2026-02-13T20:53:16.824Z",
+  "files": [
+    {
+      "path": "src/generators/fish_audio_client.py",
+      "conversations": [
+        {
+          "contributor_type": "ai",
+          "model": "anthropic/claude-opus-4-5-20251101",
+          "ranges": [
+            {
+              "start_line": 1,
+              "end_line": -1
+            }
+          ],
+          "description": "Write: file creation/overwrite"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "name": "taisun-agent",
+    "version": "2.10.1"
+  },
+  "metadata": {
+    "dev.taisun": {
+      "hook": "agent-trace-capture",
+      "tool_used": "Write"
+    }
+  },
+  "vcs": {
+    "type": "git",
+    "commit": "30d0df812baff72246224c97943e93d918c9f039",
+    "branch": "main"
+  }
+}

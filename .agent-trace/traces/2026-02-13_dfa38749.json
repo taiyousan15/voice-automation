@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "id": "dfa38749-0684-42f5-8d27-107ec305499d",
+  "timestamp": "2026-02-13T16:49:45.735Z",
+  "files": [
+    {
+      "path": "research/stand_fm_deep_research.md",
+      "conversations": [
+        {
+          "contributor_type": "ai",
+          "model": "anthropic/claude-opus-4-5-20251101",
+          "ranges": [
+            {
+              "start_line": 1,
+              "end_line": -1
+            }
+          ],
+          "description": "Write: file creation/overwrite"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "name": "taisun-agent",
+    "version": "2.10.1"
+  },
+  "metadata": {
+    "dev.taisun": {
+      "hook": "agent-trace-capture",
+      "tool_used": "Write"
+    }
+  },
+  "vcs": {
+    "type": "git",
+    "commit": "30d0df812baff72246224c97943e93d918c9f039",
+    "branch": "main"
+  }
+}

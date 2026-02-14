@@ -1,0 +1,799 @@
+{
+  "themes": [
+    "AIのビジネスモデルと世界中のAI活用と稼ぎ方",
+    "バイブコーディング",
+    "エージェント",
+    "skill",
+    "MCP",
+    "Claude Code",
+    "マーケティング戦略",
+    "セールスライティング",
+    "哲学",
+    "思想",
+    "スピリチュアル",
+    "占い"
+  ],
+  "timestamp": "2026-02-15T00:08:45.642993",
+  "expanded_keywords": {
+    "AIのビジネスモデルと世界中のAI活用と稼ぎ方": {
+      "seed": "AIのビジネスモデルと世界中のAI活用と稼ぎ方",
+      "keywords": [
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 機械学習",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 深層学習",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 ChatGPT",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 Claude",
+          "type": "related",
+          "buying_intent": 0.4
+        },
+        {
+          "keyword": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 LLM",
+          "type": "related",
+          "buying_intent": 0.4
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643038"
+    },
+    "バイブコーディング": {
+      "seed": "バイブコーディング",
+      "keywords": [
+        {
+          "keyword": "バイブコーディング とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "バイブコーディング 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "バイブコーディング 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643078"
+    },
+    "エージェント": {
+      "seed": "エージェント",
+      "keywords": [
+        {
+          "keyword": "エージェント とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "エージェント 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "エージェント 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643122"
+    },
+    "skill": {
+      "seed": "skill",
+      "keywords": [
+        {
+          "keyword": "skill とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "skill 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "skill ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "skill 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "skill 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643158"
+    },
+    "MCP": {
+      "seed": "MCP",
+      "keywords": [
+        {
+          "keyword": "MCP とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "MCP 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "MCP ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "MCP 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "MCP 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643192"
+    },
+    "Claude Code": {
+      "seed": "Claude Code",
+      "keywords": [
+        {
+          "keyword": "Claude Code とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "Claude Code 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "Claude Code ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "Claude Code 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "Claude Code 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643227"
+    },
+    "マーケティング戦略": {
+      "seed": "マーケティング戦略",
+      "keywords": [
+        {
+          "keyword": "マーケティング戦略 とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "マーケティング戦略 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "マーケティング戦略 ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "マーケティング戦略 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "マーケティング戦略 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643265"
+    },
+    "セールスライティング": {
+      "seed": "セールスライティング",
+      "keywords": [
+        {
+          "keyword": "セールスライティング とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "セールスライティング 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "セールスライティング ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "セールスライティング 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "セールスライティング 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643303"
+    },
+    "哲学": {
+      "seed": "哲学",
+      "keywords": [
+        {
+          "keyword": "哲学 とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "哲学 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "哲学 ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "哲学 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "哲学 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643340"
+    },
+    "思想": {
+      "seed": "思想",
+      "keywords": [
+        {
+          "keyword": "思想 とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "思想 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "思想 ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "思想 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "思想 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643407"
+    },
+    "スピリチュアル": {
+      "seed": "スピリチュアル",
+      "keywords": [
+        {
+          "keyword": "スピリチュアル とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "スピリチュアル 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "スピリチュアル ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "スピリチュアル 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "スピリチュアル 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643465"
+    },
+    "占い": {
+      "seed": "占い",
+      "keywords": [
+        {
+          "keyword": "占い とは",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い 方法",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い やり方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い 使い方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い 活用",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い 稼ぎ方",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い おすすめ",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "占い 比較",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "占い ランキング",
+          "type": "compound",
+          "buying_intent": 0.7
+        },
+        {
+          "keyword": "占い 最新",
+          "type": "compound",
+          "buying_intent": 0.3
+        },
+        {
+          "keyword": "占い 2026",
+          "type": "compound",
+          "buying_intent": 0.3
+        }
+      ],
+      "timestamp": "2026-02-15T00:08:45.643515"
+    }
+  },
+  "world_research": {},
+  "suggested_queries": [
+    "MCP おすすめ",
+    "AIのビジネスモデルと世界中のAI活用と稼ぎ方 Claude",
+    "マーケティング戦略 稼ぎ方",
+    "Claude Code 活用",
+    "思想 稼ぎ方",
+    "エージェント 比較",
+    "MCP ランキング",
+    "占い 稼ぎ方",
+    "MCP 方法",
+    "AIのビジネスモデルと世界中のAI活用と稼ぎ方 LLM",
+    "Claude Code おすすめ",
+    "マーケティング戦略 活用",
+    "skill おすすめ",
+    "バイブコーディング ランキング",
+    "哲学 比較",
+    "エージェント ランキング",
+    "セールスライティング おすすめ",
+    "MCP 活用",
+    "AIのビジネスモデルと世界中のAI活用と稼ぎ方 使い方",
+    "skill 方法"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-02-13T15:17:52.701741",
+  "total_episodes": 3,
+  "episodes": [
+    {
+      "name": "episode_technology_20260213_151743",
+      "theme": "technology",
+      "status": "success",
+      "articles": [
+        {
+          "title": "『リトルナイトメア1&2』クリエイターによる2人協力ホラーゲーム『REANIMAL』正式リリース。孤児の姉弟が行方不明の仲間たちを救い出し、怪異蔓延る島からの脱出を目指す",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "最大400kg搭載・12時間稼働 四足歩行ロボット「具微科技」、シリーズAで約23億円を調達(36Kr Japan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Acer、ノートPC 2026年新モデル 大画面・薄型軽量「Swift Air 16」とモバイル「Aspire Lite 14」を発売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_business_20260213_151747",
+      "theme": "business",
+      "status": "success",
+      "articles": [
+        {
+          "title": "ネガティブも素直にさらけ出すことが、ファンとの関係を築く|南聖羅のB面(AMP[アンプ])",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "いいものを、長く大切に使い続けたい|南聖羅のA面(AMP[アンプ])",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ソニー・イノベーションファンド、YOAKE entertainmentに5億円追加出資──ファン活動のオンチェーン基盤をSoneiumで拡張",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_health_20260213_151752",
+      "theme": "health",
+      "status": "success",
+      "articles": [
+        {
+          "title": "【調査報告】「2026年 日本の医療に関する世論調査」を公表(2026年2月13日)",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "高齢心不全患者の「退院時の身体機能」が1年後の生命を左右する",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "TIME誌による「TIME100 Health 2026」(最も影響力のある医療リーダー100人)への選定について",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
+}

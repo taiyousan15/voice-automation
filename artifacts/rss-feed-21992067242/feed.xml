@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ポッドキャスト自動配信</title>
+        <link>https://github.com/yourusername/podcast-automation</link>
+        <description>AI自動生成のニュースポッドキャスト</description>
+        <language>ja-jp</language>
+        <managingEditor>Podcast Automation System</managingEditor>
+        <lastBuildDate>2026-02-13T15:17:52.702487</lastBuildDate>
+        <generator>Podcast Automation System</generator>
+    <item>
+        <title>エピソード 1: Technology</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【technology】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: 電ファミニコゲーマー – ゲームの面白い記事読んでみない？】
+信頼度スコア: 7.0/10
+
+**導入（30秒）**
+こんにちは、テクノロジーの最新ニュースを紹介するポッドキャストにようこそ！今日は...]]>
+
+
+記事一覧:
+  • 『リトルナイトメア1&2』クリエイターによる2人協力ホラーゲーム『REANIMAL』正式リリース。孤児の姉弟が行方不明の仲間たちを救い出し、怪異蔓延る島からの脱出を目指す (出典: 電ファミニコゲーマー – ゲームの面白い記事読んでみない？, 信頼度: 7.0/10)
+  • 最大400kg搭載・12時間稼働 四足歩行ロボット「具微科技」、シリーズAで約23億円を調達(36Kr Japan) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • Acer、ノートPC 2026年新モデル 大画面・薄型軽量「Swift Air 16」とモバイル「Aspire Lite 14」を発売 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>technology</category>
+        <pubDate>2026-02-13T15:17:52.702441</pubDate>
+        <guid isPermaLink="false">episode_technology_1_1770995872</guid>
+        <link>https://github.com/yourusername/podcast-automation/episodes/technology/1</link>
+    </item>
+    <item>
+        <title>エピソード 2: Business</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【business】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**導入（30秒）**
+こんにちは、リスナーさん。今日は「南聖羅さんのB面」について話します。モデルの南聖羅さんに焦点を当てました。
+
+**ニュ...]]>
+
+
+記事一覧:
+  • ネガティブも素直にさらけ出すことが、ファンとの関係を築く|南聖羅のB面(AMP[アンプ]) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • いいものを、長く大切に使い続けたい|南聖羅のA面(AMP[アンプ]) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ソニー・イノベーションファンド、YOAKE entertainmentに5億円追加出資──ファン活動のオンチェーン基盤をSoneiumで拡張 (出典: Coindesk Japan, 信頼度: 9.7/10)</description>
+        <category>business</category>
+        <pubDate>2026-02-13T15:17:52.702468</pubDate>
+        <guid isPermaLink="false">episode_business_2_1770995872</guid>
+        <link>https://github.com/yourusername/podcast-automation/episodes/business/2</link>
+    </item>
+    <item>
+        <title>エピソード 3: Health</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【health】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**導入（30秒）**
+こんにちは、リスナーさん。今日は健康に関するニュースを取り上げます。特定非営利活動法人、日本医療政策機構から発表された「2026年...]]>
+
+
+記事一覧:
+  • 【調査報告】「2026年 日本の医療に関する世論調査」を公表(2026年2月13日) (出典: Pr Times, 信頼度: 8.0/10)
+  • 高齢心不全患者の「退院時の身体機能」が1年後の生命を左右する (出典: Pr Times, 信頼度: 7.5/10)
+  • TIME誌による「TIME100 Health 2026」(最も影響力のある医療リーダー100人)への選定について (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>health</category>
+        <pubDate>2026-02-13T15:17:52.702481</pubDate>
+        <guid isPermaLink="false">episode_health_3_1770995872</guid>
+        <link>https://github.com/yourusername/podcast-automation/episodes/health/3</link>
+    </item>
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0",
+  "id": "572f5241-0026-492b-abea-a150316b7507",
+  "timestamp": "2026-02-13T14:52:17.807Z",
+  "files": [
+    {
+      "path": ".github/workflows/podcast-automation.yml",
+      "conversations": [
+        {
+          "contributor_type": "ai",
+          "model": "anthropic/claude-opus-4-5-20251101",
+          "ranges": [
+            {
+              "start_line": 1,
+              "end_line": -1
+            }
+          ],
+          "description": "Write: file creation/overwrite"
+        }
+      ]
+    }
+  ],
+  "tool": {
+    "name": "taisun-agent",
+    "version": "2.10.1"
+  },
+  "metadata": {
+    "dev.taisun": {
+      "hook": "agent-trace-capture",
+      "tool_used": "Write"
+    }
+  },
+  "vcs": {
+    "type": "git",
+    "commit": "f180b185509e028c62b1ce2566bba1008a6c04de",
+    "branch": "main"
+  }
+}
