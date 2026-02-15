@@ -12,6 +12,16 @@ from loguru import logger
 from src.collectors.newsdata_client import NewsDataClient
 from src.utils.deduplication import DeduplicationEngine
 from src.utils.trust_score import TrustScoreEngine
+from src.generators.taiyo_script_generator import TaiyoScriptGenerator
+from src.quality.japanese_reading_checker import JapaneseReadingChecker
+from src.quality.quality_inspector import QualityInspector
+
+# Add scripts to path for text_preprocessor
+import sys as _sys
+from pathlib import Path as _Path
+_sys.path.insert(0, str(_Path(__file__).parent.parent / "scripts"))
+from text_preprocessor import JapaneseTextPreprocessor
+from src.publishers.rss_generator import RSSGenerator
 from src.collectors.keyword_researcher import KeywordResearcher
 
 from src.generators.groq_client import GroqClient
@@ -37,6 +47,13 @@ try:
     VOICEVOX_AVAILABLE = True
 except ImportError:
     VOICEVOX_AVAILABLE = False
+
+# Taiyo Style Script Generator (Phase 3)
+try:
+    TAIYO_AVAILABLE = True
+except ImportError:
+    TAIYO_AVAILABLE = False
+    logger.warning("Taiyo script generator not available - using basic script generation")
     logger.warning("VOICEVOX client not available - audio generation will be skipped")
 
 
@@ -91,6 +108,10 @@ class PipelineOrchestrator:
         self.dedup_engine = DeduplicationEngine()
         self.trust_engine = TrustScoreEngine()
         self.keyword_researcher = KeywordResearcher()
+        self.taiyo_generator = TaiyoScriptGenerator()  # Phase 3: Taiyo style integration
+        self.reading_checker = JapaneseReadingChecker()  # Phase 4: Japanese reading validation
+        self.quality_inspector = QualityInspector()      # Phase 4: Script quality inspection
+        self.text_preprocessor = JapaneseTextPreprocessor()  # Phase 5: TTS text preprocessing
 
 
         # Initialize LLM clients (Groq優先、OpenRouter Claude Haikuフォールバック)
@@ -112,8 +133,9 @@ class PipelineOrchestrator:
             # Try Fish Audio first (premium quality)
             if FISH_AUDIO_AVAILABLE:
                 try:
-                    self.fish_audio_client = FishAudioClient()
-                    self.logger.info("✓ Fish Audio client initialized (primary TTS)")
+                    timeout_seconds = int(os.getenv("FISH_AUDIO_TIMEOUT_SECONDS", "240"))
+                    self.fish_audio_client = FishAudioClient(timeout=timeout_seconds)
+                    self.logger.info(f"✓ Fish Audio client initialized (primary TTS, timeout={timeout_seconds}s)")
                 except Exception as e:
                     self.logger.warning(f"⚠ Fish Audio initialization failed: {e}")
 
@@ -195,7 +217,7 @@ class PipelineOrchestrator:
             research_results = await self.keyword_researcher.integrated_research(
                 themes=self.config.themes,
                 expand_keywords=True,
-                world_search=False  # Set to True to enable full world research
+                world_search=True  # Phase 1: Enable world research integration
             )
             
             # Extract newsworthy topics for NewsData.io
@@ -327,6 +349,73 @@ class PipelineOrchestrator:
 
             full_script += outro
 
+            # Phase 4: Quality Check Pipeline
+            self.logger.info(f"  Running quality checks for {theme}...")
+            
+            # 1st Japanese reading check (REQ-006)
+            reading_result_1 = self.reading_checker.check(full_script)
+            self.logger.info(
+                f"  ✓ 1st reading check: {reading_result_1['total_risks']} risks detected "
+                f"(kanji: {reading_result_1['kanji_count']}, "
+                f"number: {reading_result_1['number_count']}, "
+                f"english: {reading_result_1['english_count']})"
+            )
+            
+            # Auto-correction if risks detected (REQ-007)
+            if reading_result_1['total_risks'] > 0:
+                corrected_script, corrections = self.reading_checker.auto_correct(full_script)
+                self.logger.info(
+                    f"  ✓ Auto-corrected {corrections['total']} issues "
+                    f"(kanji: {corrections['difficult_kanji']}, "
+                    f"number: {corrections['number_reading']}, "
+                    f"english: {corrections['english_word']})"
+                )
+                full_script = corrected_script
+                
+                # 2nd reading check to verify correction (REQ-008)
+                reading_result_2 = self.reading_checker.check(full_script)
+                self.logger.info(
+                    f"  ✓ 2nd reading check: {reading_result_2['total_risks']} remaining risks"
+                )
+                
+                if reading_result_2['total_risks'] > 0:
+                    self.logger.warning(f"  ⚠ {reading_result_2['total_risks']} risks remain after correction")
+            else:
+                self.logger.info("  ✓ No reading risks detected")
+            
+            # Quality inspection (REQ-009: char count, duration, Taiyo score)
+            quality_result = self.quality_inspector.inspect(full_script, taiyo_score=None)
+            
+            # Log quality metrics
+            char_status = "✓" if quality_result['char_count']['passed'] else "✗"
+            dur_status = "✓" if quality_result['duration']['passed'] else "✗"
+            self.logger.info(
+                f"  {char_status} Character count: {quality_result['char_count']['value']} chars "
+                f"({quality_result['char_count']['min']}-{quality_result['char_count']['max']})"
+            )
+            self.logger.info(
+                f"  {dur_status} Estimated duration: {quality_result['duration']['value_str']} (4-7分)"
+            )
+            
+            # Taiyo score (N/A in current implementation)
+            if quality_result['taiyo_score']['value'] is not None:
+                taiyo_status = "✓" if quality_result['taiyo_score']['passed'] else "✗"
+                self.logger.info(
+                    f"  {taiyo_status} Taiyo score: {quality_result['taiyo_score']['value']} points "
+                    f"(>= {quality_result['taiyo_score']['min']})"
+                )
+            
+            # Overall quality status
+            if quality_result['passed']:
+                self.logger.info("  ✓ Quality check PASSED")
+            else:
+                self.logger.warning(
+                    f"  ⚠ Quality check FAILED ({len(quality_result['issues'])} issues)"
+                )
+                for issue in quality_result['issues']:
+                    severity_icon = "!" if issue['severity'] == 'critical' else "⚠"
+                    self.logger.warning(f"    {severity_icon} {issue['message']}")
+
             episode_name = f"episode_{theme}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
 
             # Generate audio if enabled
@@ -386,6 +475,15 @@ class PipelineOrchestrator:
         Returns:
             Dict with audio metadata (file, url, length, duration) or None if failed
         """
+        # Phase 5: MANDATORY TTS preprocessing (CLAUDE.md requirement)
+        # Convert numbers to hiragana to prevent misreading
+        # Examples: 1000万→いっせんまん, 3000万→さんぜんまん, 8000億→はっせんおく
+        original_script = script
+        script = self.text_preprocessor.preprocess(script)
+        
+        if script != original_script:
+            self.logger.debug("  ✓ TTS preprocessing applied (numbers → hiragana)")
+        
         if not self.fish_audio_client and not self.voicevox_client:
             return None
 
@@ -560,6 +658,66 @@ class PipelineOrchestrator:
             json.dump(summary, f, ensure_ascii=False, indent=2)
 
         saved_files["summary"] = summary_file
+
+        # Phase 6: Generate RSS feed (REQ-010: RSS配信)
+        import os
+        
+        # Get GitHub Pages URL from environment (set by GitHub Actions)
+        github_pages_url = os.getenv(
+            "GITHUB_PAGES_URL",
+            "https://USERNAME.github.io/REPO_NAME"  # Fallback for local testing
+        )
+        
+        # Initialize RSS generator
+        rss_gen = RSSGenerator(
+            title="AI情報ポッドキャスト - 最新トレンド自動配信",
+            description="AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信",
+            language="ja",
+            author="AI Podcast System",
+            link=github_pages_url
+        )
+        
+        # Prepare episodes for RSS (with audio URLs)
+        rss_episodes = []
+        for r in self.results:
+            if r.status == "success":
+                rss_episodes.append({
+                    "theme": r.theme,
+                    "script": r.script,
+                    "articles": [
+                        {
+                            "title": a.get("title"),
+                            "source": a.get("source_name"),
+                            "trust_score": a.get("trust_score")
+                        }
+                        for a in r.articles
+                    ],
+                    "audio_url": r.audio_url,
+                    "audio_length": r.audio_length,
+                    "audio_duration": r.audio_duration,
+                    "processing_time": r.processing_time
+                })
+        
+        # Generate and save RSS feed
+        rss_file = output_dir / "feed.xml"
+        rss_gen.save_feed(rss_episodes, rss_file)
+        saved_files["rss_feed"] = rss_file
+        self.logger.info(f"✓ Saved RSS feed: {rss_file}")
+        self.logger.info(f"  Feed URL: {github_pages_url}/feed.xml")
+        
+        # Generate dashboard.json for GitHub Pages
+        dashboard_file = output_dir / "dashboard.json"
+        with open(dashboard_file, "w", encoding="utf-8") as f:
+            dashboard = {
+                "generated_at": datetime.now().isoformat(),
+                "feed_url": f"{github_pages_url}/feed.xml",
+                "episodes_count": len(rss_episodes),
+                "latest_episode": rss_episodes[0]["theme"] if rss_episodes else None,
+                "audio_enabled": self.enable_audio
+            }
+            json.dump(dashboard, f, ensure_ascii=False, indent=2)
+        saved_files["dashboard"] = dashboard_file
+        self.logger.info(f"✓ Saved dashboard: {dashboard_file}")
         self.logger.info(f"✓ Saved summary: {summary_file}")
 
         return saved_files
