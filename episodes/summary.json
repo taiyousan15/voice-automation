@@ -1,11 +1,31 @@
 {
-  "generated_at": "2026-02-15T00:10:14.722872",
+  "generated_at": "2026-02-15T02:08:12.455827",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260215_000902",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 方法_20260215_020707",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【購読者8.5万人突破】NoLang開発チームが最前線の知見を凝縮して届ける「Mavericks AI ニュース」の2月2日号を配信。Googleの世界モデル「Genie 3」などについて徹底解説。",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "2026年2月13日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20260215_020712",
+      "theme": "MCP 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
@@ -14,72 +34,17 @@
         {
           "title": "非構造化データ時代のAI活用を支えるElasticの新機能「Agent Builder」と「Workflows」",
           "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年2月13日のヘッドラインニュース",
-          "source": "Gigazine",
           "trust_score": 8.0
         },
         {
           "title": "Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
           "title": "Elastic、Agent Builderおよび数々の拡張機能の一般提供を発表",
           "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "[ITmedia エンタープライズ] Claude拡張機能にCVSS10.0の脆弱性 現在も未修正のため注意",
-          "source": "Itmedia",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 活用_20260215_000914",
-      "theme": "Claude Code 活用",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AI導入の「上流から下流」まで一気通貫で担える新職種「FDE」。DXHRがその育成研修プログラムの提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "商品比較サービス「マイベスト」と「ハッカー飯」が共同開催!エンジニア向けイベント「ハッカー鮨」3/5(木)開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Spotifyが「AIのおかげで優秀な開発者が12月以来コードを一行も書いてない」と報告",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【独自】アマゾンがAIツール「Claude Code」社内使用を制限、自社開発「Kiro」優先指示に社員は猛反発",
-          "source": "Business Insider",
-          "trust_score": 8.0
-        },
-        {
-          "title": "PE-BANK、国内最大級のITエンジニア向けカンファレンス「Developers Summit 2026」に協賛・出展",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Anthropicが300億ドル調達、創業3年で評価額3800億ドル - Claudeが企業AIの中核に",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIスタートアップのつくり方──大胆に、奇妙に、そしておそらく失敗する現実を受け入れよ",
-          "source": "Wired.jp",
-          "trust_score": 7.0
         }
       ]
     }
