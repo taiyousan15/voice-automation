@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-02-15T02:08:12.455827",
-  "total_episodes": 2,
+  "generated_at": "2026-02-15T06:14:39.015176",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 方法_20260215_020707",
-      "theme": "MCP 方法",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【購読者8.5万人突破】NoLang開発チームが最前線の知見を凝縮して届ける「Mavericks AI ニュース」の2月2日号を配信。Googleの世界モデル「Genie 3」などについて徹底解説。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年2月13日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260215_020712",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "非構造化データ時代のAI活用を支えるElasticの新機能「Agent Builder」と「Workflows」",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Finatextグループ、AIで金融ビジネスを再定義する「AIイネーブルメント」を本格始動",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Elastic、Agent Builderおよび数々の拡張機能の一般提供を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
