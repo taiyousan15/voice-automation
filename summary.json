@@ -1,95 +1,20 @@
 {
-  "generated_at": "2026-02-15T21:36:14.876542",
-  "total_episodes": 2,
+  "generated_at": "2026-02-16T02:03:39.554359",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 方法_20260215_213200",
-      "theme": "占い 方法",
+      "name": "episode_MCP 比較_20260216_020315",
+      "theme": "MCP 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 方法_20260215_213200.mp3",
-      "audio_length": 10672169,
-      "audio_duration": "00:11:07",
-      "articles": [
-        {
-          "title": "日本維新の会、吉村代表を再任 閣内協力転換に異論出ず(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【アメリカ】テスラ「モデルS」と「モデルX」生産終了へ! ブランドを牽引してきた“フラッグシップ消滅”か!? 大型セダン&SUVに幕を下ろし、向かう先は?(くるまのニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "30代、預貯金はいくら持っている? 株式、投資信託へ大胆シフトか...最新調査が明かす資産形成のリアルな金額【最新版】(Finasee)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "公立高志望、18都府県で減少 無償化影響か、中3進路調査(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "“不況型”が大勢...1月の倒産、800件超の高水準(ニュースイッチ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "フォーミュラジムカーナは2026年シーズンで進化をとげた! 学生と企業をつなぐ場としての役割がさらに強まる【大阪オートメッセ2026】(WEB CARTOP)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "三木城、鳥取城...攻城の天才・豊臣秀吉の超軍略「兵糧攻め」を解説",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 比較_20260215_213214",
-      "theme": "思想 比較",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260216_020315.mp3",
+      "audio_length": 1846961,
       "audio_duration": null,
       "articles": [
         {
-          "title": "株価最高値更新か...「株高・円安・債券安」“高市トレード”に変化の動きも 「SaaSの死」くすぶる警戒感",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "[ITmedia Mobile] 幅92mmの「HUAWEI Pura X」は“令和のズルトラ”? 「Xperia Z Ultra」と実機比較、折りたためるファブレットだ",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "5000円の水、12万円のドライヤーがなぜ人気? リファ銀座旗艦店、高級路線の狙い",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "金与正氏が融和姿勢か、韓国統一部長官の無人機遺憾表明に「常識的な行動」(中央日報日本語版)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Pokémon GOが10周年、現在のプレイヤー層は?ナイアンティックに聞いた",
-          "source": "Mynavi News",
+          "title": "【購読者8.5万人突破】NoLang開発チームが最前線の知見を凝縮して届ける「Mavericks AI ニュース」の2月2日号を配信。Googleの世界モデル「Genie 3」などについて徹底解説。",
+          "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "フェラーリF1 2026年F1勢力図を静観「誰も我々を語らないのは好都合」",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "パワーユニットは名機の予感!プジョー3008GTハイブリッド【日本版編集長コラム#69】(AUTOCAR JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
