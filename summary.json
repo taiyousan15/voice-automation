@@ -1,25 +1,70 @@
 {
-  "generated_at": "2026-02-16T20:41:53.494401",
-  "total_episodes": 1,
+  "generated_at": "2026-02-16T20:51:46.167574",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ_20260216_204153",
-      "theme": "Claude Code おすすめ",
-      "status": "partial",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
+      "name": "episode_MCP 方法_20260216_204913",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260216_204913.mp3",
+      "audio_length": 2228976,
+      "audio_duration": "00:02:19",
       "articles": [
         {
-          "title": "NEXT INNOVAITION株式会社、事業拡大に向けAI人材の採用を開始|「YouTube動画編集者」「AI駆動開発エンジニア」「AI/DXコンサルタント」を募集",
+          "title": "プルーフポイント、Acuvityを買収自律型AIワークスペース全体にAIセキュリティとガバナンスを提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Workato、三菱UFJ銀行の法人向けインターネットバンキング「BizSTATION」対応コネクターを新たにリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260216_204922",
+      "theme": "哲学 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260216_204922.mp3",
+      "audio_length": 7779474,
+      "audio_duration": "00:08:06",
+      "articles": [
+        {
+          "title": "【新刊発売】第二・第三の自分を発見する『ソーシャル・セルフ(社会関係自我)』刊行!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【緊急学習支援】「メガスタ」事業停止に伴う学習機会の喪失に対し、入会金免除および授業の無償提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "KDDIとエリクソン、「遠隔ドローンプログラミング教室」を初開催地方と都市を結び、次世代リモート学習で教育DXを加速 金沢と東京の2拠点で参加者募集",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "AIエージェントに「全部渡せばいい」は間違い、コンテキストの取捨選択が鍵",
-          "source": "日経クロステック（xtech）",
-          "trust_score": 7.5
+          "title": "M-1優勝で京産大が話題に 学長メッセージは大学の顔 熱い思いを発信(朝日新聞Thinkキャンパス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "伝わる話し方の基本ルール「協調の原理」の4つの公理 量、質、関連性、あと1つは?(AERA DIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "三春酒造 新ブランド「三春」発表 日本酒通じて町の魅力発信(福島)(KFB福島放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "警察署長から地域の警察官まで...気になる愛媛県警の人事異動 【その3 警部の部(後半)】(テレビ愛媛)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }

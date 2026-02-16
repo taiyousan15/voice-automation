@@ -8,10 +8,71 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-16T20:41:53.494570</lastBuildDate>
+        <lastBuildDate>2026-02-16T20:51:46.167931</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**トピック紹介**
+プルーフポイントがAcuvityを買収しました。AIセキュリティとガバナンスを提供します。
+
+**ニュース解説**
+プルーフ...]]>
+
+
+記事一覧:
+  • プルーフポイント、Acuvityを買収自律型AIワークスペース全体にAIセキュリティとガバナンスを提供 (出典: Pr Times, 信頼度: 8.0/10)
+  • Workato、三菱UFJ銀行の法人向けインターネットバンキング「BizSTATION」対応コネクターを新たにリリース (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-02-16T20:51:46.167871</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_1_1771275106</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260216_204913.mp3" type="audio/mpeg" length="2228976" />
+        <itunes:duration>00:02:19</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 哲学 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**トピック紹介**
+新刊『ソーシャル・セルフ』が発売されました。これは私たちが持つ第二・第三の自分を探求する本です。
+
+**ニュース解説**
+この本『ソー...]]>
+
+
+記事一覧:
+  • 【新刊発売】第二・第三の自分を発見する『ソーシャル・セルフ(社会関係自我)』刊行! (出典: Pr Times, 信頼度: 8.0/10)
+  • 【緊急学習支援】「メガスタ」事業停止に伴う学習機会の喪失に対し、入会金免除および授業の無償提供を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • KDDIとエリクソン、「遠隔ドローンプログラミング教室」を初開催地方と都市を結び、次世代リモート学習で教育DXを加速 金沢と東京の2拠点で参加者募集 (出典: Pr Times, 信頼度: 8.5/10)
+  • M-1優勝で京産大が話題に 学長メッセージは大学の顔 熱い思いを発信(朝日新聞Thinkキャンパス) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 伝わる話し方の基本ルール「協調の原理」の4つの公理 量、質、関連性、あと1つは?(AERA DIGITAL) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 三春酒造 新ブランド「三春」発表 日本酒通じて町の魅力発信(福島)(KFB福島放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 警察署長から地域の警察官まで...気になる愛媛県警の人事異動 【その3 警部の部(後半)】(テレビ愛媛) (出典: Yahoo Japan, 信頼度: 9.2/10)</description>
+        <category>哲学 方法</category>
+        <pubDate>2026-02-16T20:51:46.167915</pubDate>
+        <guid isPermaLink="false">episode_哲学 方法_2_1771275106</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260216_204922.mp3" type="audio/mpeg" length="7779474" />
+        <itunes:duration>00:08:06</itunes:duration>
+    </item>
     </channel>
 </rss>
