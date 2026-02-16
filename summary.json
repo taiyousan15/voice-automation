@@ -1,18 +1,48 @@
 {
-  "generated_at": "2026-02-16T02:03:39.554359",
+  "generated_at": "2026-02-16T17:43:25.029939",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260216_020315",
-      "theme": "MCP 比較",
+      "name": "episode_思想 活用_20260216_173924",
+      "theme": "思想 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260216_020315.mp3",
-      "audio_length": 1846961,
+      "audio_url": null,
+      "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【購読者8.5万人突破】NoLang開発チームが最前線の知見を凝縮して届ける「Mavericks AI ニュース」の2月2日号を配信。Googleの世界モデル「Genie 3」などについて徹底解説。",
+          "title": "『ぽこ あ ポケモン』プレイ感想!ポケモンたちで世界を再生する、癒しの時間",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Avacus、GLOBAL NETWORK JAPANと戦略的業務提携を締結、インドにおける通信基盤連動型ポイント・決済プラットフォーム構築へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "今泉佑唯、自身の“壮絶な反抗期”を回顧「目が合うのもアウト」母親として苦悩する瞬間も...43歳で第二子出産の真木よう子、産後の体型変化を告白「骨盤がグラグラに」『秘密のママ園2』#3無料見逃し配信中",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "株式会社そばにがゴルフテックブランド「FastDeer」の国内総代理店契約を締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "第1回サステナブルガストロノミーアワード、計6団体受賞(食品産業新聞社ニュースWEB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "母が急逝し一人暮らしになった父が心配です。50代の子育て世代ですが、「月3万円」の仕送りでは援助にならないでしょうか......。(ファイナンシャルフィールド)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「AIが1分で作った綺麗な企画書」は使えない? 特許取得の“並行思考AI”で圧倒的な説得力を生み出す事業開発ツール『triven Sketch』正式版リリース",
           "source": "Pr Times",
           "trust_score": 8.5
         }
