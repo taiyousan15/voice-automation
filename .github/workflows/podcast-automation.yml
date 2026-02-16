@@ -30,6 +30,19 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
+      - name: Start VOICEVOX Docker (TTS fallback)
+        run: |
+          docker pull voicevox/voicevox_engine:latest
+          docker run -d --name voicevox -p 50021:50021 voicevox/voicevox_engine:latest
+          echo "Waiting for VOICEVOX to start..."
+          for i in $(seq 1 30); do
+            if curl -s http://localhost:50021/version > /dev/null 2>&1; then
+              echo "VOICEVOX is ready"
+              break
+            fi
+            sleep 2
+          done
+
       - name: Create episodes directory
         run: mkdir -p episodes
 
@@ -41,7 +54,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FISH_AUDIO_API_KEY: ${{ secrets.FISH_AUDIO_API_KEY }}
           FISH_AUDIO_VOICE_ID: ${{ secrets.FISH_AUDIO_VOICE_ID }}
-          VOICEVOX_API_URL: ${{ secrets.VOICEVOX_API_URL }}
+          VOICEVOX_API_URL: http://localhost:50021
           GITHUB_PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
           FISH_AUDIO_TIMEOUT_SECONDS: 240
         run: |

@@ -105,13 +105,17 @@ class FishAudioClient:
         self,
         text: str,
         output_filename: Optional[str] = None,
+        max_retries: int = 2,
+        backoff_factor: float = 2.0,
     ) -> Optional[Path]:
         """
-        テキストから音声を生成
+        テキストから音声を生成（指数バックオフリトライ付き）
 
         Args:
             text: 音声化するテキスト
             output_filename: 出力ファイル名（拡張子なし）
+            max_retries: 最大リトライ回数
+            backoff_factor: バックオフ係数（秒）
 
         Returns:
             Path: 生成された MP3 ファイルのパス（失敗時 None）
@@ -132,46 +136,64 @@ class FishAudioClient:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             output_path = output_dir / f"fish_audio_{timestamp}.mp3"
 
-        try:
-            async with aiohttp.ClientSession() as session:
-                # TTS API リクエスト
-                url = f"{self.base_url}/tts"
-                payload = {
-                    "text": text,
-                    "reference_id": self.voice_id,
-                    "format": "mp3",
-                    "normalize": True,  # 音量正規化
-                    "latency": "normal",  # 品質優先
-                }
+        last_error = None
+        for attempt in range(max_retries + 1):
+            try:
+                async with aiohttp.ClientSession() as session:
+                    url = f"{self.base_url}/tts"
+                    payload = {
+                        "text": text,
+                        "reference_id": self.voice_id,
+                        "format": "mp3",
+                        "normalize": True,
+                        "latency": "normal",
+                    }
 
-                logger.info(f"Fish Audio TTS リクエスト送信 ({len(text)} 文字)")
+                    if attempt > 0:
+                        logger.info(f"Fish Audio TTS リトライ {attempt}/{max_retries} ({len(text)} 文字)")
+                    else:
+                        logger.info(f"Fish Audio TTS リクエスト送信 ({len(text)} 文字)")
 
-                async with session.post(
-                    url,
-                    headers=self.headers,
-                    json=payload,
-                    timeout=aiohttp.ClientTimeout(total=self.timeout),
-                ) as response:
-                    if response.status != 200:
-                        error_text = await response.text()
-                        logger.error(f"✗ TTS 生成失敗: HTTP {response.status} - {error_text}")
-                        return None
+                    async with session.post(
+                        url,
+                        headers=self.headers,
+                        json=payload,
+                        timeout=aiohttp.ClientTimeout(total=self.timeout),
+                    ) as response:
+                        if response.status != 200:
+                            error_text = await response.text()
+                            logger.error(f"✗ TTS 生成失敗: HTTP {response.status} - {error_text}")
+                            last_error = f"HTTP {response.status}"
+                            if attempt < max_retries:
+                                wait_time = backoff_factor * (2 ** attempt)
+                                logger.info(f"  {wait_time:.1f}秒後にリトライ...")
+                                await asyncio.sleep(wait_time)
+                                continue
+                            return None
 
-                    # MP3 データを保存
-                    audio_data = await response.read()
-                    output_path.write_bytes(audio_data)
+                        audio_data = await response.read()
+                        output_path.write_bytes(audio_data)
 
-                    file_size_mb = len(audio_data) / (1024 * 1024)
-                    logger.info(f"✓ 音声生成完了: {output_path.name} ({file_size_mb:.2f} MB)")
+                        file_size_mb = len(audio_data) / (1024 * 1024)
+                        logger.info(f"✓ 音声生成完了: {output_path.name} ({file_size_mb:.2f} MB)")
 
-                    return output_path
+                        return output_path
 
-        except asyncio.TimeoutError:
-            logger.error(f"✗ タイムアウト ({self.timeout}秒)")
-            return None
-        except Exception as e:
-            logger.error(f"✗ 音声生成エラー: {e}")
-            return None
+            except (asyncio.TimeoutError, aiohttp.ClientError) as e:
+                last_error = str(e) if str(e) else type(e).__name__
+                logger.warning(f"✗ TTS エラー (attempt {attempt + 1}/{max_retries + 1}): {last_error}")
+                if attempt < max_retries:
+                    wait_time = backoff_factor * (2 ** attempt)
+                    logger.info(f"  {wait_time:.1f}秒後にリトライ...")
+                    await asyncio.sleep(wait_time)
+                else:
+                    logger.error(f"✗ 最大リトライ回数超過: {last_error}")
+                    return None
+            except Exception as e:
+                logger.error(f"✗ 音声生成エラー: {e}")
+                return None
+
+        return None
 
     def get_audio_duration(self, audio_file: Path) -> Optional[str]:
         """
