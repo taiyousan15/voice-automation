@@ -426,6 +426,9 @@ class PipelineOrchestrator:
             
             # Overall quality status
             critical_issues = [i for i in quality_result['issues'] if i['severity'] == 'critical']
+            # TTS-dangerous issues only: long scripts cause timeouts, short scripts are safe
+            tts_blocking_types = {'char_count_high', 'duration_long'}
+            tts_blocking_issues = [i for i in critical_issues if i['type'] in tts_blocking_types]
             if quality_result['passed']:
                 self.logger.info("  ✓ Quality check PASSED")
             elif critical_issues:
@@ -444,9 +447,10 @@ class PipelineOrchestrator:
 
             episode_name = f"episode_{theme}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
 
-            # Block TTS if critical quality issues detected
-            if critical_issues:
-                self.logger.warning(f"  ⚠ Skipping audio generation due to critical quality issues")
+            # Block TTS only for TTS-dangerous issues (long scripts cause timeouts)
+            # char_count_low is critical for quality but safe for TTS
+            if tts_blocking_issues:
+                self.logger.warning(f"  ⚠ Skipping audio generation due to TTS-dangerous issues")
                 return ProcessingResult(
                     episode_name=episode_name,
                     theme=theme,
@@ -454,7 +458,7 @@ class PipelineOrchestrator:
                     articles=articles,
                     script=full_script,
                     audio_file=None,
-                    error_message=f"TTS blocked: {len(critical_issues)} critical quality issues",
+                    error_message=f"TTS blocked: {len(tts_blocking_issues)} TTS-dangerous issues",
                     processing_time=(datetime.now() - start_time).total_seconds()
                 )
 
