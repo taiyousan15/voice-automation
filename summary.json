@@ -1,36 +1,116 @@
 {
-  "generated_at": "2026-02-16T20:51:46.167574",
-  "total_episodes": 2,
+  "generated_at": "2026-02-16T21:39:46.608489",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260216_204913",
-      "theme": "MCP 方法",
+      "name": "episode_占い 活用_20260216_213639",
+      "theme": "占い 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260216_204913.mp3",
-      "audio_length": 2228976,
-      "audio_duration": "00:02:19",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260216_213639.mp3",
+      "audio_length": 8156891,
+      "audio_duration": "00:08:29",
       "articles": [
         {
-          "title": "プルーフポイント、Acuvityを買収自律型AIワークスペース全体にAIセキュリティとガバナンスを提供",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "元空将の織田邦男氏「己を捨て公に尽くす教育すべき」 群馬「正論」懇話会",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "Workato、三菱UFJ銀行の法人向けインターネットバンキング「BizSTATION」対応コネクターを新たにリリース",
+          "title": "カトパコ新章突入──スティングとの共演で生まれ変わった二人の現在地、「激動の一年」を徹底解説【CA7RIEL & Paco Amoroso】",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ABEMAにて『祝!QWER 日本初ツアー緊急生配信 ~ROCKATION TALK PARTY~』を、2026年2月21日(土)夜7時より独占無料生配信が決定!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "衆院選で惨敗、中道・野田佳彦前代表が「お詫び」も... 続いて記した4文字にツッコミの嵐 「ただの集団自決では?」「国民と感覚が乖離」(中日スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「1000円で買えるの!?」「ちょっと試してみたいかも」 【ダイソー】で見つけたがおしゃれで高コスパな「小型加湿器」3選 (Fav-Log by ITmedia)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日本の高市早苗首相も選出、新時代をつくる『50歳以上の女性50人』2026年版(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "2000年代R&Bの象徴、ティードラ・モーゼスが語る「Be Your Girl」誕生秘話と濃密な歩み",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 方法_20260216_213648",
+      "theme": "思想 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 方法_20260216_213648.mp3",
+      "audio_length": 6895072,
+      "audio_duration": "00:07:10",
+      "articles": [
+        {
+          "title": "“高市チルドレン”66人に新人研修会実施へ 派閥解体で教育できない?...党内に警戒感 議員の心構えやSNSの使い方・メディア対応など",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "宮城県の県内総生産 2023年度で10兆円余りと過去最多に(khb東日本放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「ええ?マジ?」「通常ありえない」元従業員の証言でKAZUI運航準備の実態明らかに 知床沖観光船事故裁判(HTB北海道ニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "銭湯値上げ方針受け 県内の老舗温泉・寿温泉 「今回の値上げは『苦渋の決断』だと思う」 「十分かと言われたら十分ではない」 利用客は理解示す声 【愛媛】(あいテレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「握手写真」に批判殺到...れいわ・八幡愛氏が反論 起きているのは「高市早苗総理可哀想現象」...権力へのやゆ「何が悪い」(J-CASTニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【今週の腕時計記事ベスト5】グランドセイコー×オニツカタイガー、BTSのジョングクがウブロアンバサダー就任など注目トピックが勢揃い!(Pen Online)",
+          "source": "Yahoo Japan",
+          "trust_score": 8.7
+        },
+        {
+          "title": "混迷の時代こそ、新たな時代を切り拓くリーダーシップを“2026年度青山社中リーダー塾”開講決定!第16期生を募集中!",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_哲学 方法_20260216_204922",
+      "name": "episode_哲学 方法_20260216_213656",
       "theme": "哲学 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260216_204922.mp3",
-      "audio_length": 7779474,
-      "audio_duration": "00:08:06",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260216_213656.mp3",
+      "audio_length": 8472032,
+      "audio_duration": "00:08:49",
       "articles": [
+        {
+          "title": "衆院予算委員長に坂本哲志元農水相 自民が最終調整 18日からの特別国会で選出へ(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "参加型フォトイベント「あまトリ」2025コンテスト受賞作品が決定しました",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        },
         {
           "title": "【新刊発売】第二・第三の自分を発見する『ソーシャル・セルフ(社会関係自我)』刊行!",
           "source": "Pr Times",
@@ -55,16 +135,6 @@
           "title": "伝わる話し方の基本ルール「協調の原理」の4つの公理 量、質、関連性、あと1つは?(AERA DIGITAL)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
-        },
-        {
-          "title": "三春酒造 新ブランド「三春」発表 日本酒通じて町の魅力発信(福島)(KFB福島放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "警察署長から地域の警察官まで...気になる愛媛県警の人事異動 【その3 警部の部(後半)】(テレビ愛媛)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     }
