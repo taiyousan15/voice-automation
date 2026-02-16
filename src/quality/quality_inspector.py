@@ -27,8 +27,10 @@ class QualityInspector:
     # Constants
     MIN_CHARS = 1200
     MAX_CHARS = 2000
+    CRITICAL_MAX_CHARS = 5000  # TTS ブロック閾値
     MIN_DURATION_SEC = 4 * 60  # 4 minutes
     MAX_DURATION_SEC = 7 * 60  # 7 minutes
+    CRITICAL_MAX_DURATION_SEC = 16 * 60  # 16 minutes - TTS ブロック閾値
     MIN_TAIYO_SCORE = 70
     
     # Reading speed: ~300 chars/min for Japanese TTS
@@ -92,6 +94,12 @@ class QualityInspector:
                     'message': f'Script too short: {char_count} chars (min: {self.MIN_CHARS})',
                     'severity': 'critical'
                 })
+            elif char_count > self.CRITICAL_MAX_CHARS:
+                result['issues'].append({
+                    'type': 'char_count_high',
+                    'message': f'Script critically long: {char_count} chars (critical: {self.CRITICAL_MAX_CHARS})',
+                    'severity': 'critical'
+                })
             else:
                 result['issues'].append({
                     'type': 'char_count_high',
@@ -117,6 +125,12 @@ class QualityInspector:
                     'type': 'duration_short',
                     'message': f'Estimated duration too short: {result["duration"]["value_str"]} (min: 4分)',
                     'severity': 'warning'
+                })
+            elif duration_sec > self.CRITICAL_MAX_DURATION_SEC:
+                result['issues'].append({
+                    'type': 'duration_long',
+                    'message': f'Estimated duration critically long: {result["duration"]["value_str"]} (critical: 16分)',
+                    'severity': 'critical'
                 })
             else:
                 result['issues'].append({

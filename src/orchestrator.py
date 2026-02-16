@@ -139,8 +139,8 @@ class PipelineOrchestrator:
                 except Exception as e:
                     self.logger.warning(f"⚠ Fish Audio initialization failed: {e}")
 
-            # Try VOICEVOX as fallback
-            if VOICEVOX_AVAILABLE and not self.fish_audio_client:
+            # Always initialize VOICEVOX as fallback (even when Fish Audio is available)
+            if VOICEVOX_AVAILABLE:
                 try:
                     self.voicevox_client = VOICEVOXClient()
                     self.logger.info("✓ VOICEVOX client initialized (fallback TTS)")
@@ -332,22 +332,41 @@ class PipelineOrchestrator:
                     processing_time=(datetime.now() - start_time).total_seconds()
                 )
 
-            # Compile full script
-            full_script = intro
-            for script_item in scripts:
-                full_script += f"\n【セクション {script_item['index']}: {script_item['source']}】\n"
-                full_script += f"信頼度スコア: {script_item['trust_score']:.1f}/10\n\n"
-                full_script += script_item["script"]
-                full_script += "\n\n"
+            # Compile full script with dynamic article count adjustment
+            max_total_chars = 5000
+            max_retries = 2
 
-            outro = """---
+            for retry in range(max_retries + 1):
+                full_script = intro
+                for script_item in scripts:
+                    full_script += f"\n【セクション {script_item['index']}: {script_item['source']}】\n"
+                    full_script += f"信頼度スコア: {script_item['trust_score']:.1f}/10\n\n"
+                    full_script += script_item["script"]
+                    full_script += "\n\n"
+
+                outro = """---
 
 本日のエピソードをお聴きいただき、ありがとうございました。
 次回のエピソードもお楽しみに。
 
 それでは、また来週お会いしましょう。さようなら。"""
 
-            full_script += outro
+                full_script += outro
+
+                if len(full_script) <= max_total_chars:
+                    break
+
+                if retry < max_retries and len(scripts) > 1:
+                    reduced_count = max(1, len(scripts) - 2)
+                    self.logger.warning(
+                        f"  ⚠ Script too long ({len(full_script)} chars > {max_total_chars}), "
+                        f"reducing articles from {len(scripts)} to {reduced_count} (retry {retry + 1}/{max_retries})"
+                    )
+                    scripts = scripts[:reduced_count]
+                else:
+                    self.logger.warning(
+                        f"  ⚠ Script still {len(full_script)} chars after {max_retries} retries"
+                    )
 
             # Phase 4: Quality Check Pipeline
             self.logger.info(f"  Running quality checks for {theme}...")
@@ -406,8 +425,15 @@ class PipelineOrchestrator:
                 )
             
             # Overall quality status
+            critical_issues = [i for i in quality_result['issues'] if i['severity'] == 'critical']
             if quality_result['passed']:
                 self.logger.info("  ✓ Quality check PASSED")
+            elif critical_issues:
+                self.logger.error(
+                    f"  ✗ Quality check CRITICAL ({len(critical_issues)} critical issues) - TTS blocked"
+                )
+                for issue in critical_issues:
+                    self.logger.error(f"    ! {issue['message']}")
             else:
                 self.logger.warning(
                     f"  ⚠ Quality check FAILED ({len(quality_result['issues'])} issues)"
@@ -417,6 +443,20 @@ class PipelineOrchestrator:
                     self.logger.warning(f"    {severity_icon} {issue['message']}")
 
             episode_name = f"episode_{theme}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
+
+            # Block TTS if critical quality issues detected
+            if critical_issues:
+                self.logger.warning(f"  ⚠ Skipping audio generation due to critical quality issues")
+                return ProcessingResult(
+                    episode_name=episode_name,
+                    theme=theme,
+                    status="partial",
+                    articles=articles,
+                    script=full_script,
+                    audio_file=None,
+                    error_message=f"TTS blocked: {len(critical_issues)} critical quality issues",
+                    processing_time=(datetime.now() - start_time).total_seconds()
+                )
 
             # Generate audio if enabled
             audio_file = None
