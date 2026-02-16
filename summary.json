@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-02-16T20:37:57.641159",
+  "generated_at": "2026-02-16T20:41:53.494401",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260216_203757",
-      "theme": "MCP おすすめ",
+      "name": "episode_Claude Code おすすめ_20260216_204153",
+      "theme": "Claude Code おすすめ",
       "status": "partial",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Agentic AI × OrchestrationでDXを加速, Workato社とパートナー契約締結",
+          "title": "NEXT INNOVAITION株式会社、事業拡大に向けAI人材の採用を開始|「YouTube動画編集者」「AI駆動開発エンジニア」「AI/DXコンサルタント」を募集",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
-          "title": "プルーフポイント、Acuvityを買収自律型AIワークスペース全体にAIセキュリティとガバナンスを提供",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Workato、三菱UFJ銀行の法人向けインターネットバンキング「BizSTATION」対応コネクターを新たにリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AIエージェントに「全部渡せばいい」は間違い、コンテキストの取捨選択が鍵",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
         }
       ]
     }
