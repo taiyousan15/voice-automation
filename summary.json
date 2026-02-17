@@ -1,6 +1,122 @@
 {
-  "generated_at": "2026-02-17T02:00:31.096914",
-  "total_episodes": 0,
+  "generated_at": "2026-02-17T21:45:22.271776",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_哲学 比較_20260217_214242",
+      "theme": "哲学 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260217_214242.mp3",
+      "audio_length": 7893159,
+      "audio_duration": "00:08:13",
+      "articles": [
+        {
+          "title": "2/17夜",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "解体テックのクラッソーネ、埼玉県東松山市と「東松山市空き家対策の推進に関する協定」を締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "衆院委員長ポスト2つ除き与党独占(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "中堅・中小企業の経営者に\"トップクラスのコンサルティング\"を届ける「ばんそうAI」2026年2月27日サービス開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "山里亮太の元相方が目撃!! 笑い飯・哲夫がポイ捨てタバコを拾った理由 - スタートアップ芸人",
+          "source": "ダイヤモンド・オンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "日米のゲームデザインにおけるUI/UXはなぜここまで違う?3/4(水)無料セミナー「グローバル時代のゲームUIデザイン」開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "高熱に加え下痢・おう吐も インフルB型の特徴を解説 予防は「ノンカフェイン飲料」と「水うがい」で(テレビ愛知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260217_214251",
+      "theme": "哲学 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260217_214251.mp3",
+      "audio_length": 8356257,
+      "audio_duration": "00:08:42",
+      "articles": [
+        {
+          "title": "【佐藤優】「FIREしたい」という人が抱える本当の問題。マルクスが指摘した、資本家と労働者の違い",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【ルイ・ヴィトン×ドゥ・ベトゥーン】複雑にして超希少、ヴェールを脱いだシンパティック機構搭載の腕時計&クロックとは(Pen Online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "兄を殺し、父さえも――戦国時代で「きょうだい」が最も危険な存在だった理由とは。非情すぎる家督争い時代、その悲しい「確執」に迫る(OTONA SALONE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ミスミ/パンチ工業向け3PL/川崎物流拠点に統合(日刊産業新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "あなたの死後もSNS投稿やいいねを続ける「AIシミュレート技術」でメタが特許取得。その深い闇",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "愛知県東郷町、中部国際空港と廃食用油のSAF等への資源化促進に関する協定を締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【プール競技におけるライフセーバーNo.1】東京オリンピック会場の東京アクアティクスセンター(東京都江東区)で第38回全日本ライフセービング・プール競技選手権大会が開催!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20260217_214254",
+      "theme": "Claude Code 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260217_214254.mp3",
+      "audio_length": 4801515,
+      "audio_duration": "00:05:00",
+      "articles": [
+        {
+          "title": "テックトピア:米国のテクノロジー業界の舞台裏 第56回 SaaSは死なない。だが「中間層」は消える - 産業横断で進む二極化",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「Claude Code」でバイブコーディング 便利なのが「通知」機能",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "NEXT INNOVAITION株式会社、事業拡大に向けAI人材の採用を開始|「YouTube動画編集者」「AI駆動開発エンジニア」「AI/DXコンサルタント」を募集",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
