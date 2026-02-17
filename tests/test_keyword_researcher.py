@@ -3,12 +3,15 @@ import asyncio
 import sys
 from pathlib import Path
 
+import pytest
+
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
 from collectors.keyword_researcher import KeywordResearcher
 
 
+@pytest.mark.asyncio
 async def test_keyword_expansion():
     """Test REQ-003: 50+ keyword generation"""
     researcher = KeywordResearcher()
@@ -47,6 +50,7 @@ async def test_keyword_expansion():
             print(f"  - {kw['keyword']} (intent: {kw['buying_intent']})")
 
 
+@pytest.mark.asyncio
 async def test_integrated_research():
     """Test integrated research pipeline"""
     researcher = KeywordResearcher()
