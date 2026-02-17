@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-16T02:03:39.554359",
-  "total_episodes": 1,
+  "generated_at": "2026-02-17T02:00:31.096914",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260216_020315",
-      "theme": "MCP 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260216_020315.mp3",
-      "audio_length": 1846961,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【購読者8.5万人突破】NoLang開発チームが最前線の知見を凝縮して届ける「Mavericks AI ニュース」の2月2日号を配信。Googleの世界モデル「Genie 3」などについて徹底解説。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
