@@ -4,108 +4,67 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-17T21:45:22.272394</lastBuildDate>
+        <lastBuildDate>2026-02-18T02:06:05.577593</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 哲学 比較</title>
+        <title>エピソード 1: Skill 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 比較】に関する最新ニュースをお届けします。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: 熊日】
-信頼度スコア: 7.0/10
-
-**トピック紹介**
-熊本県内の公立高校入試の後期選抜が始まりました。県内では全日制52校が8322人を募集しています。
-
-**ニュース解説**
-熊本県内の公立高校は、...]]>
-
-
-記事一覧:
-  • 2/17夜 (出典: 熊日, 信頼度: 7.0/10)
-  • 解体テックのクラッソーネ、埼玉県東松山市と「東松山市空き家対策の推進に関する協定」を締結 (出典: Pr Times, 信頼度: 8.0/10)
-  • 衆院委員長ポスト2つ除き与党独占(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 中堅・中小企業の経営者に"トップクラスのコンサルティング"を届ける「ばんそうAI」2026年2月27日サービス開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 山里亮太の元相方が目撃!! 笑い飯・哲夫がポイ捨てタバコを拾った理由 - スタートアップ芸人 (出典: ダイヤモンド・オンライン, 信頼度: 7.5/10)
-  • 日米のゲームデザインにおけるUI/UXはなぜここまで違う?3/4(水)無料セミナー「グローバル時代のゲームUIデザイン」開催 (出典: Pr Times, 信頼度: 8.5/10)
-  • 高熱に加え下痢・おう吐も インフルB型の特徴を解説 予防は「ノンカフェイン飲料」と「水うがい」で(テレビ愛知) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 比較</category>
-        <pubDate>2026-02-17T21:45:22.272289</pubDate>
-        <guid isPermaLink="false">episode_哲学 比較_1_1771364722</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260217_214242.mp3" type="audio/mpeg" length="7893159" />
-        <itunes:duration>00:08:13</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: 哲学 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Business Insider】
-信頼度スコア: 7.0/10
-
-**トピック紹介**
-今日のトピックは、FIREについて。佐藤優さんが、投資に罪悪感を感じる人への回答をしています。
-
-**ニュース解説**...]]>
-
-
-記事一覧:
-  • 【佐藤優】「FIREしたい」という人が抱える本当の問題。マルクスが指摘した、資本家と労働者の違い (出典: Business Insider, 信頼度: 7.0/10)
-  • 【ルイ・ヴィトン×ドゥ・ベトゥーン】複雑にして超希少、ヴェールを脱いだシンパティック機構搭載の腕時計&クロックとは(Pen Online) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 兄を殺し、父さえも――戦国時代で「きょうだい」が最も危険な存在だった理由とは。非情すぎる家督争い時代、その悲しい「確執」に迫る(OTONA SALONE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • ミスミ/パンチ工業向け3PL/川崎物流拠点に統合(日刊産業新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • あなたの死後もSNS投稿やいいねを続ける「AIシミュレート技術」でメタが特許取得。その深い闇 (出典: Business Insider, 信頼度: 7.5/10)
-  • 愛知県東郷町、中部国際空港と廃食用油のSAF等への資源化促進に関する協定を締結 (出典: Pr Times, 信頼度: 8.0/10)
-  • 【プール競技におけるライフセーバーNo.1】東京オリンピック会場の東京アクアティクスセンター(東京都江東区)で第38回全日本ライフセービング・プール競技選手権大会が開催! (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>哲学 方法</category>
-        <pubDate>2026-02-17T21:45:22.272349</pubDate>
-        <guid isPermaLink="false">episode_哲学 方法_2_1771364722</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260217_214251.mp3" type="audio/mpeg" length="8356257" />
-        <itunes:duration>00:08:42</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: Claude code 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
+【セクション 1: Pr Times】
 信頼度スコア: 8.5/10
 
 **トピック紹介**
-テックの最新ニュース、SaaSは本当に死んでしまうのか？
+今日は、Gemini 導入支援プログラム「AI（エーアイ） Driven」に新しい講座が開設されたニュースを紹介します。
 
-**ニュース解説**
-最近、テクノロジー業界では「...]]>
+**...]]>
 
 
 記事一覧:
-  • テックトピア:米国のテクノロジー業界の舞台裏 第56回 SaaSは死なない。だが「中間層」は消える - 産業横断で進む二極化 (出典: Mynavi News, 信頼度: 8.5/10)
-  • 「Claude Code」でバイブコーディング 便利なのが「通知」機能 (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • NEXT INNOVAITION株式会社、事業拡大に向けAI人材の採用を開始|「YouTube動画編集者」「AI駆動開発エンジニア」「AI/DXコンサルタント」を募集 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>Claude Code 方法</category>
-        <pubDate>2026-02-17T21:45:22.272374</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 方法_3_1771364722</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%96%B9%E6%B3%95/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260217_214254.mp3" type="audio/mpeg" length="4801515" />
-        <itunes:duration>00:05:00</itunes:duration>
+  • Gemini 導入支援プログラム「AI Driven」に、Google Workspace の自動化ツール「Google Workspace Studio」の実践トレーニング講座を新規開設 (出典: Pr Times, 信頼度: 8.5/10)
+  • [ITmedia エンタープライズ] AIでITスキルの40%が時代遅れに それでもIT求人が急増する理由とは (出典: Itmedia, 信頼度: 7.5/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-02-18T02:06:05.577536</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1771380365</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260218_020430.mp3" type="audio/mpeg" length="2579644" />
+    </item>
+    <item>
+        <title>エピソード 2: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Itmedia】
+信頼度スコア: 7.5/10
+
+**トピック紹介（20秒・80文字）**
+Googleの新しいサービス、Developer Knowledge APIとMCPサーバーが発表されました。この...]]>
+
+
+記事一覧:
+  • 生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表 (出典: Itmedia, 信頼度: 7.5/10)
+  • レッジ、MCPサーバー構築をリードするストラテジットと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • ストラテジット、AI専門メディア「Ledge.ai」を運営する株式会社レッジと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • コピペ地獄にさようなら! AIが外部データと直接つながる「MCP」超入門【柳谷智宣のAI ウォッチ!】 - 窓の杜 (出典: Google News, 信頼度: 8.5/10)
+  • [ITmedia エグゼクティブ] 生成AI時代だからこそ、従来からの基本的な対策の徹底を――徳丸氏が整理する、生成AI時代ならではのセキュリティリスク (出典: Itmedia, 信頼度: 6.5/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-02-18T02:06:05.577580</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_2_1771380365</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_020436.mp3" type="audio/mpeg" length="5854354" />
     </item>
     </channel>
 </rss>
