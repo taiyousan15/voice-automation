@@ -1,36 +1,21 @@
 {
-  "generated_at": "2026-02-18T02:06:05.577282",
-  "total_episodes": 2,
+  "generated_at": "2026-02-18T21:43:51.613920",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260218_020430",
-      "theme": "skill 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260218_020430.mp3",
-      "audio_length": 2579644,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Gemini 導入支援プログラム「AI Driven」に、Google Workspace の自動化ツール「Google Workspace Studio」の実践トレーニング講座を新規開設",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "[ITmedia エンタープライズ] AIでITスキルの40%が時代遅れに それでもIT求人が急増する理由とは",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260218_020436",
+      "name": "episode_MCP 方法_20260218_214139",
       "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_020436.mp3",
-      "audio_length": 5854354,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_214139.mp3",
+      "audio_length": 6586200,
+      "audio_duration": "00:06:51",
       "articles": [
+        {
+          "title": "「SQLをAIが書く」時代、ClickHouseが語る“なぜデータベースの高速性が求められる”のか",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
         {
           "title": "生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表",
           "source": "Itmedia",
