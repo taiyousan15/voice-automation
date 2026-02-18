@@ -8,10 +8,63 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-17T02:00:31.097049</lastBuildDate>
+        <lastBuildDate>2026-02-18T02:06:05.577593</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
+
+**トピック紹介**
+今日は、Gemini 導入支援プログラム「AI（エーアイ） Driven」に新しい講座が開設されたニュースを紹介します。
+
+**...]]>
+
+
+記事一覧:
+  • Gemini 導入支援プログラム「AI Driven」に、Google Workspace の自動化ツール「Google Workspace Studio」の実践トレーニング講座を新規開設 (出典: Pr Times, 信頼度: 8.5/10)
+  • [ITmedia エンタープライズ] AIでITスキルの40%が時代遅れに それでもIT求人が急増する理由とは (出典: Itmedia, 信頼度: 7.5/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-02-18T02:06:05.577536</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1771380365</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260218_020430.mp3" type="audio/mpeg" length="2579644" />
+    </item>
+    <item>
+        <title>エピソード 2: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Itmedia】
+信頼度スコア: 7.5/10
+
+**トピック紹介（20秒・80文字）**
+Googleの新しいサービス、Developer Knowledge APIとMCPサーバーが発表されました。この...]]>
+
+
+記事一覧:
+  • 生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表 (出典: Itmedia, 信頼度: 7.5/10)
+  • レッジ、MCPサーバー構築をリードするストラテジットと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • ストラテジット、AI専門メディア「Ledge.ai」を運営する株式会社レッジと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • コピペ地獄にさようなら! AIが外部データと直接つながる「MCP」超入門【柳谷智宣のAI ウォッチ!】 - 窓の杜 (出典: Google News, 信頼度: 8.5/10)
+  • [ITmedia エグゼクティブ] 生成AI時代だからこそ、従来からの基本的な対策の徹底を――徳丸氏が整理する、生成AI時代ならではのセキュリティリスク (出典: Itmedia, 信頼度: 6.5/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-02-18T02:06:05.577580</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_2_1771380365</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_020436.mp3" type="audio/mpeg" length="5854354" />
+    </item>
     </channel>
 </rss>
