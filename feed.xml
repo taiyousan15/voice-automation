@@ -4,45 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-18T21:43:51.614276</lastBuildDate>
+        <lastBuildDate>2026-02-19T02:03:02.440817</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Atmarkit Itmedia】
-信頼度スコア: 7.5/10
-
-**トピック紹介（20秒・80文字）**
-ClickHouseというデータベースについてお話しします。
-
-**ニュース解説（1分・35...]]>
-
-
-記事一覧:
-  • 「SQLをAIが書く」時代、ClickHouseが語る“なぜデータベースの高速性が求められる”のか (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
-  • 生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表 (出典: Itmedia, 信頼度: 7.5/10)
-  • レッジ、MCPサーバー構築をリードするストラテジットと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • ストラテジット、AI専門メディア「Ledge.ai」を運営する株式会社レッジと共同で「AIエージェント実装研修」を開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • コピペ地獄にさようなら! AIが外部データと直接つながる「MCP」超入門【柳谷智宣のAI ウォッチ!】 - 窓の杜 (出典: Google News, 信頼度: 8.5/10)
-  • [ITmedia エグゼクティブ] 生成AI時代だからこそ、従来からの基本的な対策の徹底を――徳丸氏が整理する、生成AI時代ならではのセキュリティリスク (出典: Itmedia, 信頼度: 6.5/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-02-18T21:43:51.614232</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1771451031</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_214139.mp3" type="audio/mpeg" length="6586200" />
-        <itunes:duration>00:06:51</itunes:duration>
-    </item>
     </channel>
 </rss>

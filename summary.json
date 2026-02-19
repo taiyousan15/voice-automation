@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-02-18T21:43:51.613920",
-  "total_episodes": 1,
+  "generated_at": "2026-02-19T02:03:02.440682",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 方法_20260218_214139",
-      "theme": "MCP 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260218_214139.mp3",
-      "audio_length": 6586200,
-      "audio_duration": "00:06:51",
-      "articles": [
-        {
-          "title": "「SQLをAIが書く」時代、ClickHouseが語る“なぜデータベースの高速性が求められる”のか",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "生成AIがGoogle製サービスの公式ドキュメントを参照できる「Developer Knowledge API & MCP Server」発表",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "レッジ、MCPサーバー構築をリードするストラテジットと共同で「AIエージェント実装研修」を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ストラテジット、AI専門メディア「Ledge.ai」を運営する株式会社レッジと共同で「AIエージェント実装研修」を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "コピペ地獄にさようなら! AIが外部データと直接つながる「MCP」超入門【柳谷智宣のAI ウォッチ!】 - 窓の杜",
-          "source": "Google News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "[ITmedia エグゼクティブ] 生成AI時代だからこそ、従来からの基本的な対策の徹底を――徳丸氏が整理する、生成AI時代ならではのセキュリティリスク",
-          "source": "Itmedia",
-          "trust_score": 6.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
