@@ -4,44 +4,46 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-19T21:42:24.553280</lastBuildDate>
+        <lastBuildDate>2026-02-20T02:01:33.150585</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Claude code 比較</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 比較】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
+【セクション 1: Gigazine】
+信頼度スコア: 7.5/10
 
 **トピック紹介**
-AI搭載SaaSの設計・開発・運用を一気通貫支援するサービスが登場しました。
+Netflixの新キャンペーン、ワールドベースボールクラシックをチェック！
 
 **ニュース解説**
-AI（エーアイ...]]>
+2026年3月5日から18日...]]>
 
 
 記事一覧:
-  • 【世界初※】AI搭載SaaSの設計・開発・運用を「買い切り」で一気通貫支援-AI Build SaaS合同会社、SaaS構築サービス「AIBuildSaaS」を正式リリース (出典: Pr Times, 信頼度: 8.5/10)
-  • renue、「広告代理AIエージェント」を開発、Web広告のクリエイティブ制作、配信、運用まで、生成AIが完全代行 (出典: Pr Times, 信頼度: 8.0/10)
-  • 【独自】アマゾン、最新倉庫ロボットBlue Jayを発表後わずか3カ月で廃止。AI活用で爆速開発したが... (出典: Business Insider, 信頼度: 7.0/10)
-  • Anthropic、「Claude Sonnet 4.6」発表 Opus級性能を“約6割価格”で実現 (出典: Mynavi News, 信頼度: 8.5/10)</description>
-        <category>Claude Code 比較</category>
-        <pubDate>2026-02-19T21:42:24.553242</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 比較_1_1771537344</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260219_214052.mp3" type="audio/mpeg" length="4481776" />
-        <itunes:duration>00:04:40</itunes:duration>
+  • 2026年2月19日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • AI議事録サービス「Tiro」、グローバル・ブレイン主催「XLIMIT」 4th Batch Demo Dayにて審査員賞を受賞 (出典: Pr Times, 信頼度: 8.0/10)
+  • Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開! (出典: Pr Times, 信頼度: 8.0/10)
+  • LLMと外部サービスをつなぐ新技術「MCP」を手を動かしながら学べる『MCP完全入門 業務効率化のためのAIエージェントの作り方』を2月19日(木)に発売 (出典: Pr Times, 信頼度: 8.5/10)
+  • AIエージェント専業のhomula、「コンポーザブルAIアーキテクト」として支援体制・方法論・自社プロダクトを強化し、コーポレートサイトを全面刷新 (出典: Pr Times, 信頼度: 8.0/10)
+  • 2026年2月18日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • Amplitude、新時代のプロダクト体験を実現するエージェント型AI分析機能を発表 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-02-20T02:01:33.150552</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1771552893</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260220_015907.mp3" type="audio/mpeg" length="7705913" />
     </item>
     </channel>
 </rss>

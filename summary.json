@@ -1,35 +1,50 @@
 {
-  "generated_at": "2026-02-19T21:42:24.553033",
+  "generated_at": "2026-02-20T02:01:33.150325",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 比較_20260219_214052",
-      "theme": "Claude Code 比較",
+      "name": "episode_MCP おすすめ_20260220_015907",
+      "theme": "MCP おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260219_214052.mp3",
-      "audio_length": 4481776,
-      "audio_duration": "00:04:40",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260220_015907.mp3",
+      "audio_length": 7705913,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "【世界初※】AI搭載SaaSの設計・開発・運用を「買い切り」で一気通貫支援-AI Build SaaS合同会社、SaaS構築サービス「AIBuildSaaS」を正式リリース",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "2026年2月19日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "renue、「広告代理AIエージェント」を開発、Web広告のクリエイティブ制作、配信、運用まで、生成AIが完全代行",
+          "title": "AI議事録サービス「Tiro」、グローバル・ブレイン主催「XLIMIT」 4th Batch Demo Dayにて審査員賞を受賞",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【独自】アマゾン、最新倉庫ロボットBlue Jayを発表後わずか3カ月で廃止。AI活用で爆速開発したが...",
-          "source": "Business Insider",
-          "trust_score": 7.0
+          "title": "Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開!",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Anthropic、「Claude Sonnet 4.6」発表 Opus級性能を“約6割価格”で実現",
-          "source": "Mynavi News",
+          "title": "LLMと外部サービスをつなぐ新技術「MCP」を手を動かしながら学べる『MCP完全入門 業務効率化のためのAIエージェントの作り方』を2月19日(木)に発売",
+          "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "AIエージェント専業のhomula、「コンポーザブルAIアーキテクト」として支援体制・方法論・自社プロダクトを強化し、コーポレートサイトを全面刷新",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "2026年2月18日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Amplitude、新時代のプロダクト体験を実現するエージェント型AI分析機能を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
