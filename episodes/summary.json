@@ -1,48 +1,38 @@
 {
-  "generated_at": "2026-02-20T02:01:33.150325",
+  "generated_at": "2026-02-21T01:55:14.082567",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260220_015907",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 方法_20260221_015346",
+      "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260220_015907.mp3",
-      "audio_length": 7705913,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3",
+      "audio_length": 5895314,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応)",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIコーディングを「補助」から「主役」へ導く実践ガイド! 『Claude Code開発体系 拡張・制御・運用の手引き』技術の泉シリーズ、2月の新刊",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ダークトレース、企業内AI導入を監視する新製品 Darktrace / SECURE AIを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
         {
           "title": "2026年2月19日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "AI議事録サービス「Tiro」、グローバル・ブレイン主催「XLIMIT」 4th Batch Demo Dayにて審査員賞を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
           "title": "Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "LLMと外部サービスをつなぐ新技術「MCP」を手を動かしながら学べる『MCP完全入門 業務効率化のためのAIエージェントの作り方』を2月19日(木)に発売",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIエージェント専業のhomula、「コンポーザブルAIアーキテクト」として支援体制・方法論・自社プロダクトを強化し、コーポレートサイトを全面刷新",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年2月18日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Amplitude、新時代のプロダクト体験を実現するエージェント型AI分析機能を発表",
           "source": "Pr Times",
           "trust_score": 8.0
         }
