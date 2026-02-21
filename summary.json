@@ -1,45 +1,15 @@
 {
-  "generated_at": "2026-02-20T21:35:11.355473",
-  "total_episodes": 3,
+  "generated_at": "2026-02-21T01:55:14.082567",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260220_213321",
-      "theme": "MCP 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260220_213321.mp3",
-      "audio_length": 1326184,
-      "audio_duration": "00:01:22",
-      "articles": [
-        {
-          "title": "AI議事録サービス「Tiro」、グローバル・ブレイン主催「XLIMIT」 4th Batch Demo Dayにて審査員賞を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260220_213322",
-      "theme": "skill 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260220_213322.mp3",
-      "audio_length": 1248026,
-      "audio_duration": "00:01:18",
-      "articles": [
-        {
-          "title": "RUNTEQ、エンジニアスキルを総合的に分析。「新Skill Metrix」を提供開始。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260220_213330",
+      "name": "episode_MCP 方法_20260221_015346",
       "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260220_213330.mp3",
-      "audio_length": 5802109,
-      "audio_duration": "00:06:02",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3",
+      "audio_length": 5895314,
+      "audio_duration": null,
       "articles": [
         {
           "title": "ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応)",
@@ -65,11 +35,6 @@
           "title": "Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開!",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "LLMと外部サービスをつなぐ新技術「MCP」を手を動かしながら学べる『MCP完全入門 業務効率化のためのAIエージェントの作り方』を2月19日(木)に発売",
-          "source": "Pr Times",
-          "trust_score": 8.5
         }
       ]
     }
