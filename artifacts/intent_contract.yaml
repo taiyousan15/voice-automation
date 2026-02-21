@@ -1,0 +1,26 @@
+objective: |
+  TAISUNシステム診断→音声自動化システム修正の2段階タスク実行
+
+tasks:
+  - TAISUNシステム診断（git pull, npm install, build, diagnose）
+  - 音声台本誤字修正→TTS前処理確認→音声再生成
+
+non_goals:
+  - 破壊的変更なし
+  - 既存ファイル削除なし
+
+inputs:
+  - latest_claudecode.mp3
+  - episode_Claude Code 活用_20260215_000914.txt
+
+constraints:
+  - 読み取り専用の診断
+  - 誤字修正のみ
+
+definition_of_done:
+  - TAISUNシステム診断完了
+  - 台本誤字修正完了
+  - 新音声生成完了
+
+allowed_deviations_policy:
+  - エラー時は報告のみ

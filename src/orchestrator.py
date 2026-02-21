@@ -25,6 +25,7 @@ from src.publishers.rss_generator import RSSGenerator
 from src.collectors.keyword_researcher import KeywordResearcher
 
 from src.generators.groq_client import GroqClient
+from src.generators.template_selector import TemplateSelector
 
 # LLM Fallback: OpenRouter Claude Haiku
 try:
@@ -113,6 +114,9 @@ class PipelineOrchestrator:
         self.quality_inspector = QualityInspector()      # Phase 4: Script quality inspection
         self.text_preprocessor = JapaneseTextPreprocessor()  # Phase 5: TTS text preprocessing
 
+
+        # Initialize template selector (REQ-201/REQ-202)
+        self.template_selector = TemplateSelector()
 
         # Initialize LLM clients (Groq優先、OpenRouter Claude Haikuフォールバック)
         self.groq_client = GroqClient()
@@ -286,6 +290,16 @@ class PipelineOrchestrator:
 ---
 """
 
+            # Select template based on theme (REQ-201/REQ-202)
+            selected_template = self.template_selector.select(
+                theme=theme,
+                articles=articles,
+                info_count=len(articles)
+            )
+            template_name = selected_template.get("name", "default") if selected_template else "default"
+            template_style = selected_template.get("style", "taiyo_ok") if selected_template else "taiyo_ok"
+            self.logger.info(f"  Template: {template_name} (style={template_style})")
+
             # Generate scripts for each article
             scripts = []
             for i, article in enumerate(articles, 1):
@@ -295,7 +309,8 @@ class PipelineOrchestrator:
                     # Try Groq first (fast & free)
                     script = self.groq_client.generate_podcast_script(
                         article_text=article_text,
-                        theme=theme
+                        theme=theme,
+                        template=selected_template
                     )
 
                     # Fallback to OpenRouter Claude Haiku if Groq fails
@@ -303,7 +318,8 @@ class PipelineOrchestrator:
                         self.logger.warning(f"  ⚠ Groq failed for article {i}, falling back to Claude Haiku...")
                         script = self.openrouter_client.generate_podcast_script(
                             article_text=article_text,
-                            theme=theme
+                            theme=theme,
+                            template=selected_template
                         )
 
                     if script:
@@ -763,6 +779,31 @@ class PipelineOrchestrator:
         saved_files["dashboard"] = dashboard_file
         self.logger.info(f"✓ Saved dashboard: {dashboard_file}")
         self.logger.info(f"✓ Saved summary: {summary_file}")
+
+        # Phase 7: Multi-platform distribution (non-blocking)
+        try:
+            from src.publishers.distribution_manager import DistributionManager
+            dist_manager = DistributionManager()
+            rss_url = f"{github_pages_url}/feed.xml"
+
+            for result in self.results:
+                if result.status == "success" and result.audio_url:
+                    dist_report = dist_manager.distribute_episode(
+                        episode_title=f"エピソード: {result.theme.capitalize()}",
+                        theme=result.theme,
+                        audio_path=result.audio_file,
+                        audio_url=result.audio_url,
+                        description=result.script[:500] if result.script else "",
+                        rss_url=rss_url,
+                        output_dir=output_dir,
+                    )
+                    saved_files[f"distribution_{result.theme}"] = {
+                        "successful": [r.platform for r in dist_report.successful],
+                        "skipped": [r.platform for r in dist_report.skipped_platforms],
+                        "failed": [r.platform for r in dist_report.failed],
+                    }
+        except Exception as e:
+            self.logger.warning(f"Distribution failed (non-blocking): {e}")
 
         return saved_files
 

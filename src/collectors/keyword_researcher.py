@@ -65,33 +65,117 @@ class KeywordResearcher:
             return {}
 
     def _generate_keyword_variants(self, seed: str) -> List[Dict[str, Any]]:
-        """Generate keyword variants from seed keyword"""
+        """
+        Generate 50+ keyword variants from seed keyword
+
+        REQ-003: keyword-mega-extractor integration for 50+ keywords
+        """
         variants = []
-        
-        # Compound keywords (複合キーワード)
+
+        # 1. Compound keywords (複合キーワード) - 30個
         compound_suffixes = [
-            "とは", "方法", "やり方", "使い方", "活用", "稼ぎ方",
-            "おすすめ", "比較", "ランキング", "最新", "2026"
+            # 情報収集系（10個）
+            "とは", "意味", "解説", "わかりやすく", "初心者",
+            "基礎", "入門", "ガイド", "まとめ", "wiki",
+            # ハウツー系（10個）
+            "方法", "やり方", "使い方", "活用", "設定",
+            "手順", "始め方", "導入", "インストール", "セットアップ",
+            # 購買意図系（10個）
+            "おすすめ", "比較", "ランキング", "レビュー", "評判",
+            "口コミ", "選び方", "最新", "2026", "価格"
         ]
-        
+
         for suffix in compound_suffixes:
+            buying_intent = 0.9 if suffix in ["おすすめ", "比較", "ランキング", "レビュー", "選び方"] else 0.4
             variants.append({
                 "keyword": f"{seed} {suffix}",
                 "type": "compound",
-                "buying_intent": 0.7 if suffix in ["おすすめ", "比較", "ランキング"] else 0.3
+                "buying_intent": buying_intent
             })
-        
-        # Related keywords (関連キーワード)
-        if "AI" in seed or "人工知能" in seed:
-            related = ["機械学習", "深層学習", "ChatGPT", "Claude", "LLM"]
-            for rel in related:
-                variants.append({
-                    "keyword": f"{seed} {rel}",
-                    "type": "related",
-                    "buying_intent": 0.4
-                })
-        
+
+        # 2. Longtail keywords (ロングテール) - 10個
+        longtail_patterns = [
+            f"{seed} 無料",
+            f"{seed} 有料",
+            f"{seed} メリット デメリット",
+            f"{seed} 使ってみた",
+            f"{seed} 実際に",
+            f"{seed} おすすめ 理由",
+            f"{seed} 導入事例",
+            f"{seed} 成功事例",
+            f"{seed} 失敗 原因",
+            f"{seed} 注意点"
+        ]
+
+        for pattern in longtail_patterns:
+            variants.append({
+                "keyword": pattern,
+                "type": "longtail",
+                "buying_intent": 0.6
+            })
+
+        # 3. Niche keywords (ニッチキーワード) - 10個
+        niche_patterns = [
+            f"{seed} 代替",
+            f"{seed} 類似",
+            f"{seed} 競合",
+            f"{seed} 違い",
+            f"{seed} vs",
+            f"{seed} 連携",
+            f"{seed} API",
+            f"{seed} プラグイン",
+            f"{seed} 拡張",
+            f"{seed} カスタマイズ"
+        ]
+
+        for pattern in niche_patterns:
+            variants.append({
+                "keyword": pattern,
+                "type": "niche",
+                "buying_intent": 0.5
+            })
+
+        # 4. Related keywords (関連キーワード) - 10個+
+        related_keywords = self._get_related_keywords(seed)
+        for rel in related_keywords:
+            variants.append({
+                "keyword": f"{seed} {rel}",
+                "type": "related",
+                "buying_intent": 0.4
+            })
+
+        logger.info(f"Generated {len(variants)} keyword variants for '{seed}'")
         return variants
+
+    def _get_related_keywords(self, seed: str) -> List[str]:
+        """Get domain-specific related keywords"""
+        # AI/Tech関連
+        if any(term in seed for term in ["AI", "人工知能", "機械学習", "LLM"]):
+            return [
+                "ChatGPT", "Claude", "Gemini", "GPT-4", "Llama",
+                "プロンプト", "RAG", "ファインチューニング", "エージェント", "マルチモーダル"
+            ]
+
+        # プログラミング関連
+        elif any(term in seed for term in ["プログラミング", "開発", "コーディング", "Python", "JavaScript"]):
+            return [
+                "フレームワーク", "ライブラリ", "IDE", "デバッグ", "テスト",
+                "CI/CD", "Docker", "Git", "GitHub", "VSCode"
+            ]
+
+        # ビジネス/マーケティング関連
+        elif any(term in seed for term in ["マーケティング", "SEO", "広告", "集客", "売上"]):
+            return [
+                "コンバージョン", "CTA", "LPO", "リターゲティング", "A/Bテスト",
+                "アナリティクス", "ROI", "KPI", "ファネル", "リード"
+            ]
+
+        # デフォルト
+        else:
+            return [
+                "ツール", "サービス", "プラットフォーム", "ソリューション", "システム",
+                "アプリ", "ソフトウェア", "クラウド", "オンライン", "デジタル"
+            ]
 
     async def world_research(
         self,

@@ -5,14 +5,14 @@
     "strict": true,
     "currentPhase": 1,
     "startedAt": "2026-02-11T20:07:24.021Z",
-    "lastUpdated": "2026-02-14T14:13:22.649Z",
+    "lastUpdated": "2026-02-19T08:17:56.730Z",
     "autoMappedSkills": [
       {
-        "name": "TTS音声生成（Fish Audio）",
+        "name": "基本リサーチ（簡易調査）",
         "required_skills": [
-          "interactive-video-platform"
+          "research"
         ],
-        "strict": true
+        "strict": false
       }
     ]
   },
@@ -35,28 +35,153 @@
     "skillEvidence": [],
     "skillEvidenceIndexByStepId": {},
     "required_skills": {
+      "1": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "3": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "10": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "11": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "12": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "20": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "29": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "30": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1318": {
+        "requestedAt": "2026-02-17T19:34:10.204Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1412": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1444": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1492": {
+        "requestedAt": "2026-02-17T19:34:10.204Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1493": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1517": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2015": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2023": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2024": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "26237": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "219445": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "1425703": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "8152225": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "20220915": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "490248027": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
       "stand": {
-        "requestedAt": "2026-02-13T16:21:40.088Z",
+        "requestedAt": "2026-02-18T18:39:33.915Z",
         "used": false,
         "autoMapped": false
       },
       "Users": {
-        "requestedAt": "2026-02-14T14:13:22.648Z",
+        "requestedAt": "2026-02-18T13:37:23.992Z",
         "used": false,
         "autoMapped": false
       },
       "matsumototoshihiko": {
-        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "requestedAt": "2026-02-18T13:37:23.992Z",
         "used": false,
         "autoMapped": false
       },
       "Desktop": {
-        "requestedAt": "2026-02-14T14:13:22.649Z",
+        "requestedAt": "2026-02-18T13:37:23.992Z",
         "used": false,
         "autoMapped": false
       },
       "API": {
-        "requestedAt": "2026-02-13T16:44:23.933Z",
+        "requestedAt": "2026-02-17T18:35:29.929Z",
         "used": false,
         "autoMapped": false
       },
@@ -66,17 +191,17 @@
         "autoMapped": false
       },
       "workflows": {
-        "requestedAt": "2026-02-13T17:14:29.433Z",
+        "requestedAt": "2026-02-17T09:01:05.530Z",
         "used": false,
         "autoMapped": false
       },
       "interactive-video-platform": {
-        "requestedAt": "2026-02-13T18:53:10.357Z",
+        "requestedAt": "2026-02-18T13:37:23.992Z",
         "used": false,
         "autoMapped": true
       },
       "taisun_agent": {
-        "requestedAt": "2026-02-14T11:06:41.415Z",
+        "requestedAt": "2026-02-15T09:52:09.409Z",
         "used": false,
         "autoMapped": false
       },
@@ -111,7 +236,7 @@
         "autoMapped": false
       },
       "orchestrator": {
-        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "requestedAt": "2026-02-17T09:01:05.530Z",
         "used": false,
         "autoMapped": false
       },
@@ -132,6 +257,3551 @@
       },
       "keyword-mega-extractor": {
         "requestedAt": "2026-02-14T14:13:22.649Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "episodes": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "latest_claudecode": {
+        "requestedAt": "2026-02-15T06:33:49.450Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "task-id": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "private": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tmp": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "claude-501": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "-Users-matsumototoshihiko-Desktop---2026----------": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tasks": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b482cef": {
+        "requestedAt": "2026-02-15T06:47:14.216Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "output-file": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "status": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "summary": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "task-notification": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "projects": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Users-matsumototoshihiko-Desktop-2026": {
+        "requestedAt": "2026-02-15T13:23:55.728Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "terminals": {
+        "requestedAt": "2026-02-15T13:23:55.728Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "github": {
+        "requestedAt": "2026-02-16T16:59:36.442Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyousan15": {
+        "requestedAt": "2026-02-16T16:59:36.443Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "google-auth-system": {
+        "requestedAt": "2026-02-16T14:34:38.484Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voice-automation": {
+        "requestedAt": "2026-02-16T16:59:36.443Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ba241ea": {
+        "requestedAt": "2026-02-16T20:53:13.700Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyo-style-lp": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "video-course": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "b504913": {
+        "requestedAt": "2026-02-17T09:00:59.680Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "feed": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Twitter": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "publishers": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "note_publisher": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "x_publisher": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tweets": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "youtube_publisher": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "distribution_manager": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "except": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-automation": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "YouTube": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "test_publishers": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "3c699741-71bd-4c02-b8ec-dc6b2618c5c2": {
+        "requestedAt": "2026-02-17T09:01:05.530Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "research": {
+        "requestedAt": "2026-02-19T08:17:56.730Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "Substack": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "SNS": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "venturebeat": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "category": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "techcrunch": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "artificial-intelligence": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "www": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "martech": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "news": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sections": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theresanaiforthat": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-batch": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stratechery": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tldr": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bensbites": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aibreakfast": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "magazine": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "LocalLLaMA": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "r": {
+        "requestedAt": "2026-02-17T18:06:58.704Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "artificial": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "MachineLearning": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "categories": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai-software": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "x": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "simonwillison": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "levels": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "shumer": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "blog": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gregisenberg": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "lexfridman": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-showcase": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcasts": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "us": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai-for-business": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aifundingtracker": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fundraiseinsider": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai-startups": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "companies": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "capabilities": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "quantumblack": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "our-insights": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "microsaasidea": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "arxiv": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "list": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cs": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "recent": {
+        "requestedAt": "2026-02-17T14:37:11.406Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "paperswithcode": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aifund": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "team-member": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "andrew-ng": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "result": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "usage": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a40320a": {
+        "requestedAt": "2026-02-17T14:37:11.407Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a16z": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "review": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "paulgraham": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "articles": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tim": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nav": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "seths": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "garyvaynerchuk": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "businessmodelanalyst": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Newsletter": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Podcast": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thebootstrappedfounder": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "newsletter": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Entrepreneur": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "entrepreneur": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Startups": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "startups": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "business": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hbr": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "twitter": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "awilkinson": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tiny": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thehustle": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "trends": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mastersofscale": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kk": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dailystoic": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ryanholiday": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "markmanson": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jamesclear": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "3-2-1": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "zenstudiespodcast": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoa-conversations": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1491930514": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "chriswillx": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Stoicism": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcastnotes": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fs": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ckarchive": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mvu7h5hkgw2wk": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "knowledge-project-podcast": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophybites": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Philosophy": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophy": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tricycle": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "plumvillage": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "series": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-i-built-this": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wondery": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "shows": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rags-to-riches-with-matt-cooper": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1441920014": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jockopodcast": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "davidgoggins": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "brenebrown": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-show": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "topic": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rags-to-riches": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "smallbiztrends": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "solvedpodcast": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "resilience": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Community": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podtail": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "en": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-phoenix-ascent": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "vocal": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "journal": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "show": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pivot": {
+        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "digitaldefynd": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "IQ": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "most-inspirational-rags-to-riches-stories": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "GetMotivated": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "leadership": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "famous-business-failures-and-comebacks": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-earned-podcast": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-resilient-mind": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jimsmarketingblog": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "findingmastery": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "lewishowes": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "medium": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "better-humans": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theentrepreneur-times": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-art-of-resilience-stories-of-entrepreneurs-overcoming-challenges": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "impacttheory": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "MadeMeSmile": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "UpliftingNews": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-innovative-business-models": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a85f452": {
+        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aliabdaal": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ConvertKit": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nathanbarry": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "substack": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kajabi": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gumroad": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "l": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creators": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stumclaren": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ryanlevesque": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "deangraziosiofficial": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "copyblogger": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "foundr": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kit": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "industry-news": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "resources": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theinfluencermarketingfactory": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "inbeat": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "appsumo": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CreatorEconomy": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "teachable": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creator-economy": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "digiday": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pressgazette": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "newsletters": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jeffwalker": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "microconf": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "updates": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "betalist": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "SaaS": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "on-air-episodes": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "product-hunt-launch-checklist-47-steps-to-1-in-2025": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "crowdfunding-uncut-kickstarter-indiegogo-where-entrepreneurs": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1028913734": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marketing": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "product-launch": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bestofshowhn": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "courses": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "saas-launchpad": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "launchdirectories": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theankler": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "growthner": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marketingschool": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gtmbuddy": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "robwalling": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marketingsecrets": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "magneticmarketing": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bensettle": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cxl": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "B": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "unbounce": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "toddbrown": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thecopywriterclub": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "copychief": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "roysfurr": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "email-marketing": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "geniusesofcopywriting": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mailchimp": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "direct_response_marketing_podcasts": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "agency": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "content-marketing": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "direct-response-copywriting": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "copyhackers": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thecopycrusade": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "digital_marketing": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "copywriting": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "youngandprofiting": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "solopreneurcode": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ceoweekly": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creator-economy-trends": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "plf-party-post": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "inside-the-newsletter-evolution-of-2025": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-russell-brunson-show-a-new-beginning-for-2025": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creator-economy-trends-2025": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a3ae717": {
+        "requestedAt": "2026-02-17T14:41:00.598Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "seekingalpha": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "seeking-alpha-vs-morningstar": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "awealthofcommonsense": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theirrelevantinvestor": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "invest-like-the-best": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "animalspiritspod": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "motley-fool-money": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bogleheads": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "forum": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "obliviousinvestor": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "capitalallocators": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "learn": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "story": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "is-it-good-time-to-consider-japanese-stocks": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "investment-guides": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "investing-in-japan": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "coinledger": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tools": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-crypto-news-sites": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "koinly": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-crypto-newsletters": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thedefiant": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "decrypt": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "crypto": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pomp": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "milkroad": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "unchainedcrypto": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bitcoinmagazine": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "glassnode": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "LTH": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "post": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-crypto-analytics-platforms-2025-guide": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dune": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "defillama": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-investment-newsletters": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-20-best-investing-podcasts": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "coinbound": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-crypto-blogs": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a11ba44": {
+        "requestedAt": "2026-02-17T14:47:13.375Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Web": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "soundsprofitable": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podnews": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hotpod": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "solutions": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-audio-research": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-ad-revenue": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podglomerate": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "commandyourbrand": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "transistor": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "influencermarketinghub": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sproutsocial": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "insights": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "later": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stackinfluence": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "influencer-marketing-resources": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "agencyanalytics": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "backlinko": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ahrefs": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "moz": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sparktoro": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "i78ww": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wp-content": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "uploads": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "05": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "listening": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-industry-stats": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "social-media-marketing-strategy": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "successful-affiliate-websites-examples": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "conversion-rate-optimization": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "affiliate-roundup-wirecutter-effect-newsletter-strategies": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "inspire": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcasting-trends-predictions-2026": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tiktok-ugc": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creator-economy-tiktok-e-commerce-trends-2025": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "influencer-marketing-resources-october-2025-2": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "influencer-marketing-trends": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "must-read-podcast-newsletters": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a5f0902": {
+        "requestedAt": "2026-02-17T14:47:38.428Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "SSP": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "adage": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ads": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "en-US": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Instagram": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "LinkedIn": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "TikTok": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "X": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ideas": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Ad": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "campaigns": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creative-effective": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marketingexamples": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "behavioralscientist": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cialdini": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thedecisionlab": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "danariely": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "irrationallabs": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Digiday": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Adweek": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Marketing": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Social": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Nielsen": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ideas42": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CXL": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Ariely": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Kahneman": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "programmatic-luxury": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "zgkl_best_copywriter": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "behavioral-economics": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "glossary": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "irrational-labs": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "abb0bf4": {
+        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyo-style-sales-letter": {
+        "requestedAt": "2026-02-17T18:06:58.704Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "scienceandnonduality": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "deconstructingyourself": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "onbeing": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rupertspira": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "eckharttolle": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jackkornfield": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Apple": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "insighttimer": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "greatergood": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "self-compassion": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "positivepsychology": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "instituteofcoaching": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sogpodcast": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "artofcoaching": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "coachingforleaders": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "newfieldnetwork": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dtl-podcast": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "coachingfederation": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "robdial": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thelifecoachschool": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spiritual_podcasts": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-60-best-executive-coaching-industry-podcasts-of-2024": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a8910f2": {
+        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marginalrevolution": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "econbrowser": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cepr": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voxeu": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "econlog": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "conversableeconomist": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voxdev": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "libertystreeteconomics": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "press": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "html": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "index": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "adamtooze": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theovershoot": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "blogs": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "investor": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "paulkrugman": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "FIRE": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "affordanything": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ofdollarsanddata": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "collabfund": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jlcollinsnh": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "economics-blogs": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "finance": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-10-blogs-of-2025-insights-on-market-cycles-and-financial-history": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ad8691f": {
+        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "beherenownetwork": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "maps": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "psychedelicstoday": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "integrallife": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wisdomexperience": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wisdom-article": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wisdom-podcast": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "academic": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nc": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "meditation": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "traumahealing": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ifs-institute": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rickhanson": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ccare": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Psychological": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "drdianahill": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wellspring": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "embodimentpodcast": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "conscious": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Lisa": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "boldly": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "meredithturney": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "leadwithintention": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "article": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "niaf013": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "about-peter": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "03": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "07": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "psychedelic-science-2025-announces-select-speakers-for-the-leading-conference-on-psychedelic-research-policy-and-thought-leadership": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2025-compassion-report": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "markwalsh": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tag": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Wisdom": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ac5d2e8": {
+        "requestedAt": "2026-02-17T15:02:39.482Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gsas": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "colloquy-podcast-how-succeed-business-failing-intelligently": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sloanreview": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "knowledge-at-wharton": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id120724941": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hbr-on-strategy": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1683845677": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thestrategystack": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "p": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "business-model-series-progress-update-746": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "innovators-guide": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "business-model-innovation-full-guide": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Wondery": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "player": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "special-acquired-x-my-first-million": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "donaldrobertson": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicism-philosophy-as-a-way-of-life-podcast": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1651151200": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "perennial": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "whatisstoicism": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicism-resources": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "7-best-stoicism-podcasts": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Seneca": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoic": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "viastoica": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-10-stoicism-podcasts-2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcasts_like_lex_fridman": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "papers": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sol3": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "link": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "s13731-025-00493-w": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pmc": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "PMC10881814": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "PubMed": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "corpgov": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "09": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "startup-failure": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "publication": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "385976732_Embracing_the_Entrepreneurial_Challenge_Learning_from_Failures_and_Setbacks": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-to-lead-a-successful-turnaround": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "success-in-progress-real-stories-of-business-growth": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1793250840": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ceinterim": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "business-turnaround-case-study-success-stories": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "syracuse-university-launches-nations-first-academic-center-for-the-creator-economy": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creatorswithinfluence": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "04": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Goldman-Sachs-Global-Investment-Research-Creator-Economy-Framing-Market-Opportunity-Download-Report-March-26-2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "youtubes-creator-economy-impact": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "industry-analysis": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "creator-economy-market-report": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "escapethecubicle": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "substack-changed-everything-in-2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dare-to-launch": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1263788143": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "open": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "7uajPM8bjv7Gi2Q9zOBXrN": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spi-847-2025-product-launch-formula-with-jeff-and-dan-walker": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ep76transcript": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "onlinemarketingpodcast": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "an-in-depth-review-of-product-launch-formula-and-ultimate-guide-jeff-walker": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-ai-newsletters-of-2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-ai-newsletters-2025---stay-ahead-in-ai-trends": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "recommendations": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theinnovationcodex": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai-driven-marketer-master-ai-marketing-to-stand-out-in-2026": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "id1719663520": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pod": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "profile": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ai-agents-podcast": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "The-Best-AI-Agents-in-2025--EP31-e30trhc": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "content": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-ai-rewired-marketing-2025--breakout-use-cases-marketing-leaders": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "science": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "abs": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pii": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "S0148296325001535": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "radioactivemedia": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "audio-advertising": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcastmarketingacademy": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-marketing-academy-lower-street-publish-podcast-marketing-trends-2025-report": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "why-podcast-and-audio-marketing-is-growing-in-2025": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-2025-state-of-video-podcasts": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcasting-and-social-audio-in-2025-strategies-for-marketing-through-voice-channels": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "PPC": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CPA": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "swiped": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "swipefile": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-best-copywriting-newsletters": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "buhaycopywriter": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "q1-2025-copywriting-inspo-roundup": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-top-10-substacks-for-marketers-in-2024": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "alliedify": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "breakthrough-advertising-by-eugene-m-schwartz-mastering-the-psychology-of-persuasion": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicism_podcasts": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "growthpartners": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-reddit-communities-marketing": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "startupsearch": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "startup-center": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-subreddits-for-entrepreneurs": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "zapier": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-marketing-newsletters": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aabb41d": {
+        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stockanalysis": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stockanalysis-com-review": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "comment": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "GVA": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "firm": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hussman-funds": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ritholtz": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wiki": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Barry_Ritholtz": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marc-rubinstein-hidden-fault-lines-modern-finance": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "messari": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "news-releases": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "messari-research-analysts-publish-crypto-theses-2025-302332583": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "delphidigital": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "L2": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "year-ahead-2025": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cryptoquant": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "slashdot": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "software": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "comparison": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CryptoQuant-vs-Glassnode": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nansen-the-leading-blockchain-intelligence-tool-for-onchain-data-in-2025": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "niccarter": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "scholar": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "citations": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "RePEc": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "s": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bis": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "biswps": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bankunderground": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "discover": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bank-underground": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fredblog": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "perspectives": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "about": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "our-purpose": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "themacrocompass": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "weekly-dispatches": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "blogs-to-watch-part-1-lyn-alden": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "authors": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "morgan": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ourworldindata": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "SVG": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CSV": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "english": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "about-caixin": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "asia": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "outlook": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "editions": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "september-2025": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "raoulpal": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "insight": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "doi": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "qrfm-02-2024-0034": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "full": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tradingeconomics": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ae66a87": {
+        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "research_output": {
+        "requestedAt": "2026-02-17T18:06:58.704Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Otonal": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Loss": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "CTA20": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcastranking": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "apple": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rikiyaishizaki": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mental-triggers-and-story-templates": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "audiostart": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "recommended-podcast-17": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-studio": {
+        "requestedAt": "2026-02-17T19:34:10.204Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2025-2": {
+        "requestedAt": "2026-02-17T19:34:10.204Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jp": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "charts": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "service": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "posts": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "202504_business": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a9a8a36": {
+        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Encounter": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Transformation": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "After": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "japan_investment_podcasts": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "channels": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "60bb0d61b82bc5e1f3db6fd9": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "topics": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "20250421investment_advisory": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "japan": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "start-podcast": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aec6c39": {
+        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mg": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "media_podcasting": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcasting-format-and-script": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sogyotecho": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "podcast-business": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "type": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "et": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "feature": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ds-b": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dsmagazine": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "recommended-podcasts-for-business-marketing": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "AI": {
+        "requestedAt": "2026-02-17T19:34:10.203Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a839dad": {
+        "requestedAt": "2026-02-17T19:34:10.204Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b167d94": {
+        "requestedAt": "2026-02-17T19:34:14.431Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "AI_": {
+        "requestedAt": "2026-02-17T19:49:08.471Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "20260218_AI": {
+        "requestedAt": "2026-02-18T13:37:23.992Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "huggingface": {
+        "requestedAt": "2026-02-18T13:47:48.587Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "collections": {
+        "requestedAt": "2026-02-18T13:47:48.587Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Qwen": {
+        "requestedAt": "2026-02-18T13:47:48.587Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "qwen35": {
+        "requestedAt": "2026-02-18T13:47:48.587Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b06646f": {
+        "requestedAt": "2026-02-18T14:10:40.656Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "world-research": {
+        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "mega-research-plus": {
+        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "unified-research": {
+        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "research-free": {
+        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "used": false,
+        "autoMapped": true
+      },
+      "note": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "okazakiyoshiaki": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "n": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "n92ff4764cb7b": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gmo-research": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "research-column": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "2025_year": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voicy_design": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "na473636a8816": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ainoarukurashi": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nb843d1707c36": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a758718": {
+        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "voicy": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "personality": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ranking2022-money": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "202409_mental": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "correct-law-guide": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "common": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "law": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "guide": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kinyushohin": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "client-alert_seminar": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "client-alert": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sodan": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kinkyu": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "22SiMXIRVEYiAVUjjq8AFc": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a193d80": {
+        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "kotanigawakenji": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sales-psychology": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "5-steps-to-utilize-the-heroes-journey-for-business": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "product-launch-formula": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nakamurashota": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "online-sales": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "productlaunch": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "DGXZQOUF019AL0R00C24A8000000": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "d2cradmimi": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nbdd8f86e150a": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ae43524": {
+        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b44676b": {
+        "requestedAt": "2026-02-18T18:54:54.176Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b83e9ee": {
+        "requestedAt": "2026-02-18T18:55:03.792Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b52fa5a": {
+        "requestedAt": "2026-02-18T18:55:11.301Z",
         "used": false,
         "autoMapped": false
       }

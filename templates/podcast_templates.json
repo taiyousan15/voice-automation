@@ -1,0 +1,212 @@
+[
+  {
+    "template_id": "T01",
+    "name": "ヒーローズジャーニー型",
+    "genres": ["逆転劇", "メンタル/コーチング"],
+    "category": "ビジネス・哲学・逆転劇",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.10, "main": 0.75, "outro": 0.15},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "hook", "target_chars": 150, "role": "問題提起・共感（リスナーの痛みに触れる）"},
+      {"name": "story", "target_chars": 600, "role": "ヒーローズジャーニー展開（困難→気づき→変容）"},
+      {"name": "solution", "target_chars": 500, "role": "解決策・具体的インサイト"},
+      {"name": "cta", "target_chars": 100, "role": "行動喚起（チャンネル登録・フォロー促進）"}
+    ],
+    "prompt_injection": "【台本スタイル】ヒーローズジャーニー構造で展開してください。主人公が困難に直面し、気づきを得て変容する物語として構成します。冒頭でリスナーの共感を得る問題提起から始め、ストーリーで引き込み、最後に実践的な教訓を提供してください。語り口は情熱的かつ親しみやすく。",
+    "psychological_triggers": ["社会的証明", "好奇心ギャップ", "好意"],
+    "storytelling": "heroes_journey",
+    "cta_pattern": "チャンネル登録・フォロー促進",
+    "retention_techniques": ["オープンループ", "パターン中断", "ストーリーアーク"]
+  },
+  {
+    "template_id": "T02",
+    "name": "問題解決型",
+    "genres": ["ビジネスモデル", "AIビジネス"],
+    "category": "ビジネス・哲学・逆転劇",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.10, "main": 0.70, "outro": 0.20},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "problem", "target_chars": 200, "role": "問題の明確化（多くの人が抱える課題）"},
+      {"name": "analysis", "target_chars": 500, "role": "原因分析と背景説明"},
+      {"name": "solution", "target_chars": 500, "role": "具体的な解決策・事例紹介"},
+      {"name": "action_cta", "target_chars": 150, "role": "今すぐできるアクション＋CTA"}
+    ],
+    "prompt_injection": "【台本スタイル】問題解決フレームワークで展開してください。冒頭で「こんな悩みありませんか？」と問題を明確化し、原因を分析した上で、具体的な解決策を事例付きで提示します。最後に今すぐ実践できるアクションを1つ提案してください。",
+    "psychological_triggers": ["損失回避", "社会的証明", "権威性"],
+    "storytelling": "problem_solution",
+    "cta_pattern": "実践アクション提案→フォロー促進",
+    "retention_techniques": ["オープンループ", "具体的数字", "質問投げかけ"]
+  },
+  {
+    "template_id": "T03",
+    "name": "教育コンテンツ型",
+    "genres": ["哲学", "経済学"],
+    "category": "ビジネス・哲学・逆転劇",
+    "style": "fact_strict",
+    "ng_keywords": ["絶対", "確実に", "必ず儲かる", "誰でも簡単に"],
+    "time_ratio": {"intro": 0.10, "main": 0.75, "outro": 0.15},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "intro", "target_chars": 150, "role": "トピック紹介（なぜ今これを知るべきか）"},
+      {"name": "explanation", "target_chars": 650, "role": "わかりやすい解説（専門用語は平易に説明）"},
+      {"name": "insight", "target_chars": 350, "role": "独自の考察・インサイト（事実ベース）"},
+      {"name": "summary", "target_chars": 200, "role": "要約＋リスナーへのメッセージ"}
+    ],
+    "prompt_injection": "【台本スタイル】教育コンテンツとして展開してください。信頼できるデータ・事実に基づき、専門用語は必ず平易な言葉で解説します。誇大表現や断定的判断は禁止です。「〜と言われています」「〜という研究結果があります」のように根拠を示してください。",
+    "psychological_triggers": ["権威性", "好奇心ギャップ", "一貫性"],
+    "storytelling": "educational",
+    "cta_pattern": "学びの継続促進→フォロー",
+    "retention_techniques": ["具体的数字", "質問投げかけ", "予告"]
+  },
+  {
+    "template_id": "T04",
+    "name": "プロダクトローンチ型",
+    "genres": ["コンテンツビジネス", "DRM", "プロダクトローンチ"],
+    "category": "コンテンツビジネス・DRM",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.15, "main": 0.65, "outro": 0.20},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "hook", "target_chars": 200, "role": "衝撃的な事実・結果の提示（数字で引き込む）"},
+      {"name": "story", "target_chars": 450, "role": "背景ストーリー（なぜこの方法が生まれたか）"},
+      {"name": "method", "target_chars": 450, "role": "具体的な方法論・ステップ（再現性を強調）"},
+      {"name": "proof_cta", "target_chars": 250, "role": "実績・証拠提示＋次のステップCTA"}
+    ],
+    "prompt_injection": "【台本スタイル】プロダクトローンチ型で展開してください。冒頭で衝撃的な結果・数字を提示し注意を引きます。背景ストーリーで信頼性を構築し、具体的な方法論をステップ形式で紹介します。最後に実績を示し、次のアクションを促してください。",
+    "psychological_triggers": ["希少性", "社会的証明", "返報性"],
+    "storytelling": "launch_sequence",
+    "cta_pattern": "無料コンテンツ→メルマガ→商品",
+    "retention_techniques": ["オープンループ", "パターン中断", "具体的数字"]
+  },
+  {
+    "template_id": "T05",
+    "name": "ニュース速報型",
+    "genres": ["経済評論", "AIマーケティング"],
+    "category": "AI・テクノロジー",
+    "style": "fact_strict",
+    "ng_keywords": ["絶対", "確実に", "間違いない"],
+    "time_ratio": {"intro": 0.10, "main": 0.70, "outro": 0.20},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "breaking", "target_chars": 150, "role": "速報ヘッドライン（何が・いつ・どこで）"},
+      {"name": "detail", "target_chars": 550, "role": "詳細解説（5W1Hを網羅）"},
+      {"name": "impact", "target_chars": 400, "role": "影響分析（誰にどう影響するか）"},
+      {"name": "outlook", "target_chars": 250, "role": "今後の展望＋まとめ"}
+    ],
+    "prompt_injection": "【台本スタイル】ニュース速報型で展開してください。冒頭でヘッドラインを簡潔に伝え、5W1Hで詳細を解説します。影響分析では「誰に」「どう」影響するかを具体的に述べてください。事実と意見を明確に区別し、意見には「個人的には」と前置きしてください。",
+    "psychological_triggers": ["緊急性", "権威性", "損失回避"],
+    "storytelling": "news_analysis",
+    "cta_pattern": "最新情報フォロー促進",
+    "retention_techniques": ["具体的数字", "予告", "質問投げかけ"]
+  },
+  {
+    "template_id": "T06",
+    "name": "ハウツー型",
+    "genres": ["SNSマーケティング", "Webマーケティング", "音声マーケティング"],
+    "category": "マーケティング・広告・心理学",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.10, "main": 0.75, "outro": 0.15},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "promise", "target_chars": 150, "role": "成果の約束（これを聞けば○○ができる）"},
+      {"name": "steps", "target_chars": 700, "role": "具体的ステップ（3〜5ステップで解説）"},
+      {"name": "tips", "target_chars": 300, "role": "プロのコツ・よくある失敗と対策"},
+      {"name": "cta", "target_chars": 200, "role": "今すぐ実践＋フォローCTA"}
+    ],
+    "prompt_injection": "【台本スタイル】ハウツー型で展開してください。冒頭で「この放送を聞けば○○ができるようになります」と成果を約束します。3〜5のステップに分けて具体的に解説し、各ステップで実践的なコツを添えてください。最後に「まず最初の1ステップだけやってみてください」と行動を促してください。",
+    "psychological_triggers": ["返報性", "社会的証明", "好意"],
+    "storytelling": "how_to",
+    "cta_pattern": "実践促進→感想共有→フォロー",
+    "retention_techniques": ["オープンループ", "具体的数字", "ストーリーアーク"]
+  },
+  {
+    "template_id": "T07",
+    "name": "投資分析型",
+    "genres": ["株式投資", "暗号通貨", "FIRE/お金"],
+    "category": "投資・経済・お金",
+    "style": "fact_strict",
+    "ng_keywords": ["絶対儲かる", "必ず上がる", "元本保証", "ノーリスク", "確実に利益", "今すぐ買え", "煽り", "爆益"],
+    "time_ratio": {"intro": 0.10, "main": 0.70, "outro": 0.20},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "topic", "target_chars": 150, "role": "分析対象の紹介（何を分析するか）"},
+      {"name": "data", "target_chars": 550, "role": "データに基づく分析（チャート・指標の解説）"},
+      {"name": "risk_return", "target_chars": 350, "role": "リスクとリターンの両面提示（必ず両面）"},
+      {"name": "disclaimer_summary", "target_chars": 300, "role": "免責事項＋まとめ（投資は自己責任）"}
+    ],
+    "prompt_injection": "【台本スタイル】投資分析型で展開してください。【CRITICAL制約】金融商品取引法に準拠し、断定的判断の提供は禁止です。「〜の可能性があります」「〜というデータがあります」のように事実ベースで記述してください。必ずリスクとリターンの両面を提示し、最後に「投資判断は自己責任でお願いします。この放送は投資助言ではありません」と免責事項を含めてください。",
+    "psychological_triggers": ["権威性", "損失回避", "一貫性"],
+    "storytelling": "data_analysis",
+    "cta_pattern": "情報収集継続促進→フォロー",
+    "retention_techniques": ["具体的数字", "質問投げかけ", "予告"]
+  },
+  {
+    "template_id": "T08",
+    "name": "マインドセット型",
+    "genres": ["スピリチュアル", "メンタル"],
+    "category": "スピリチュアル・メンタル・コーチング",
+    "style": "caution",
+    "ng_keywords": ["治る", "治療", "診断", "確実に改善", "奇跡の", "万能", "医学的"],
+    "time_ratio": {"intro": 0.15, "main": 0.70, "outro": 0.15},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "empathy", "target_chars": 200, "role": "共感（リスナーの状況への理解を示す）"},
+      {"name": "perspective", "target_chars": 550, "role": "新しい視点の提供（科学的根拠があれば引用）"},
+      {"name": "practice", "target_chars": 350, "role": "実践ワーク（今日からできること）"},
+      {"name": "closing", "target_chars": 250, "role": "温かいメッセージ＋「個人の体験です」注記"}
+    ],
+    "prompt_injection": "【台本スタイル】マインドセット型で展開してください。【CRITICAL制約】景品表示法・薬機法に配慮し、医療効果の断定は禁止です。「個人的な体験として」「一つの考え方として」と必ず前置きしてください。科学的研究があれば引用しますが、効果を保証する表現は使いません。温かく寄り添うトーンで、リスナーに安心感を与えてください。",
+    "psychological_triggers": ["好意", "一貫性", "好奇心ギャップ"],
+    "storytelling": "mindset_shift",
+    "cta_pattern": "実践ワーク促進→感想共有→フォロー",
+    "retention_techniques": ["ストーリーアーク", "質問投げかけ", "オープンループ"]
+  },
+  {
+    "template_id": "T09",
+    "name": "コピーライティング型",
+    "genres": ["広告", "コピーライティング"],
+    "category": "マーケティング・広告・心理学",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.10, "main": 0.70, "outro": 0.20},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "hook", "target_chars": 150, "role": "注意を引くフック（衝撃的な事実・質問）"},
+      {"name": "case_study", "target_chars": 500, "role": "実例分析（成功したコピーの解剖）"},
+      {"name": "technique", "target_chars": 450, "role": "テクニック解説（なぜ効果があるのか）"},
+      {"name": "swipe_cta", "target_chars": 250, "role": "すぐ使えるテンプレート＋CTA"}
+    ],
+    "prompt_injection": "【台本スタイル】コピーライティング分析型で展開してください。実際に成果を出した広告・コピーの実例を取り上げ、なぜそれが効果的なのかを心理学的に解説します。リスナーが自分のビジネスですぐ使えるテンプレートやフレーズを提供してください。具体的なBefore/Afterを示すと効果的です。",
+    "psychological_triggers": ["希少性", "社会的証明", "返報性"],
+    "storytelling": "case_analysis",
+    "cta_pattern": "テンプレート配布→メルマガ→フォロー",
+    "retention_techniques": ["オープンループ", "パターン中断", "具体的数字"]
+  },
+  {
+    "template_id": "T10",
+    "name": "行動経済学型",
+    "genres": ["心理/行動経済学"],
+    "category": "マーケティング・広告・心理学",
+    "style": "taiyo_ok",
+    "ng_keywords": [],
+    "time_ratio": {"intro": 0.10, "main": 0.75, "outro": 0.15},
+    "target_duration_minutes": {"min": 4, "max": 7},
+    "sections": [
+      {"name": "paradox", "target_chars": 200, "role": "直感に反する事実の提示（認知バイアス紹介）"},
+      {"name": "science", "target_chars": 500, "role": "研究・実験の紹介（具体的な数字・結果）"},
+      {"name": "application", "target_chars": 400, "role": "日常・ビジネスでの活用法"},
+      {"name": "reflection", "target_chars": 250, "role": "自己チェック＋まとめ＋CTA"}
+    ],
+    "prompt_injection": "【台本スタイル】行動経済学型で展開してください。冒頭で「なぜ人は○○してしまうのか？」と直感に反する事実を提示します。有名な研究・実験（カーネマン、タラー等）を引用し、認知バイアスのメカニズムを解説します。最後にリスナーが日常で活用できる具体的な方法を提案してください。",
+    "psychological_triggers": ["好奇心ギャップ", "権威性", "パターン中断"],
+    "storytelling": "behavioral_science",
+    "cta_pattern": "自己チェック促進→シェア→フォロー",
+    "retention_techniques": ["パターン中断", "具体的数字", "質問投げかけ"]
+  }
+]

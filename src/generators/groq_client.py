@@ -1,7 +1,7 @@
 """Groq LLM Client - Llama 3.3 70B for fast script generation"""
 import os
 import time
-from typing import Optional
+from typing import Optional, Dict
 from groq import Groq, APIError, APIConnectionError, RateLimitError
 from loguru import logger
 
@@ -25,7 +25,8 @@ class GroqClient:
         self,
         article_text: str,
         theme: str = "general",
-        max_retries: int = 2
+        max_retries: int = 2,
+        template: Optional[Dict] = None
     ) -> Optional[str]:
         """
         Generate podcast script from news article using Groq Llama
@@ -34,11 +35,12 @@ class GroqClient:
             article_text: News article text
             theme: Article theme for context
             max_retries: Maximum retry attempts
+            template: Optional template dict for genre-aware generation
 
         Returns:
             Generated podcast script or None on failure
         """
-        prompt = self._build_script_prompt(article_text, theme)
+        prompt = self._build_script_prompt(article_text, theme, template=template)
 
         for attempt in range(max_retries + 1):
             try:
@@ -87,8 +89,17 @@ class GroqClient:
 
         return None
 
-    def _build_script_prompt(self, article_text: str, theme: str) -> str:
-        """Build the prompt for podcast script generation"""
+    def _build_script_prompt(self, article_text: str, theme: str, template: Optional[Dict] = None) -> str:
+        """Build the prompt for podcast script generation
+
+        Args:
+            article_text: News article text
+            theme: Article theme
+            template: Optional template dict for genre-aware generation
+        """
+        if template:
+            return self._build_template_prompt(article_text, theme, template)
+
         return f"""以下のニュース記事をポッドキャスト台本に変換してください。
 対象テーマ: {theme}
 
@@ -115,4 +126,55 @@ class GroqClient:
 - 話し言葉で自然なリズム
 - 難しい言葉は避け、わかりやすく
 - 日本語として正確で読み間違いのない表記
+- 冗長な表現は排除し、簡潔に"""
+
+    def _build_template_prompt(self, article_text: str, theme: str, template: Dict) -> str:
+        """Build prompt using template sections and style"""
+        sections = template.get("sections", [])
+        total_chars = sum(s.get("target_chars", 200) for s in sections)
+        style = template.get("style", "taiyo_ok")
+        ng_keywords = template.get("ng_keywords", [])
+        prompt_injection = template.get("prompt_injection", "")
+
+        # Build sections description
+        section_lines = []
+        for i, section in enumerate(sections, 1):
+            section_lines.append(
+                f"{i}. **{section['name']}（{section['target_chars']}文字）**\n"
+                f"   - {section['role']}"
+            )
+        sections_text = "\n\n".join(section_lines)
+
+        # Style constraints
+        style_text = "- 話し言葉で自然なリズム\n- 日本語として正確で読み間違いのない表記"
+        if style == "fact_strict":
+            style_text += "\n- 【CRITICAL】事実のみ記載。誇大表現・断定的判断は禁止"
+            style_text += "\n- 「〜と言われています」「〜というデータがあります」のように根拠を示す"
+        elif style == "caution":
+            style_text += "\n- 【CRITICAL】断定表現を回避。「個人の体験として」「一つの考え方として」と前置き"
+            style_text += "\n- 医療効果の断定は禁止"
+
+        # NG keywords
+        ng_text = ""
+        if ng_keywords:
+            ng_text = f"\n\n【NGワード（使用禁止）】\n{', '.join(ng_keywords)}"
+
+        return f"""{prompt_injection}
+
+以下のニュース記事をポッドキャスト台本に変換してください。
+対象テーマ: {theme}
+テンプレート: {template.get('name', 'default')}
+
+【CRITICAL制約】出力は{total_chars}文字前後を目標。{ng_text}
+
+【ニュース記事】
+{article_text}
+
+【出力形式】
+以下の構成で台本を作成してください（合計約{total_chars}文字）：
+
+{sections_text}
+
+【スタイル】
+{style_text}
 - 冗長な表現は排除し、簡潔に"""

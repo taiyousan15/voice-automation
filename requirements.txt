@@ -39,6 +39,11 @@ isort>=5.12
 # ===== Audio Processing (TTS) =====
 ffmpeg-python>=0.2.0
 
+# ===== Publishing / Distribution =====
+requests-oauthlib>=1.3.0
+google-api-python-client>=2.100.0
+google-auth>=2.23.0
+
 # ===== Utilities =====
 loguru>=0.7.0
 tqdm>=4.66.0
