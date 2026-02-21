@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-02-21T01:55:14.082567",
+  "generated_at": "2026-02-21T21:33:49.781615",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260221_015346",
-      "theme": "MCP 方法",
+      "name": "episode_哲学 おすすめ_20260221_213108",
+      "theme": "哲学 おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3",
-      "audio_length": 5895314,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260221_213108.mp3",
+      "audio_length": 7756486,
+      "audio_duration": "00:08:04",
       "articles": [
         {
-          "title": "ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応)",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "『エヴァフェス』開幕!演者ら15人集結でファン歓喜 緒方恵美は感慨「30年間ありがとう」庵野秀明は新作アニメに自信「今日も新作短編を朝6時まで作業」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "AIコーディングを「補助」から「主役」へ導く実践ガイド! 『Claude Code開発体系 拡張・制御・運用の手引き』技術の泉シリーズ、2月の新刊",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ダークトレース、企業内AI導入を監視する新製品 Darktrace / SECURE AIを発表",
+          "title": "【広島市現代美術館】フィンランド スピリット サウナ ー建築、デザインからサウナハットまで",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "2026年2月19日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "トヨタの歴史的スーパーカー「GR GT」、特別な存在にしているエンジニアリングとは?(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開!",
+          "title": "日本による領有前後捉えた写真収集 台湾人研究家、歴史の空白埋める作業続ける(中央社フォーカス台湾)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "かつては後の五輪メダリストも出場 県内外からの約150人が熱戦 大分市で小学生らのフェンシング大会(OBS大分放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "パリ20区、全てにふれた、フィガロジャポン2011年!(フィガロジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 8.7
+        },
+        {
+          "title": "【いのち会議】~いのち宣言をつなぐ「103のアクション」~ 第73回「リベラルアーツを基盤に社会課題へ向き合い、共助経営を実践して持続可能な社会を提案し、未来のいのちへの敬意と謙虚さを共有しよう」",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         }
       ]
     }

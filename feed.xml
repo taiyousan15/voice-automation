@@ -4,43 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-21T01:55:14.082875</lastBuildDate>
+        <lastBuildDate>2026-02-21T21:33:49.781975</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: 哲学 おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
+本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
+【セクション 1: 産経ニュース】
+信頼度スコア: 7.0/10
 
-**トピック紹介**
-ERPCがSolana MCP Serverを提供開始しました。Solanaチェーンと自然言語で対話できるようになりました。
-
-**...]]>
+**hook（150文字）**
+あなたは、人生の岐路で悩んだことがありませんか？何かを決断するとき、自分の中に何が本当に大切なのか、見つけることは難しいもの...]]>
 
 
 記事一覧:
-  • ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応) (出典: Pr Times, 信頼度: 8.5/10)
-  • AIコーディングを「補助」から「主役」へ導く実践ガイド! 『Claude Code開発体系 拡張・制御・運用の手引き』技術の泉シリーズ、2月の新刊 (出典: Pr Times, 信頼度: 8.5/10)
-  • ダークトレース、企業内AI導入を監視する新製品 Darktrace / SECURE AIを発表 (出典: Pr Times, 信頼度: 8.0/10)
-  • 2026年2月19日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開! (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-02-21T01:55:14.082833</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1771638914</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3" type="audio/mpeg" length="5895314" />
+  • 『エヴァフェス』開幕!演者ら15人集結でファン歓喜 緒方恵美は感慨「30年間ありがとう」庵野秀明は新作アニメに自信「今日も新作短編を朝6時まで作業」 (出典: 産経ニュース, 信頼度: 7.0/10)
+  • 【広島市現代美術館】フィンランド スピリット サウナ ー建築、デザインからサウナハットまで (出典: Pr Times, 信頼度: 8.0/10)
+  • トヨタの歴史的スーパーカー「GR GT」、特別な存在にしているエンジニアリングとは?(MotorFan) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 日本による領有前後捉えた写真収集 台湾人研究家、歴史の空白埋める作業続ける(中央社フォーカス台湾) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • かつては後の五輪メダリストも出場 県内外からの約150人が熱戦 大分市で小学生らのフェンシング大会(OBS大分放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • パリ20区、全てにふれた、フィガロジャポン2011年!(フィガロジャポン) (出典: Yahoo Japan, 信頼度: 8.7/10)
+  • 【いのち会議】~いのち宣言をつなぐ「103のアクション」~ 第73回「リベラルアーツを基盤に社会課題へ向き合い、共助経営を実践して持続可能な社会を提案し、未来のいのちへの敬意と謙虚さを共有しよう」 (出典: Pr Times, 信頼度: 8.5/10)</description>
+        <category>哲学 おすすめ</category>
+        <pubDate>2026-02-21T21:33:49.781926</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ_1_1771709629</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260221_213108.mp3" type="audio/mpeg" length="7756486" />
+        <itunes:duration>00:08:04</itunes:duration>
     </item>
     </channel>
 </rss>
