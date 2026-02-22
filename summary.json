@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-02-22T02:02:53.199079",
-  "total_episodes": 0,
+  "generated_at": "2026-02-22T21:34:15.422296",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い 比較_20260222_213213",
+      "theme": "占い 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260222_213213.mp3",
+      "audio_length": 6374295,
+      "audio_duration": "00:06:38",
+      "articles": [
+        {
+          "title": "【そもそも解説】混迷のタイ政治 アジアの「虎」はなぜ「病人」に?",
+          "source": "朝日新聞デジタル",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【光回線に関する調査】開通までにかかった時間は2週間以内が約7割",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "中国による爆発実験、全く新しい核兵器開発への動きと米諜報機関 CNN EXCLUSIVE(CNN.co.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「24時間無料なのサイコー」でも「車中泊は遠慮して...」 「トイレで洗髪」「駐車場でBBQ」トラブルも 国交省が示す「休憩」と「宿泊」の意外な境界線とは",
+          "source": "Car News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "侍ジャパンが抱える弱点...監督一人では「絶対に回らない」",
+          "source": "ライブドアニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "WBC連覇のカギは大谷翔平ではない?「井端ジャパン」コーチ陣が抱える最大の弱点をどう見るか",
+          "source": "現代ビジネス | 講談社",
+          "trust_score": 7.5
+        },
+        {
+          "title": "トヨタ1強体制を加速させるか...300万円台「ランクルFJ」がSUV市場を揺さぶる",
+          "source": "Business Journal",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
