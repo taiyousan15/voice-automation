@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-02-21T01:55:14.082567",
-  "total_episodes": 1,
+  "generated_at": "2026-02-22T02:02:53.199079",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 方法_20260221_015346",
-      "theme": "MCP 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3",
-      "audio_length": 5895314,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応)",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIコーディングを「補助」から「主役」へ導く実践ガイド! 『Claude Code開発体系 拡張・制御・運用の手引き』技術の泉シリーズ、2月の新刊",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ダークトレース、企業内AI導入を監視する新製品 Darktrace / SECURE AIを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年2月19日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }

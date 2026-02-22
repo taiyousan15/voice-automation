@@ -8,39 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-21T01:55:14.082875</lastBuildDate>
+        <lastBuildDate>2026-02-22T02:02:53.199216</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
-
-**トピック紹介**
-ERPCがSolana MCP Serverを提供開始しました。Solanaチェーンと自然言語で対話できるようになりました。
-
-**...]]>
-
-
-記事一覧:
-  • ERPC、Solana MCP Server を提供開始 ― AI との連携で自然言語による Solana チェーンとの対話が可能に(全プラン無料対応) (出典: Pr Times, 信頼度: 8.5/10)
-  • AIコーディングを「補助」から「主役」へ導く実践ガイド! 『Claude Code開発体系 拡張・制御・運用の手引き』技術の泉シリーズ、2月の新刊 (出典: Pr Times, 信頼度: 8.5/10)
-  • ダークトレース、企業内AI導入を監視する新製品 Darktrace / SECURE AIを発表 (出典: Pr Times, 信頼度: 8.0/10)
-  • 2026年2月19日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • Python VTuberサプー氏×paizaコラボ第3弾「バイブコーディング入門 Claude Code編2:MCPをつかってみよう」を公開! (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-02-21T01:55:14.082833</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1771638914</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260221_015346.mp3" type="audio/mpeg" length="5895314" />
-    </item>
     </channel>
 </rss>
