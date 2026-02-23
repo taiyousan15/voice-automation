@@ -4,44 +4,37 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-22T21:34:15.422622</lastBuildDate>
+        <lastBuildDate>2026-02-23T02:04:11.703503</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 占い 比較</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 比較】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: 朝日新聞デジタル】
-信頼度スコア: 7.5/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
 
 **hook**
-東南アジアの経済の大国、タイ。かつては「アジアの虎」と呼ばれ、世界にその名を轟かせました。しかし、現在は政治の混迷が続き、低成長や貧富の差...]]>
+みなさん、自分に足りないスキルを身につけたいと思ったことはありませんか？新しい技術を学ぶことは、自分を高め、キャリアアップにつながる...]]>
 
 
 記事一覧:
-  • 【そもそも解説】混迷のタイ政治 アジアの「虎」はなぜ「病人」に? (出典: 朝日新聞デジタル, 信頼度: 7.5/10)
-  • 【光回線に関する調査】開通までにかかった時間は2週間以内が約7割 (出典: Pr Times, 信頼度: 8.0/10)
-  • 中国による爆発実験、全く新しい核兵器開発への動きと米諜報機関 CNN EXCLUSIVE(CNN.co.jp) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 「24時間無料なのサイコー」でも「車中泊は遠慮して...」 「トイレで洗髪」「駐車場でBBQ」トラブルも 国交省が示す「休憩」と「宿泊」の意外な境界線とは (出典: Car News, 信頼度: 8.5/10)
-  • 侍ジャパンが抱える弱点...監督一人では「絶対に回らない」 (出典: ライブドアニュース, 信頼度: 6.5/10)
-  • WBC連覇のカギは大谷翔平ではない?「井端ジャパン」コーチ陣が抱える最大の弱点をどう見るか (出典: 現代ビジネス | 講談社, 信頼度: 7.5/10)
-  • トヨタ1強体制を加速させるか...300万円台「ランクルFJ」がSUV市場を揺さぶる (出典: Business Journal, 信頼度: 7.5/10)</description>
-        <category>占い 比較</category>
-        <pubDate>2026-02-22T21:34:15.422582</pubDate>
-        <guid isPermaLink="false">episode_占い 比較_1_1771796055</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260222_213213.mp3" type="audio/mpeg" length="6374295" />
-        <itunes:duration>00:06:38</itunes:duration>
+  • 【DPC KOBE】後藤 由希選手登場 ピックルボール 未経験~中級 練習会 2月後半開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-02-23T02:04:11.703445</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1771812251</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260223_020332.mp3" type="audio/mpeg" length="2338063" />
     </item>
     </channel>
 </rss>
