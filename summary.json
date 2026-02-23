@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-02-23T02:04:11.703263",
-  "total_episodes": 1,
+  "generated_at": "2026-02-23T21:54:55.876189",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill 活用_20260223_020332",
-      "theme": "skill 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260223_020332.mp3",
-      "audio_length": 2338063,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【DPC KOBE】後藤 由希選手登場 ピックルボール 未経験~中級 練習会 2月後半開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }

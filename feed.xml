@@ -4,37 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-23T02:04:11.703503</lastBuildDate>
+        <lastBuildDate>2026-02-23T21:54:55.876333</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-みなさん、自分に足りないスキルを身につけたいと思ったことはありませんか？新しい技術を学ぶことは、自分を高め、キャリアアップにつながる...]]>
-
-
-記事一覧:
-  • 【DPC KOBE】後藤 由希選手登場 ピックルボール 未経験~中級 練習会 2月後半開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-02-23T02:04:11.703445</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1771812251</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260223_020332.mp3" type="audio/mpeg" length="2338063" />
-    </item>
     </channel>
 </rss>
