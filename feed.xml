@@ -4,14 +4,148 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-24T02:00:27.702752</lastBuildDate>
+        <lastBuildDate>2026-02-24T21:46:38.346923</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: ダイヤモンド・オンライン】
+信頼度スコア: 7.5/10
+
+**hook**
+あなたは部長職以上を目指しているでしょうか。組織と戦略の関係性を理解することは、リーダーとして成功するために不可欠です。しか...]]>
+
+
+記事一覧:
+  • 【グロービスのフレームワーク解説】部長以上は必ず理解しておきたい「7Sモデル」 - グロービスMBA エグゼクティブ・マネジメント入門 (出典: ダイヤモンド・オンライン, 信頼度: 7.5/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-02-24T21:46:38.346731</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1771969598</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260224_214307.mp3" type="audio/mpeg" length="2526145" />
+        <itunes:duration>00:02:37</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: Skill おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**problem**
+こんな悩みありませんか？ゲームが好きだけど、友達と一緒に遊ぶ機会が少ない。あるいは、同じ趣味を持つ人と出会うことが難しい。...]]>
+
+
+記事一覧:
+  • 【DPC KOBE】出入り自由・最大2時間のゲームイベント!『オープンプレー・ピックルボール』 2月後半開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill おすすめ</category>
+        <pubDate>2026-02-24T21:46:38.346786</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ_2_1771969598</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260224_214309.mp3" type="audio/mpeg" length="1873711" />
+        <itunes:duration>00:01:57</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 3: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**intro（150文字）**
+最近、AI技術が注目を集めています。特に、MCP方法というアプローチが話題になっています。MCPとは、Multiple ...]]>
+
+
+記事一覧:
+  • AION社がNST新潟総合テレビの八千代コースターに出演~注目のAI系スタートアップ特集~ (出典: Pr Times, 信頼度: 8.0/10)
+  • ITエンジニア本大賞2026 技術書・ビジネス書部門大賞が決定! (出典: Pr Times, 信頼度: 8.0/10)
+  • AIと共創する新しい時代のプロダクト開発の実践書『試して学ぶ Figma MCPサーバー』発売 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-02-24T21:46:38.346815</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_3_1771969598</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%96%B9%E6%B3%95/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260224_214317.mp3" type="audio/mpeg" length="9221015" />
+        <itunes:duration>00:09:36</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 4: 哲学 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**hook（200文字）**
+驚くべき事実ですが、現在のセキュリティ対策は、約70%の企業が不十分です。しかも、セキュリティ事故の被害額は、平均していちお...]]>
+
+
+記事一覧:
+  • 「BOXIL EXPO 情シス・セキュリティ展 2026 春」KEYNOTEの全登壇者が決定 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【ドバイ不動産 販売説明会@ヒルトン東京】世界初「メルセデス・ベンツ ブランドシティ」誕生!200戸限定、先行受付開始 (出典: Pr Times, 信頼度: 8.5/10)
+  • 「テック企業は愛国心が足りない」──パランティアCEO、アレックス・カープの戦争 (出典: Wired.jp, 信頼度: 7.0/10)
+  • 高市首相の人気「源泉」は一体何なのか...経済ジャーナリストが読み解く (出典: ライブドアニュース, 信頼度: 6.5/10)
+  • 「参政党」でも「れいわ」でもなく「高市首相」がSNSで独り勝ちした理由...有権者の心を鷲掴みにする「庶民宰相」との共通点とは(デイリー新潮) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 訳知り顔に語っていても、なぜか【話が浅いと思われる人】がやらかしている4つの“致命的なミス”(東洋経済オンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 韓国、価格引き上げの材料あふれる...ハンバーガーやのり巻きなど相次ぎ値上げ(中央日報日本語版) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>哲学 比較</category>
+        <pubDate>2026-02-24T21:46:38.346841</pubDate>
+        <guid isPermaLink="false">episode_哲学 比較_4_1771969598</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/4</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260224_214413.mp3" type="audio/mpeg" length="7127875" />
+        <itunes:duration>00:07:25</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 5: 思想 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**breaking**
+速報です。千葉県富津市で「災害支援ローソン」の1号店がオープンしました。2月24日に現地でオープニングセレモニーが行われまし...]]>
+
+
+記事一覧:
+  • 「災害支援ローソン」1号店が千葉県富津市にオープン(グルメ Watch) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 真価が問われる2年目へ...あなぶきアリーナ香川オープン1年 館長に聞く初年度の効果と今後の展望【香川】 (出典: Fnnプライムオンライン, 信頼度: 7.0/10)
+  • 星野リゾート ネコマ マウンテンで「手ぶらスノーボードデビューパック」が初登場!スノーボードの聖地で、わが子の「できた!」を見届けよう(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「乾燥、火の扱い注意を」ハリセンボン近藤春菜さんが一日消防署長に 春の火災予防運動(産経新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • PW Consulting、世界の美容光電機器市場向け市場調査・業界分析ソリューションを電撃発表 業界を揺るがすインサイトで意思決定を加速 (出典: Pr Times, 信頼度: 8.5/10)
+  • Makuakeで2,000万円超の支援を獲得した「coodyエアブロックCOREO」、公式サイトにて一般販売開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 90%は忠実なリメイクだが、ラストの10%は......!? 『龍が如く 極3 / 龍が如く3外伝 Dark Ties』レビュー (出典: Ign Japan, 信頼度: 9.7/10)</description>
+        <category>思想 活用</category>
+        <pubDate>2026-02-24T21:46:38.346902</pubDate>
+        <guid isPermaLink="false">episode_思想 活用_5_1771969598</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%B4%BB%E7%94%A8/5</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 活用_20260224_214431.mp3" type="audio/mpeg" length="7242396" />
+        <itunes:duration>00:07:32</itunes:duration>
+    </item>
     </channel>
 </rss>

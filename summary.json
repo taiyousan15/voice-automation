@@ -1,6 +1,152 @@
 {
-  "generated_at": "2026-02-24T02:00:27.702615",
-  "total_episodes": 0,
+  "generated_at": "2026-02-24T21:46:38.346231",
+  "total_episodes": 5,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 方法_20260224_214307",
+      "theme": "skill 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260224_214307.mp3",
+      "audio_length": 2526145,
+      "audio_duration": "00:02:37",
+      "articles": [
+        {
+          "title": "【グロービスのフレームワーク解説】部長以上は必ず理解しておきたい「7Sモデル」 - グロービスMBA エグゼクティブ・マネジメント入門",
+          "source": "ダイヤモンド・オンライン",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260224_214309",
+      "theme": "skill おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260224_214309.mp3",
+      "audio_length": 1873711,
+      "audio_duration": "00:01:57",
+      "articles": [
+        {
+          "title": "【DPC KOBE】出入り自由・最大2時間のゲームイベント!『オープンプレー・ピックルボール』 2月後半開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260224_214317",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260224_214317.mp3",
+      "audio_length": 9221015,
+      "audio_duration": "00:09:36",
+      "articles": [
+        {
+          "title": "AION社がNST新潟総合テレビの八千代コースターに出演~注目のAI系スタートアップ特集~",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ITエンジニア本大賞2026 技術書・ビジネス書部門大賞が決定!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIと共創する新しい時代のプロダクト開発の実践書『試して学ぶ Figma MCPサーバー』発売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260224_214413",
+      "theme": "哲学 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260224_214413.mp3",
+      "audio_length": 7127875,
+      "audio_duration": "00:07:25",
+      "articles": [
+        {
+          "title": "「BOXIL EXPO 情シス・セキュリティ展 2026 春」KEYNOTEの全登壇者が決定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ドバイ不動産 販売説明会@ヒルトン東京】世界初「メルセデス・ベンツ ブランドシティ」誕生!200戸限定、先行受付開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「テック企業は愛国心が足りない」──パランティアCEO、アレックス・カープの戦争",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        },
+        {
+          "title": "高市首相の人気「源泉」は一体何なのか...経済ジャーナリストが読み解く",
+          "source": "ライブドアニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「参政党」でも「れいわ」でもなく「高市首相」がSNSで独り勝ちした理由...有権者の心を鷲掴みにする「庶民宰相」との共通点とは(デイリー新潮)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "訳知り顔に語っていても、なぜか【話が浅いと思われる人】がやらかしている4つの“致命的なミス”(東洋経済オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "韓国、価格引き上げの材料あふれる...ハンバーガーやのり巻きなど相次ぎ値上げ(中央日報日本語版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20260224_214431",
+      "theme": "思想 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 活用_20260224_214431.mp3",
+      "audio_length": 7242396,
+      "audio_duration": "00:07:32",
+      "articles": [
+        {
+          "title": "「災害支援ローソン」1号店が千葉県富津市にオープン(グルメ Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "真価が問われる2年目へ...あなぶきアリーナ香川オープン1年 館長に聞く初年度の効果と今後の展望【香川】",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "星野リゾート ネコマ マウンテンで「手ぶらスノーボードデビューパック」が初登場!スノーボードの聖地で、わが子の「できた!」を見届けよう(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「乾燥、火の扱い注意を」ハリセンボン近藤春菜さんが一日消防署長に 春の火災予防運動(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "PW Consulting、世界の美容光電機器市場向け市場調査・業界分析ソリューションを電撃発表 業界を揺るがすインサイトで意思決定を加速",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Makuakeで2,000万円超の支援を獲得した「coodyエアブロックCOREO」、公式サイトにて一般販売開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "90%は忠実なリメイクだが、ラストの10%は......!? 『龍が如く 極3 / 龍が如く3外伝 Dark Ties』レビュー",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
 }
