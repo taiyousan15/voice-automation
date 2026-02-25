@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-02-24T02:00:27.702615",
-  "total_episodes": 0,
+  "generated_at": "2026-02-25T02:03:08.044022",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 比較_20260225_020235",
+      "theme": "MCP 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260225_020235.mp3",
+      "audio_length": 2293760,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "生成AIを悪用するロシア語圏のハッカーが55カ国で600台以上のFortiGateデバイスを侵害",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
