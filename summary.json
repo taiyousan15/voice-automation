@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-02-25T02:03:08.044022",
+  "generated_at": "2026-02-25T21:43:42.565218",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260225_020235",
-      "theme": "MCP 比較",
+      "name": "episode_哲学 おすすめ_20260225_214124",
+      "theme": "哲学 おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260225_020235.mp3",
-      "audio_length": 2293760,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260225_214124.mp3",
+      "audio_length": 8275173,
+      "audio_duration": "00:08:37",
       "articles": [
         {
-          "title": "生成AIを悪用するロシア語圏のハッカーが55カ国で600台以上のFortiGateデバイスを侵害",
-          "source": "Gigazine",
+          "title": "「レトロなのに未来的?!」賛否両論のニューバランス新作。新世代モデルの魅力をデザイナーが語る(MEN’S CLUB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【嬬恋プリンスホテル】風と空に身をゆだね心身を休める滞在",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【DEUS EX MACHINAとコラボ】ミュンヘンで公開したミニの電動コンセプト『ザ・スケッグ』日本初公開! 浅草で展示へ(AUTOCAR JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【ラキャルプ】美しさの、その先へ。未来を作る選択を讃える3日間第9回 My Organic Friends Fes 2026(ラキャルプフェス2026)",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「フォーラム 『アートの街』神保町、発見!」を開催します",
+          "source": "Pr Times",
           "trust_score": 7.5
+        },
+        {
+          "title": "ソニー・ホンダモビリティ「AFEELA」の挑戦 常識を覆す最新EVとは? (テーマ別まとめ記事)",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【速報】当社代表・山中裕が山本一郎氏に対する名誉毀損訴訟で勝訴",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
