@@ -1,23 +1,68 @@
 {
-  "generated_at": "2026-02-26T02:00:27.115783",
-  "total_episodes": 1,
+  "generated_at": "2026-02-26T21:41:59.119104",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260226_015801",
-      "theme": "MCP 比較",
+      "name": "episode_哲学 方法_20260226_213941",
+      "theme": "哲学 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260226_015801.mp3",
-      "audio_length": 8253440,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260226_213941.mp3",
+      "audio_length": 7211049,
+      "audio_duration": "00:07:30",
       "articles": [
         {
-          "title": "TVメタデータ×生成AIでヒットやトレンドのシグナルを検知!エム・データと2WINS、トレンド検知AIエージェントの共同開発に着手",
+          "title": "ジャニーズがいた時代とは全然違う...視聴率が取れない「テレビドラマ」に看板俳優を送り込む芸能事務所の狙い(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「日本一働きがいのある企業」を表彰する「BMC2026」に約400名の経営者や人事責任者が集結",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "生成AIを悪用するロシア語圏のハッカーが55カ国で600台以上のFortiGateデバイスを侵害",
+          "title": "「性犯罪事案の中でも格別に悪質」 女子児童8人に“淫らな行為”繰り返す 元空手塾長に懲役24年判決【福岡発】(FNNプライムオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【将棋】最上位棋士が一斉対局”将棋界の一番長い日”「名人戦 A級順位戦」最終局...前夜祭は挑戦待つ藤井六冠登場(静岡)(Daiichi-TV(静岡第一テレビ))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【将棋・A級順位戦】藤井聡太6冠が弁解 前日の戦型予想外れるも話なかった対局は「当たった」(日刊スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "心・身体・美しさをひとつに。SHIGETAのホリスティック思想から生まれたハーブティー3種新発売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "東進「新年度特別招待講習」開講中 新学年になる前の“今”がチャンス! 入試対策・成績アップ・高校準備",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20260226_213946",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260226_213946.mp3",
+      "audio_length": 5099520,
+      "audio_duration": "00:05:18",
+      "articles": [
+        {
+          "title": "MONO-Xとイグアス、AIネイティブなIBM i 開発を推進する「IBM Bob」対応の専用基盤ツールとクラウド環境を共同リリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "2026年2月25日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         }
