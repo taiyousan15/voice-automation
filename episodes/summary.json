@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-02-27T01:57:13.249034",
-  "total_episodes": 0,
+  "generated_at": "2026-02-28T01:51:16.023647",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260228_014749",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260228_014749.mp3",
+      "audio_length": 8015945,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "2026年2月27日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【導入事例】ログ調査作業を20分の1に短縮。株式会社じげんがログ解析AIエージェント『LogEater』導入、未検知の脅威も発見可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "MONO-Xとイグアス、AIネイティブなIBM i 開発を推進する「IBM Bob」対応の専用基盤ツールとクラウド環境を共同リリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }

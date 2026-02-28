@@ -8,10 +8,35 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-27T01:57:13.249218</lastBuildDate>
+        <lastBuildDate>2026-02-28T01:51:16.023981</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Gigazine】
+信頼度スコア: 7.5/10
+
+**hook**
+みなさん、最近新しい映画を見たことがありますか？特に、2025年8月から劇場公開されて大きな話題となった『大長編 タローマン ...]]>
+
+
+記事一覧:
+  • 2026年2月27日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • 【導入事例】ログ調査作業を20分の1に短縮。株式会社じげんがログ解析AIエージェント『LogEater』導入、未検知の脅威も発見可能に (出典: Pr Times, 信頼度: 8.0/10)
+  • MONO-Xとイグアス、AIネイティブなIBM i 開発を推進する「IBM Bob」対応の専用基盤ツールとクラウド環境を共同リリース (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-02-28T01:51:16.023910</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1772243476</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260228_014749.mp3" type="audio/mpeg" length="8015945" />
+    </item>
     </channel>
 </rss>
