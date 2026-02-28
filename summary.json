@@ -1,95 +1,30 @@
 {
-  "generated_at": "2026-02-27T21:40:15.276239",
-  "total_episodes": 2,
+  "generated_at": "2026-02-28T01:51:16.023647",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 比較_20260227_213627",
-      "theme": "哲学 比較",
+      "name": "episode_MCP おすすめ 理由_20260228_014749",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260227_213627.mp3",
-      "audio_length": 7537893,
-      "audio_duration": "00:07:51",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260228_014749.mp3",
+      "audio_length": 8015945,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "【重版出来!】大谷翔平選手の“心の土台”を築いた昭和の哲人の教えが「令和の生きづらさ」を救うと女性に反響!/『中村天風 人生の「主人公」になる教え』大好評発売中",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "正解は一つではない 「CFCL」と「ヴェジャ」が示す「判断の基準」としてのサステナビリティ(WWDJAPAN.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【連載企画】STEM分野の魅力を知ろう!女子中高生向けオフィスツアーを徹底レポート 第22回 女子中高生向けオフィスツアー - 花王 ・テレビ朝日・荏原製作所 -",
-          "source": "Mynavi News",
+          "title": "2026年2月27日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "\\業界最大級のオンライン展示会開催まであと5日/「ITトレンドEXPO2026 Spring」3月3日(火)より5日間開催!約100講演・約300製品の展示が全て無料",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "シリコンバレーの人々が「中国」を敵視するワケ...「思想的支柱」アレックス・カープの頭の中",
-          "source": "現代ビジネス | 講談社",
-          "trust_score": 7.5
-        },
-        {
-          "title": "東進「新年度特別招待講習」開講中 新学年になる前の“今”がチャンス! 入試対策・成績アップ・高校準備",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【解説】 ウクライナは今も果敢、敗北が近いとは思えない......BBC国際編集長(BBC News)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260227_213645",
-      "theme": "占い 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260227_213645.mp3",
-      "audio_length": 12314331,
-      "audio_duration": "00:12:49",
-      "articles": [
-        {
-          "title": "【ワークショップ開催!】つぶらな瞳がなんともかわいい『柳井金魚ちょうちんづくり』と、山代和紙を切ったり、ちぎったり、貼ったりしながら創作する、『オリジナル栞(しおり)づくり』を体験しませんか?",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "タイパ時代に合わせた新習慣 そのまま食べる「スティックはちみつ」販売開始【15年で約13倍に急成長 あのプロスポーツ選手も愛用】",
+          "title": "【導入事例】ログ調査作業を20分の1に短縮。株式会社じげんがログ解析AIエージェント『LogEater』導入、未検知の脅威も発見可能に",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【海外市場へモノを売るすべての企業向け】海外競合企業の見込み客へ製品/サービスを売り込めるデジタル広告「デジマネ for Ads」の提供を開始",
+          "title": "MONO-Xとイグアス、AIネイティブなIBM i 開発を推進する「IBM Bob」対応の専用基盤ツールとクラウド環境を共同リリース",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "「環境のための新たな負担」まもなくスタート! シンガポール発の取り組みが他人事ではない理由 飛行機代また上がるの?(乗りものニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ドイツ時計“Sinn(ジン)”の伝統的なパイロットウォッチが高強度チタンをまとい、堂々のアップデート!(VAGUE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "クルマの基本形として巷(ちまた)にあふれるSUV。オフロード系の”新グレード”の投入が相次ぐ\"3つの意外な理由”(carview!)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "LUNA SEA真矢さん闘った『大腸がん』若年層で急増 肥満が関係?腸活が予防に(テレビ朝日系(ANN))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
