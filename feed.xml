@@ -4,37 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-01T02:10:20.550639</lastBuildDate>
+        <lastBuildDate>2026-03-01T21:34:20.032218</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 比較</title>
+        <title>エピソード 1: 占い 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 比較】に関する最新ニュースをお届けします。
+本日は、【占い 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.2/10
 
 **hook（150文字）**
-みなさん、最近の自分に満足していますか？毎日同じ日常を繰り返し、自分の目標や夢に向かって進んでいると感じていますか？多...]]>
+あなたは、政治の世界で起こる大きな事件に翻弄されることがありますか？たとえば、韓国の前大統領である尹錫悦（ユン・ソクヨ...]]>
 
 
 記事一覧:
-  • 2026年2月27日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>skill 比較</category>
-        <pubDate>2026-03-01T02:10:20.550590</pubDate>
-        <guid isPermaLink="false">episode_skill 比較_1_1772331020</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260301_020934.mp3" type="audio/mpeg" length="2685805" />
+  • 内乱特検の控訴理由書「偶発的な戒厳ではなく長期間準備...権力独占・維持が目的」(ハンギョレ新聞) (出典: Yahoo Japan, 信頼度: 9.2/10)
+  • 【令和8年3月のバス占い付き】多様なお願いに対応した多くの神様がお祀りされている神社へ三重交通でGO!!(ベストカーWeb) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「1週間単位で1000万円売上増」“ウハウハ”六甲山スキー場「ミラノ・コルティナ五輪」関西への経済効果を徹底取材 “モーグルのメダル独占”大阪のスキー板メーカーは“お金ではなく”「スキーが人生」 (出典: Fnnプライムオンライン, 信頼度: 7.5/10)
+  • 【インターネットの乗り換え調査】約7割が乗り換え後に月額料金が「安くなった」と回答 (出典: Pr Times, 信頼度: 8.0/10)
+  • エノケン映画が風刺した軍需景気 ふわふわしたバブルの末路は (出典: 朝日新聞デジタル, 信頼度: 6.5/10)
+  • [ITmedia エンタープライズ] 日本の社長は「AI投資に慎重だけど責任感強い」 AI時代の競争力向上に必要な姿勢とは (出典: Itmedia, 信頼度: 7.0/10)
+  • 「大谷翔平のインスタ担当」記者まで出現?渡辺謙&二宮和也の起用は吉と出るか...関係者が明かす「WBC報道の舞台裏」 (出典: 現代ビジネス | 講談社, 信頼度: 7.5/10)</description>
+        <category>占い 比較</category>
+        <pubDate>2026-03-01T21:34:20.032181</pubDate>
+        <guid isPermaLink="false">episode_占い 比較_1_1772400860</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260301_213048.mp3" type="audio/mpeg" length="9499794" />
+        <itunes:duration>00:09:53</itunes:duration>
     </item>
     </channel>
 </rss>
