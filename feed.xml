@@ -4,19 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-02-28T21:30:44.799968</lastBuildDate>
+        <lastBuildDate>2026-03-01T02:10:20.550639</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 活用</title>
+        <title>エピソード 1: Skill 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
+本日は、【skill 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,48 +24,17 @@
 【セクション 1: Gigazine】
 信頼度スコア: 7.5/10
 
-**hook**
-こんにちは、みんな！今日は新しいスキルを身につけることについて話そうと思います。最近、自分に合ったスキルを見つけている人も多いですよ...]]>
+**hook（150文字）**
+みなさん、最近の自分に満足していますか？毎日同じ日常を繰り返し、自分の目標や夢に向かって進んでいると感じていますか？多...]]>
 
 
 記事一覧:
   • 2026年2月27日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-02-28T21:30:44.799882</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1772314244</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260228_212813.mp3" type="audio/mpeg" length="2149564" />
-        <itunes:duration>00:02:14</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Claude code おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Itmedia】
-信頼度スコア: 7.5/10
-
-**problem**
-こんな悩みありませんか？AI開発基盤のセキュリティがぜいじゃくで、重要な情報がろうえいするという心配が常に付き纏...]]>
-
-
-記事一覧:
-  • [ITmedia エンタープライズ] Claude Codeに重大な脆弱性 設定ファイル経由でRCEやAPIキー窃取の恐れ (出典: Itmedia, 信頼度: 7.5/10)
-  • AI導入でエンジニアが過労に?Claude CodeとCopilotが現場を疲弊させる皮肉 (出典: Business Journal, 信頼度: 7.5/10)
-  • Claude Codeはカスタムソリューションを構築する傾向が強いがそれでもなおよく選ぶツールは何か? (出典: Gigazine, 信頼度: 7.5/10)
-  • AIがあればCOBOLエンジニアはもういらない? それは”あり得ない”これだけの理由 (出典: Itmedia, 信頼度: 7.5/10)
-  • 17本部・23事例が示す全社AI活用の現在地「MIXI MEETUP!AI DAY 2026」を3月27日に開催 (出典: Pr Times, 信頼度: 8.0/10)
-  • 【独自】グーグル、営業部門にもAIツール活用を要請。週ごとの使用回数ノルマも、人事評価に影響 (出典: Business Insider, 信頼度: 7.0/10)
-  • 今話題のAIエージェント「OpenClaw」のアプリイメージ提供を「XServer VPS」が開始。完全無料で利用できる「無料VPS」プランでも環境構築が可能 (出典: 電ファミニコゲーマー – ゲームの面白い記事読んでみない？, 信頼度: 7.0/10)</description>
-        <category>Claude Code おすすめ</category>
-        <pubDate>2026-02-28T21:30:44.799942</pubDate>
-        <guid isPermaLink="false">episode_Claude Code おすすめ_2_1772314244</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ_20260228_212830.mp3" type="audio/mpeg" length="6836558" />
-        <itunes:duration>00:07:07</itunes:duration>
+        <category>skill 比較</category>
+        <pubDate>2026-03-01T02:10:20.550590</pubDate>
+        <guid isPermaLink="false">episode_skill 比較_1_1772331020</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260301_020934.mp3" type="audio/mpeg" length="2685805" />
     </item>
     </channel>
 </rss>

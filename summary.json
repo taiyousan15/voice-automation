@@ -1,65 +1,20 @@
 {
-  "generated_at": "2026-02-28T21:30:44.799540",
-  "total_episodes": 2,
+  "generated_at": "2026-03-01T02:10:20.550360",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260228_212813",
-      "theme": "skill 活用",
+      "name": "episode_skill 比較_20260301_020934",
+      "theme": "skill 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260228_212813.mp3",
-      "audio_length": 2149564,
-      "audio_duration": "00:02:14",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260301_020934.mp3",
+      "audio_length": 2685805,
+      "audio_duration": null,
       "articles": [
         {
           "title": "2026年2月27日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ_20260228_212830",
-      "theme": "Claude Code おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ_20260228_212830.mp3",
-      "audio_length": 6836558,
-      "audio_duration": "00:07:07",
-      "articles": [
-        {
-          "title": "[ITmedia エンタープライズ] Claude Codeに重大な脆弱性 設定ファイル経由でRCEやAPIキー窃取の恐れ",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI導入でエンジニアが過労に?Claude CodeとCopilotが現場を疲弊させる皮肉",
-          "source": "Business Journal",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude Codeはカスタムソリューションを構築する傾向が強いがそれでもなおよく選ぶツールは何か?",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIがあればCOBOLエンジニアはもういらない? それは”あり得ない”これだけの理由",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "17本部・23事例が示す全社AI活用の現在地「MIXI MEETUP!AI DAY 2026」を3月27日に開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【独自】グーグル、営業部門にもAIツール活用を要請。週ごとの使用回数ノルマも、人事評価に影響",
-          "source": "Business Insider",
-          "trust_score": 7.0
-        },
-        {
-          "title": "今話題のAIエージェント「OpenClaw」のアプリイメージ提供を「XServer VPS」が開始。完全無料で利用できる「無料VPS」プランでも環境構築が可能",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
         }
       ]
     }
