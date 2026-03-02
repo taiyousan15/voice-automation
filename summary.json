@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-03-02T02:00:36.094105",
-  "total_episodes": 0,
+  "generated_at": "2026-03-02T21:47:33.793060",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 方法_20260302_214454",
+      "theme": "skill 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260302_214454.mp3",
+      "audio_length": 2297521,
+      "audio_duration": "00:02:23",
+      "articles": [
+        {
+          "title": "【吉積情報株式会社】2 月開催の人気セミナーアーカイブ動画が 3 月 13 日まで期間限定で無料開放",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 比較_20260302_214456",
+      "theme": "Claude Code 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260302_214456.mp3",
+      "audio_length": 1964408,
+      "audio_duration": "00:02:02",
+      "articles": [
+        {
+          "title": "米国防総省がAnthropicをサプライチェーンリスクに指定、法廷闘争に発展か",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20260302_214507",
+      "theme": "Claude Code 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260302_214507.mp3",
+      "audio_length": 9035023,
+      "audio_duration": "00:09:24",
+      "articles": [
+        {
+          "title": "無自覚で「そこそこ優秀な」社員にもはや居場所はないかも。猛烈なAIの進化が変える「Bランク」",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Claudeがエクセルやパワポと一体化...アンソロピックはすべての知識労働の変革を目指す",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「コーディングは死んだ。だが私たちはソフトウェアの黄金時代にいる」a16z幹部が語る、生成AIの経済的インパクト",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
