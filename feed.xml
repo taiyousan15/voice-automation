@@ -4,88 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-02T21:47:33.793479</lastBuildDate>
+        <lastBuildDate>2026-03-03T02:02:17.655654</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-みなさん、自分を成長させるためにセミナーに参加したことがありますか？私はそうですね。新しいスキルを身につけるために、多くのセミナーに...]]>
-
-
-記事一覧:
-  • 【吉積情報株式会社】2 月開催の人気セミナーアーカイブ動画が 3 月 13 日まで期間限定で無料開放 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-03-02T21:47:33.793380</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_1_1772488053</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260302_214454.mp3" type="audio/mpeg" length="2297521" />
-        <itunes:duration>00:02:23</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Claude code 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Wired.jp】
-信頼度スコア: 7.5/10
-
-**problem**
-こんな悩みありませんか？テクノロジーが急速に進化する中で、AIモデルの安全性と倫理性について心配している人は多いで...]]>
-
-
-記事一覧:
-  • 米国防総省がAnthropicをサプライチェーンリスクに指定、法廷闘争に発展か (出典: Wired.jp, 信頼度: 7.5/10)</description>
-        <category>Claude Code 比較</category>
-        <pubDate>2026-03-02T21:47:33.793431</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 比較_2_1772488053</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%AF%94%E8%BC%83/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260302_214456.mp3" type="audio/mpeg" length="1964408" />
-        <itunes:duration>00:02:02</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: Claude code 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Business Insider】
-信頼度スコア: 7.0/10
-
-**intro** (150文字)
-最近、テック企業での働き方が大きく変わりつつあります。特に、人工知能（AI（エーアイ）...]]>
-
-
-記事一覧:
-  • 無自覚で「そこそこ優秀な」社員にもはや居場所はないかも。猛烈なAIの進化が変える「Bランク」 (出典: Business Insider, 信頼度: 7.0/10)
-  • Claudeがエクセルやパワポと一体化...アンソロピックはすべての知識労働の変革を目指す (出典: Business Insider, 信頼度: 7.0/10)
-  • 「コーディングは死んだ。だが私たちはソフトウェアの黄金時代にいる」a16z幹部が語る、生成AIの経済的インパクト (出典: Business Insider, 信頼度: 7.5/10)</description>
-        <category>Claude Code 方法</category>
-        <pubDate>2026-03-02T21:47:33.793463</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 方法_3_1772488053</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%96%B9%E6%B3%95/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260302_214507.mp3" type="audio/mpeg" length="9035023" />
-        <itunes:duration>00:09:24</itunes:duration>
-    </item>
     </channel>
 </rss>
