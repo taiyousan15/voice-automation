@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-03T02:02:17.655461",
-  "total_episodes": 0,
+  "generated_at": "2026-03-04T01:56:36.363449",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ 理由_20260304_015608",
+      "theme": "skill おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260304_015608.mp3",
+      "audio_length": 1914671,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }

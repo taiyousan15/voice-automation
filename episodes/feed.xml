@@ -8,10 +8,33 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-03T02:02:17.655654</lastBuildDate>
+        <lastBuildDate>2026-03-04T01:56:36.363640</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**hook**
+開発者の方々、今日はどうですか？仕事の効率化が課題になっていませんか？特に、スライド資料の作成は、時間がかかりがちですよね...]]>
+
+
+記事一覧:
+  • AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill おすすめ 理由</category>
+        <pubDate>2026-03-04T01:56:36.363602</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ 理由_1_1772589396</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260304_015608.mp3" type="audio/mpeg" length="1914671" />
+    </item>
     </channel>
 </rss>
