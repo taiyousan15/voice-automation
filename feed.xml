@@ -4,37 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-04T01:56:36.363640</lastBuildDate>
+        <lastBuildDate>2026-03-04T21:43:53.530591</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill おすすめ 理由</title>
+        <title>エピソード 1: 哲学 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【哲学 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
 【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
+信頼度スコア: 7.5/10
 
 **hook**
-開発者の方々、今日はどうですか？仕事の効率化が課題になっていませんか？特に、スライド資料の作成は、時間がかかりがちですよね...]]>
+会議が長すぎて、疲れることがありませんか？多くの人は、長時間の会議に参加して、ただ時間を浪費しているように感じます。そんな会議を効率化する...]]>
 
 
 記事一覧:
-  • AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill おすすめ 理由</category>
-        <pubDate>2026-03-04T01:56:36.363602</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ 理由_1_1772589396</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260304_015608.mp3" type="audio/mpeg" length="1914671" />
+  • 新刊文庫『トヨタの会議は30分』、全国で販売開始 (出典: Pr Times, 信頼度: 7.5/10)
+  • メルセデスベンツ初のブランドシティ、ドバイのタワマン12棟説明会...3月6・7日ヒルトン東京(レスポンス) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • デザインは遊び場! 色のパレットでハッピーな部屋に模様替えしよう。(フィガロジャポン) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【祝!創業50周年】シェルマンで開催される「レイモンド ウェイル」のお祭りに参加しよう!(FORZA STYLE) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【2026ミラノ・コルティナ五輪に関する全国アンケート調査結果】感動シーン1位「りくりゅうペア金メダル」 (出典: 株式会社 共同通信, 信頼度: 7.5/10)
+  • KIZASHI、「NexTech Week 2026【春】」にGUGAと共同出展し「生成AIリテラシー診断 2026春」を開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • ホンダF1構造問題の核心 ニューウェイの低重心思想とバッテリー分割の代償 (出典: F1-gate, 信頼度: 7.5/10)</description>
+        <category>哲学 比較</category>
+        <pubDate>2026-03-04T21:43:53.530540</pubDate>
+        <guid isPermaLink="false">episode_哲学 比較_1_1772660633</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260304_214147.mp3" type="audio/mpeg" length="7140414" />
+        <itunes:duration>00:07:26</itunes:duration>
     </item>
     </channel>
 </rss>

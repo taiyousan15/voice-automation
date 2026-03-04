@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-03-04T01:56:36.363449",
+  "generated_at": "2026-03-04T21:43:53.530303",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ 理由_20260304_015608",
-      "theme": "skill おすすめ 理由",
+      "name": "episode_哲学 比較_20260304_214147",
+      "theme": "哲学 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260304_015608.mp3",
-      "audio_length": 1914671,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260304_214147.mp3",
+      "audio_length": 7140414,
+      "audio_duration": "00:07:26",
       "articles": [
         {
-          "title": "AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開",
+          "title": "新刊文庫『トヨタの会議は30分』、全国で販売開始",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "メルセデスベンツ初のブランドシティ、ドバイのタワマン12棟説明会...3月6・7日ヒルトン東京(レスポンス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "デザインは遊び場! 色のパレットでハッピーな部屋に模様替えしよう。(フィガロジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【祝!創業50周年】シェルマンで開催される「レイモンド ウェイル」のお祭りに参加しよう!(FORZA STYLE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【2026ミラノ・コルティナ五輪に関する全国アンケート調査結果】感動シーン1位「りくりゅうペア金メダル」",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        },
+        {
+          "title": "KIZASHI、「NexTech Week 2026【春】」にGUGAと共同出展し「生成AIリテラシー診断 2026春」を開催",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "ホンダF1構造問題の核心 ニューウェイの低重心思想とバッテリー分割の代償",
+          "source": "F1-gate",
+          "trust_score": 7.5
         }
       ]
     }
