@@ -4,44 +4,66 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-04T21:43:53.530591</lastBuildDate>
+        <lastBuildDate>2026-03-05T02:02:20.908237</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 哲学 比較</title>
+        <title>エピソード 1: Mcp 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 比較】に関する最新ニュースをお届けします。
+本日は、【MCP 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
 【セクション 1: Pr Times】
-信頼度スコア: 7.5/10
+信頼度スコア: 8.0/10
 
 **hook**
-会議が長すぎて、疲れることがありませんか？多くの人は、長時間の会議に参加して、ただ時間を浪費しているように感じます。そんな会議を効率化する...]]>
+あなたは、自分のビジネスやクリエイティブ活動で、短時間で効果的なコンテンツを作成することに苦労していますか？縦型ショート動画の制作は、目...]]>
 
 
 記事一覧:
-  • 新刊文庫『トヨタの会議は30分』、全国で販売開始 (出典: Pr Times, 信頼度: 7.5/10)
-  • メルセデスベンツ初のブランドシティ、ドバイのタワマン12棟説明会...3月6・7日ヒルトン東京(レスポンス) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • デザインは遊び場! 色のパレットでハッピーな部屋に模様替えしよう。(フィガロジャポン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【祝!創業50周年】シェルマンで開催される「レイモンド ウェイル」のお祭りに参加しよう!(FORZA STYLE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【2026ミラノ・コルティナ五輪に関する全国アンケート調査結果】感動シーン1位「りくりゅうペア金メダル」 (出典: 株式会社 共同通信, 信頼度: 7.5/10)
-  • KIZASHI、「NexTech Week 2026【春】」にGUGAと共同出展し「生成AIリテラシー診断 2026春」を開催 (出典: Pr Times, 信頼度: 8.0/10)
-  • ホンダF1構造問題の核心 ニューウェイの低重心思想とバッテリー分割の代償 (出典: F1-gate, 信頼度: 7.5/10)</description>
-        <category>哲学 比較</category>
-        <pubDate>2026-03-04T21:43:53.530540</pubDate>
-        <guid isPermaLink="false">episode_哲学 比較_1_1772660633</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260304_214147.mp3" type="audio/mpeg" length="7140414" />
-        <itunes:duration>00:07:26</itunes:duration>
+  • AI搭載の縦型ショート動画運用ツール「ShortBooster」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)
+  • 『Eコマース/消費者マーケットプレイス 産業・業界フォーサイト2026-2030:総覧白書2026年版』 発刊のお知らせ (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 比較</category>
+        <pubDate>2026-03-05T02:02:20.908152</pubDate>
+        <guid isPermaLink="false">episode_MCP 比較_1_1772676140</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260305_015923.mp3" type="audio/mpeg" length="5073188" />
+    </item>
+    <item>
+        <title>エピソード 2: Skill おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
+
+**problem**
+こんな悩みありませんか？マーケティングの仕事をしていると、プロの知見やスキルを活用したいと思いますが、自分でスキルを開発す...]]>
+
+
+記事一覧:
+  • マーケティングAI OS「ENSOR」、業界初※Skills機能を搭載 ── プロの知見を1コマンドで呼び出す「Skills」と誰でもスキルを開発できる「My Skills」をリリース (出典: Pr Times, 信頼度: 8.5/10)
+  • エンジニア採用を「履歴書」から「スキル」ベースの採用に ー ハイヤールーが、独自のスキル可視化技術を用いたダイレクトリクルーティング機能をリリース (出典: Pr Times, 信頼度: 8.0/10)
+  • ライフイズテック、生成AI・SNS時代のメディアリテラシーを学ぶ「レイのブログ」と連携。3月26日~30日開催「ライフイズテック スプリングキャンプ」上智大学会場にて導入 (出典: Pr Times, 信頼度: 8.5/10)
+  • アイエスエフネットグループ、ITと福祉を融合させた独自のAWS研修を実施 (出典: Pr Times, 信頼度: 8.0/10)
+  • AIは若手のスキル獲得を妨げるか (出典: 日経クロステック（xtech）, 信頼度: 7.0/10)
+  • AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill おすすめ</category>
+        <pubDate>2026-03-05T02:02:20.908213</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ_2_1772676140</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260305_015935.mp3" type="audio/mpeg" length="8964806" />
     </item>
     </channel>
 </rss>
