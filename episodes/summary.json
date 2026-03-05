@@ -1,16 +1,61 @@
 {
-  "generated_at": "2026-03-04T01:56:36.363449",
-  "total_episodes": 1,
+  "generated_at": "2026-03-05T02:02:20.907834",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ 理由_20260304_015608",
-      "theme": "skill おすすめ 理由",
+      "name": "episode_MCP 比較_20260305_015923",
+      "theme": "MCP 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260304_015608.mp3",
-      "audio_length": 1914671,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260305_015923.mp3",
+      "audio_length": 5073188,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "AI搭載の縦型ショート動画運用ツール「ShortBooster」を正式リリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "『Eコマース/消費者マーケットプレイス 産業・業界フォーサイト2026-2030:総覧白書2026年版』 発刊のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260305_015935",
+      "theme": "skill おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260305_015935.mp3",
+      "audio_length": 8964806,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "マーケティングAI OS「ENSOR」、業界初※Skills機能を搭載 ── プロの知見を1コマンドで呼び出す「Skills」と誰でもスキルを開発できる「My Skills」をリリース",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "エンジニア採用を「履歴書」から「スキル」ベースの採用に ー ハイヤールーが、独自のスキル可視化技術を用いたダイレクトリクルーティング機能をリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ライフイズテック、生成AI・SNS時代のメディアリテラシーを学ぶ「レイのブログ」と連携。3月26日~30日開催「ライフイズテック スプリングキャンプ」上智大学会場にて導入",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アイエスエフネットグループ、ITと福祉を融合させた独自のAWS研修を実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIは若手のスキル獲得を妨げるか",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.0
+        },
         {
           "title": "AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開",
           "source": "Pr Times",
