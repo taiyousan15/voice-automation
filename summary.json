@@ -1,65 +1,110 @@
 {
-  "generated_at": "2026-03-05T02:02:20.907834",
-  "total_episodes": 2,
+  "generated_at": "2026-03-05T21:46:46.585254",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260305_015923",
-      "theme": "MCP 比較",
+      "name": "episode_skill 比較_20260305_214344",
+      "theme": "skill 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260305_015923.mp3",
-      "audio_length": 5073188,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260305_214344.mp3",
+      "audio_length": 2323435,
+      "audio_duration": "00:02:25",
       "articles": [
-        {
-          "title": "AI搭載の縦型ショート動画運用ツール「ShortBooster」を正式リリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『Eコマース/消費者マーケットプレイス 産業・業界フォーサイト2026-2030:総覧白書2026年版』 発刊のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260305_015935",
-      "theme": "skill おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260305_015935.mp3",
-      "audio_length": 8964806,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "マーケティングAI OS「ENSOR」、業界初※Skills機能を搭載 ── プロの知見を1コマンドで呼び出す「Skills」と誰でもスキルを開発できる「My Skills」をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "エンジニア採用を「履歴書」から「スキル」ベースの採用に ー ハイヤールーが、独自のスキル可視化技術を用いたダイレクトリクルーティング機能をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ライフイズテック、生成AI・SNS時代のメディアリテラシーを学ぶ「レイのブログ」と連携。3月26日~30日開催「ライフイズテック スプリングキャンプ」上智大学会場にて導入",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "アイエスエフネットグループ、ITと福祉を融合させた独自のAWS研修を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
         {
           "title": "AIは若手のスキル獲得を妨げるか",
           "source": "日経クロステック（xtech）",
           "trust_score": 7.0
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 方法_20260305_214402",
+      "theme": "思想 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 方法_20260305_214402.mp3",
+      "audio_length": 5171409,
+      "audio_duration": "00:05:23",
+      "articles": [
         {
-          "title": "AIコーディングをしながらスライド資料も作れる。CLIからスライドを生成・並列編集。開発者のためのスライド作成環境「DexCode」をオープンソース公開",
+          "title": "広島AI研修会社WEAVE代表、広島大シンポジウムに登壇、大学院で生成AI研究へ。",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "20周年の節目に挑んだ一台 Triumph TR6「WILD PIGEON」|HEIWA MOTORCYCLE(Webikeプラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "東日本大震災で被災者の命を守った石巻赤十字病院 災害に向き合った現場と未来へつなぐ教訓",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 6.5
+        },
+        {
+          "title": "溝口勇児氏「『逮捕』とか言ってるやつ、何を根拠に言ってんの」",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "女優 沢尻エリカさん「「拡散」の時代に正義を決めつけないという向き合い方を。」(Hanako Web)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "SNS中を魅了した“奇跡のイケオジ”!フォロワー数35万人超を誇る浪花の実業家・森下直哉が語る“好き”を仕事に生きるカッコいい大人が目指すもの(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "価格49万円! 唯一無二のスズキ「“新”油冷エンジン搭載ネイキッド」! 個性の異なる3色のカラーリングで登場! 軽量ロードスポーツ「ジクサー250」発売(くるまのニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20260305_214421",
+      "theme": "哲学 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260305_214421.mp3",
+      "audio_length": 6932271,
+      "audio_duration": "00:07:13",
+      "articles": [
+        {
+          "title": "鹿児島市「初の3000億超」予算案 西原商会アリーナを大改修、座席5000席以上へ",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 6.5
+        },
+        {
+          "title": "自民党のご意見番・伊吹元衆院議長「注目すべきは野党が強い参院予算委での質疑」問われるその「質」(J-CASTニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「世界青年の船」参加青年が中部国際空港を訪問。防災について学びました!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ベンツ日本が国内初開設、神戸に「マイバッハラウンジ」(ニュースイッチ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "タレントよ、自分の城を持て。あなたの顔・声・個性が、今日も誰かの「学習データ」になっている。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新宿 北村写真機店で学生フィルムプロジェクトの写真展「grayn」を開催豪華ゲストを招いてトークショーも実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "STUDIO NICHOLSON が京都に新旗艦店をオープン",
+          "source": "Hypebeast. Jp",
+          "trust_score": 7.5
         }
       ]
     }
