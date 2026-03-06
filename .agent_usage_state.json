@@ -1,20 +1,11 @@
 {
   "sessionId": "1770842014725",
-  "taskToolUsed": true,
-  "filesEdited": [
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/collectors/ocr_collector.py",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/.env.example",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/tests/test_ocr_collector.py",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/src/collectors/voicy_collector.py",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/tests/test_voicy_collector.py",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/research_output/buzz_analysis.json",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/episodes/script_openclaw_ep1_mondaikaiketsu.txt",
-    "/Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム/episodes/script_openclaw_ep2_howto.txt"
-  ],
+  "taskToolUsed": false,
+  "filesEdited": [],
   "complexTaskDetected": true,
   "detectedPatterns": [
-    "OCR"
+    "音声生成"
   ],
-  "lastUpdated": "2026-02-21T07:04:25.836Z",
-  "lastTaskToolAt": "2026-02-21T06:57:49.314Z"
+  "lastUpdated": "2026-02-23T04:33:57.559Z",
+  "lastTaskToolAt": "2026-02-22T09:08:53.598Z"
 }

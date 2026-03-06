@@ -5,14 +5,14 @@
     "strict": true,
     "currentPhase": 1,
     "startedAt": "2026-02-11T20:07:24.021Z",
-    "lastUpdated": "2026-02-19T08:17:56.730Z",
+    "lastUpdated": "2026-03-02T07:12:16.861Z",
     "autoMappedSkills": [
       {
-        "name": "基本リサーチ（簡易調査）",
+        "name": "TTS音声生成（Fish Audio）",
         "required_skills": [
-          "research"
+          "interactive-video-platform"
         ],
-        "strict": false
+        "strict": true
       }
     ]
   },
@@ -46,7 +46,12 @@
         "autoMapped": false
       },
       "3": {
-        "requestedAt": "2026-02-18T18:37:34.260Z",
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "5": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -65,8 +70,13 @@
         "used": false,
         "autoMapped": false
       },
+      "16": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
       "20": {
-        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -121,12 +131,12 @@
         "autoMapped": false
       },
       "2024": {
-        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
       "2025": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -135,8 +145,23 @@
         "used": false,
         "autoMapped": false
       },
+      "202502": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "202503": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
       "219445": {
         "requestedAt": "2026-02-17T14:39:23.065Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "349487": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -166,17 +191,17 @@
         "autoMapped": false
       },
       "Users": {
-        "requestedAt": "2026-02-18T13:37:23.992Z",
+        "requestedAt": "2026-02-22T15:26:58.258Z",
         "used": false,
         "autoMapped": false
       },
       "matsumototoshihiko": {
-        "requestedAt": "2026-02-18T13:37:23.992Z",
+        "requestedAt": "2026-02-22T15:26:58.258Z",
         "used": false,
         "autoMapped": false
       },
       "Desktop": {
-        "requestedAt": "2026-02-18T13:37:23.992Z",
+        "requestedAt": "2026-02-22T15:26:58.258Z",
         "used": false,
         "autoMapped": false
       },
@@ -196,12 +221,12 @@
         "autoMapped": false
       },
       "interactive-video-platform": {
-        "requestedAt": "2026-02-18T13:37:23.992Z",
+        "requestedAt": "2026-02-23T04:33:57.565Z",
         "used": false,
         "autoMapped": true
       },
       "taisun_agent": {
-        "requestedAt": "2026-02-15T09:52:09.409Z",
+        "requestedAt": "2026-02-28T19:03:03.554Z",
         "used": false,
         "autoMapped": false
       },
@@ -216,7 +241,7 @@
         "autoMapped": false
       },
       "bin": {
-        "requestedAt": "2026-02-14T10:58:02.384Z",
+        "requestedAt": "2026-03-02T07:12:16.861Z",
         "used": false,
         "autoMapped": false
       },
@@ -261,7 +286,7 @@
         "autoMapped": false
       },
       "episodes": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T15:26:58.258Z",
         "used": false,
         "autoMapped": false
       },
@@ -271,32 +296,32 @@
         "autoMapped": false
       },
       "task-id": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "private": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "tmp": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-03-02T07:12:16.861Z",
         "used": false,
         "autoMapped": false
       },
       "claude-501": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "-Users-matsumototoshihiko-Desktop---2026----------": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "tasks": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
@@ -306,22 +331,22 @@
         "autoMapped": false
       },
       "output-file": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "status": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "summary": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
       "task-notification": {
-        "requestedAt": "2026-02-18T18:55:11.301Z",
+        "requestedAt": "2026-02-23T04:46:10.705Z",
         "used": false,
         "autoMapped": false
       },
@@ -366,12 +391,12 @@
         "autoMapped": false
       },
       "taiyo-style-lp": {
-        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "requestedAt": "2026-02-22T09:15:19.476Z",
         "used": false,
         "autoMapped": true
       },
       "video-course": {
-        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "requestedAt": "2026-02-22T09:13:45.017Z",
         "used": false,
         "autoMapped": true
       },
@@ -446,7 +471,7 @@
         "autoMapped": false
       },
       "research": {
-        "requestedAt": "2026-02-19T08:17:56.730Z",
+        "requestedAt": "2026-02-22T09:25:01.502Z",
         "used": false,
         "autoMapped": true
       },
@@ -466,7 +491,7 @@
         "autoMapped": false
       },
       "category": {
-        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -486,7 +511,7 @@
         "autoMapped": false
       },
       "www": {
-        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -546,7 +571,7 @@
         "autoMapped": false
       },
       "r": {
-        "requestedAt": "2026-02-17T18:06:58.704Z",
+        "requestedAt": "2026-02-22T09:02:08.287Z",
         "used": false,
         "autoMapped": false
       },
@@ -591,7 +616,7 @@
         "autoMapped": false
       },
       "blog": {
-        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -606,7 +631,7 @@
         "autoMapped": false
       },
       "podcast": {
-        "requestedAt": "2026-02-18T18:32:33.743Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -616,12 +641,12 @@
         "autoMapped": false
       },
       "podcasts": {
-        "requestedAt": "2026-02-17T19:33:50.343Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
       "us": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -711,12 +736,12 @@
         "autoMapped": false
       },
       "result": {
-        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "requestedAt": "2026-02-22T09:25:01.502Z",
         "used": false,
         "autoMapped": false
       },
       "usage": {
-        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "requestedAt": "2026-02-22T09:25:01.502Z",
         "used": false,
         "autoMapped": false
       },
@@ -746,7 +771,7 @@
         "autoMapped": false
       },
       "tim": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -771,7 +796,7 @@
         "autoMapped": false
       },
       "Newsletter": {
-        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -786,7 +811,7 @@
         "autoMapped": false
       },
       "newsletter": {
-        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -856,12 +881,12 @@
         "autoMapped": false
       },
       "dailystoic": {
-        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "requestedAt": "2026-02-22T09:02:08.287Z",
         "used": false,
         "autoMapped": false
       },
       "ryanholiday": {
-        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "requestedAt": "2026-02-22T09:02:08.287Z",
         "used": false,
         "autoMapped": false
       },
@@ -871,12 +896,12 @@
         "autoMapped": false
       },
       "jamesclear": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
       "3-2-1": {
-        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -911,7 +936,7 @@
         "autoMapped": false
       },
       "fs": {
-        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -936,7 +961,7 @@
         "autoMapped": false
       },
       "philosophybites": {
-        "requestedAt": "2026-02-17T14:39:23.064Z",
+        "requestedAt": "2026-02-22T09:02:08.287Z",
         "used": false,
         "autoMapped": false
       },
@@ -946,7 +971,7 @@
         "autoMapped": false
       },
       "philosophy": {
-        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "requestedAt": "2026-02-22T09:12:53.502Z",
         "used": false,
         "autoMapped": false
       },
@@ -1001,7 +1026,7 @@
         "autoMapped": false
       },
       "brenebrown": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -1011,7 +1036,7 @@
         "autoMapped": false
       },
       "topic": {
-        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -1046,7 +1071,7 @@
         "autoMapped": false
       },
       "en": {
-        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "requestedAt": "2026-02-22T06:05:00.172Z",
         "used": false,
         "autoMapped": false
       },
@@ -1091,7 +1116,7 @@
         "autoMapped": false
       },
       "GetMotivated": {
-        "requestedAt": "2026-02-17T14:39:23.065Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -1126,7 +1151,7 @@
         "autoMapped": false
       },
       "lewishowes": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -1191,12 +1216,12 @@
         "autoMapped": false
       },
       "substack": {
-        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
       "top": {
-        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -1971,7 +1996,7 @@
         "autoMapped": false
       },
       "Instagram": {
-        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -1986,7 +2011,7 @@
         "autoMapped": false
       },
       "X": {
-        "requestedAt": "2026-02-17T14:48:28.029Z",
+        "requestedAt": "2026-02-22T09:43:16.641Z",
         "used": false,
         "autoMapped": false
       },
@@ -2141,12 +2166,12 @@
         "autoMapped": false
       },
       "eckharttolle": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:10:23.909Z",
         "used": false,
         "autoMapped": false
       },
       "jackkornfield": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:10:23.909Z",
         "used": false,
         "autoMapped": false
       },
@@ -2156,22 +2181,22 @@
         "autoMapped": false
       },
       "insighttimer": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
       "greatergood": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
       "self-compassion": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
       "positivepsychology": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -2181,7 +2206,7 @@
         "autoMapped": false
       },
       "sogpodcast": {
-        "requestedAt": "2026-02-17T14:55:46.096Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -2301,7 +2326,7 @@
         "autoMapped": false
       },
       "blogs": {
-        "requestedAt": "2026-02-17T14:56:12.734Z",
+        "requestedAt": "2026-02-22T08:57:34.445Z",
         "used": false,
         "autoMapped": false
       },
@@ -2476,7 +2501,7 @@
         "autoMapped": false
       },
       "article": {
-        "requestedAt": "2026-02-18T18:39:33.915Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -2606,7 +2631,7 @@
         "autoMapped": false
       },
       "donaldrobertson": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:02:08.287Z",
         "used": false,
         "autoMapped": false
       },
@@ -2706,7 +2731,7 @@
         "autoMapped": false
       },
       "09": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:12:03.646Z",
         "used": false,
         "autoMapped": false
       },
@@ -2871,7 +2896,7 @@
         "autoMapped": false
       },
       "profile": {
-        "requestedAt": "2026-02-17T15:03:09.838Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -3216,7 +3241,7 @@
         "autoMapped": false
       },
       "about": {
-        "requestedAt": "2026-02-17T15:13:39.839Z",
+        "requestedAt": "2026-02-22T09:09:26.724Z",
         "used": false,
         "autoMapped": false
       },
@@ -3451,7 +3476,7 @@
         "autoMapped": false
       },
       "topics": {
-        "requestedAt": "2026-02-17T19:34:03.911Z",
+        "requestedAt": "2026-02-22T09:11:44.473Z",
         "used": false,
         "autoMapped": false
       },
@@ -3581,22 +3606,22 @@
         "autoMapped": false
       },
       "world-research": {
-        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "requestedAt": "2026-02-22T08:51:14.022Z",
         "used": false,
         "autoMapped": true
       },
       "mega-research-plus": {
-        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "requestedAt": "2026-02-22T08:51:14.022Z",
         "used": false,
         "autoMapped": true
       },
       "unified-research": {
-        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "requestedAt": "2026-02-22T08:51:14.022Z",
         "used": false,
         "autoMapped": true
       },
       "research-free": {
-        "requestedAt": "2026-02-18T17:02:12.300Z",
+        "requestedAt": "2026-02-22T08:51:14.022Z",
         "used": false,
         "autoMapped": true
       },
@@ -3802,6 +3827,1451 @@
       },
       "b52fa5a": {
         "requestedAt": "2026-02-18T18:55:11.301Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taisun": {
+        "requestedAt": "2026-02-22T09:25:01.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tool-use-id": {
+        "requestedAt": "2026-02-23T04:46:10.705Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gruenderszene": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "sifted": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "e27": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "yourstory": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "inc42": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "techinasia": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "contxto": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thenordicweb": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "total_tokens": {
+        "requestedAt": "2026-02-22T09:25:01.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tool_uses": {
+        "requestedAt": "2026-02-22T09:25:01.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "duration_ms": {
+        "requestedAt": "2026-02-22T09:25:01.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "afbed02dd5d643754": {
+        "requestedAt": "2026-02-22T06:05:00.172Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "basics": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "growth-mindset": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "biglifejournal": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ppc": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "zenhabits": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "lifehacker": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dariusforoux": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindfulstoic": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ryangottfredson": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "melrobbins": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "coachfoundation": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cogbtherapy": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cbt-blog": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-mindset-mentor": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jayshetty": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "unlocking-us": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "selfimprovement": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindsetopia": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "growth-mindset-resources": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "most-visiting-personal-development-blogs": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "personal-development-blogs": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "brain-and-neuroplasticity": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "views": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "neuroplasticity-and-growth-mindset-whats-the-connection": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mind-and-mood": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tips-to-leverage-neuroplasticity-to-maintain-cognitive-fitness-as-you-age": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mental-models": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "positive-mindset": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "goodpods": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "leaderboard": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "top-100-shows-by-category": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "other": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindset": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "growth_mindset_podcasts": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "self-help": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thoughts-in-cbt": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "abundance-mindset": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "community": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "threads": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-to-go-from-a-scarcity-to-an-abundance-mindset-this-changed-my-life": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "atomic-habits": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mensgroup": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "self-improvement-reddit": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "episode": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-to-enhance-performance-and-learning-by-applying-a-growth-mindset": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a6ddcfdf90a2e4928": {
+        "requestedAt": "2026-02-22T08:57:34.445Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "IEP": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "modernstoicism": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicismpod": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "plato": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "iep": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philpapers": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philpeople": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aeon": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nautil": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "daily-philosophy": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophynow": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bigthink": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "hard-science": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophytalk": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "partiallyexaminedlife": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "verybadwizards": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "classicalwisdom": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicathenaeum": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "leiterreports": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dailynous": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophybreak": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophiesoflife": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "einzelganger": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "buddhaweekly": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "pursuitofwonder": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "reddit": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "askphilosophy": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thephilosophyforum": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "onlinephilosophyclub": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicismforhumans": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bloggers": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "stoicism_blogs": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophy_blogs": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "forums": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "philosophy_forums": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a35021979b990423a": {
+        "requestedAt": "2026-02-22T09:02:08.287Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "jackcanfield": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "brendon": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "schoolofgreatness": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "addicted2success": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "darrenhardy": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wealthygorilla": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dumblittleman": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thelawofattraction": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gabbybernstein": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wealthcreationmastermind": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "law-of-attraction-centre-blog": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mymorningroutine": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "letsreachsuccess": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "projectlifemastery": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "roryvaden": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "excellencereporter": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "seancroxton": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "empirics": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ultrasuccessful": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "search": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "success_blogs": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "getdisciplined": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "think-and-grow-rich-1": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ae1fb5bf345267427": {
+        "requestedAt": "2026-02-22T09:09:26.724Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spiritualawakeningprocess": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "elizabethperu": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "innerspiritualawakening": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spectrumofspirit": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wakeup-world": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thespiritscience": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wakeupplatform": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "drjoedispenza": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tinybuddha": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindworks": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "susanpiver": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "liveanddare": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "endless-satsang": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "richardsylvester": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "tomdas": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "raiseyourvibrationtoday": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "foreverconscious": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spirituality": {
+        "requestedAt": "2026-02-22T09:13:45.017Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "passionforlawofattraction": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "choprafoundation": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "spiritual_blogs": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "consciousness_blogs": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "traditions": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nonduality-advaita": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-to-balance-chakras": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "chakra-healing": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "neo-advaita": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "counterculturist": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "best-meditation-blogs": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "uncategorized": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "consciousness-websites": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ab4019ed81a4cfc3a": {
+        "requestedAt": "2026-02-22T09:10:23.909Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "drsonja": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "positivepsychologynews": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "happiness": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gretchenrubin": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nickwignall": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindfulnessexercises": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ggia": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "gratefulness": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "happiermindjournal": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "actionforhappiness": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Yale": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-happiness-lab-with-dr-laurie-santos": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "minimalistichappiness": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nosidebar": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thehappinesstrap": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thinking": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "drjeffperron": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "wellbeing": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "csd": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "research-projects": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "happiness-and-well-being-research": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "globalwellnessinstitute": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "industry-research": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "happiness-wellbeing-index": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "insightspsychology": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "World": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "UPenn": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "item": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the_top_10_insights_from_the_science_of_a_meaningful_life_in_2025": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "between-cultures": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "5-positive-psychology-findings-for-a-happier-life": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "analytics": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "world-happiness-report": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a9d0d9e8de62b0fa5": {
+        "requestedAt": "2026-02-22T09:11:44.473Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "NLP": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "EFT": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "therapyinanutshell": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "my": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "health": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "diseases": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "22555-atychiphobia-fear-of-failure": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "impostorsyndrome": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "contextualscience": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "adaa": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "essential": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "procrastination": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "solvingprocrastination": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "flown": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fear-failure-procrastination-atychiphobia": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thementalgame": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-psychology-of-procrastination-overcoming-it": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "m1psychology": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "anxiety-perfectionism-and-the-fear-of-failure": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mindfulspark": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bravingboundaries": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "peopledevelopmentmagazine": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "theliven": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "self-sabotage": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "health-and-wellness": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "limiting-beliefs-examples": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "eftinternational": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "unleashyourpower": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "globalnlptraining": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "simply": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "marisapeer": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rtt": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "rebeccalockwood": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "quenza": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ariselifecoaching": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "thewellnesssociety": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "somatictherapypartners": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "traumatherapistnewsletter": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mytherapist": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "integrativelifecenter": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "mental-health-treatment": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "shame-resilience": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "eddinscounseling": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "uncover-core-beliefs-can-change": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "bayareacbtcenter": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "therapy-blog": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "cbt-core-beliefs": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "overcominggravity": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "the-wisdom-of-anger": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "breaking-through-mental-barriers": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "fear": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "what-are-saboteurs": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "limiting-beliefs": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "overcoming-self-doubt": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "discover-eft-tapping": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "what-is-eft-tapping": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "how-a-cbt-therapist-in-san-francisco-can-help-you-overcome-limiting-beliefs": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "06": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "breaking-free-from-self-sabotage-a-science-backed-roadmap-to-rewiring-self-destructive-patterns": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "overcoming-impostor-syndrome-five-strategies-for-success": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "nlp-technique-start-claiming-victory-over-your-limiting-beliefs": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "self-sabotaging-behaviors-identify-ways-youre-holding-your-best-self-back": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a8da2c7202b000b92": {
+        "requestedAt": "2026-02-22T09:12:03.646Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aa39b8eb1a8006b92": {
+        "requestedAt": "2026-02-22T09:12:53.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a5541fa764037b3cc": {
+        "requestedAt": "2026-02-22T09:13:00.448Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "ad8248fe640d94c4b": {
+        "requestedAt": "2026-02-22T09:13:03.923Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a8867d800f8fae2dc": {
+        "requestedAt": "2026-02-22T09:13:25.963Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a72974efd9c13f71f": {
+        "requestedAt": "2026-02-22T09:13:45.017Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a669a1ed61d2193ad": {
+        "requestedAt": "2026-02-22T09:15:19.476Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "aa803e59af4f5ac99": {
+        "requestedAt": "2026-02-22T09:24:54.517Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "a6c4811949ad38495": {
+        "requestedAt": "2026-02-22T09:25:01.502Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "episode_": {
+        "requestedAt": "2026-02-22T15:26:58.258Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyo-style-headline": {
+        "requestedAt": "2026-02-22T15:24:47.229Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyo-style-vsl": {
+        "requestedAt": "2026-02-22T15:24:47.229Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "taiyo-analyzer": {
+        "requestedAt": "2026-02-22T15:24:47.229Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "be87cd0": {
+        "requestedAt": "2026-02-22T15:47:46.069Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "generate_no2_episodes": {
+        "requestedAt": "2026-02-22T15:47:46.069Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "be459c7": {
+        "requestedAt": "2026-02-23T04:43:40.991Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "b12b6f4": {
+        "requestedAt": "2026-02-23T04:46:10.705Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "litellm-config": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "anthropic": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "claude-sonnet-4-6": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "OPENROUTER_API_KEY": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "claude-opus-4-6": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "minimax": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "minimax-m2": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "deepseek": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "deepseek-chat": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "z-ai": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "glm-5": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "meta-llama": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "llama-4-scout-17b-16e-instruct": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "GROQ_API_KEY": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Library": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "Python": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "localhost": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "dev": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "null": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "litellm": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "openrouter": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "keys": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
+        "used": false,
+        "autoMapped": false
+      },
+      "console": {
+        "requestedAt": "2026-03-02T07:12:16.861Z",
         "used": false,
         "autoMapped": false
       }

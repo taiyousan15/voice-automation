@@ -2,7 +2,7 @@
 
 > **CRITICAL**: 次のセッションは必ずこのファイルを読んでから作業を開始すること
 
-**最終更新**: 2026-02-18T16:17:17.651Z
+**最終更新**: 2026-02-28T13:16:27.169Z
 **作業ディレクトリ**: /Users/matsumototoshihiko/Desktop/開発2026/音声自動化システム
 
 ## 既存スクリプト（MUST READ）
@@ -13,9 +13,16 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
+- `scripts/generate_episode 2.py` (7.0KB, 2026/2/13 13:56:53)
+- `scripts/generate_episode 3.py` (7.0KB, 2026/2/13 13:56:53)
+- `scripts/generate_episode 4.py` (7.0KB, 2026/2/13 13:56:53)
+- `scripts/generate_episode 5.py` (7.0KB, 2026/2/13 13:56:53)
+- `scripts/generate_episode 6.py` (7.0KB, 2026/2/13 13:56:53)
 - `scripts/generate_episode.py` (7.0KB, 2026/2/13 13:56:53)
-- `scripts/run_pipeline.py` (7.2KB, 2026/2/13 14:06:34)
-- `scripts/text_preprocessor.py` (4.8KB, 2026/2/15 13:48:55)
+- `scripts/generate_from_neta.py` (12.1KB, 2026/2/22 19:09:05)
+- `scripts/generate_no2_episodes.py` (18.7KB, 2026/2/23 3:38:11)
+- `scripts/run_no2_daily.sh` (1.4KB, 2026/2/23 12:13:03)
+- `scripts/run_pipeline 2.py` (7.2KB, 2026/2/13 14:06:34)
 
 ## 次のセッションへの指示
 
