@@ -4,98 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-05T21:46:46.585803</lastBuildDate>
+        <lastBuildDate>2026-03-06T01:59:28.202088</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: 日経クロステック（xtech）】
-信頼度スコア: 7.0/10
-
-**hook（150文字）**
-こんにちは、皆さん。今日は、AIが若手のスキル獲得を妨げるのか、について話したいと思います。私たちは、毎...]]>
-
-
-記事一覧:
-  • AIは若手のスキル獲得を妨げるか (出典: 日経クロステック（xtech）, 信頼度: 7.0/10)</description>
-        <category>skill 比較</category>
-        <pubDate>2026-03-05T21:46:46.585682</pubDate>
-        <guid isPermaLink="false">episode_skill 比較_1_1772747206</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260305_214344.mp3" type="audio/mpeg" length="2323435" />
-        <itunes:duration>00:02:25</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: 思想 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**problem**
-こんな悩みありませんか？AIの技術が急速に進化している中で、自分がどのようにしてこれらの技術を活用できるのか、わかりません。特に、生...]]>
-
-
-記事一覧:
-  • 広島AI研修会社WEAVE代表、広島大シンポジウムに登壇、大学院で生成AI研究へ。 (出典: Pr Times, 信頼度: 8.0/10)
-  • 20周年の節目に挑んだ一台 Triumph TR6「WILD PIGEON」|HEIWA MOTORCYCLE(Webikeプラス) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • 東日本大震災で被災者の命を守った石巻赤十字病院 災害に向き合った現場と未来へつなぐ教訓 (出典: Fnnプライムオンライン, 信頼度: 6.5/10)
-  • 溝口勇児氏「『逮捕』とか言ってるやつ、何を根拠に言ってんの」 (出典: Sanspo, 信頼度: 7.0/10)
-  • 女優 沢尻エリカさん「「拡散」の時代に正義を決めつけないという向き合い方を。」(Hanako Web) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • SNS中を魅了した“奇跡のイケオジ”!フォロワー数35万人超を誇る浪花の実業家・森下直哉が語る“好き”を仕事に生きるカッコいい大人が目指すもの(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 価格49万円! 唯一無二のスズキ「“新”油冷エンジン搭載ネイキッド」! 個性の異なる3色のカラーリングで登場! 軽量ロードスポーツ「ジクサー250」発売(くるまのニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>思想 方法</category>
-        <pubDate>2026-03-05T21:46:46.585745</pubDate>
-        <guid isPermaLink="false">episode_思想 方法_2_1772747206</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%96%B9%E6%B3%95/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 方法_20260305_214402.mp3" type="audio/mpeg" length="5171409" />
-        <itunes:duration>00:05:23</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: 哲学 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Fnnプライムオンライン】
-信頼度スコア: 6.5/10
-
-**intro**
-こんにちは、今日は鹿児島市の予算案について話します。最近、鹿児島市は初めてさんぜんおく円を超える予算案を発表しました。この予算案...]]>
-
-
-記事一覧:
-  • 鹿児島市「初の3000億超」予算案 西原商会アリーナを大改修、座席5000席以上へ (出典: Fnnプライムオンライン, 信頼度: 6.5/10)
-  • 自民党のご意見番・伊吹元衆院議長「注目すべきは野党が強い参院予算委での質疑」問われるその「質」(J-CASTニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 「世界青年の船」参加青年が中部国際空港を訪問。防災について学びました! (出典: Pr Times, 信頼度: 8.0/10)
-  • ベンツ日本が国内初開設、神戸に「マイバッハラウンジ」(ニュースイッチ) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • タレントよ、自分の城を持て。あなたの顔・声・個性が、今日も誰かの「学習データ」になっている。 (出典: Pr Times, 信頼度: 8.0/10)
-  • 新宿 北村写真機店で学生フィルムプロジェクトの写真展「grayn」を開催豪華ゲストを招いてトークショーも実施 (出典: Pr Times, 信頼度: 8.0/10)
-  • STUDIO NICHOLSON が京都に新旗艦店をオープン (出典: Hypebeast. Jp, 信頼度: 7.5/10)</description>
-        <category>哲学 活用</category>
-        <pubDate>2026-03-05T21:46:46.585778</pubDate>
-        <guid isPermaLink="false">episode_哲学 活用_3_1772747206</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%B4%BB%E7%94%A8/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260305_214421.mp3" type="audio/mpeg" length="6932271" />
-        <itunes:duration>00:07:13</itunes:duration>
-    </item>
     </channel>
 </rss>
