@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-03-06T01:59:28.201935",
-  "total_episodes": 0,
+  "generated_at": "2026-03-06T21:40:10.705994",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260306_213636",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260306_213636.mp3",
+      "audio_length": 3195715,
+      "audio_duration": "00:03:19",
+      "articles": [
+        {
+          "title": "Salesforceが描くエージェンティック・エンタープライズ、Informaticaで実現する「信頼できるコンテキスト」",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "2026年3月5日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260306_213756",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260306_213756.mp3",
+      "audio_length": 6501355,
+      "audio_duration": "00:06:46",
+      "articles": [
+        {
+          "title": "TOMOOと観客が共有した宝、1人ひとりの心の奥底を照らしたホールツアー閉幕",
+          "source": "Natalie - Pop Culture News Site",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Basketcase x New Balance の最新作 204L が発売",
+          "source": "Hypebeast. Jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "クミコ×『現役歌王JAPAN』Juni・Masaya・Shin対談 昭和歌謡とシャンソンの魅力語る",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "山本涼介・鈴木勝大ら出演のダブルビル「誰かひとり / 回復する人間」幕開け",
+          "source": "Natalie - Pop Culture News Site",
+          "trust_score": 8.0
+        },
+        {
+          "title": "gloTM が McLaren Racing にインスパイアされた“史上最もプレミアム”な限定デザインのデバイスを発売",
+          "source": "Hypebeast. Jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "トヨタ ラウムは究極の快適車!? 現代っ子も思わずウムウム頷いちゃうほどの完成度だった件(ベストカーWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "昭和の名横綱「千代の富士」の肉体がテーラードスーツのパターンから甦る OVERCOAT x 千代の富士 コラボレーションイベント開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
