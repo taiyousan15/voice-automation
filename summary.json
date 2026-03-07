@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-03-07T01:53:56.693110",
+  "generated_at": "2026-03-07T21:30:59.041405",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260307_015155",
-      "theme": "MCP 比較",
+      "name": "episode_Claude Code 比較_20260307_212847",
+      "theme": "Claude Code 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260307_015155.mp3",
-      "audio_length": 5889044,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260307_212847.mp3",
+      "audio_length": 6378057,
+      "audio_duration": "00:06:38",
       "articles": [
         {
-          "title": "OpenAIが「GPT-5.4」をリリース、人間より上手にPCを操作できる「エージェント性能に優れた最も有能で効率的なフロンティアモデル」",
-          "source": "Gigazine",
+          "title": "GMOインターネットの『ConoHa VPS byGMO』「Terraform ConoHa VPS Provider」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「Gemini」の性能と主義を貫く 新AIモデル「GPT-5.4」を発表",
+          "source": "ライブドアニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "OpenAIが新AIモデル「GPT-5.4」をリリース、性能は“大幅に”向上。ChatGPTにもくるよ",
+          "source": "Gizmodo",
           "trust_score": 7.5
-        },
-        {
-          "title": "Salesforceが描くエージェンティック・エンタープライズ、Informaticaで実現する「信頼できるコンテキスト」",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年3月5日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.0
         }
       ]
     }
