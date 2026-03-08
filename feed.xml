@@ -4,40 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-07T21:30:59.041612</lastBuildDate>
+        <lastBuildDate>2026-03-08T02:00:47.613391</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Claude code 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook（150文字）**
-あなたはクラウドインフラストラクチャーを管理する際に、効率と柔軟性を求めていますか？クラウドサービスの利用...]]>
-
-
-記事一覧:
-  • GMOインターネットの『ConoHa VPS byGMO』「Terraform ConoHa VPS Provider」を提供開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 「Gemini」の性能と主義を貫く 新AIモデル「GPT-5.4」を発表 (出典: ライブドアニュース, 信頼度: 6.5/10)
-  • OpenAIが新AIモデル「GPT-5.4」をリリース、性能は“大幅に”向上。ChatGPTにもくるよ (出典: Gizmodo, 信頼度: 7.5/10)</description>
-        <category>Claude Code 比較</category>
-        <pubDate>2026-03-07T21:30:59.041577</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 比較_1_1772919059</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260307_212847.mp3" type="audio/mpeg" length="6378057" />
-        <itunes:duration>00:06:38</itunes:duration>
-    </item>
     </channel>
 </rss>

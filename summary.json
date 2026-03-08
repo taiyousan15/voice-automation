@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-03-07T21:30:59.041405",
-  "total_episodes": 1,
+  "generated_at": "2026-03-08T02:00:47.613228",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_Claude Code 比較_20260307_212847",
-      "theme": "Claude Code 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260307_212847.mp3",
-      "audio_length": 6378057,
-      "audio_duration": "00:06:38",
-      "articles": [
-        {
-          "title": "GMOインターネットの『ConoHa VPS byGMO』「Terraform ConoHa VPS Provider」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「Gemini」の性能と主義を貫く 新AIモデル「GPT-5.4」を発表",
-          "source": "ライブドアニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "OpenAIが新AIモデル「GPT-5.4」をリリース、性能は“大幅に”向上。ChatGPTにもくるよ",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
