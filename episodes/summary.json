@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-03-07T01:53:56.693110",
-  "total_episodes": 1,
+  "generated_at": "2026-03-08T02:00:47.613228",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260307_015155",
-      "theme": "MCP 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260307_015155.mp3",
-      "audio_length": 5889044,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "OpenAIが「GPT-5.4」をリリース、人間より上手にPCを操作できる「エージェント性能に優れた最も有能で効率的なフロンティアモデル」",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Salesforceが描くエージェンティック・エンタープライズ、Informaticaで実現する「信頼できるコンテキスト」",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年3月5日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
