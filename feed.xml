@@ -4,68 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-08T21:33:44.213431</lastBuildDate>
+        <lastBuildDate>2026-03-09T02:02:01.736754</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 哲学 おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Ascii】
-信頼度スコア: 6.5/10
-
-**hook**
-あなたは、毎日の生活の中で哲学的な疑問に直面したことはありませんか？存在の意味や人生の目的、愛と幸福について考えているとき、混乱や迷いを感じ...]]>
-
-
-記事一覧:
-  • 【本日終了】さくらももこのゆる哲学『COJI-COJI』全4巻が50%還元【Kindle漫画セール情報】 (出典: Ascii, 信頼度: 6.5/10)
-  • アンリアレイジは「攻殻機動隊」の“光学迷彩”を再現──LEDで“身体が消える服”【2026-27年秋冬 パリ速報】 (出典: Vogue, 信頼度: 7.5/10)
-  • 完全に“沼”って全30話6日で完走も!“キュン死&涙腺崩壊”の嵐!再注目のイケメン主演韓国ドラマ5選 (出典: Yomuno, 信頼度: 7.5/10)
-  • サンローラン、気回しやすいレザーブラックコート(GOETHE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • だから外国人客が感動する...世界の中で一目置かれる「高級寿司の値段の高さ」の知られざるカラクリ(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 首相の国会答弁、4割超減 衆院選圧勝で自民が主導権(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • イ・セドル九段が語った「AI就職不安」の若者たちへのアドバイス(ハンギョレ新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 おすすめ</category>
-        <pubDate>2026-03-08T21:33:44.213374</pubDate>
-        <guid isPermaLink="false">episode_哲学 おすすめ_1_1773005624</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260308_213126.mp3" type="audio/mpeg" length="6925165" />
-        <itunes:duration>00:07:12</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Business Insider】
-信頼度スコア: 7.0/10
-
-**problem**
-こんな悩みありませんか？自分の仕事や生活に必要なスキルが、AIの進化によってどんどん変化しているように感じませ...]]>
-
-
-記事一覧:
-  • AI時代には「審美眼」「センス」が新たなコアスキルになる? (出典: Business Insider, 信頼度: 7.0/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-03-08T21:33:44.213415</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_2_1773005624</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%B4%BB%E7%94%A8/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260308_213128.mp3" type="audio/mpeg" length="1915506" />
-        <itunes:duration>00:01:59</itunes:duration>
-    </item>
     </channel>
 </rss>
