@@ -8,10 +8,34 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-09T02:02:01.736754</lastBuildDate>
+        <lastBuildDate>2026-03-10T01:55:37.039847</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**hook**
+あなたは、AIが日々の生活を自動化する中で、自分が持つスキルが時代遅れになるのではないかと心配したことがありませんか？テクノロ...]]>
+
+
+記事一覧:
+  • AI時代には「審美眼」「センス」が新たなコアスキルになる?(海外)(BUSINESS INSIDER JAPAN) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • AI時代には「審美眼」「センス」が新たなコアスキルになる? (出典: Business Insider, 信頼度: 7.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-03-10T01:55:37.039810</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1773107737</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260310_015421.mp3" type="audio/mpeg" length="3731957" />
+    </item>
     </channel>
 </rss>
