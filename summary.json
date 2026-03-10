@@ -1,25 +1,185 @@
 {
-  "generated_at": "2026-03-10T01:55:37.039598",
-  "total_episodes": 1,
+  "generated_at": "2026-03-10T21:40:06.760825",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260310_015421",
-      "theme": "skill 活用",
+      "name": "episode_MCP 活用_20260310_213639",
+      "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260310_015421.mp3",
-      "audio_length": 3731957,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260310_213639.mp3",
+      "audio_length": 7115336,
+      "audio_duration": "00:07:24",
       "articles": [
         {
-          "title": "AI時代には「審美眼」「センス」が新たなコアスキルになる?(海外)(BUSINESS INSIDER JAPAN)",
+          "title": "CData が Connect AI プラットフォームを拡張、新たなエージェントツールとエンタープライズグレードのセキュリティで AI の実運用を推進",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "日立、日本企業で初めてAgentic AI Foundationに加入し、AIのアクセス権限管理の標準化を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "OpenClawエコシステム進化:MeowClawで誰でもAI自律エージェントをワンクリック利用",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "広告分析SaaS「動画広告分析Pro」、業界初のMCPサーバーを正式提供-AIが広告データを自動で取得・分析する時代へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「人のWeb業務を、AIが見て覚え、100回でも自動実行する。」Copelf(コペルフ)をリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "クラウドエース、Google Cloud Agentic AI Summit '26 Spring に協賛",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIトレンド最前線 第17回 AIニュースまとめ(2/24~3/8)GPT-5.4公開、Gemini新モデル、Anthropic問題",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 比較_20260310_213657",
+      "theme": "思想 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260310_213657.mp3",
+      "audio_length": 5991443,
+      "audio_duration": "00:06:14",
+      "articles": [
+        {
+          "title": "東大合格者最低点2026 昨年と比較「あと1点の世界」その変動は(リセマム)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "AI時代には「審美眼」「センス」が新たなコアスキルになる?",
+          "title": "「日本の現場」を知る国産ツールが、AI時代の業務改革を変える――海外勢にはできない”考えなくていい”DXを、1,641テンプレートとAIで実現",
+          "source": "Business Journal",
+          "trust_score": 7.5
+        },
+        {
+          "title": "健康の秘訣はカブに乗ること!?90歳と100歳の現役カブ乗りに出会った!?(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "20歳ママに抱かれる1歳娘→14年後、娘が...... 590万再生された姿に「なんてこった」「5度見くらいしたわ」【海外】(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「今、自社ブランドはどんな状態にあるのか?」SNS・サイト・競合を横断的に分析し、小売ブランドの\"現在地\"を把握する無料診断ツール「RECORE EC Checker」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "春コーデの正解見つけた...!ハニーズの「ふんわりアウター」体のラインを拾わないし、UVカットもできて理想すぎる!(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "コーヒーが苦手な“ど素人”が自宅で本格コーヒーに挑戦! 記念すべき一杯の出来栄えは?【書評】(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ_20260310_213717",
+      "theme": "思想 おすすめ",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「女性であることは、まったく関係ない」──グラフェン、生命の起源、宇宙論。最前線で戦う女性科学者3人が語った\"キャリアの新常識\"",
           "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "東日本大震災の発生から15年 継続的に取材を続けてきた被災者に聞く「災害報道の在り方」〈宮城〉",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 6.5
+        },
+        {
+          "title": "伝統の宿「花もみじ」が贈る、極上の休息。ロビー刷新でさらなる寛ぎへ。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ゆったりと島の時間をくつろいで... JR四国が空き家を活用した宿泊施設をオープンへ【愛媛】(eat愛媛朝日テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "名古屋スイーツ「ぴよりん」4月6日から値上げ。定番ぴよ+30円、JR駅での無人受け取り+100円(トラベル Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "“徹底抗戦”イラン 兵力は? トランプ氏「まもなく終結」 ガソリン価格200円台突入か(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "メインロビーに枝垂れ桜のフォトスポットが登場!春限定の“さくら”パン・スイーツも販売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い おすすめ 理由_20260310_213734",
+      "theme": "占い おすすめ 理由",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【新NISAつみたてシミュレーション】50歳→65歳「毎月5万円の積立投資」15年間サボらず続けたら資産はどう育つ?《利回り別試算》(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "デムナが描いたボディコンシャスな「グッチ」の春 ランウェイデビューをレポート(FASHIONSNAP)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【愛媛・西条】隈研吾建築×名水が織りなす食の別邸「青山緑水」誕生〈ITOMACHI HOTEL 0〉全7室の離れヴィラを3月10日に刷新",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ランキング】新社会人・一人暮らしで重視すべき賃貸物件の“条件”。不動産のプロが選んだ「治安が良い」を抑えた1位は?",
+          "source": "ハフポスト",
+          "trust_score": 7.5
+        },
+        {
+          "title": "オープンワールドアクション『紅の砂漠』を6時間プレイしてみた感想。めんどくささが最高に面白い、ゲーマーのための超大作",
+          "source": "Automaton",
           "trust_score": 7.0
+        },
+        {
+          "title": "電動キックボードにも「違反者講習」がある!? 受講命令を無視すると“罰金”のおそれも! ネット上では「安全運転意識が低い」「もっと厳しく取り締まってほしい」などの声!",
+          "source": "Car News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "電動キックボードにも「違反者講習」がある!? 受講命令を無視すると“罰金”のおそれも! ネット上では「安全運転意識が低い」「もっと厳しく取り締まってほしい」などの声!(くるまのニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
