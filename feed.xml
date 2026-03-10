@@ -4,49 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-09T21:43:02.567583</lastBuildDate>
+        <lastBuildDate>2026-03-10T01:55:37.039847</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 思想 比較</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Coinpost｜仮想通貨ビットコインニュース・投資情報】
-信頼度スコア: 7.5/10
-
-**hook（150文字）**
-こんにちは、みなさん。今日は、新しい金融の世界について話しましょう。私たちが日常的に...]]>
-
-
-記事一覧:
-  • ゴールドとビットコインの歴史比較も 貴金属やデジタル証券の専門家が語る新金融の未来|FIN/SUM NEXT (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.5/10)
-  • マカや亜鉛を超える次世代精力サプリとは (出典: Mynavi News, 信頼度: 8.0/10)
-  • バリケードの町に響く復興の槌音 福島原発の地元、双葉・大熊のいま (出典: 朝日新聞デジタル, 信頼度: 7.5/10)
-  • 西条だんじり彫刻の矜持を彫って200年:石水彫刻所(fashion tech news) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 時価1億円のポケモンカードがまさかの価格に...ただでは済まない中古市場のワナ プロも見分け困難(ENCOUNT) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • ホンダF1 武石専務 アストンマーティン提携解消説を否定「聞いていない」 (出典: F1-gate, 信頼度: 7.5/10)
-  • フェルスタッペン、タイヤに苦しみつつ20番手から6位。ハジャーにトラブル「変な音がしていたから、完走は無理と分かっていた」 (出典: Auto Sport, 信頼度: 7.5/10)</description>
-        <category>思想 比較</category>
-        <pubDate>2026-03-09T21:43:02.567503</pubDate>
-        <guid isPermaLink="false">episode_思想 比較_1_1773092582</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260309_214014.mp3" type="audio/mpeg" length="5581009" />
-        <itunes:duration>00:05:48</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -54,49 +24,18 @@
 【セクション 1: Yahoo Japan】
 信頼度スコア: 9.7/10
 
-**problem**
-こんな悩みありませんか？AIが生活を自動化する中で、自分が何をすべきか分からなくなっている。AIによって多くのタスク...]]>
+**hook**
+あなたは、AIが日々の生活を自動化する中で、自分が持つスキルが時代遅れになるのではないかと心配したことがありませんか？テクノロ...]]>
 
 
 記事一覧:
   • AI時代には「審美眼」「センス」が新たなコアスキルになる?(海外)(BUSINESS INSIDER JAPAN) (出典: Yahoo Japan, 信頼度: 9.7/10)
   • AI時代には「審美眼」「センス」が新たなコアスキルになる? (出典: Business Insider, 信頼度: 7.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-03-09T21:43:02.567545</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_2_1773092582</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260309_214020.mp3" type="audio/mpeg" length="3918785" />
-        <itunes:duration>00:04:04</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: 哲学 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**intro（150文字）**
-こんにちは、今日は哲学的な方法で自己成長を促進するためのヒントについて話したいと思います。哲学は、人生や世界について考える...]]>
-
-
-記事一覧:
-  • 【TAC司法書士講座】一発合格者も登壇!オンラインセミナー「法律知識ゼロでも大丈夫。司法書士資格で新しい自分へ一歩踏み出そう!」のご案内 (出典: Pr Times, 信頼度: 8.0/10)
-  • 中道議員「総理に聞いてます」 委員長「まず! まず! 外務大臣、外務大臣から」...ホルムズ海峡めぐり国会騒然(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【新潟市 人事異動】部次長・課長級の人事を発表 文化スポーツ部次長に若林靖恵氏、新潟市民病院副院長に他田正義氏と本間里香氏(新潟ニュースNST) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • パテックフィリップ聖地巡礼、ジュネーブの本店サロンとミュージアムに潜入(GOETHE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • もはや音響か、彫刻か。バング&オルフセン100周年の結晶「ベオラブ 90」の衝撃(GOETHE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • マツダ「オートザム AZ-1」をフェラーリ「F40」仕様に! リバティウォークが2024年に公開した「LB40 AZ-1」カスタムカーとは(くるまのニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 13mのダックスフントのオブジェも 「タンバリンズ」代官山にフラッグシップ(FASHIONSNAP) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 方法</category>
-        <pubDate>2026-03-09T21:43:02.567569</pubDate>
-        <guid isPermaLink="false">episode_哲学 方法_3_1773092582</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260309_214041.mp3" type="audio/mpeg" length="6587454" />
-        <itunes:duration>00:06:51</itunes:duration>
+        <category>skill 活用</category>
+        <pubDate>2026-03-10T01:55:37.039810</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1773107737</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260310_015421.mp3" type="audio/mpeg" length="3731957" />
     </item>
     </channel>
 </rss>
