@@ -4,68 +4,159 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-11T01:54:39.995233</lastBuildDate>
+        <lastBuildDate>2026-03-11T21:45:27.181696</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <title>エピソード 1: Claude code おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【Claude Code おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
+【セクション 1: Mynavi News】
+信頼度スコア: 8.0/10
 
 **hook**
-あなたは、データの分析や処理を自動化するためにAIを活用していますか？しかし、AIの導入は簡単ではありません。セキュリティの問...]]>
+あなたは毎日、膨大な量の情報を処理し、分析するという大変な作業に直面していますか？その情報を整理し、有用...]]>
 
 
 記事一覧:
-  • CData が Connect AI プラットフォームを拡張、新たなエージェントツールとエンタープライズグレードのセキュリティで AI の実運用を推進 (出典: Pr Times, 信頼度: 8.5/10)
-  • 2026年3月9日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-03-11T01:54:39.995153</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1773194079</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260311_015423.mp3" type="audio/mpeg" length="417" />
+  • 柳谷智宣のAIトレンドインサイト 第26回 「OpenClaw」をConoHa VPSで動かしてみた - ブログ投稿も論文収集も完全自動化! (出典: Mynavi News, 信頼度: 8.0/10)
+  • 【AI本格導入無償支援】n8n公式認定パートナーHumanoiD、Claude Code/ChatGPT/Copilot/n8nの導入支援パッケージを提供開始 (出典: Pr Times, 信頼度: 8.5/10)
+  • 2026年3月10日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.0/10)</description>
+        <category>Claude Code おすすめ 理由</category>
+        <pubDate>2026-03-11T21:45:27.181579</pubDate>
+        <guid isPermaLink="false">episode_Claude Code おすすめ 理由_1_1773265527</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260311_214056.mp3" type="audio/mpeg" length="5260851" />
+        <itunes:duration>00:05:28</itunes:duration>
     </item>
     <item>
-        <title>エピソード 2: Mcp おすすめ</title>
+        <title>エピソード 2: 哲学 おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
 【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
+信頼度スコア: 8.0/10
 
 **problem**
-こんな悩みありませんか？AIエンジニアリングのインフラを構築する際に、多大な時間とリソースを費やすことになります。特に、AIモ...]]>
+こんな悩みありませんか？哲学の本を読んでみようと思ったのに、どれから始めたらいいかわからない。哲学は難しいと思われていますが、実...]]>
 
 
 記事一覧:
-  • 【元Google・Meta・Uber出身メンバーが創業】AIエンジニアリングインフラを構築するCrafting、550万ドルのシード資金調達の実施と一般向けサービス提供の開始 (出典: Pr Times, 信頼度: 8.5/10)
-  • 新興市場銘柄ダイジェスト:Synsが急騰、SBIリーシングが大幅反発 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • 日立、日本企業で初めてAgentic AI Foundationに加入し、AIのアクセス権限管理の標準化を支援 (出典: Pr Times, 信頼度: 8.0/10)
-  • OpenClawエコシステム進化:MeowClawで誰でもAI自律エージェントをワンクリック利用 (出典: Pr Times, 信頼度: 8.0/10)
-  • Datadog、AIエージェントに統合オブザーバビリティデータへの安全かつリアルタイムなアクセスを提供する「MCP Server」を発表 (出典: Pr Times, 信頼度: 8.5/10)
-  • 広告分析SaaS「動画広告分析Pro」、業界初のMCPサーバーを正式提供-AIが広告データを自動で取得・分析する時代へ (出典: Pr Times, 信頼度: 8.0/10)
-  • 「人のWeb業務を、AIが見て覚え、100回でも自動実行する。」Copelf(コペルフ)をリリース (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-03-11T01:54:39.995216</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_2_1773194079</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260311_015439.mp3" type="audio/mpeg" length="417" />
+  • 3sixteen × Saucony “GUIDE v7.3s”を2026年3月14日(土)発売! (出典: Pr Times, 信頼度: 8.0/10)
+  • 【オールセインツ】新クリエイティブディレクターにアーロン・エッシュが就任 (出典: Pr Times, 信頼度: 8.0/10)
+  • 公開1か月記念&春休み特別企画!映画『#拡散』ティーチイン・トークショー付き上映会の開催が決定! (出典: Pr Times, 信頼度: 8.0/10)
+  • 株式会社ロックスライフ、「冷徹の虎」南原竜樹のYouTubeを再始動 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「時代に挑んだ男」加納典明(28)希代の写真家が画家に...「俺ほどPhotoshopをいじれる同世代はいない」 (出典: Nikkan Gendai Digital, 信頼度: 7.5/10)
+  • 代表取締役会長の退任に関するお知らせ (出典: Pr Times, 信頼度: 7.5/10)
+  • ハリー・スタイルズと「再生」の物語──村上春樹、レディオヘッド、クラブカルチャーに影響された「ときどきディスコ」な現在地 (出典: Mynavi News, 信頼度: 8.5/10)</description>
+        <category>哲学 おすすめ</category>
+        <pubDate>2026-03-11T21:45:27.181627</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ_2_1773265527</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260311_214118.mp3" type="audio/mpeg" length="6898415" />
+        <itunes:duration>00:07:11</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 3: 思想 おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Sanspo】
+信頼度スコア: 7.0/10
+
+**intro（150文字）**
+こんにちは、今日はNHKの連続テレビ小説「ばけばけ」についてお話します。このドラマは、松江の没落士族の娘・小泉セツの...]]>
+
+
+記事一覧:
+  • NHK朝ドラ「ばけばけ」 錦織演じる吉沢亮に凄み フォロワー「絶望の権化のよう」 (出典: Sanspo, 信頼度: 7.0/10)
+  • 大谷翔平の桁違いパワーの秘密とは?「ポテンシャルは170km/h」“規格外の肉体”に筋肉博士も期待/ WBC台湾戦ホームランのメカニズムを川崎宗則が徹底解説!『ABEMAスポーツタイム』 (出典: Pr Times, 信頼度: 8.5/10)
+  • 震災で亡くなった友人と約束 命を守れる教師に「大切な人たちと笑いあえる未来」を目指して #知り続ける(仙台放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 緊迫する中東情勢の影響で 原油価格高騰、漁師・花き農家からも不安の声【愛媛】(南海放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 緊迫する中東情勢の影響で 原油価格高騰、漁師・花き農家からも不安の声【愛媛】 (出典: 日テレnews Nnn, 信頼度: 8.0/10)
+  • 友だちに“まるでAI生成”と笑われた手料理→見てみると......「これはAIw」やっぱり“AI生成のような手料理”に「すごい!」と反響(ねとらぼ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • マチュー・ブレイジーの「シャネル」は創業者との“対話“を継続 探求心が光るツイードスーツの再解釈(WWDJAPAN.com) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>思想 おすすめ 理由</category>
+        <pubDate>2026-03-11T21:45:27.181649</pubDate>
+        <guid isPermaLink="false">episode_思想 おすすめ 理由_3_1773265527</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ 理由_20260311_214137.mp3" type="audio/mpeg" length="8760423" />
+        <itunes:duration>00:09:07</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 4: 占い 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【占い 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**hook**
+占いを比較してみたところ、驚くことに、正解率は僅か20%だった。さらに、同じ占い師が同じ占いを二回行ったところ、結果が異なったという...]]>
+
+
+記事一覧:
+  • 物流大型トラックはバイオディーゼルか水素か電気か......いまだ定まらない方向性に正解はあるのか?(THE EV TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【カテゴリーブランディング白書 vol.13】検討の評価軸を握る外資大手にSATORI等が立ち向かうMAツール市場。特定カテゴリーの強い事前認知を背景にMarketo (Adobe)が勝者に (出典: Pr Times, 信頼度: 8.5/10)
+  • ゲーム開発のゲームエンジン採用率、「Unreal Engine」がついに「Unity」を抜き去ったとの調査結果。ここ1年でUEが一気に引き離す (出典: Automaton, 信頼度: 7.0/10)
+  • ネトフリ視聴の福利厚生サービス「ベネフィット・ステーション」契約大幅増 WBC効果か(産経新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【車で出かける人は、絶対に用意してー!】防災士が警告→「意外と盲点だった...」「トランクやドアポケットに常備します!」【防災の新常識】 (出典: Yomuno, 信頼度: 7.0/10)
+  • 人手不足を逆手に...“無人”店舗が拡大中 効率化で低価格や24時間営業が実現 北陸新幹線で観光客が増加の敦賀(FNNプライムオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ビットコインの100万ドル到達は夢物語ではない:Bitwise (出典: Coindesk Japan, 信頼度: 9.7/10)</description>
+        <category>占い 比較</category>
+        <pubDate>2026-03-11T21:45:27.181668</pubDate>
+        <guid isPermaLink="false">episode_占い 比較_4_1773265527</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/4</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260311_214335.mp3" type="audio/mpeg" length="5796674" />
+        <itunes:duration>00:06:02</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 5: Claude code 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【Claude Code 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: 財経新聞：経済・株式の最新ニュース】
+信頼度スコア: 7.0/10
+
+**breaking**
+速報です。最近、IT部門の工数削減が大きな注目されています。そこで、AAIPは大手企業の部門導...]]>
+
+
+記事一覧:
+  • 「IT部門の工数ゼロ」でClaudeを即戦力化。AAIP、大手企業の部門導入に特化した「Claude 導入支援パック」の提供開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • Datadog、MCPサーバを提供開始 - AIエージェントに統合オブザーバビリティデータへのアクセスを提供 (出典: Mynavi News, 信頼度: 7.5/10)
+  • 中小企業庁主催のアトツギ甲子園で勝つためのピッチ戦略 「わかりやすさ」の先の評価基準(ツギノジダイ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • SaaSを凋落を加速させる、最適なAIモデルを選び生成するPlurality AI | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)
+  • Offers、新職種「GTMエンジニア」を国内の転職サービスで初めて選択可能に── AI拡張エンジニアなど計3職種+AIスキル8種も同時追加 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【AIエージェント入門】話題の「Claude Code」で業務自動化に挑む。実践型ワークショップ「もくもく会」を4/1(水)に参謀BAR 浜松町で開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>Claude Code 活用</category>
+        <pubDate>2026-03-11T21:45:27.181685</pubDate>
+        <guid isPermaLink="false">episode_Claude Code 活用_5_1773265527</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%B4%BB%E7%94%A8/5</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 活用_20260311_214400.mp3" type="audio/mpeg" length="4500165" />
+        <itunes:duration>00:04:41</itunes:duration>
     </item>
     </channel>
 </rss>

@@ -1,73 +1,203 @@
 {
-  "generated_at": "2026-03-11T01:54:39.994805",
-  "total_episodes": 2,
+  "generated_at": "2026-03-11T21:45:27.181097",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260311_015423",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_Claude Code おすすめ 理由_20260311_214056",
+      "theme": "Claude Code おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260311_015423.mp3",
-      "audio_length": 417,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260311_214056.mp3",
+      "audio_length": 5260851,
+      "audio_duration": "00:05:28",
       "articles": [
         {
-          "title": "CData が Connect AI プラットフォームを拡張、新たなエージェントツールとエンタープライズグレードのセキュリティで AI の実運用を推進",
+          "title": "柳谷智宣のAIトレンドインサイト 第26回 「OpenClaw」をConoHa VPSで動かしてみた - ブログ投稿も論文収集も完全自動化!",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【AI本格導入無償支援】n8n公式認定パートナーHumanoiD、Claude Code/ChatGPT/Copilot/n8nの導入支援パッケージを提供開始",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "2026年3月9日のヘッドラインニュース",
+          "title": "2026年3月10日のヘッドラインニュース",
           "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260311_015439",
-      "theme": "MCP おすすめ",
+      "name": "episode_哲学 おすすめ_20260311_214118",
+      "theme": "哲学 おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260311_015439.mp3",
-      "audio_length": 417,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260311_214118.mp3",
+      "audio_length": 6898415,
+      "audio_duration": "00:07:11",
       "articles": [
         {
-          "title": "【元Google・Meta・Uber出身メンバーが創業】AIエンジニアリングインフラを構築するCrafting、550万ドルのシード資金調達の実施と一般向けサービス提供の開始",
+          "title": "3sixteen × Saucony “GUIDE v7.3s”を2026年3月14日(土)発売!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【オールセインツ】新クリエイティブディレクターにアーロン・エッシュが就任",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "公開1か月記念&春休み特別企画!映画『#拡散』ティーチイン・トークショー付き上映会の開催が決定!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "株式会社ロックスライフ、「冷徹の虎」南原竜樹のYouTubeを再始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「時代に挑んだ男」加納典明(28)希代の写真家が画家に...「俺ほどPhotoshopをいじれる同世代はいない」",
+          "source": "Nikkan Gendai Digital",
+          "trust_score": 7.5
+        },
+        {
+          "title": "代表取締役会長の退任に関するお知らせ",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ハリー・スタイルズと「再生」の物語──村上春樹、レディオヘッド、クラブカルチャーに影響された「ときどきディスコ」な現在地",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ 理由_20260311_214137",
+      "theme": "思想 おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ 理由_20260311_214137.mp3",
+      "audio_length": 8760423,
+      "audio_duration": "00:09:07",
+      "articles": [
+        {
+          "title": "NHK朝ドラ「ばけばけ」 錦織演じる吉沢亮に凄み フォロワー「絶望の権化のよう」",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "大谷翔平の桁違いパワーの秘密とは?「ポテンシャルは170km/h」“規格外の肉体”に筋肉博士も期待/ WBC台湾戦ホームランのメカニズムを川崎宗則が徹底解説!『ABEMAスポーツタイム』",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "新興市場銘柄ダイジェスト:Synsが急騰、SBIリーシングが大幅反発",
+          "title": "震災で亡くなった友人と約束 命を守れる教師に「大切な人たちと笑いあえる未来」を目指して #知り続ける(仙台放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "緊迫する中東情勢の影響で 原油価格高騰、漁師・花き農家からも不安の声【愛媛】(南海放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "緊迫する中東情勢の影響で 原油価格高騰、漁師・花き農家からも不安の声【愛媛】",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "友だちに“まるでAI生成”と笑われた手料理→見てみると......「これはAIw」やっぱり“AI生成のような手料理”に「すごい!」と反響(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "マチュー・ブレイジーの「シャネル」は創業者との“対話“を継続 探求心が光るツイードスーツの再解釈(WWDJAPAN.com)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 比較_20260311_214335",
+      "theme": "占い 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260311_214335.mp3",
+      "audio_length": 5796674,
+      "audio_duration": "00:06:02",
+      "articles": [
+        {
+          "title": "物流大型トラックはバイオディーゼルか水素か電気か......いまだ定まらない方向性に正解はあるのか?(THE EV TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【カテゴリーブランディング白書 vol.13】検討の評価軸を握る外資大手にSATORI等が立ち向かうMAツール市場。特定カテゴリーの強い事前認知を背景にMarketo (Adobe)が勝者に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ゲーム開発のゲームエンジン採用率、「Unreal Engine」がついに「Unity」を抜き去ったとの調査結果。ここ1年でUEが一気に引き離す",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ネトフリ視聴の福利厚生サービス「ベネフィット・ステーション」契約大幅増 WBC効果か(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【車で出かける人は、絶対に用意してー!】防災士が警告→「意外と盲点だった...」「トランクやドアポケットに常備します!」【防災の新常識】",
+          "source": "Yomuno",
+          "trust_score": 7.0
+        },
+        {
+          "title": "人手不足を逆手に...“無人”店舗が拡大中 効率化で低価格や24時間営業が実現 北陸新幹線で観光客が増加の敦賀(FNNプライムオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ビットコインの100万ドル到達は夢物語ではない:Bitwise",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 活用_20260311_214400",
+      "theme": "Claude Code 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 活用_20260311_214400.mp3",
+      "audio_length": 4500165,
+      "audio_duration": "00:04:41",
+      "articles": [
+        {
+          "title": "「IT部門の工数ゼロ」でClaudeを即戦力化。AAIP、大手企業の部門導入に特化した「Claude 導入支援パック」の提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
+          "trust_score": 7.0
         },
         {
-          "title": "日立、日本企業で初めてAgentic AI Foundationに加入し、AIのアクセス権限管理の標準化を支援",
+          "title": "Datadog、MCPサーバを提供開始 - AIエージェントに統合オブザーバビリティデータへのアクセスを提供",
+          "source": "Mynavi News",
+          "trust_score": 7.5
+        },
+        {
+          "title": "中小企業庁主催のアトツギ甲子園で勝つためのピッチ戦略 「わかりやすさ」の先の評価基準(ツギノジダイ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "SaaSを凋落を加速させる、最適なAIモデルを選び生成するPlurality AI | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Offers、新職種「GTMエンジニア」を国内の転職サービスで初めて選択可能に── AI拡張エンジニアなど計3職種+AIスキル8種も同時追加",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "OpenClawエコシステム進化:MeowClawで誰でもAI自律エージェントをワンクリック利用",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Datadog、AIエージェントに統合オブザーバビリティデータへの安全かつリアルタイムなアクセスを提供する「MCP Server」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "広告分析SaaS「動画広告分析Pro」、業界初のMCPサーバーを正式提供-AIが広告データを自動で取得・分析する時代へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「人のWeb業務を、AIが見て覚え、100回でも自動実行する。」Copelf(コペルフ)をリリース",
+          "title": "【AIエージェント入門】話題の「Claude Code」で業務自動化に挑む。実践型ワークショップ「もくもく会」を4/1(水)に参謀BAR 浜松町で開催",
           "source": "Pr Times",
           "trust_score": 8.0
         }
