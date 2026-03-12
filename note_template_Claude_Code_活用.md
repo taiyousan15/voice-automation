@@ -1,6 +1,6 @@
 # エピソード: Claude code 活用
 
-**2026-03-11** | テーマ: Claude Code 活用
+**2026-02-17** | テーマ: Claude Code 活用
 
 ---
 
@@ -12,19 +12,22 @@
 
 ---
 
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
-信頼度スコア: 7.0/10
+【セクション 1: 日経クロステック（xtech）】
+信頼度スコア: 7.5/10
 
-**breaking**
-速報です。最近、IT部門の工数削減が大きな注目されています。そこで、AAIPは大手企業の部門導入に特化した「Claude 導入支援パック」の提供を開始しました。このパックにより、最短2週間でポリシー策定から『Claude Code』などのエージェント活用までをパッケージ化することが可能になりま...
+**トピック紹介**
+こんにちは、今日はチーム開発の効率化について話します。情報収集の仕組みを整備することが重要です。
+
+**ニュース解説**
+チームで開発を行う際、情報収集は非常に重要です。AIコーティングツールや関連技術はとても速く進化しています。1週間で状況が大きく変わることもあります。バージョンの更新も速く、数日で...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 活用_20260311_214400.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 活用_20260217_221715.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
+RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
 
 ---
 
