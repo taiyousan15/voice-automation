@@ -1,75 +1,20 @@
 {
-  "generated_at": "2026-03-11T01:54:39.994805",
-  "total_episodes": 2,
+  "generated_at": "2026-03-12T02:00:59.695842",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260311_015423",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill 活用_20260312_020026",
+      "theme": "skill 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260311_015423.mp3",
-      "audio_length": 417,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260312_020026.mp3",
+      "audio_length": 1713631,
       "audio_duration": null,
       "articles": [
         {
-          "title": "CData が Connect AI プラットフォームを拡張、新たなエージェントツールとエンタープライズグレードのセキュリティで AI の実運用を推進",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年3月9日のヘッドラインニュース",
+          "title": "2026年3月11日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
-        },
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260311_015439",
-      "theme": "MCP おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260311_015439.mp3",
-      "audio_length": 417,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【元Google・Meta・Uber出身メンバーが創業】AIエンジニアリングインフラを構築するCrafting、550万ドルのシード資金調達の実施と一般向けサービス提供の開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "新興市場銘柄ダイジェスト:Synsが急騰、SBIリーシングが大幅反発",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "日立、日本企業で初めてAgentic AI Foundationに加入し、AIのアクセス権限管理の標準化を支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "OpenClawエコシステム進化:MeowClawで誰でもAI自律エージェントをワンクリック利用",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Datadog、AIエージェントに統合オブザーバビリティデータへの安全かつリアルタイムなアクセスを提供する「MCP Server」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "広告分析SaaS「動画広告分析Pro」、業界初のMCPサーバーを正式提供-AIが広告データを自動で取得・分析する時代へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「人のWeb業務を、AIが見て覚え、100回でも自動実行する。」Copelf(コペルフ)をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
