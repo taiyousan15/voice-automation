@@ -4,14 +4,95 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-13T01:58:19.138065</lastBuildDate>
+        <lastBuildDate>2026-03-13T21:44:32.843839</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
+
+**hook（150文字）**
+皆さん、現在のITシステムの管理や運用に悩んでいませんか？大規模な観測可能性やガバナンスの課題に直面していません...]]>
+
+
+記事一覧:
+  • New Relic、カスタムAIエージェントの構築とガバナンスを可能にし、大規模なオブザーバビリティを実現するノーコードソリューション「Agentic Platform」を発表 (出典: Pr Times, 信頼度: 8.5/10)
+  • AIエージェントの暴走を“憲法”で防ぐ「IronCurtain」の仕組み (出典: Wired.jp, 信頼度: 7.5/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-03-13T21:44:32.843722</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1773438272</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260313_214020.mp3" type="audio/mpeg" length="4783959" />
+        <itunes:duration>00:04:58</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 哲学 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**problem（200文字）**
+こんな悩みありませんか？国際的な紛争や攻撃が起こると、世界中が緊張する。米国とイランの攻撃、イスラエルとイランの...]]>
+
+
+記事一覧:
+  • 米国・イラン攻撃 トランプ政権“決行”の衝撃...問われる国際秩序のシステム(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ホルムズ海峡“封鎖”で原油急騰 トランプ政権“対策”の効果は? イラン反撃の行方(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 島津製作所で「MEDIAID アシストインソール アーチ&グリップ」導入 製造現場の安全靴着用時における身体負担軽減に向けた導入事例を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「生まれる時代を間違えた」人が過去に惹かれる3つの心理的要因(Forbes JAPAN) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 産学官共創の学びと成果の発表「SANKAKU共創フォーラム~共創から得られる学びと体験~」 を開催しました (出典: Pr Times, 信頼度: 8.0/10)
+  • 元警察官CTOが牽引するG-gen、AI駆動型組織への変革を加速──独自でエンジニアの市場価値を最大化 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「えー!」国会にヤジ&怒号飛び交う 自民議員「総選挙によって議席が大きく変動したにもかかわらず、野党が選挙前と同等の審議時間を求めるのはいきすぎ」予算委員長の解任めぐり“大荒れ”(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>哲学 方法</category>
+        <pubDate>2026-03-13T21:44:32.843788</pubDate>
+        <guid isPermaLink="false">episode_哲学 方法_2_1773438272</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260313_214037.mp3" type="audio/mpeg" length="7551685" />
+        <itunes:duration>00:07:51</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 3: 哲学 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**intro**
+こんにちは、皆さん。今日は、哲学の活用について話していきます。哲学とは、人生や世界について深く考える学問です。最近、テレビドラマ『お前は...]]>
+
+
+記事一覧:
+  • 『お前はまだグンマを知らない~令和版~』第9話~第12話あらすじ、先行カット公開! (出典: Pr Times, 信頼度: 8.0/10)
+  • 「ChatGPTがそう言ったから」──AIを免罪符にする人たちをTikTokが皮肉 米 (出典: Mynavi News, 信頼度: 8.5/10)
+  • 衆院予算委員長の解任決議案 否決 (出典: Yahoo Japan, 信頼度: 8.7/10)</description>
+        <category>哲学 活用</category>
+        <pubDate>2026-03-13T21:44:32.843821</pubDate>
+        <guid isPermaLink="false">episode_哲学 活用_3_1773438272</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%B4%BB%E7%94%A8/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260313_214046.mp3" type="audio/mpeg" length="11558242" />
+        <itunes:duration>00:12:02</itunes:duration>
+    </item>
     </channel>
 </rss>

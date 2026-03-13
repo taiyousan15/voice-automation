@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-03-13T01:58:19.137881",
-  "total_episodes": 0,
+  "generated_at": "2026-03-13T21:44:32.843282",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260313_214020",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260313_214020.mp3",
+      "audio_length": 4783959,
+      "audio_duration": "00:04:58",
+      "articles": [
+        {
+          "title": "New Relic、カスタムAIエージェントの構築とガバナンスを可能にし、大規模なオブザーバビリティを実現するノーコードソリューション「Agentic Platform」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIエージェントの暴走を“憲法”で防ぐ「IronCurtain」の仕組み",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260313_214037",
+      "theme": "哲学 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260313_214037.mp3",
+      "audio_length": 7551685,
+      "audio_duration": "00:07:51",
+      "articles": [
+        {
+          "title": "米国・イラン攻撃 トランプ政権“決行”の衝撃...問われる国際秩序のシステム(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ホルムズ海峡“封鎖”で原油急騰 トランプ政権“対策”の効果は? イラン反撃の行方(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "島津製作所で「MEDIAID アシストインソール アーチ&グリップ」導入 製造現場の安全靴着用時における身体負担軽減に向けた導入事例を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「生まれる時代を間違えた」人が過去に惹かれる3つの心理的要因(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "産学官共創の学びと成果の発表「SANKAKU共創フォーラム~共創から得られる学びと体験~」 を開催しました",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "元警察官CTOが牽引するG-gen、AI駆動型組織への変革を加速──独自でエンジニアの市場価値を最大化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「えー!」国会にヤジ&怒号飛び交う 自民議員「総選挙によって議席が大きく変動したにもかかわらず、野党が選挙前と同等の審議時間を求めるのはいきすぎ」予算委員長の解任めぐり“大荒れ”(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20260313_214046",
+      "theme": "哲学 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260313_214046.mp3",
+      "audio_length": 11558242,
+      "audio_duration": "00:12:02",
+      "articles": [
+        {
+          "title": "『お前はまだグンマを知らない~令和版~』第9話~第12話あらすじ、先行カット公開!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「ChatGPTがそう言ったから」──AIを免罪符にする人たちをTikTokが皮肉 米",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "衆院予算委員長の解任決議案 否決",
+          "source": "Yahoo Japan",
+          "trust_score": 8.7
+        }
+      ]
+    }
+  ]
 }
