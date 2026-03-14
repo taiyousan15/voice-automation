@@ -1,6 +1,92 @@
 {
-  "generated_at": "2026-03-14T01:55:50.297349",
-  "total_episodes": 0,
+  "generated_at": "2026-03-14T21:37:19.467925",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260314_213418",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260314_213418.mp3",
+      "audio_length": 7706330,
+      "audio_duration": "00:08:01",
+      "articles": [
+        {
+          "title": "メタコンプ、アリババ出資で累計55億円調達 ステーブルコイン決済基盤のアジア展開を加速",
+          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Figma、新たなAI連携で「Code to Canvas」機能を拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIとFigmaの連携は、デザイナーの仕事を奪うのか",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "GitHub、AIエージェントをアプリに組み込む「Copilot SDK」の活用方法を紹介",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "DATAZORA、「KIJI」AI活用に向けた法人データ基盤として企業基本情報・開示情報・求人データのAPIを正式提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Forcesteed Robotics、ローカルAIエージェント基盤技術「Forcesteed-Luqua」の開発により、リアルワールドとの連携を加速",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ_20260314_213435",
+      "theme": "Claude Code おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ_20260314_213435.mp3",
+      "audio_length": 6935613,
+      "audio_duration": "00:07:13",
+      "articles": [
+        {
+          "title": "2026年3月13日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ERPC、大人気デッドストックのプレミアムベアメタル 7950X が限定再入荷 - フランクフルト・アムステルダム・ニューヨーク・シンガポール・東京の5リージョンで提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "情報システム部員のためのClaude Code入門",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIを”使う”から”つくる”へ。福岡から始まる共創のきっかけ Enable AI Fukuoka 3月23日(月)開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「シニア世代で経験豊富な労働者」はAIによる雇用喪失で影響を受けにくい...ダラス連銀が分析",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株式会社Acompany、機密ソースコードを漏洩させずAIコーディングを実現する「Acompany セキュアコード」ベータ版を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "中国を席巻する動画AI「Seedance 2.0」、計算資源の制約と著作権リスク",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
