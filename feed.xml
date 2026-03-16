@@ -4,44 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-15T21:37:42.559706</lastBuildDate>
+        <lastBuildDate>2026-03-16T02:13:53.877127</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 哲学 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**hook（150文字）**
-こんにちは、今日は歴史の中で起こったドラマティックな物語について話していきます。特に、戦国時代の有名な人物、豊臣兄弟の...]]>
-
-
-記事一覧:
-  • 「豊臣兄弟」で中島歩演じる浅井長政はバツイチだった...信長が秘蔵の妹、お市をかなり強引に嫁がせたワケ(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • フュージョンで駆け抜ける(ニュースイッチ) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 「茶苑 CHA-EN」について (出典: Pr Times, 信頼度: 7.0/10)
-  • 「カレーを学問として学ぶ」大人のための、本気の講座です!《【カレーの聖地で熱狂!】カレー大學 総合学部「調理学専門コース」潜入レポート!》動画公開キャンペーン! (出典: Pr Times, 信頼度: 8.5/10)
-  • 『蒋介石 ― 「中華の復興」を実現した男』(著:家近亮子)を題材とした読書会開催に関するお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • 『蒋介石と南京国民政府 』(著:家近亮子)を題材とした読書会開催に関するお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • そりゃ本能寺を襲いたくなるわ...古城探訪家が岐阜に2つある「あけち城」を訪ね実感した"光秀→信長の恨み"(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 方法</category>
-        <pubDate>2026-03-15T21:37:42.559670</pubDate>
-        <guid isPermaLink="false">episode_哲学 方法_1_1773610662</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260315_213531.mp3" type="audio/mpeg" length="7111156" />
-        <itunes:duration>00:07:24</itunes:duration>
-    </item>
     </channel>
 </rss>

@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-03-15T21:37:42.559442",
-  "total_episodes": 1,
+  "generated_at": "2026-03-16T02:13:53.876944",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_哲学 方法_20260315_213531",
-      "theme": "哲学 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260315_213531.mp3",
-      "audio_length": 7111156,
-      "audio_duration": "00:07:24",
-      "articles": [
-        {
-          "title": "「豊臣兄弟」で中島歩演じる浅井長政はバツイチだった...信長が秘蔵の妹、お市をかなり強引に嫁がせたワケ(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "フュージョンで駆け抜ける(ニュースイッチ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「茶苑 CHA-EN」について",
-          "source": "Pr Times",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「カレーを学問として学ぶ」大人のための、本気の講座です!《【カレーの聖地で熱狂!】カレー大學 総合学部「調理学専門コース」潜入レポート!》動画公開キャンペーン!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "『蒋介石 ― 「中華の復興」を実現した男』(著:家近亮子)を題材とした読書会開催に関するお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『蒋介石と南京国民政府 』(著:家近亮子)を題材とした読書会開催に関するお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "そりゃ本能寺を襲いたくなるわ...古城探訪家が岐阜に2つある「あけち城」を訪ね実感した\"光秀→信長の恨み\"(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
