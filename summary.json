@@ -1,6 +1,67 @@
 {
-  "generated_at": "2026-03-16T02:13:53.876944",
-  "total_episodes": 0,
+  "generated_at": "2026-03-16T21:51:56.458305",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code おすすめ_20260316_214904",
+      "theme": "Claude Code おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ_20260316_214904.mp3",
+      "audio_length": 7589719,
+      "audio_duration": "00:07:54",
+      "articles": [
+        {
+          "title": "2026年3月16日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【デジライズ】デジライズ代表・茶圓将裕が国内最大級AIカンファレンス「PeopleX AI Momentum 2026」に登壇",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIエージェントにMac miniはもう不要!セットアップなしでチーム運用できるAIエージェント基盤「Kachilu」クローズドβ公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AI時代のソフトウェアはピザのように配達されるべき」ストライプのCEOが提言",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIはベンチャーキャピタリストの仕事を奪うのか? 岐路に立つVC業界",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アンソロピック、AIコードレビューツールを導入 一部開発者はコストを懸念",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "[ITmedia エンタープライズ] SlackはAIがSalesforceを動かす「入り口」へ 新GMが語る、人間とAIの主役交代",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260316_214907",
+      "theme": "MCP 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260316_214907.mp3",
+      "audio_length": 2279130,
+      "audio_duration": "00:02:22",
+      "articles": [
+        {
+          "title": "NTTデータがMWC26で示した法人向けAIエージェントの現在地 3領域で実用段階に",
+          "source": "Ascii",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
