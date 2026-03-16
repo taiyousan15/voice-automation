@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-03-15T02:14:40.863023",
-  "total_episodes": 1,
+  "generated_at": "2026-03-16T02:13:53.876944",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260315_021306",
-      "theme": "MCP 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260315_021306.mp3",
-      "audio_length": 4856684,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "MacBookで動くし、ぶっ壊れ性能。いま最強のローカルLLM「Qwen3.5」を解説しちゃう",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        },
-        {
-          "title": "メタコンプ、アリババ出資で累計55億円調達 ステーブルコイン決済基盤のアジア展開を加速",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }

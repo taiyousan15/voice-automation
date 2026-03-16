@@ -8,34 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-15T02:14:40.863270</lastBuildDate>
+        <lastBuildDate>2026-03-16T02:13:53.877127</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gizmodo】
-信頼度スコア: 7.5/10
-
-**hook（150文字）**
-あなたは、ローカルで動く大規模言語モデルを求めていますか？それでも、現在のモデルは性能が不十分で、期待を裏切ることが多いです...]]>
-
-
-記事一覧:
-  • MacBookで動くし、ぶっ壊れ性能。いま最強のローカルLLM「Qwen3.5」を解説しちゃう (出典: Gizmodo, 信頼度: 7.5/10)
-  • メタコンプ、アリババ出資で累計55億円調達 ステーブルコイン決済基盤のアジア展開を加速 (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.0/10)</description>
-        <category>MCP 比較</category>
-        <pubDate>2026-03-15T02:14:40.863235</pubDate>
-        <guid isPermaLink="false">episode_MCP 比較_1_1773540880</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260315_021306.mp3" type="audio/mpeg" length="4856684" />
-    </item>
     </channel>
 </rss>
