@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-16T02:13:53.876944",
-  "total_episodes": 0,
+  "generated_at": "2026-03-17T02:01:43.649446",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 活用_20260317_020055",
+      "theme": "skill 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260317_020055.mp3",
+      "audio_length": 2001187,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "毎日に新しい「PLAY」を。 ピックルボールレジェンド ダニエル・ムーア 特別セッション決定 3/27(金),28(土)",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
