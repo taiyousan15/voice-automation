@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-03-17T21:50:09.405254",
-  "total_episodes": 1,
+  "generated_at": "2026-03-18T02:05:03.688786",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ_20260317_214807",
-      "theme": "MCP おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260317_214807.mp3",
-      "audio_length": 6096769,
-      "audio_duration": "00:06:21",
-      "articles": [
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」のモバイル版を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SFAを超えて”SoR”へ。SALES GO、営業データを起点に企業活動全体を支えるAI時代のデータ基盤「GoCoo! Platform」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "株式会社homulaと共催WEBセミナー「AIエージェント時代の意思決定変革 - 人的資本をデータ駆動で動かす『意思決定OS』と『MCPソリューション』の最前線」",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "80種類のAIエージェントのセキュリティ脅威を網羅的に整理「AIエージェント攻撃手法と対策一覧(2026年3月版)」を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AEOツール「Answer IO」がAI連携プロトコル「MCP」に国内AEOツール初対応、AIエージェントからブランド可視性の分析・改善を自然言語で実行可能に(ベータ版)",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Okta、安全なエージェンティック企業向けの新たなフレームワークを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "広告アカウントの閲覧権限を付与するだけ。 Web広告データをClaudeで自然言語分析できる新サービス開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
