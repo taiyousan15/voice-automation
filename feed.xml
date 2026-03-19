@@ -4,14 +4,68 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-19T02:05:56.690613</lastBuildDate>
+        <lastBuildDate>2026-03-19T21:45:48.022514</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: 哲学 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**hook**
+私たちが生きている世界は、常に変化と挑戦に満ちています。特に、韓国と北朝鮮の関係は、長年にわたって緊張と不確実性の連続でした。しかし...]]>
+
+
+記事一覧:
+  • 李在明政権、南北関係の新たなロードマップ...「非核」の代わりに「平和共存」前面に(中央日報日本語版) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 春から始めるフランス語!フランス政府公式機関・関西日仏学館(大阪・京都)で無料体験レッスン (出典: Pr Times, 信頼度: 8.0/10)
+  • シソンヌ長谷川、山下智久のアドリブ量に驚き「芸人ぐらいやってくる」共演者同士の仲良し秘話も「学校みたい」【正直不動産】 (出典: Model Press, 信頼度: 8.5/10)
+  • 山下智久、“芸能活動30年間でもレア”「正直不動産」ドラマ経て映画化に歓喜 意外な人からの反響も明かす「サウナでバレるように」 (出典: Model Press, 信頼度: 8.5/10)
+  • 『歴史の中の中国政治―近代と現代』(小島朋之 編)読書会 開催のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
+  • 『5分野から読み解く現代中国――歴史・政治・経済・社会・外交』読書会開催のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
+  • 韓国ダーマコスメブランド「バノバギ」大人気「ビタジェニック ゼリーマスク」に続く「ビタジェニック ゼリーアンプル」4種を新発売!Qoo10発売記念・特別セール実施 (出典: Pr Times, 信頼度: 8.5/10)</description>
+        <category>哲学 比較</category>
+        <pubDate>2026-03-19T21:45:48.022455</pubDate>
+        <guid isPermaLink="false">episode_哲学 比較_1_1773956748</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 比較_20260319_214307.mp3" type="audio/mpeg" length="7147519" />
+        <itunes:duration>00:07:26</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: Skill 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Mynavi News】
+信頼度スコア: 8.5/10
+
+**intro（150文字）**
+現在、AI技術は急速に進化しています。Googleの「Antigravity」は、この分野で注目されるツールの...]]>
+
+
+記事一覧:
+  • Google Antigravityでエージェントファースト開発を始めよう 第5回 エージェントに「得意技」を覚えさせる - Antigravityのスキル機能とは (出典: Mynavi News, 信頼度: 8.5/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-03-19T21:45:48.022497</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_2_1773956748</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%B4%BB%E7%94%A8/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260319_214321.mp3" type="audio/mpeg" length="3855672" />
+        <itunes:duration>00:04:00</itunes:duration>
+    </item>
     </channel>
 </rss>
