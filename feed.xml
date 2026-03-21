@@ -4,68 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-20T21:41:02.239227</lastBuildDate>
+        <lastBuildDate>2026-03-21T01:54:05.057125</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 占い 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.2/10
-
-**hook**
-こんにちは、今日はスーパーポーツカーの世界に潜ってみようと思います。なぜ、NSXやGT-Rのような高性能車がパトカーとして活躍してい...]]>
-
-
-記事一覧:
-  • なぜNSXが?スーパースポーツカーの「パトカー」が存在する謎。GTRやレクサスも活躍中(MEN’S CLUB) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • 村上龍が「これ以上のものは書けない」と語った小説『半島を出よ』。武装した9人の北朝鮮人が福岡ドームを占拠する衝撃の近未来SF【書評】(ダ・ヴィンチWeb) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • ビリオネアの投資家は、金・銀・日本円・エネルギーセクターを強く推す。「アメリカ市場は完全に避けるべきだ」 (出典: Business Insider, 信頼度: 7.5/10)
-  • 『スパイダーマン:ブランド・ニュー・デイ』予告編で考える「デアデビル:ボーン・アゲイン」との力学 ─ なぜキングピンが「市の鍵」式典にいないのか? (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • 社説:外国人と治安 事実踏まえ冷静な共生策を(京都新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 赤ちゃんの歯並びは哺乳瓶で決まる?専門家が危険な飲ませ方を紹介 (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • B&ZAI、伝説のキャバレーでファンサ&MCの特訓 ものまねショーパブでは“1000本ノック”で才能開花? (出典: 産経ニュース, 信頼度: 7.0/10)</description>
-        <category>占い 方法</category>
-        <pubDate>2026-03-20T21:41:02.239153</pubDate>
-        <guid isPermaLink="false">episode_占い 方法_1_1774042862</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 方法_20260320_213745.mp3" type="audio/mpeg" length="8091270" />
-        <itunes:duration>00:08:25</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Skill 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
-
-**problem**
-こんな悩みありませんか？エーシェントの開発で、特定のタスクに特化した知識や手順を実装するのが難しい。通常、エーシェントは...]]>
-
-
-記事一覧:
-  • Google Antigravityでエージェントファースト開発を始めよう 第5回 エージェントに「得意技」を覚えさせる - Antigravityのスキル機能とは (出典: Mynavi News, 信頼度: 8.5/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-03-20T21:41:02.239208</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_2_1774042862</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E6%96%B9%E6%B3%95/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260320_213746.mp3" type="audio/mpeg" length="1751666" />
-        <itunes:duration>00:01:49</itunes:duration>
-    </item>
     </channel>
 </rss>
