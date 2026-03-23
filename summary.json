@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-03-23T02:07:12.509754",
-  "total_episodes": 0,
+  "generated_at": "2026-03-23T21:47:44.449310",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ 理由_20260323_214424",
+      "theme": "占い おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260323_214424.mp3",
+      "audio_length": 8947251,
+      "audio_duration": "00:09:19",
+      "articles": [
+        {
+          "title": "Puma Blueが語るバンドサウンドの解体と再構築、死を見つめて手にした真の自由",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "six impala【独占取材】「あの頃」のインターネットが生み出した奇跡、PAS TASTAと日本への強いシンパシー",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【フジテレビ】韓国BLドラマ『秘密の間柄』 公開1周年スペシャルファンミーティングイベントレポート FODにて全8話一挙独占配信中",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "花粉症の盲点は耳だった?4人に1人が感じるかゆみ 誤った対処で悪化の懸念も(スポーツ報知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "NY 旅客機と消防車が衝突 機長と副操縦士が死亡 乗客含む13人けが(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "本を買うことが非日常のイベントに「お客がいなくなればやめるのが商売」",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "棚に並ぶぬいぐるみの中にまさかの“本物”!? カンガルーの仲間が空港に侵入 オーストラリア(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20260323_214426",
+      "theme": "skill おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260323_214426.mp3",
+      "audio_length": 2269517,
+      "audio_duration": "00:02:21",
+      "articles": [
+        {
+          "title": "AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260323_214448",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260323_214448.mp3",
+      "audio_length": 8469106,
+      "audio_duration": "00:08:49",
+      "articles": [
+        {
+          "title": "共同親権の理解は2割弱にとどまる “選びたい”と“できるか不安”の間にある現実(スポーツ報知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「やっとここまで来た」被害者の母親が心境明かす 国立市マンション転落死 5年前に釈放の夫を殺人罪で起訴(FNNプライムオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "令和キッズの健康意識は親世代の約10倍 コロナ禍が育てた新しい習慣と課題(スポーツ報知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日仏首脳、次世代原発協力強化で合意へ(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "白票が93票...社民党党首選は福島瑞穂党首と大椿裕子氏の決選投票へ ラサール石井氏は及ばず(日刊スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "生徒らと不適切関わり教員10人 名古屋、有識者報告(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "埼玉陥没、救助活動は「おおむね妥当」(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
 }
