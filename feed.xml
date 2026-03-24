@@ -4,98 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-23T21:47:44.449806</lastBuildDate>
+        <lastBuildDate>2026-03-24T01:59:01.478492</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 占い おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
-
-**hook**
-みなさん、人生の道を歩きながら、時々迷ったり困難に直面したりすることがありませんか？そんなとき、自分自身を探求したり、新た...]]>
-
-
-記事一覧:
-  • Puma Blueが語るバンドサウンドの解体と再構築、死を見つめて手にした真の自由 (出典: Mynavi News, 信頼度: 8.5/10)
-  • six impala【独占取材】「あの頃」のインターネットが生み出した奇跡、PAS TASTAと日本への強いシンパシー (出典: Mynavi News, 信頼度: 8.5/10)
-  • 【フジテレビ】韓国BLドラマ『秘密の間柄』 公開1周年スペシャルファンミーティングイベントレポート FODにて全8話一挙独占配信中 (出典: Pr Times, 信頼度: 8.0/10)
-  • 花粉症の盲点は耳だった?4人に1人が感じるかゆみ 誤った対処で悪化の懸念も(スポーツ報知) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • NY 旅客機と消防車が衝突 機長と副操縦士が死亡 乗客含む13人けが(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 本を買うことが非日常のイベントに「お客がいなくなればやめるのが商売」 (出典: 熊日, 信頼度: 7.0/10)
-  • 棚に並ぶぬいぐるみの中にまさかの“本物”!? カンガルーの仲間が空港に侵入 オーストラリア(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>占い おすすめ 理由</category>
-        <pubDate>2026-03-23T21:47:44.449729</pubDate>
-        <guid isPermaLink="false">episode_占い おすすめ 理由_1_1774302464</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260323_214424.mp3" type="audio/mpeg" length="8947251" />
-        <itunes:duration>00:09:19</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
-
-**problem**
-こんな悩みありませんか？AIモデルの文章がクリエイティブでない。急速に発展しているAIの能力ですが、クリエイティブな...]]>
-
-
-記事一覧:
-  • AIモデルがクリエイティブな文章を書けないのは初期モデルに見られた創造性や独創性を抑制してビジネス用途に特化させたせいだという指摘 (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>skill おすすめ 理由</category>
-        <pubDate>2026-03-23T21:47:44.449772</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ 理由_2_1774302464</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260323_214426.mp3" type="audio/mpeg" length="2269517" />
-        <itunes:duration>00:02:21</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: 哲学 おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**intro（150文字）**
-こんにちは、今日は「哲学のおすすめ」について話していきます。最近、家族や親子関係に関するニュースが目に付きますね...]]>
-
-
-記事一覧:
-  • 共同親権の理解は2割弱にとどまる “選びたい”と“できるか不安”の間にある現実(スポーツ報知) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 「やっとここまで来た」被害者の母親が心境明かす 国立市マンション転落死 5年前に釈放の夫を殺人罪で起訴(FNNプライムオンライン) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • 令和キッズの健康意識は親世代の約10倍 コロナ禍が育てた新しい習慣と課題(スポーツ報知) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 日仏首脳、次世代原発協力強化で合意へ(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 白票が93票...社民党党首選は福島瑞穂党首と大椿裕子氏の決選投票へ ラサール石井氏は及ばず(日刊スポーツ) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • 生徒らと不適切関わり教員10人 名古屋、有識者報告(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 埼玉陥没、救助活動は「おおむね妥当」(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 おすすめ</category>
-        <pubDate>2026-03-23T21:47:44.449793</pubDate>
-        <guid isPermaLink="false">episode_哲学 おすすめ_3_1774302464</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260323_214448.mp3" type="audio/mpeg" length="8469106" />
-        <itunes:duration>00:08:49</itunes:duration>
-    </item>
     </channel>
 </rss>
