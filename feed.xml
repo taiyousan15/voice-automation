@@ -4,14 +4,74 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-24T01:59:01.478492</lastBuildDate>
+        <lastBuildDate>2026-03-24T21:49:11.703628</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Mcp おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.5/10
+
+**hook**
+あなたは、システムの障害が起こったときに、すぐに対応できるでしょうか？ 突然のトラブルに直面して、どのように対応する...]]>
+
+
+記事一覧:
+  • 猶予は5分 Googleは生成AIで障害対応をどう効率化しているか (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • MCPは「AIの業界標準になるのか」? 利用拡大の裏で“普及を阻む課題”も浮上 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • GPT-4o・Claude・Geminiは御社サイトを「読めているか」--AI互換性を100点満点で可視化する無料診断ツールを公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • PagerDuty、次世代「Operations Cloud」を発表:Spring 2026リリースの提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • Stripe、Tempo と共同開発の「Machine Payments Protocol」を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • Visual Studio Code 1.112公開、統合ブラウザ導入やWebアプリのデバッグ機能を強化 (出典: Mynavi News, 信頼度: 8.5/10)
+  • SLV Backup、完全 E2E 暗号化に対応 - スピード構成を守りながら、データの安全性をワンコマンドで確保。Web3・AI エージェント時代の安全な運用基盤をさらに強化 (出典: Pr Times, 信頼度: 8.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-03-24T21:49:11.703567</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1774388951</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260324_214543.mp3" type="audio/mpeg" length="6682330" />
+        <itunes:duration>00:06:57</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 哲学 おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Nikkan Sports】
+信頼度スコア: 7.5/10
+
+**problem**
+こんな悩みありませんか？スポーツ選手として活躍するために、身体のケアや怪我の予防が大切です。しかし、突然の怪我により選...]]>
+
+
+記事一覧:
+  • 【高校野球】山梨学院・菰田陽生の左橈骨遠位端骨折とは...6~8週間の患部固定必要/医師の見解 (出典: Nikkan Sports, 信頼度: 7.5/10)
+  • 28年度末までに休日の中学部活を地域移行...質の高い環境づくりへ、県教委とスポーツ振興団体が連携【愛媛】 (出典: 日テレnews Nnn, 信頼度: 8.0/10)
+  • 30周年を迎えたポケモンからロボット上司の時代まで:編集部が選ぶおすすめの記事 (出典: Wired.jp, 信頼度: 7.0/10)
+  • ちいかわで雑音入らずの“モニター下マイク”にデスクすっきり (出典: Gizmodo, 信頼度: 7.5/10)
+  • 【コラム】闇堕ち系おゆうぎユニット・東京メルヘン倶楽部が進める“世界厨二病化計画!” (出典: Barks, 信頼度: 7.5/10)
+  • モータースポーツフォーラム2026開催|F1タイヤ開発や国産フォーミュラなど講演内容を紹介(MotorFan) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • エンジニアの8割超がAI積極活用企業への転職を希望する時代に──「転職させないキャリア支援」で個人と社会を変えるファインディ・中村弘平の信念 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>哲学 おすすめ</category>
+        <pubDate>2026-03-24T21:49:11.703611</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ_2_1774388951</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260324_214604.mp3" type="audio/mpeg" length="7308851" />
+        <itunes:duration>00:07:36</itunes:duration>
+    </item>
     </channel>
 </rss>

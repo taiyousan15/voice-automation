@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-03-24T01:59:01.478337",
-  "total_episodes": 0,
+  "generated_at": "2026-03-24T21:49:11.703225",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260324_214543",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260324_214543.mp3",
+      "audio_length": 6682330,
+      "audio_duration": "00:06:57",
+      "articles": [
+        {
+          "title": "猶予は5分 Googleは生成AIで障害対応をどう効率化しているか",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "MCPは「AIの業界標準になるのか」? 利用拡大の裏で“普及を阻む課題”も浮上",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "GPT-4o・Claude・Geminiは御社サイトを「読めているか」--AI互換性を100点満点で可視化する無料診断ツールを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "PagerDuty、次世代「Operations Cloud」を発表:Spring 2026リリースの提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Stripe、Tempo と共同開発の「Machine Payments Protocol」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Visual Studio Code 1.112公開、統合ブラウザ導入やWebアプリのデバッグ機能を強化",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "SLV Backup、完全 E2E 暗号化に対応 - スピード構成を守りながら、データの安全性をワンコマンドで確保。Web3・AI エージェント時代の安全な運用基盤をさらに強化",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260324_214604",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260324_214604.mp3",
+      "audio_length": 7308851,
+      "audio_duration": "00:07:36",
+      "articles": [
+        {
+          "title": "【高校野球】山梨学院・菰田陽生の左橈骨遠位端骨折とは...6~8週間の患部固定必要/医師の見解",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
+        },
+        {
+          "title": "28年度末までに休日の中学部活を地域移行...質の高い環境づくりへ、県教委とスポーツ振興団体が連携【愛媛】",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "30周年を迎えたポケモンからロボット上司の時代まで:編集部が選ぶおすすめの記事",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ちいかわで雑音入らずの“モニター下マイク”にデスクすっきり",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【コラム】闇堕ち系おゆうぎユニット・東京メルヘン倶楽部が進める“世界厨二病化計画!”",
+          "source": "Barks",
+          "trust_score": 7.5
+        },
+        {
+          "title": "モータースポーツフォーラム2026開催|F1タイヤ開発や国産フォーミュラなど講演内容を紹介(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "エンジニアの8割超がAI積極活用企業への転職を希望する時代に──「転職させないキャリア支援」で個人と社会を変えるファインディ・中村弘平の信念",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
