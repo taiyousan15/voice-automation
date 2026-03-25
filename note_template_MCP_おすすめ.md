@@ -1,6 +1,6 @@
 # エピソード: Mcp おすすめ
 
-**2026-03-24** | テーマ: MCP おすすめ
+**2026-03-25** | テーマ: MCP おすすめ
 
 ---
 
@@ -15,19 +15,16 @@
 【セクション 1: Atmarkit Itmedia】
 信頼度スコア: 7.5/10
 
-**hook**
-あなたは、システムの障害が起こったときに、すぐに対応できるでしょうか？ 突然のトラブルに直面して、どのように対応するか迷ったことはありませんか？ 5分という猶予の中で、迅速な対応が求められます。そんなとき、AIの力を借りて効率化することはできるでしょうか？
-
-**story**
-私は、システムエンジニアとして働いて...
+**intro（150文字）**
+こんにちは、今日はGoogleの最新テクノロジーについてお話します。Googleは、「Gemini CLI」を活用してインシデント対応を高速化する実践手法を公開しました。アラートの受信から緩和策の実行、根本原因の特定、事後検証報告の作成までの全工程にわたって活用しています。なぜ今、このテクノロジーを...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260324_214543.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260325_020548.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
+RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
 
 ---
 
