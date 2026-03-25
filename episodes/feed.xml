@@ -8,10 +8,91 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-24T01:59:01.478492</lastBuildDate>
+        <lastBuildDate>2026-03-25T02:08:55.052460</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.0/10
+
+**hook（150文字）**
+あなたは、技術の進化に伴う課題に直面したことがありますか？特に、AIの業界標準になる可能性を持つMCP（M...]]>
+
+
+記事一覧:
+  • MCPは「AIの業界標準になるのか」? 利用拡大の裏で“普及を阻む課題”も浮上 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • SLV Backup、完全 E2E 暗号化に対応 - スピード構成を守りながら、データの安全性をワンコマンドで確保。Web3・AI エージェント時代の安全な運用基盤をさらに強化 (出典: Pr Times, 信頼度: 8.5/10)
+  • AIコーディングで現場が疲弊するのはツールのせいではない KDDIアジャイル開発センターに聞く、AIコーディングの誤解と「本当の生産性」 (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • 株式会社BLAM、Anthropic「Claude」全社導入を完了 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • 株式会社BLAM、Anthropic「Claude」全社導入を完了 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「makeshop」、MCPサーバーに今春対応 AIエージェントと連携可能に、「Skills」を同時提供(日本ネット経済新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • EC商品推薦チャットの品質を可視化するオープンソースベンチマーク「SOUK」を公開 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-03-25T02:08:55.052383</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_1_1774404535</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260325_020527.mp3" type="audio/mpeg" length="8664710" />
+    </item>
+    <item>
+        <title>エピソード 2: Skill おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**problem**
+こんな悩みありませんか？アニメやOVAを楽しむ際に、どの作品から始めたらいいかわからない、または時間がないので何を見...]]>
+
+
+記事一覧:
+  • 「影技 SHADOW SKIL」など16作品!「VHSを巻き戻せ!俺たちのOVA特集」4月放送!CS衛星劇場 (出典: Pr Times, 信頼度: 8.0/10)
+  • 2026年3月23日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)</description>
+        <category>skill おすすめ 理由</category>
+        <pubDate>2026-03-25T02:08:55.052425</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ 理由_2_1774404535</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260325_020532.mp3" type="audio/mpeg" length="4625553" />
+    </item>
+    <item>
+        <title>エピソード 3: Mcp おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.5/10
+
+**intro（150文字）**
+こんにちは、今日はGoogleの最新テクノロジーについてお話します。Googleは、「Gemini ...]]>
+
+
+記事一覧:
+  • 猶予は5分 Googleは生成AIで障害対応をどう効率化しているか (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • GPT-4o・Claude・Geminiは御社サイトを「読めているか」--AI互換性を100点満点で可視化する無料診断ツールを公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • PagerDuty、次世代「Operations Cloud」を発表:Spring 2026リリースの提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • Stripe、Tempo と共同開発の「Machine Payments Protocol」を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • Visual Studio Code 1.112公開、統合ブラウザ導入やWebアプリのデバッグ機能を強化 (出典: Mynavi News, 信頼度: 8.5/10)
+  • “AIエージェントは危険”をどう解決する?NVIDIA「NemoClaw」、Red Hatと連携 (出典: Mynavi News, 信頼度: 8.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-03-25T02:08:55.052450</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_3_1774404535</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260325_020548.mp3" type="audio/mpeg" length="5579754" />
+    </item>
     </channel>
 </rss>
