@@ -1,110 +1,75 @@
 {
-  "generated_at": "2026-03-25T02:08:55.052040",
-  "total_episodes": 3,
+  "generated_at": "2026-03-26T02:22:50.629822",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260325_020527",
-      "theme": "MCP 方法",
+      "name": "episode_skill おすすめ_20260326_021046",
+      "theme": "skill おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260325_020527.mp3",
-      "audio_length": 8664710,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260326_021046.mp3",
+      "audio_length": 8733256,
       "audio_duration": null,
       "articles": [
         {
-          "title": "MCPは「AIの業界標準になるのか」? 利用拡大の裏で“普及を阻む課題”も浮上",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "SLV Backup、完全 E2E 暗号化に対応 - スピード構成を守りながら、データの安全性をワンコマンドで確保。Web3・AI エージェント時代の安全な運用基盤をさらに強化",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIコーディングで現場が疲弊するのはツールのせいではない KDDIアジャイル開発センターに聞く、AIコーディングの誤解と「本当の生産性」",
-          "source": "Atmarkit Itmedia",
+          "title": "2026年3月25日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "株式会社BLAM、Anthropic「Claude」全社導入を完了",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "米AI企業 ブラウザを操作・制御するAIエージェント「Molmo Web」を発表",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
+          "source": "Gigazine",
           "trust_score": 7.0
         },
-        {
-          "title": "株式会社BLAM、Anthropic「Claude」全社導入を完了",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「makeshop」、MCPサーバーに今春対応 AIエージェントと連携可能に、「Skills」を同時提供(日本ネット経済新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "EC商品推薦チャットの品質を可視化するオープンソースベンチマーク「SOUK」を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20260325_020532",
-      "theme": "skill おすすめ 理由",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ 理由_20260325_020532.mp3",
-      "audio_length": 4625553,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "「影技 SHADOW SKIL」など16作品!「VHSを巻き戻せ!俺たちのOVA特集」4月放送!CS衛星劇場",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "2026年3月23日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260325_020548",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP おすすめ 理由_20260326_021102",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260325_020548.mp3",
-      "audio_length": 5579754,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260326_021102.mp3",
+      "audio_length": 8713194,
       "audio_duration": null,
       "articles": [
         {
-          "title": "猶予は5分 Googleは生成AIで障害対応をどう効率化しているか",
-          "source": "Atmarkit Itmedia",
+          "title": "DocBase CLIの提供を開始、AIコーディングツールやCI/CDからナレッジを直接操作可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Quollio、メタデータをパイプラインで一括管理する新機能「Metadata Lifecycle Manager」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "動くコードで学ぶMCPサーバー構築法! 『完全理解!MCPサーバー入門 TypeScript SDK実践ガイド』発行 技術の泉シリーズ、3月の新刊",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "中小企業の人事評価課題をAIで解決するクラウドサービス「Scale人事評価」をリリースー給与査定シミュレーションや1on1支援まで、人事評価業務の全工程をワンストップでカバー",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIエージェントがお互いの知識を共有して無駄を削減&性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表",
+          "source": "Gigazine",
           "trust_score": 7.5
-        },
-        {
-          "title": "GPT-4o・Claude・Geminiは御社サイトを「読めているか」--AI互換性を100点満点で可視化する無料診断ツールを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "PagerDuty、次世代「Operations Cloud」を発表:Spring 2026リリースの提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Stripe、Tempo と共同開発の「Machine Payments Protocol」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Visual Studio Code 1.112公開、統合ブラウザ導入やWebアプリのデバッグ機能を強化",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "“AIエージェントは危険”をどう解決する?NVIDIA「NemoClaw」、Red Hatと連携",
-          "source": "Mynavi News",
-          "trust_score": 8.5
         }
       ]
     }
