@@ -4,45 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-26T02:22:50.630146</lastBuildDate>
+        <lastBuildDate>2026-03-26T21:42:12.105245</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill おすすめ</title>
+        <title>エピソード 1: Claude code 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
-
-**hook**
-こんにちは、みんな！今日は、自分のスキルを高めることについて話したいと思います。最近、自分が何をしているのか、本当にやりたいこと...]]>
-
-
-記事一覧:
-  • 2026年3月25日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 米AI企業 ブラウザを操作・制御するAIエージェント「Molmo Web」を発表 (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作 (出典: Gigazine, 信頼度: 7.0/10)
-  • 「影技 SHADOW SKIL」など16作品!「VHSを巻き戻せ!俺たちのOVA特集」4月放送!CS衛星劇場 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-03-26T02:22:50.630062</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_1_1774491770</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260326_021046.mp3" type="audio/mpeg" length="8733256" />
-    </item>
-    <item>
-        <title>エピソード 2: Mcp おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【Claude Code 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -50,22 +24,54 @@
 【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
-**problem**
-こんな悩みありませんか？ドキュメントの管理や共有が大変で、チームのコラボレーションがスムーズに進まない。特に、開発チーム...]]>
+**hook**
+あなたのビジネスが、AIの導入で次のステージに進むことを妨げているのは何ですか？ 多くの企業が、AIの導入に苦労していま...]]>
 
 
 記事一覧:
-  • DocBase CLIの提供を開始、AIコーディングツールやCI/CDからナレッジを直接操作可能に (出典: Pr Times, 信頼度: 8.0/10)
-  • Quollio、メタデータをパイプラインで一括管理する新機能「Metadata Lifecycle Manager」を提供開始 (出典: Pr Times, 信頼度: 8.5/10)
-  • 画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動 (出典: Pr Times, 信頼度: 8.0/10)
-  • 動くコードで学ぶMCPサーバー構築法! 『完全理解!MCPサーバー入門 TypeScript SDK実践ガイド』発行 技術の泉シリーズ、3月の新刊 (出典: Pr Times, 信頼度: 8.5/10)
-  • 中小企業の人事評価課題をAIで解決するクラウドサービス「Scale人事評価」をリリースー給与査定シミュレーションや1on1支援まで、人事評価業務の全工程をワンストップでカバー (出典: Pr Times, 信頼度: 8.5/10)
-  • AIエージェントがお互いの知識を共有して無駄を削減&性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表 (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-03-26T02:22:50.630130</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_2_1774491770</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260326_021102.mp3" type="audio/mpeg" length="8713194" />
+  • 【AX INSIGHT|AI実践伴走レポート 2026年3月号】株式会社AX、「導入の先へ進む企業が取り組んでいること」を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • チェック・ポイント、企業のAI活用を統合的に保護する「AI Defense Plane」を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「COBOL」技術者はもういない、レガシーコードの読み解き方をAnthropicが解説 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • 『マネーフォワード クラウド会計』、リモートMCPサーバーを全プランで提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 生成AIを経営資産に変える「ハーネスエンジニアリング」の正体 (出典: Business Insider, 信頼度: 7.5/10)
+  • 事業開発×AIの未開拓領域に「Deep Out」と名付けた (出典: Pr Times, 信頼度: 7.5/10)
+  • 話題の「Claude Code」をはじめ4大AIエディタを徹底比較--AI駆動開発協会がエンジニア向け無料セミナー3本を4月連続開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>Claude Code 方法</category>
+        <pubDate>2026-03-26T21:42:12.105159</pubDate>
+        <guid isPermaLink="false">episode_Claude Code 方法_1_1774561332</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260326_213906.mp3" type="audio/mpeg" length="6927672" />
+        <itunes:duration>00:07:12</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 思想 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**problem**
+こんな悩みありませんか？旅行の計画を立てて、出発の日を心待ちにしていたのに、突然旅行会社からキャンセルの連絡が来てしまい、計画...]]>
+
+
+記事一覧:
+  • 「旅行断念」か「3月発券が最後のチャンス」か...韓国、サーチャージ3倍で航空大乱の兆し(中央日報日本語版) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 帝京大学理事長とMUFG金融経済教育担当が語る、いまこそ重要な学生向けの金融経済教育 (出典: Mynavi News, 信頼度: 7.5/10)
+  • 無数鍵多重時変成立点理論 世界最強セキュリティーの可能性 「メディアリリース1日間でXの閲覧(インプレッション)数が26万回を突破」 ゼロトラストの進化版、暗証番号不要の次世代の最先端セキュリティー (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 半年前に始めた「フォトショップ」のグラフィック作品 初期と現在の比較に「天才」「すごい!尊敬」(LIMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【Algomatic】経産省・NEDO主催『GENIAC-PRIZE』に三菱重工と共同応募し、テーマ「製造業の暗黙知の形式知化」において第2位を受賞 (出典: Pr Times, 信頼度: 8.0/10)
+  • SHEIN、世界1.5万人の衣類サーキュラリティ調査を発表 衣類リサイクルの鍵は利便性と特典 古着交換・寄付キャンペーン「#SHEIN Again」4月1日開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 【新NISAと普通預金】「月3万円」の積立で20年後の資産はいくらになる?シミュレーション結果を見てみる!(LIMO) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>思想 比較</category>
+        <pubDate>2026-03-26T21:42:12.105221</pubDate>
+        <guid isPermaLink="false">episode_思想 比較_2_1774561332</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%AF%94%E8%BC%83/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260326_213927.mp3" type="audio/mpeg" length="7001233" />
+        <itunes:duration>00:07:17</itunes:duration>
     </item>
     </channel>
 </rss>
