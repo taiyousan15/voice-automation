@@ -1,6 +1,6 @@
 # エピソード: Claude code 方法
 
-**2026-03-26** | テーマ: Claude Code 方法
+**2026-02-17** | テーマ: Claude Code 方法
 
 ---
 
@@ -12,19 +12,22 @@
 
 ---
 
-【セクション 1: Pr Times】
+【セクション 1: ライブドアニュース】
 信頼度スコア: 8.0/10
 
-**hook**
-あなたのビジネスが、AIの導入で次のステージに進むことを妨げているのは何ですか？ 多くの企業が、AIの導入に苦労しています。導入の初期段階では、期待通りの成果が得られない、または導入後に効果的な運用が難しいという問題に直面しています。これらの課題に立ち向かうには、企業が取り組んでいる具体的なアプローチを知ることが重要で...
+**トピック紹介**
+こんにちは、今日は「Claude Code」について話します。
+
+**ニュース解説**
+「Claude Code」は、自動でタスクを実行する方法です。ハーベストコーティングを自動化することができます。便利な機能として、フックや通知が用意されています。通知機能を使うと、スマートフォンやスマートウォッチにプッシュ通知...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260326_213906.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260217_221711.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
+RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
 
 ---
 

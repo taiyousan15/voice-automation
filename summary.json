@@ -1,28 +1,58 @@
 {
-  "generated_at": "2026-03-26T21:42:12.104705",
-  "total_episodes": 2,
+  "generated_at": "2026-03-27T02:15:54.358486",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 方法_20260326_213906",
-      "theme": "Claude Code 方法",
+      "name": "episode_MCP 比較_20260327_021157",
+      "theme": "MCP 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 方法_20260326_213906.mp3",
-      "audio_length": 6927672,
-      "audio_duration": "00:07:12",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260327_021157.mp3",
+      "audio_length": 10409272,
+      "audio_duration": null,
       "articles": [
+        {
+          "title": "[ITmedia エンタープライズ] 「Claude Cowork」とRPAの根本的な違い AIが“ソフトウェアを殺す”メカニズム",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "面倒で難しいコード “こそ”、AIに書かせては? 「生産性が高まるAIコーディング」の始め方",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Figma、AIエージェントによるFigmaキャンバスへの直接書き込み機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260327_021215",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260327_021215.mp3",
+      "audio_length": 8273919,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日本参入が急増する海外AIツール向け、メディア掲載型PR配信プラン開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
         {
           "title": "【AX INSIGHT|AI実践伴走レポート 2026年3月号】株式会社AX、「導入の先へ進む企業が取り組んでいること」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "チェック・ポイント、企業のAI活用を統合的に保護する「AI Defense Plane」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「COBOL」技術者はもういない、レガシーコードの読み解き方をAnthropicが解説",
+          "title": "最新AI、Googleが暴く9つの悪用事例 「攻撃者もAIリソースが欲しい」",
           "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         },
@@ -32,64 +62,54 @@
           "trust_score": 8.0
         },
         {
-          "title": "生成AIを経営資産に変える「ハーネスエンジニアリング」の正体",
-          "source": "Business Insider",
-          "trust_score": 7.5
+          "title": "「駅すぱあと API MCPサーバー」でダイヤ探索機能をリリース",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
         },
         {
-          "title": "事業開発×AIの未開拓領域に「Deep Out」と名付けた",
-          "source": "Pr Times",
-          "trust_score": 7.5
+          "title": "簡単導入! OSS全文検索サーバFess入門 第73回 MCPサーバとしての利用方法",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "話題の「Claude Code」をはじめ4大AIエディタを徹底比較--AI駆動開発協会がエンジニア向け無料セミナー3本を4月連続開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Spring AIの実戦投入で見えてくる課題――複数モデル環境で「コスト最適化」するテクニック",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_思想 比較_20260326_213927",
-      "theme": "思想 比較",
+      "name": "episode_MCP おすすめ 理由_20260327_021230",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260326_213927.mp3",
-      "audio_length": 7001233,
-      "audio_duration": "00:07:17",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260327_021230.mp3",
+      "audio_length": 8732420,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "「旅行断念」か「3月発券が最後のチャンス」か...韓国、サーチャージ3倍で航空大乱の兆し(中央日報日本語版)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Epics DAO Solana バリデータが Shinobi Performance Pool でトップ5入りを達成 - スコア 99.92、日々の改善の積み重ねが世界トップクラスの性能を実現",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "帝京大学理事長とMUFG金融経済教育担当が語る、いまこそ重要な学生向けの金融経済教育",
-          "source": "Mynavi News",
+          "title": "Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価",
+          "source": "Businesswire",
           "trust_score": 7.5
         },
         {
-          "title": "無数鍵多重時変成立点理論 世界最強セキュリティーの可能性 「メディアリリース1日間でXの閲覧(インプレッション)数が26万回を突破」 ゼロトラストの進化版、暗証番号不要の次世代の最先端セキュリティー",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "半年前に始めた「フォトショップ」のグラフィック作品 初期と現在の比較に「天才」「すごい!尊敬」(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【Algomatic】経産省・NEDO主催『GENIAC-PRIZE』に三菱重工と共同応募し、テーマ「製造業の暗黙知の形式知化」において第2位を受賞",
+          "title": "AI営業自動化「AIアポろうくん」が機能強化-AI重複チェック・3段階確認送信・速度改善で\"安全な営業自動化\"を実現",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "SHEIN、世界1.5万人の衣類サーキュラリティ調査を発表 衣類リサイクルの鍵は利便性と特典 古着交換・寄付キャンペーン「#SHEIN Again」4月1日開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "APIキーは必ず狙われる 生成AI時代のAPIセキュリティの新常識をPreferred NetworksのCISOが解説",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
-        },
-        {
-          "title": "【新NISAと普通預金】「月3万円」の積立で20年後の資産はいくらになる?シミュレーション結果を見てみる!(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
