@@ -8,41 +8,41 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-26T02:22:50.630146</lastBuildDate>
+        <lastBuildDate>2026-03-27T02:15:54.358878</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill おすすめ</title>
+        <title>エピソード 1: Mcp 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+本日は、【MCP 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Gigazine】
+【セクション 1: Itmedia】
 信頼度スコア: 7.5/10
 
 **hook**
-こんにちは、みんな！今日は、自分のスキルを高めることについて話したいと思います。最近、自分が何をしているのか、本当にやりたいこと...]]>
+あなたは仕事で毎日、同じ作業を繰り返し行っていますか？データ入力、報告書作成、会議の議事録作成... そういった作業は時間がかかり、ストレ...]]>
 
 
 記事一覧:
-  • 2026年3月25日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 米AI企業 ブラウザを操作・制御するAIエージェント「Molmo Web」を発表 (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作 (出典: Gigazine, 信頼度: 7.0/10)
-  • 「影技 SHADOW SKIL」など16作品!「VHSを巻き戻せ!俺たちのOVA特集」4月放送!CS衛星劇場 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-03-26T02:22:50.630062</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_1_1774491770</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260326_021046.mp3" type="audio/mpeg" length="8733256" />
+  • [ITmedia エンタープライズ] 「Claude Cowork」とRPAの根本的な違い AIが“ソフトウェアを殺す”メカニズム (出典: Itmedia, 信頼度: 7.5/10)
+  • 面倒で難しいコード “こそ”、AIに書かせては? 「生産性が高まるAIコーディング」の始め方 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • Figma、AIエージェントによるFigmaキャンバスへの直接書き込み機能を提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 比較</category>
+        <pubDate>2026-03-27T02:15:54.358799</pubDate>
+        <guid isPermaLink="false">episode_MCP 比較_1_1774577754</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260327_021157.mp3" type="audio/mpeg" length="10409272" />
     </item>
     <item>
-        <title>エピソード 2: Mcp おすすめ 理由</title>
+        <title>エピソード 2: Mcp 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -51,21 +51,49 @@
 信頼度スコア: 8.0/10
 
 **problem**
-こんな悩みありませんか？ドキュメントの管理や共有が大変で、チームのコラボレーションがスムーズに進まない。特に、開発チーム...]]>
+こんな悩みありませんか？海外のAIツールを日本市場に導入しようとしているのに、効果的なプロモーション方法が見つからない。多くの企業...]]>
 
 
 記事一覧:
-  • DocBase CLIの提供を開始、AIコーディングツールやCI/CDからナレッジを直接操作可能に (出典: Pr Times, 信頼度: 8.0/10)
-  • Quollio、メタデータをパイプラインで一括管理する新機能「Metadata Lifecycle Manager」を提供開始 (出典: Pr Times, 信頼度: 8.5/10)
-  • 画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動 (出典: Pr Times, 信頼度: 8.0/10)
-  • 動くコードで学ぶMCPサーバー構築法! 『完全理解!MCPサーバー入門 TypeScript SDK実践ガイド』発行 技術の泉シリーズ、3月の新刊 (出典: Pr Times, 信頼度: 8.5/10)
-  • 中小企業の人事評価課題をAIで解決するクラウドサービス「Scale人事評価」をリリースー給与査定シミュレーションや1on1支援まで、人事評価業務の全工程をワンストップでカバー (出典: Pr Times, 信頼度: 8.5/10)
-  • AIエージェントがお互いの知識を共有して無駄を削減&性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表 (出典: Gigazine, 信頼度: 7.5/10)</description>
+  • 日本参入が急増する海外AIツール向け、メディア掲載型PR配信プラン開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【AX INSIGHT|AI実践伴走レポート 2026年3月号】株式会社AX、「導入の先へ進む企業が取り組んでいること」を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • 最新AI、Googleが暴く9つの悪用事例 「攻撃者もAIリソースが欲しい」 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • 『マネーフォワード クラウド会計』、リモートMCPサーバーを全プランで提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「駅すぱあと API MCPサーバー」でダイヤ探索機能をリリース (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
+  • 簡単導入! OSS全文検索サーバFess入門 第73回 MCPサーバとしての利用方法 (出典: Mynavi News, 信頼度: 8.5/10)
+  • Spring AIの実戦投入で見えてくる課題――複数モデル環境で「コスト最適化」するテクニック (出典: Atmarkit Itmedia, 信頼度: 7.5/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-03-27T02:15:54.358842</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_2_1774577754</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260327_021215.mp3" type="audio/mpeg" length="8273919" />
+    </item>
+    <item>
+        <title>エピソード 3: Mcp おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
+
+**intro（150文字）**
+今回のテーマは、MCPのおすすめ理由についてです。最近、Epics DAO SolanaハーバリューターがSh...]]>
+
+
+記事一覧:
+  • Epics DAO Solana バリデータが Shinobi Performance Pool でトップ5入りを達成 - スコア 99.92、日々の改善の積み重ねが世界トップクラスの性能を実現 (出典: Pr Times, 信頼度: 8.5/10)
+  • Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価 (出典: Pr Times, 信頼度: 8.5/10)
+  • Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価 (出典: Businesswire, 信頼度: 7.5/10)
+  • AI営業自動化「AIアポろうくん」が機能強化-AI重複チェック・3段階確認送信・速度改善で"安全な営業自動化"を実現 (出典: Pr Times, 信頼度: 8.0/10)
+  • APIキーは必ず狙われる 生成AI時代のAPIセキュリティの新常識をPreferred NetworksのCISOが解説 (出典: Atmarkit Itmedia, 信頼度: 7.5/10)</description>
         <category>MCP おすすめ 理由</category>
-        <pubDate>2026-03-26T02:22:50.630130</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_2_1774491770</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260326_021102.mp3" type="audio/mpeg" length="8713194" />
+        <pubDate>2026-03-27T02:15:54.358863</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_3_1774577754</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260327_021230.mp3" type="audio/mpeg" length="8732420" />
     </item>
     </channel>
 </rss>

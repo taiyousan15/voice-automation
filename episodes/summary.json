@@ -1,74 +1,114 @@
 {
-  "generated_at": "2026-03-26T02:22:50.629822",
-  "total_episodes": 2,
+  "generated_at": "2026-03-27T02:15:54.358486",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260326_021046",
-      "theme": "skill おすすめ",
+      "name": "episode_MCP 比較_20260327_021157",
+      "theme": "MCP 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260326_021046.mp3",
-      "audio_length": 8733256,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 比較_20260327_021157.mp3",
+      "audio_length": 10409272,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年3月25日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "[ITmedia エンタープライズ] 「Claude Cowork」とRPAの根本的な違い AIが“ソフトウェアを殺す”メカニズム",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "米AI企業 ブラウザを操作・制御するAIエージェント「Molmo Web」を発表",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Ai2がビジュアルウェブAIエージェントの「MolmoWeb」をリリース、HTMLを解析するのではなくブラウザのスクリーンショットで動作",
-          "source": "Gigazine",
+          "title": "面倒で難しいコード “こそ”、AIに書かせては? 「生産性が高まるAIコーディング」の始め方",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "「影技 SHADOW SKIL」など16作品!「VHSを巻き戻せ!俺たちのOVA特集」4月放送!CS衛星劇場",
+          "title": "Figma、AIエージェントによるFigmaキャンバスへの直接書き込み機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ 理由_20260326_021102",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_MCP 方法_20260327_021215",
+      "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260326_021102.mp3",
-      "audio_length": 8713194,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260327_021215.mp3",
+      "audio_length": 8273919,
       "audio_duration": null,
       "articles": [
         {
-          "title": "DocBase CLIの提供を開始、AIコーディングツールやCI/CDからナレッジを直接操作可能に",
+          "title": "日本参入が急増する海外AIツール向け、メディア掲載型PR配信プラン開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Quollio、メタデータをパイプラインで一括管理する新機能「Metadata Lifecycle Manager」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "画像→データ化:AIデータ抽出サービス「Suidasu」3月25日始動",
+          "title": "【AX INSIGHT|AI実践伴走レポート 2026年3月号】株式会社AX、「導入の先へ進む企業が取り組んでいること」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "動くコードで学ぶMCPサーバー構築法! 『完全理解!MCPサーバー入門 TypeScript SDK実践ガイド』発行 技術の泉シリーズ、3月の新刊",
+          "title": "最新AI、Googleが暴く9つの悪用事例 「攻撃者もAIリソースが欲しい」",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "『マネーフォワード クラウド会計』、リモートMCPサーバーを全プランで提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「駅すぱあと API MCPサーバー」でダイヤ探索機能をリリース",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "簡単導入! OSS全文検索サーバFess入門 第73回 MCPサーバとしての利用方法",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Spring AIの実戦投入で見えてくる課題――複数モデル環境で「コスト最適化」するテクニック",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20260327_021230",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260327_021230.mp3",
+      "audio_length": 8732420,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Epics DAO Solana バリデータが Shinobi Performance Pool でトップ5入りを達成 - スコア 99.92、日々の改善の積み重ねが世界トップクラスの性能を実現",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "中小企業の人事評価課題をAIで解決するクラウドサービス「Scale人事評価」をリリースー給与査定シミュレーションや1on1支援まで、人事評価業務の全工程をワンストップでカバー",
+          "title": "Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "AIエージェントがお互いの知識を共有して無駄を削減&性能向上を目指すAI版Stack Overflow「cq」をMozilla.aiが発表",
-          "source": "Gigazine",
+          "title": "Boomi、ガートナー社「2026年Integration Platform as a Serviceのマジック・クアドラント」で実行能力において最上位の位置づけとして12回連続でリーダーの1社と評価",
+          "source": "Businesswire",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI営業自動化「AIアポろうくん」が機能強化-AI重複チェック・3段階確認送信・速度改善で\"安全な営業自動化\"を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "APIキーは必ず狙われる 生成AI時代のAPIセキュリティの新常識をPreferred NetworksのCISOが解説",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         }
       ]
