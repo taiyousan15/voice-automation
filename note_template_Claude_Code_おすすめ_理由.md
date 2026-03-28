@@ -1,6 +1,6 @@
 # エピソード: Claude code おすすめ 理由
 
-**2026-02-17** | テーマ: Claude Code おすすめ 理由
+**2026-03-28** | テーマ: Claude Code おすすめ 理由
 
 ---
 
@@ -12,22 +12,21 @@
 
 ---
 
-【セクション 1: 日経クロステック（xtech）】
-信頼度スコア: 8.0/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
 
-**トピック紹介**
-今日のトピックは、AIエージェントとコンテキストエンジニアリングについてです。何を任せれば良いか、設計時の落とし穴について話します。
+**problem**
+こんな悩みありませんか？AIコーティングエージェントを利用して開発を進めていますが、セキュリティ面で不安を感じています。特に、Claude Codeの実行をリアルタイムで監視する方法が見つからず、潜在的なリスクに直面しています。多くの開発者や企業が直面しているこの問題、解決策は見つかっていましたか？
 
-**ニュース解説**
-AIエージェントは、人工知能を活用してさまざまなタスクを自動化する技術です。コンテキストエンジニアリングは、AIエージェントを実現する...
+...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260217_221713.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260328_213800.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
+RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
 
 ---
 

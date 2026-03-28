@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-03-28T02:03:12.389050",
-  "total_episodes": 0,
+  "generated_at": "2026-03-28T21:40:57.919625",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ 理由_20260328_213751",
+      "theme": "占い おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260328_213751.mp3",
+      "audio_length": 6913461,
+      "audio_duration": "00:07:12",
+      "articles": [
+        {
+          "title": "アニメ「スティール・ボール・ラン」2nd STAGEは2026年配信、ティザーPVも公開に",
+          "source": "Natalie - Pop Culture News Site",
+          "trust_score": 8.0
+        },
+        {
+          "title": "全国3分の1で女性議員は0か1 594議会、来春には統一地方選(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「荷物かさばる悩みを解消だ」3COINS〈圧縮ポーチ〉550円「ファスナー閉めるだけ激変」「旅行のパッキングが楽と話題」(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "大谷翔平も提言「世界で勝ちたいなら...」WBCが日本野球に突きつけたのはピッチクロック問題だけではない...井端監督が大会後に語った“もうひとつの課題”",
+          "source": "Number Web",
+          "trust_score": 7.5
+        },
+        {
+          "title": "沖縄尚学の誤算“センバツ初戦敗退”は必然だったのか? エース末吉良丞の復活、新垣有絃への必勝リレー「それでも勝てなかった」夏の甲子園覇者の現状",
+          "source": "Number Web",
+          "trust_score": 7.5
+        },
+        {
+          "title": "目黒川の花見スポットのベンチがクモの巣のようになっていて世知辛い...地元民的には花見客が大迷惑すぎて「仕方ない」",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【弁当業界に激震】かつや「80gロース2枚、チキンカツ2枚、ヒレカツ2枚、海老フライ2本、から揚げ4個」でハウマッチ?",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260328_213800",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260328_213800.mp3",
+      "audio_length": 7764844,
+      "audio_duration": "00:08:05",
+      "articles": [
+        {
+          "title": "AIセキュリティのCoWorker、AIコーディングエージェントの“見えないリスク”に対応。Claude Codeの実行をリアルタイム監視する「CoWorker AIDR」を無料提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「AIコーディングは後から苦しくなる」「いま勢いのあるツールは?」――エージェントに揺れる開発現場",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年3月27日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "グーグルのチーム再編が示す、“OpenClaw時代”への転換",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
