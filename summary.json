@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-03-29T02:24:36.637732",
+  "generated_at": "2026-03-29T21:42:21.521219",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260329_022230",
-      "theme": "MCP 方法",
+      "name": "episode_占い 方法_20260329_214001",
+      "theme": "占い 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260329_022230.mp3",
-      "audio_length": 6563212,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 方法_20260329_214001.mp3",
+      "audio_length": 7693373,
+      "audio_duration": "00:08:00",
       "articles": [
         {
-          "title": "SLV v0.13 リリース ― CLI を覚える時代は終わり、Solana 開発は AI エージェントとの対話に",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "スポーツ振興くじ全国販売開始から25年 助成金として200億円程度を確保する貴重な財源に",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
         },
         {
-          "title": "ソラナ、取引順序を制御する新プロトコル「Constellation」提案(あたらしい経済)",
+          "title": "成田の新管制塔、高さ日本一へ工事進む 「第2の開港」象徴、120メートル(共同通信)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "freee、OSSとして公開した「freee-mcp」のリモート版の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "【最高視聴率18%】社会人なら共感しまくりの嵐!ビジネス書を凌駕するヒューマン韓国ドラマ4選",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「同じようなテーマだけど全然違うゲーム」、結構ある。どれだけ思いつく?登山でも『Cairn』に『PEAK』に『Jusant』に『Celeste』などある",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "定番商品「ゆかり」×「カッパ」で素通りできない売り場を目指す!? 三島食品株式会社の販促戦略に迫る",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Hulu新作「ミステリーシネマ」3組の“バディ”誕生 満島真之介×柄本時生、矢本悠馬×田辺誠一、水沢林太郎×須賀健太",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年3月30日~2026年4月5日の運勢は?【タナミユキの文豪占い】",
+          "source": "Otona No Shuumatsu Web",
+          "trust_score": 7.5
         }
       ]
     }

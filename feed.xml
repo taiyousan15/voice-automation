@@ -4,39 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-29T02:24:36.638053</lastBuildDate>
+        <lastBuildDate>2026-03-29T21:42:21.521572</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: 占い 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
+本日は、【占い 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
+【セクション 1: Nikkan Sports】
+信頼度スコア: 7.5/10
 
-**hook（150文字）**
-あなたは、Solana 開発でCLIを覚えるのに苦労したことがありませんか？コマンドを覚えるだけで時間が奪われ、開発の効率...]]>
+**hook**
+こんにちは、みんな。今日は、スポーツ振興くじについて話したいと思います。スポーツが好きな人や、スポーツを通じて人生を変えたい人に...]]>
 
 
 記事一覧:
-  • SLV v0.13 リリース ― CLI を覚える時代は終わり、Solana 開発は AI エージェントとの対話に (出典: Pr Times, 信頼度: 8.0/10)
-  • ソラナ、取引順序を制御する新プロトコル「Constellation」提案(あたらしい経済) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • freee、OSSとして公開した「freee-mcp」のリモート版の提供を開始 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-03-29T02:24:36.638008</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1774751076</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260329_022230.mp3" type="audio/mpeg" length="6563212" />
+  • スポーツ振興くじ全国販売開始から25年 助成金として200億円程度を確保する貴重な財源に (出典: Nikkan Sports, 信頼度: 7.5/10)
+  • 成田の新管制塔、高さ日本一へ工事進む 「第2の開港」象徴、120メートル(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【最高視聴率18%】社会人なら共感しまくりの嵐!ビジネス書を凌駕するヒューマン韓国ドラマ4選 (出典: Yomuno, 信頼度: 7.5/10)
+  • 「同じようなテーマだけど全然違うゲーム」、結構ある。どれだけ思いつく?登山でも『Cairn』に『PEAK』に『Jusant』に『Celeste』などある (出典: Automaton, 信頼度: 7.0/10)
+  • 定番商品「ゆかり」×「カッパ」で素通りできない売り場を目指す!? 三島食品株式会社の販促戦略に迫る (出典: Mynavi News, 信頼度: 8.5/10)
+  • Hulu新作「ミステリーシネマ」3組の“バディ”誕生 満島真之介×柄本時生、矢本悠馬×田辺誠一、水沢林太郎×須賀健太 (出典: 産経ニュース, 信頼度: 7.0/10)
+  • 2026年3月30日~2026年4月5日の運勢は?【タナミユキの文豪占い】 (出典: Otona No Shuumatsu Web, 信頼度: 7.5/10)</description>
+        <category>占い 方法</category>
+        <pubDate>2026-03-29T21:42:21.521524</pubDate>
+        <guid isPermaLink="false">episode_占い 方法_1_1774820541</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 方法_20260329_214001.mp3" type="audio/mpeg" length="7693373" />
+        <itunes:duration>00:08:00</itunes:duration>
     </item>
     </channel>
 </rss>
