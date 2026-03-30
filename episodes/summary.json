@@ -1,28 +1,23 @@
 {
-  "generated_at": "2026-03-29T02:24:36.637732",
+  "generated_at": "2026-03-30T02:26:45.252885",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260329_022230",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ_20260330_022506",
+      "theme": "MCP おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260329_022230.mp3",
-      "audio_length": 6563212,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260330_022506.mp3",
+      "audio_length": 5266702,
       "audio_duration": null,
       "articles": [
         {
-          "title": "SLV v0.13 リリース ― CLI を覚える時代は終わり、Solana 開発は AI エージェントとの対話に",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AIを\"チームの一員\"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "ソラナ、取引順序を制御する新プロトコル「Constellation」提案(あたらしい経済)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "freee、OSSとして公開した「freee-mcp」のリモート版の提供を開始",
+          "title": "AIを\"チームの一員\"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
