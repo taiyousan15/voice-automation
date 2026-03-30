@@ -1,25 +1,95 @@
 {
-  "generated_at": "2026-03-30T02:26:45.252885",
-  "total_episodes": 1,
+  "generated_at": "2026-03-30T21:54:56.679682",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260330_022506",
-      "theme": "MCP おすすめ",
+      "name": "episode_思想 活用_20260330_215148",
+      "theme": "思想 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260330_022506.mp3",
-      "audio_length": 5266702,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 活用_20260330_215148.mp3",
+      "audio_length": 8625422,
+      "audio_duration": "00:08:59",
       "articles": [
         {
-          "title": "AIを\"チームの一員\"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "EV化してアストロの再来か! シボレー「ブライトドロップ」が新たなサブカル旋風を巻き起こすことを期待......したらもうヤメちゃうってマジ!?(THE EV TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "“住民の半数超が死亡”と試算の自治体も...三重県が南海トラフ地震の新たな被害想定を発表 最大で死者約5万人 その8割が津波(東海テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "四国初!松山市消防局に「無人走行放水ロボット」配備、人が近付けない現場でも高い能力を発揮",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "パール・ジャムのエディ・ヴェダー「奇跡のソロ初来日」今こそ観るべき5つの理由",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アイドラが語る、満足感を超えた欠乏感、童謡を引用しつつ描く窮屈な社会への提言",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "新アリーナ建設構想を含む広島のにぎわい創出へ 広島市とJR西日本が連携協定",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アルミホイル高騰、消毒用エタノールは品薄、イチゴ狩り農園“運営コスト”アップ...中東危機の影響広がる",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260330_215205",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260330_215205.mp3",
+      "audio_length": 6391012,
+      "audio_duration": "00:06:39",
+      "articles": [
+        {
+          "title": "ジョージアとワインで協力 北海道余市町(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ジョージアとワインで協力",
+          "source": "熊日",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「レシピ投稿」の信念を捨てる暴挙で炎上...「生姜焼きだけで1.7万件」クックパッドが「料理×AI」で逆転する方法",
+          "source": "President Online",
           "trust_score": 7.0
         },
         {
-          "title": "AIを\"チームの一員\"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始",
+          "title": "「マルハンサービスグランプリ西日本カンパニー大会」開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "松岡充(SOPHIA)、小嶋花梨、谷口キヨコのお昼の新ワイド番組『iDoBuddy』スタート!『赤maru』月曜日にザ・プラン9のヤナギブソン、爆ノ介が登場!15:00-17:00に時間を変更します。",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "継承28代当主/祈願殺到◆受け継がれし秘術操る【霊学家】中島多加仁のコンテンツが「本格占い|みのり」で提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "【FM大阪 2026年4月改編のお知らせ】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }

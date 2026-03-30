@@ -4,38 +4,74 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-30T02:26:45.253151</lastBuildDate>
+        <lastBuildDate>2026-03-30T21:54:56.680214</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ</title>
+        <title>エピソード 1: 思想 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+本日は、【思想 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
-信頼度スコア: 7.0/10
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
 
-**hook**
-あなたは仕事で、同じ作業を繰り返し、時間を浪費していることがありませんか？たとえば、毎日、同じデータを入力したり、...]]>
+**hook（150文字）**
+あなたは、時代を彩ったシンボル的な存在に憧れたことはありませんか？特に、90年代から2000年代にかけて大流行したシボ...]]>
 
 
 記事一覧:
-  • AIを"チームの一員"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • AIを"チームの一員"として迎え入れる--社内システム連携・権限設計・導入伴走をセットにしたAIプラットフォーム「AxMates」を提供開始 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-03-30T02:26:45.253116</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_1_1774837605</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260330_022506.mp3" type="audio/mpeg" length="5266702" />
+  • EV化してアストロの再来か! シボレー「ブライトドロップ」が新たなサブカル旋風を巻き起こすことを期待......したらもうヤメちゃうってマジ!?(THE EV TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • “住民の半数超が死亡”と試算の自治体も...三重県が南海トラフ地震の新たな被害想定を発表 最大で死者約5万人 その8割が津波(東海テレビ) (出典: Yahoo Japan, 信頼度: 9.2/10)
+  • 四国初!松山市消防局に「無人走行放水ロボット」配備、人が近付けない現場でも高い能力を発揮 (出典: 日テレnews Nnn, 信頼度: 8.0/10)
+  • パール・ジャムのエディ・ヴェダー「奇跡のソロ初来日」今こそ観るべき5つの理由 (出典: Mynavi News, 信頼度: 8.5/10)
+  • アイドラが語る、満足感を超えた欠乏感、童謡を引用しつつ描く窮屈な社会への提言 (出典: Mynavi News, 信頼度: 8.5/10)
+  • 新アリーナ建設構想を含む広島のにぎわい創出へ 広島市とJR西日本が連携協定 (出典: 日テレnews Nnn, 信頼度: 8.0/10)
+  • アルミホイル高騰、消毒用エタノールは品薄、イチゴ狩り農園“運営コスト”アップ...中東危機の影響広がる (出典: Fnnプライムオンライン, 信頼度: 7.0/10)</description>
+        <category>思想 活用</category>
+        <pubDate>2026-03-30T21:54:56.680127</pubDate>
+        <guid isPermaLink="false">episode_思想 活用_1_1774907696</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 活用_20260330_215148.mp3" type="audio/mpeg" length="8625422" />
+        <itunes:duration>00:08:59</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 哲学 おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**problem**
+こんな悩みありませんか？ワインの世界に興味があるものの、どのワインを選べばいいのか分からない。あるいは、ワインの産地やその...]]>
+
+
+記事一覧:
+  • ジョージアとワインで協力 北海道余市町(共同通信) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ジョージアとワインで協力 (出典: 熊日, 信頼度: 6.5/10)
+  • 「レシピ投稿」の信念を捨てる暴挙で炎上...「生姜焼きだけで1.7万件」クックパッドが「料理×AI」で逆転する方法 (出典: President Online, 信頼度: 7.0/10)
+  • 「マルハンサービスグランプリ西日本カンパニー大会」開催 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
+  • 松岡充(SOPHIA)、小嶋花梨、谷口キヨコのお昼の新ワイド番組『iDoBuddy』スタート!『赤maru』月曜日にザ・プラン9のヤナギブソン、爆ノ介が登場!15:00-17:00に時間を変更します。 (出典: Pr Times, 信頼度: 8.5/10)
+  • 継承28代当主/祈願殺到◆受け継がれし秘術操る【霊学家】中島多加仁のコンテンツが「本格占い|みのり」で提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【FM大阪 2026年4月改編のお知らせ】 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)</description>
+        <category>哲学 おすすめ</category>
+        <pubDate>2026-03-30T21:54:56.680188</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ_2_1774907696</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260330_215205.mp3" type="audio/mpeg" length="6391012" />
+        <itunes:duration>00:06:39</itunes:duration>
     </item>
     </channel>
 </rss>
