@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-03-31T02:13:45.535040",
-  "total_episodes": 1,
+  "generated_at": "2026-04-01T02:29:46.635971",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill 活用_20260331_021223",
-      "theme": "skill 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260331_021223.mp3",
-      "audio_length": 4572054,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【吉積情報株式会社】吉積情報が、医療機器大手の日本ライフライン株式会社における生成 AI「Gemini」の全社展開をご支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "一流大学合格は将来を約束するとは言えない、学歴は「短期資産」、ビジネスパーソンの力を見せる真の“力”とは(Wedge(ウェッジ))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }

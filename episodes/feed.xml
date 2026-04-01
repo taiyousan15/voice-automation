@@ -8,34 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-03-31T02:13:45.535331</lastBuildDate>
+        <lastBuildDate>2026-04-01T02:29:46.636151</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-あなたの仕事では、毎日大量のデータを処理していることはありませんか？データの分析や報告書の作成に時間がかかり、本当の意味で価値を生み...]]>
-
-
-記事一覧:
-  • 【吉積情報株式会社】吉積情報が、医療機器大手の日本ライフライン株式会社における生成 AI「Gemini」の全社展開をご支援 (出典: Pr Times, 信頼度: 8.0/10)
-  • 一流大学合格は将来を約束するとは言えない、学歴は「短期資産」、ビジネスパーソンの力を見せる真の“力”とは(Wedge(ウェッジ)) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-03-31T02:13:45.535285</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1774923225</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260331_021223.mp3" type="audio/mpeg" length="4572054" />
-    </item>
     </channel>
 </rss>
