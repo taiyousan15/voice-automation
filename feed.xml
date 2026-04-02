@@ -4,14 +4,38 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-01T21:51:36.742390</lastBuildDate>
+        <lastBuildDate>2026-04-02T02:10:06.008039</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**hook**
+不動産の世界では、買い手と売り手の間で情報の格差が常に存在します。売り手は、自分の物件を高く売りたい一方で、買い手は安く買いたいとい...]]>
+
+
+記事一覧:
+  • AIエージェントが、不動産のすべてを変える日。 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【吉積情報株式会社】3 月開催の人気セミナーアーカイブ動画が 4 月 14 日まで期間限定で無料開放 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-04-02T02:10:06.007995</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1775095806</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260402_020858.mp3" type="audio/mpeg" length="3863613" />
+    </item>
     </channel>
 </rss>
