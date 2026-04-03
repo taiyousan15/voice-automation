@@ -1,108 +1,23 @@
 {
-  "generated_at": "2026-04-02T21:49:53.315179",
-  "total_episodes": 3,
+  "generated_at": "2026-04-03T02:12:41.420847",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ_20260402_214636",
-      "theme": "思想 おすすめ",
+      "name": "episode_MCP おすすめ_20260403_021044",
+      "theme": "MCP おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ_20260402_214636.mp3",
-      "audio_length": 5809213,
-      "audio_duration": "00:06:03",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260403_021044.mp3",
+      "audio_length": 6610023,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "「バズる予感の神コスパ」ワークマン〈スポーツグラス〉980円本格仕様の4色展開で軽すぎ「この価格で偏光レンズは事件レベル」(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【18%OFF】Android 16搭載の13インチ大型タブレット「Teclast T65 128GB」が大特価|通常28,900円→23,654円の期間限定セール /20GB+128GB/120Hz",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【完売間近】スマホのスピードに負けないカメラバッグ『+C SLING (プラス シー スリング)』先行予約受付中",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "公立小学校の給食費、実質無償化スタート...月額5,200円支援(リセマム)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【TAC公務員】オンラインライブ体験「初回講義オリエンテーション」を2026/4/4(土)に開催!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【18%OFF】Android 16搭載の13インチ大型タブレット「Teclast T65 128GB」が大特価|通常28,900円→23,654円の期間限定セール /20GB+128GB/120Hz",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【座談会】スパークス × Cornelius × 吉田仁 相思相愛の4人と日本の特別な絆",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ_20260402_214652",
-      "theme": "占い おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260402_214652.mp3",
-      "audio_length": 8655933,
-      "audio_duration": "00:09:00",
-      "articles": [
-        {
-          "title": "石油めぐり高市首相「日本全体で必要な量は確保」衆院本会議で中道議員から節電など協力依頼問われ「あらゆる可能性排除しない」",
-          "source": "Fnnプライムオンライン",
+          "title": "GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "北米からインドへ。スズキ40%の牙城に挑むホンダ、シェア2%からの「現実的再設計」は実るか(carview!)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "大人気クトゥルフ漁業RPG『DREDGE』完全版がApple Arcade向けに配信開始。追加料金なし、iPhoneやMacなどで遊び放題",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "来日外国人による犯罪、3年連続で増加 ベトナムが最多 海外に指示役、組織的窃盗も",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "4月9日(木)19時よりオンライン開催!RENOSYが解説する高所得者向け「アメリカ不動産投資戦略」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "総合不動産のリストグループ 東京本社設置(二本社制)に関するお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ミラノ・コルティナ2026冬季オリンピックでメダル獲得の山田琉聖選手に新潟県民栄誉賞「県民に夢と希望・感動を与えてくれた」",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260402_214713",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260402_214713.mp3",
-      "audio_length": 7738095,
-      "audio_duration": "00:08:03",
-      "articles": [
-        {
-          "title": "クリプタクト、AIコーディングツールから仮想通貨の損益計算が可能なCLIを公開",
+          "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -112,29 +27,24 @@
           "trust_score": 8.0
         },
         {
-          "title": "『人とAI・ロボットの協働/AI社員/AI時代の労働ポートフォリオ/タレントインテリジェンス/ネイティブAI組織白書2026年版』 発刊のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "ついにMacに“ネイティブAI”到来?Google Geminiがデスクトップ統合で次の覇権へ",
+          "source": "Ubergizmo",
+          "trust_score": 7.5
         },
         {
-          "title": "「AIを使いたい」すべての人の\"最初の一歩\"を生む場所をつくる",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "レブコム、「経営判断AI」の実装を発表",
-          "source": "Pr Times",
+          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "株式会社ソーシャルPLUS、サービスコンセプトを刷新~LINEを活用したCRM施策を支援するサービスへと進化~",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Base、AIエージェントの未来に賭ける──2026年のロードマップを発表",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供",
+          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         }
       ]
     }

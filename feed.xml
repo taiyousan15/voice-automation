@@ -4,104 +4,43 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-02T21:49:53.315804</lastBuildDate>
+        <lastBuildDate>2026-04-03T02:12:41.421156</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 思想 おすすめ</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 おすすめ】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**hook**
-こんにちは、リスナーさん。今日は、思わず「バズる予感の神コスパ」と言いたくなるアイテムについて話します。私たちが日常生活で使って...]]>
-
-
-記事一覧:
-  • 「バズる予感の神コスパ」ワークマン〈スポーツグラス〉980円本格仕様の4色展開で軽すぎ「この価格で偏光レンズは事件レベル」(LIMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【18%OFF】Android 16搭載の13インチ大型タブレット「Teclast T65 128GB」が大特価|通常28,900円→23,654円の期間限定セール /20GB+128GB/120Hz (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • 【完売間近】スマホのスピードに負けないカメラバッグ『+C SLING (プラス シー スリング)』先行予約受付中 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • 公立小学校の給食費、実質無償化スタート...月額5,200円支援(リセマム) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【TAC公務員】オンラインライブ体験「初回講義オリエンテーション」を2026/4/4(土)に開催! (出典: Pr Times, 信頼度: 8.0/10)
-  • 【18%OFF】Android 16搭載の13インチ大型タブレット「Teclast T65 128GB」が大特価|通常28,900円→23,654円の期間限定セール /20GB+128GB/120Hz (出典: Pr Times, 信頼度: 8.5/10)
-  • 【座談会】スパークス × Cornelius × 吉田仁 相思相愛の4人と日本の特別な絆 (出典: Mynavi News, 信頼度: 8.5/10)</description>
-        <category>思想 おすすめ</category>
-        <pubDate>2026-04-02T21:49:53.315693</pubDate>
-        <guid isPermaLink="false">episode_思想 おすすめ_1_1775166593</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ_20260402_214636.mp3" type="audio/mpeg" length="5809213" />
-        <itunes:duration>00:06:03</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: 占い おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Fnnプライムオンライン】
+【セクション 1: Atmarkit Itmedia】
 信頼度スコア: 7.0/10
 
-**problem**
-こんな悩みありませんか？占いを始めたいと思ったら、どの占いが本当にあるべき自分を教えてくれるのかわかりません。占いのおす...]]>
+**hook**
+こんにちは、みんな。今日は、マルチエージェントシステムの設計について話そう。みんな、ワークフローを自動化したり、複雑...]]>
 
 
 記事一覧:
-  • 石油めぐり高市首相「日本全体で必要な量は確保」衆院本会議で中道議員から節電など協力依頼問われ「あらゆる可能性排除しない」 (出典: Fnnプライムオンライン, 信頼度: 7.0/10)
-  • 北米からインドへ。スズキ40%の牙城に挑むホンダ、シェア2%からの「現実的再設計」は実るか(carview!) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 大人気クトゥルフ漁業RPG『DREDGE』完全版がApple Arcade向けに配信開始。追加料金なし、iPhoneやMacなどで遊び放題 (出典: Automaton, 信頼度: 7.0/10)
-  • 来日外国人による犯罪、3年連続で増加 ベトナムが最多 海外に指示役、組織的窃盗も (出典: 産経ニュース, 信頼度: 7.0/10)
-  • 4月9日(木)19時よりオンライン開催!RENOSYが解説する高所得者向け「アメリカ不動産投資戦略」 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • 総合不動産のリストグループ 東京本社設置(二本社制)に関するお知らせ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • ミラノ・コルティナ2026冬季オリンピックでメダル獲得の山田琉聖選手に新潟県民栄誉賞「県民に夢と希望・感動を与えてくれた」 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>占い おすすめ</category>
-        <pubDate>2026-04-02T21:49:53.315752</pubDate>
-        <guid isPermaLink="false">episode_占い おすすめ_2_1775166593</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260402_214652.mp3" type="audio/mpeg" length="8655933" />
-        <itunes:duration>00:09:00</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 3: Mcp 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**intro**（150文字）
-こんにちは、皆さん。今日は、クリップタクトという企業が、AIコーディングツールから仮想通貨の損益計算が可能なCLIを公開...]]>
-
-
-記事一覧:
-  • クリプタクト、AIコーディングツールから仮想通貨の損益計算が可能なCLIを公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
   • ストラテジット、SomuriX主催の福岡県「生産性向上・賃上げ 緊急支援補助金」活用セミナーに登壇 (出典: Pr Times, 信頼度: 8.0/10)
-  • 『人とAI・ロボットの協働/AI社員/AI時代の労働ポートフォリオ/タレントインテリジェンス/ネイティブAI組織白書2026年版』 発刊のお知らせ (出典: Pr Times, 信頼度: 8.5/10)
-  • 「AIを使いたい」すべての人の"最初の一歩"を生む場所をつくる (出典: Pr Times, 信頼度: 8.0/10)
-  • レブコム、「経営判断AI」の実装を発表 (出典: Pr Times, 信頼度: 7.0/10)
-  • 株式会社ソーシャルPLUS、サービスコンセプトを刷新~LINEを活用したCRM施策を支援するサービスへと進化~ (出典: Pr Times, 信頼度: 8.0/10)
-  • スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-02T21:49:53.315782</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_3_1775166593</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%B4%BB%E7%94%A8/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260402_214713.mp3" type="audio/mpeg" length="7738095" />
-        <itunes:duration>00:08:03</itunes:duration>
+  • ついにMacに“ネイティブAI”到来?Google Geminiがデスクトップ統合で次の覇権へ (出典: Ubergizmo, 信頼度: 7.5/10)
+  • ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • Base、AIエージェントの未来に賭ける──2026年のロードマップを発表 (出典: Coindesk Japan, 信頼度: 9.7/10)
+  • ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引 (出典: Pr Times, 信頼度: 8.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-04-03T02:12:41.421120</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1775182361</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260403_021044.mp3" type="audio/mpeg" length="6610023" />
     </item>
     </channel>
 </rss>
