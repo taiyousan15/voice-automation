@@ -1,50 +1,175 @@
 {
-  "generated_at": "2026-04-03T02:12:41.420847",
-  "total_episodes": 1,
+  "generated_at": "2026-04-03T21:46:15.474557",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260403_021044",
-      "theme": "MCP おすすめ",
+      "name": "episode_思想 おすすめ 理由_20260403_214139",
+      "theme": "思想 おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260403_021044.mp3",
-      "audio_length": 6610023,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ 理由_20260403_214139.mp3",
+      "audio_length": 6988694,
+      "audio_duration": "00:07:16",
       "articles": [
         {
-          "title": "GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
+          "title": "にしな「360度お客さんに囲んでもらって...」アルバム『日々散漫』リリース直後の“路上フリーライブ”で感じた思いとは?",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ",
+          "title": "アーロ・パークスが語る「夜への目覚め」音楽観を一変させたクラブカルチャーとの出会い",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "国交省、今春異動の引っ越し分散へ 最大5泊の宿泊費補助制度もスタート(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "イラン紛争が生んだ米欧の亀裂、NATOは危機から「変身」するか",
+          "source": "Reuters",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「人と愛犬が心からくつろげる宿を、世界へ。」愛犬と泊まれる古民家リトリート赤城山-懐-のめざす夢",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「美」と「表現」を通じて、人が“自分で在る”ことを選べる社会に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "《POCHI》「デンタルプロバイオティクス プラス」が10%オフに",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260403_214157",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260403_214157.mp3",
+      "audio_length": 7813328,
+      "audio_duration": "00:08:08",
+      "articles": [
+        {
+          "title": "ものづくりの未来を考えるコミュニティ「未来をつくるものづくりムーブメント ~モノとコトが織りなす世界~」発足!",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ストラテジット、SomuriX主催の福岡県「生産性向上・賃上げ 緊急支援補助金」活用セミナーに登壇",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "ホンダ社員だけに許された創業者哲学が織り込まれた山本被服の「白い作業着」がデニムジャケットになって新登場!(Auto Messe Web)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "ついにMacに“ネイティブAI”到来?Google Geminiがデスクトップ統合で次の覇権へ",
-          "source": "Ubergizmo",
+          "title": "【新連載】大人の常識を粉砕する劇薬。Z世代の剥き出しの本音を解剖する『Z世代のナマゴエ』がFuture Leaders Hub(FLH)で連載スタート!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "M Maglie le cassetto × Stylist冨張愛 Special Collaboration 「着映えはおまかせ!」華やかフリルブラウス&新型パンツ(ハート)",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "舞台「岸辺のアルバム」本日開幕、小林聡美「日々全力でぶつかっていきたい」",
+          "source": "Natalie - Pop Culture News Site",
           "trust_score": 7.5
         },
         {
-          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
+          "title": "神通力|想い/運/脈繋げ満願成就【支持11万人超】縁結び占い師E先生のコンテンツが「本格占い|みのり」で提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Base、AIエージェントの未来に賭ける──2026年のロードマップを発表",
+          "title": "2026年上半期の運勢|青森の神様・木村藤子が視抜く、あなたの運勢と転機。公式占いサイトにて「新生活開運キャンペーン」を実施中",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260403_214211",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260403_214211.mp3",
+      "audio_length": 8642141,
+      "audio_duration": "00:09:00",
+      "articles": [
+        {
+          "title": "グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加",
+          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「Claude Code」に追加されたリモート接続機能は安全? 注意点は?",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "クリプタクト、AIコーディングツールから仮想通貨の損益計算が可能なCLIを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 比較_20260403_214436",
+      "theme": "占い 比較",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260403_214436.mp3",
+      "audio_length": 5804616,
+      "audio_duration": "00:06:02",
+      "articles": [
+        {
+          "title": "『北斗の拳』新アニメ、TVerでの無料見逃し配信決定 無修正版&マイルド版の比較映像も解禁",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "事業会社から最も評価が高い運用会社はどこか? Extel社の調査結果に見る日本市場の「360度評価」(Finasee)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "新車212万円から! トヨタ「“新”ヤリスクロス」に注文“殺到”!? 「リッター31km走る」低燃費&精悍“黒アクセント”追加! 新たな「お手頃SUV」改良モデルが販売店でも話題に",
+          "source": "Car News",
+          "trust_score": 7.5
+        },
+        {
+          "title": "新生活祝いで嬉しいギフトは「相手が選んでくれた実物のプレゼント」よりも「Amazonギフト券」|デジタルギフトに関する調査",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "40日間の戦争でETHバリデーター2万5000離脱:イーサリアム財団のステーキング計画で価格影響は回避できるか?【価格分析】",
           "source": "Coindesk Japan",
           "trust_score": 9.7
         },
         {
-          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "リスログ、「ITスクールカオスマップ2026年版」を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "好きな恐竜2位は「トリケラトプス」1位は...!?7,767人調査で見えた「王道人気」と「無関心層」の実態【SEO・AIO時代に効く一次データ・アンケート調査受託】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
