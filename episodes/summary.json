@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-04-02T02:10:06.007767",
+  "generated_at": "2026-04-03T02:12:41.420847",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260402_020858",
-      "theme": "skill 方法",
+      "name": "episode_MCP おすすめ_20260403_021044",
+      "theme": "MCP おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260402_020858.mp3",
-      "audio_length": 3863613,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260403_021044.mp3",
+      "audio_length": 6610023,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AIエージェントが、不動産のすべてを変える日。",
+          "title": "GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【吉積情報株式会社】3 月開催の人気セミナーアーカイブ動画が 4 月 14 日まで期間限定で無料開放",
+          "title": "ストラテジット、SomuriX主催の福岡県「生産性向上・賃上げ 緊急支援補助金」活用セミナーに登壇",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "ついにMacに“ネイティブAI”到来?Google Geminiがデスクトップ統合で次の覇権へ",
+          "source": "Ubergizmo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Base、AIエージェントの未来に賭ける──2026年のロードマップを発表",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ERPC、フランクフルトの SLV Metal MV サーバーが完売御礼、再入荷強化へ - Solana バリデータおよびgRPCノード用途急増。AIエージェントによる運用の新しい形が需要を牽引",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
