@@ -4,19 +4,77 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-04T02:07:02.659259</lastBuildDate>
+        <lastBuildDate>2026-04-04T21:42:29.570336</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: Claude code おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
+本日は、【Claude Code おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Gigazine】
+信頼度スコア: 7.5/10
+
+**hook（150文字）**
+あなたは仕事で毎日、同じようなタスクを繰り返し行っていますか？デスクトップの操作を自動化したいと...]]>
+
+
+記事一覧:
+  • 無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー (出典: Gigazine, 信頼度: 7.5/10)
+  • 大企業より有利!? スタートアップ企業、中小企業が「生成AI」で勝負すべき理由とは?株式会社dTosh代表取締役が言及 (出典: Mynavi News, 信頼度: 8.5/10)
+  • 無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由 (出典: Gigazine, 信頼度: 7.5/10)
+  • アンソロピック、ソースコード50万行流出...「AI安全企業」のセキュリティ管理の実態 (出典: Business Journal, 信頼度: 7.5/10)
+  • 2026年4月3日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • 「Claude Code」に追加されたリモート接続機能は安全? 注意点は? (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • Qwen3.6-Plusが登場、自律的にタスクを遂行するエージェント機能が強み (出典: Gigazine, 信頼度: 7.5/10)</description>
+        <category>Claude Code おすすめ 理由</category>
+        <pubDate>2026-04-04T21:42:29.570261</pubDate>
+        <guid isPermaLink="false">episode_Claude Code おすすめ 理由_1_1775338949</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260404_213958.mp3" type="audio/mpeg" length="7175104" />
+        <itunes:duration>00:07:28</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: Mcp 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.0/10
+
+**problem（200文字）**
+こんな悩みありませんか？AIコーティングを使って効率化を図ろうと思ったのに、逆効果で時間がかかること...]]>
+
+
+記事一覧:
+  • 「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • SLV にローカルモードを追加 ― ssh ログイン先のノードをそのまま AI エージェントで Solana バリデータ、RPCノードを管理。solv ユーザーの移行先としても最適 (出典: Pr Times, 信頼度: 8.5/10)
+  • オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • AIエージェント同士が“信頼して取引できる”基盤「AvatarBook」を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
+        <category>MCP 活用</category>
+        <pubDate>2026-04-04T21:42:29.570306</pubDate>
+        <guid isPermaLink="false">episode_MCP 活用_2_1775338949</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%B4%BB%E7%94%A8/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260404_214010.mp3" type="audio/mpeg" length="5761148" />
+        <itunes:duration>00:06:00</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 3: Mcp おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,47 +82,18 @@
 【セクション 1: Coinpost｜仮想通貨ビットコインニュース・投資情報】
 信頼度スコア: 7.0/10
 
-**hook**
-テクノロジーが進化する中で、決済システムも変化しています。しかしながら、従来の決済方法では、複雑...]]>
+**intro**
+こんにちは、今日はテクノロジー分野で注目されているMCPについてお話します。MCPと...]]>
 
 
 記事一覧:
-  • グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加 (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.0/10)
-  • 「Claude Code」に追加されたリモート接続機能は安全? 注意点は? (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
-  • オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表 (出典: Pr Times, 信頼度: 8.0/10)
-  • スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • クリプタクト、AIコーディングツールから仮想通貨の損益計算が可能なCLIを公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-04-04T02:07:02.659202</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1775268422</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260404_020312.mp3" type="audio/mpeg" length="12587675" />
-    </item>
-    <item>
-        <title>エピソード 2: Mcp おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**problem（200文字）**
-こんな悩みありませんか？AIエージェントの信頼性が低く、取引する際に不安を感じることがありませんか？AIエージェ...]]>
-
-
-記事一覧:
-  • AIエージェント同士が“信頼して取引できる”基盤「AvatarBook」を公開 (出典: Pr Times, 信頼度: 8.0/10)
-  • GitHubが明かす、「マルチエージェントシステム」失敗の要因と設計のプラクティス (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • SHORTBOOSTER AI動画生成モデル 大幅拡充のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • ストラテジット、SomuriX主催の福岡県「生産性向上・賃上げ 緊急支援補助金」活用セミナーに登壇 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-04-04T02:07:02.659244</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_2_1775268422</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260404_020322.mp3" type="audio/mpeg" length="7971734" />
+  • グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加 (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.0/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-04-04T21:42:29.570325</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_3_1775338949</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260404_214013.mp3" type="audio/mpeg" length="4065070" />
+        <itunes:duration>00:04:14</itunes:duration>
     </item>
     </channel>
 </rss>
