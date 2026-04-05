@@ -1,6 +1,6 @@
 # エピソード: Claude code おすすめ 理由
 
-**2026-04-04** | テーマ: Claude Code おすすめ 理由
+**2026-02-17** | テーマ: Claude Code おすすめ 理由
 
 ---
 
@@ -12,19 +12,22 @@
 
 ---
 
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
+【セクション 1: 日経クロステック（xtech）】
+信頼度スコア: 8.0/10
 
-**hook（150文字）**
-あなたは仕事で毎日、同じようなタスクを繰り返し行っていますか？デスクトップの操作を自動化したいと思ったことはありませんか？そんなあなたの悩みを解決するために、無料でオープンソースの「OpenWork」について紹介します。現在、人気のあるAIツール「Claude Cowork」は便利ですが、使用料...
+**トピック紹介**
+今日のトピックは、AIエージェントとコンテキストエンジニアリングについてです。何を任せれば良いか、設計時の落とし穴について話します。
+
+**ニュース解説**
+AIエージェントは、人工知能を活用してさまざまなタスクを自動化する技術です。コンテキストエンジニアリングは、AIエージェントを実現する...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260404_213958.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260217_221713.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
+RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
 
 ---
 

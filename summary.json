@@ -1,61 +1,21 @@
 {
-  "generated_at": "2026-04-04T21:42:29.569948",
-  "total_episodes": 3,
+  "generated_at": "2026-04-05T02:27:12.131384",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ 理由_20260404_213958",
-      "theme": "Claude Code おすすめ 理由",
+      "name": "episode_MCP 方法_20260405_022445",
+      "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code おすすめ 理由_20260404_213958.mp3",
-      "audio_length": 7175104,
-      "audio_duration": "00:07:28",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260405_022445.mp3",
+      "audio_length": 8388857,
+      "audio_duration": null,
       "articles": [
         {
           "title": "無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー",
           "source": "Gigazine",
           "trust_score": 7.5
         },
-        {
-          "title": "大企業より有利!? スタートアップ企業、中小企業が「生成AI」で勝負すべき理由とは?株式会社dTosh代表取締役が言及",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "無料・高速・多機能でクロスプラットフォーム対応のターミナルエミュレータ「Ghostty」が魅力的な理由",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アンソロピック、ソースコード50万行流出...「AI安全企業」のセキュリティ管理の実態",
-          "source": "Business Journal",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年4月3日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「Claude Code」に追加されたリモート接続機能は安全? 注意点は?",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Qwen3.6-Plusが登場、自律的にタスクを遂行するエージェント機能が強み",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260404_214010",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260404_214010.mp3",
-      "audio_length": 5761148,
-      "audio_duration": "00:06:00",
-      "articles": [
         {
           "title": "「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実",
           "source": "Atmarkit Itmedia",
@@ -67,34 +27,19 @@
           "trust_score": 8.5
         },
         {
-          "title": "オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIエージェント同士が“信頼して取引できる”基盤「AvatarBook」を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "スマートコーズ、AI人材不足に対応・企業向け生成AI教育プログラムを提供",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260404_214013",
-      "theme": "MCP おすすめ 理由",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260404_214013.mp3",
-      "audio_length": 4065070,
-      "audio_duration": "00:04:14",
-      "articles": [
-        {
           "title": "グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加",
           "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
           "trust_score": 7.0
+        },
+        {
+          "title": "「Claude Code」に追加されたリモート接続機能は安全? 注意点は?",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
