@@ -4,42 +4,71 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-05T02:27:12.131630</lastBuildDate>
+        <lastBuildDate>2026-04-05T21:42:34.516996</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
+【セクション 1: 財経新聞：経済・株式の最新ニュース】
+信頼度スコア: 7.0/10
 
 **hook（150文字）**
-あなたは、毎日同じようなタスクを繰り返し、時間が無駄に感じませんか？デスクトップの操作を自動化したいと思ったことはあり...]]>
+皆さん、MCP を使っていて困ったことがありませんか？通信レイヤーのボトルネックが原因で、システムの...]]>
 
 
 記事一覧:
+  • SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化 (出典: Pr Times, 信頼度: 8.5/10)
   • 無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー (出典: Gigazine, 信頼度: 7.5/10)
-  • 「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • SLV にローカルモードを追加 ― ssh ログイン先のノードをそのまま AI エージェントで Solana バリデータ、RPCノードを管理。solv ユーザーの移行先としても最適 (出典: Pr Times, 信頼度: 8.5/10)
-  • グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加 (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.0/10)
-  • 「Claude Code」に追加されたリモート接続機能は安全? 注意点は? (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
-  • オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-04-05T02:27:12.131597</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1775356032</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260405_022445.mp3" type="audio/mpeg" length="8388857" />
+  • 「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-04-05T21:42:34.516899</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1775425354</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260405_214019.mp3" type="audio/mpeg" length="3718163" />
+        <itunes:duration>00:03:52</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 思想 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: ライブドアニュース】
+信頼度スコア: 7.5/10
+
+**problem（200文字）**
+こんな悩みありませんか？宇宙を旅する飛行士たちが直面している、トイレ問題。最新の宇宙ミッション「アルテミス2」でも、...]]>
+
+
+記事一覧:
+  • 「アルテミス2」の宇宙飛行士を悩ますトイレ問題、「袋」に用を足す事態に (出典: ライブドアニュース, 信頼度: 7.5/10)
+  • マッチングアプリ利用者230名調査。75.2%が「掛け持ち経験あり」、バレた原因1位は「写真の使い回し」 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【本日最終日】ジャンプらしい異能バトルアクションの新作『魔男のイチ』が全巻50%ポイント還元【集英社春マン!!・Kindle漫画セール情報】 (出典: Ascii, 信頼度: 7.0/10)
+  • 7日~8日は道内荒れた天気の恐れ 気温が高く、4月中旬にはシラカバ花粉飛散開始か(tenki.jp) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 日本人が知らない「成果を出し続ける人たちの休日の過ごし方」 (出典: ライブドアニュース, 信頼度: 7.5/10)
+  • 「親に『お前は終わった』って言われました」受験に失敗し死を考える子も...精神科医が診療した18歳の東大不合格者について様々な意見 (出典: Togetter [トゥギャッター], 信頼度: 7.5/10)
+  • 【驚愕】チェ・ファジョン、幼少期に突然失踪...父と離れた衝撃の記憶 (出典: スマートニュース, 信頼度: 6.5/10)</description>
+        <category>思想 比較</category>
+        <pubDate>2026-04-05T21:42:34.516966</pubDate>
+        <guid isPermaLink="false">episode_思想 比較_2_1775425354</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%AF%94%E8%BC%83/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260405_214039.mp3" type="audio/mpeg" length="6327483" />
+        <itunes:duration>00:06:35</itunes:duration>
     </item>
     </channel>
 </rss>
