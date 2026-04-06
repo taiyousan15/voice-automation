@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-04-05T02:27:12.131384",
+  "generated_at": "2026-04-06T02:27:20.242612",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260405_022445",
-      "theme": "MCP 方法",
+      "name": "episode_MCP 活用_20260406_022602",
+      "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260405_022445.mp3",
-      "audio_length": 8388857,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260406_022602.mp3",
+      "audio_length": 4133615,
       "audio_duration": null,
       "articles": [
         {
-          "title": "無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実",
-          "source": "Atmarkit Itmedia",
+          "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "SLV にローカルモードを追加 ― ssh ログイン先のノードをそのまま AI エージェントで Solana バリデータ、RPCノードを管理。solv ユーザーの移行先としても最適",
+          "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "グーグルやマイクロソフトなど大手テック企業、AIエージェント決済標準「x402財団」の設立メンバーに参加",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Claude Code」に追加されたリモート接続機能は安全? 注意点は?",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "オラクル、業務データ向けAIデータベースのエージェント型AIイノベーションを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
