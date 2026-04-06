@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-05T21:42:34.516446",
-  "total_episodes": 2,
+  "generated_at": "2026-04-06T02:27:20.242612",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260405_214019",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 活用_20260406_022602",
+      "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260405_214019.mp3",
-      "audio_length": 3718163,
-      "audio_duration": "00:03:52",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260406_022602.mp3",
+      "audio_length": 4133615,
+      "audio_duration": null,
       "articles": [
         {
           "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
@@ -20,61 +20,6 @@
           "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "無料でオープンソースの「Claude Cowork」代替ソフト「OpenWork」レビュー",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「AIコーディングで逆効果」「Copilotが使えない」 浮き彫りになるAI活用の理想と現実",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 比較_20260405_214039",
-      "theme": "思想 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260405_214039.mp3",
-      "audio_length": 6327483,
-      "audio_duration": "00:06:35",
-      "articles": [
-        {
-          "title": "「アルテミス2」の宇宙飛行士を悩ますトイレ問題、「袋」に用を足す事態に",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "マッチングアプリ利用者230名調査。75.2%が「掛け持ち経験あり」、バレた原因1位は「写真の使い回し」",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【本日最終日】ジャンプらしい異能バトルアクションの新作『魔男のイチ』が全巻50%ポイント還元【集英社春マン!!・Kindle漫画セール情報】",
-          "source": "Ascii",
-          "trust_score": 7.0
-        },
-        {
-          "title": "7日~8日は道内荒れた天気の恐れ 気温が高く、4月中旬にはシラカバ花粉飛散開始か(tenki.jp)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日本人が知らない「成果を出し続ける人たちの休日の過ごし方」",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「親に『お前は終わった』って言われました」受験に失敗し死を考える子も...精神科医が診療した18歳の東大不合格者について様々な意見",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【驚愕】チェ・ファジョン、幼少期に突然失踪...父と離れた衝撃の記憶",
-          "source": "スマートニュース",
-          "trust_score": 6.5
         }
       ]
     }
