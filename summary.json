@@ -1,25 +1,125 @@
 {
-  "generated_at": "2026-04-06T02:27:20.242612",
-  "total_episodes": 1,
+  "generated_at": "2026-04-06T21:46:41.317713",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260406_022602",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260406_022602.mp3",
-      "audio_length": 4133615,
+      "name": "episode_哲学 比較_20260406_214414",
+      "theme": "哲学 比較",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
+          "title": "法人向けRAG型AIチャットボット「chai+」:特許技術を搭載したFAQ型チャットボット機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "『テクノロジカル・リパブリック』読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "『響き合う東アジア史』読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『琉球からみた世界史』読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『琉球からみた世界史』読書会開催のお知らせ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "善意で発したつもりでも...「外見・圧迫はNG」ハラスメントになる褒め方",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ_20260406_214434",
+      "theme": "思想 おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ_20260406_214434.mp3",
+      "audio_length": 6362591,
+      "audio_duration": "00:06:37",
+      "articles": [
+        {
+          "title": "選挙“争点”の図書館解体へ 新市長が市民へ謝罪",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新卒に優しくしてくれる暇そうなおじさんは職場で干されてる事が多い?→だけどそういう人がいてくれたから辞めずに踏ん張れた人も多かったんじゃないかという話",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【キッチンDIY】「めっちゃいい」と話題!冷蔵庫横のデッドスペースにちょい置き棚を作ってキッチンを北欧風の快適空間に大変身させる!(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "世界各地の監獄を解説する本『図解でスッと頭に入る世界の監獄 閲覧注意!? 文明が築き上げた「異空間」のすべて』が4月28日に発売",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.5
+        },
+        {
+          "title": "利用者は去年の1.5倍!? 満開のサクラのもとで楽しむ『花見BBQ』 人気の背景をツイセキ!",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 6.5
+        },
+        {
+          "title": "利用者は去年の1.5倍!? 満開のサクラのもとで楽しむ『花見BBQ』 人気の背景をツイセキ!",
+          "source": "Tssテレビ新広島",
+          "trust_score": 6.5
+        },
+        {
+          "title": "サンダーキャット「俺は狂気と共に生きている」鬼才ベーシストが語る喪失と音楽の絆",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20260406_214449",
+      "theme": "MCP おすすめ 理由",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "SLV に Solana RPC / Geyser gRPC / Shredstream の速度比較ベンチマークツールを実装 - リージョン別フィルタリングで、グローバル分散環境のボトルネックを可視化",
+          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
+        },
+        {
+          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "国交省の不動産データ620万件超を構造化。AI賃料推定付きAPI「FUDOSAN DB」を無料公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
