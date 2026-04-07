@@ -4,66 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-07T02:15:44.617534</lastBuildDate>
+        <lastBuildDate>2026-04-07T21:54:41.694592</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 活用</title>
+        <title>エピソード 1: 思想 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
+本日は、【思想 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Investing- Fx】
-信頼度スコア: 6.5/10
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.2/10
 
-**hook**
-こんにちは、皆さん。今日は、テクノロジー業界の最前線で起こっている変化について話したいと思います。特に、AIの成長がもたらす可...]]>
-
-
-記事一覧:
-  • StifelがAI成長の可能性を理由にDatadog株の投資判断を維持 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: Pr Times, 信頼度: 8.5/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: Pr Times, 信頼度: 8.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • AIセキュリティのCoWorker、「LLM診断サービス」提供開始。世界基準に基づく、独自ツールと専門家の知見を組み合わせた高度な生成AI・LLM診断 (出典: Pr Times, 信頼度: 8.0/10)
-  • AIセキュリティのCoWorker、「LLM診断サービス」提供開始。世界基準に基づく、独自ツールと専門家の知見を組み合わせた高度な生成AI・LLM診断 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-07T02:15:44.617478</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1775528144</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260407_021320.mp3" type="audio/mpeg" length="7582196" />
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Basketball King】
-信頼度スコア: 7.0/10
-
-**problem（200文字）**
-こんな悩みありませんか？スポーツや楽器、あるいは語学など、さまざまなスキルを身につけたいと思っ...]]>
+**hook（150文字）**
+私たちは、毎日の生活の中でさまざまな決断を迫られます。特に、経済的な問題や社会的な課題に直面したとき、正しい方向を選ぶ...]]>
 
 
 記事一覧:
-  • 富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック (出典: Basketball King, 信頼度: 7.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-04-07T02:15:44.617518</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_2_1775528144</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260407_021324.mp3" type="audio/mpeg" length="2402428" />
+  • 「高市総理の決断、その可能性は無限大」公明議員が3月終了の電気・ガス支援の継続訴え 高市総理は「3月までは寒い期間の支援」継続を否定(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.2/10)
+  • 手堅く高配当株を買ったはずが「1.5億円の損失」...。投資初心者が陥るリスク、事前に防ぐ解決策は?(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • まさかの大渋滞!? 新バイパス開通と異例の迂回要請!? 国道2号「笠岡バイパス」一部開通でアクセス向上のはずが... 「側道の方が早い」の声も(くるまのニュース) (出典: Yahoo Japan, 信頼度: 9.2/10)
+  • まさかの大渋滞!? 新バイパス開通と異例の迂回要請!? 国道2号「笠岡バイパス」一部開通でアクセス向上のはずが... 「側道の方が早い」の声も (出典: Car News, 信頼度: 8.5/10)
+  • スマホもシャキーン!したかった。スライド式スマホが提示した「もうひとつの未来」 (出典: Gizmodo, 信頼度: 7.5/10)
+  • OpenAIの「上場請負人」アプリ部門CEOが突然の療養休暇入り。巨額のAIデータセンター投資に暗雲か (出典: Business Insider, 信頼度: 7.0/10)
+  • Nyx Foundation、Ethereum次世代クライアント「Verity」の開発を開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
+        <category>思想 比較</category>
+        <pubDate>2026-04-07T21:54:41.694557</pubDate>
+        <guid isPermaLink="false">episode_思想 比較_1_1775598881</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%AF%94%E8%BC%83/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260407_215152.mp3" type="audio/mpeg" length="8650082" />
+        <itunes:duration>00:09:00</itunes:duration>
     </item>
     </channel>
 </rss>
