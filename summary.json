@@ -1,100 +1,95 @@
 {
-  "generated_at": "2026-04-08T02:16:55.962917",
-  "total_episodes": 3,
+  "generated_at": "2026-04-08T21:54:38.290258",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260408_021404",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_哲学 おすすめ 理由_20260408_215205",
+      "theme": "哲学 おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260408_021404.mp3",
-      "audio_length": 7715525,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ 理由_20260408_215205.mp3",
+      "audio_length": 7855959,
+      "audio_duration": "00:08:10",
       "articles": [
         {
-          "title": "AIデザインプラットフォーム「Vaden」、Japan IT Week 春に出展。対話でデザイン基盤を構築するデモを実施",
+          "title": "「25分間の会話」中身は? 高市総理×イラン大統領 電話会談",
+          "source": "テレ朝new",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「25分間の会話」中身は? 高市総理×イラン大統領 電話会談(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【産学連携】文教大学湘南総合研究所シンポジウムで、学術調査チームが講演 「マーケティング課題からみる調査事例「売れる」商品の開発秘話」",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始",
+          "title": "採用エントリー数が2.3倍に急増!上場企業yutoriが仕掛けるYouTube運用の成功事例",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
+          "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 山形」4/15(水)開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
+          "title": "「EBISU Bloomin‘ JAZZ GARDEN 2026」開催!本イベントのために造られたビールが限定販売!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「EBISU Bloomin‘ JAZZ GARDEN 2026」開催!本イベントのために造られたビールが限定販売!",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 6.5
         }
       ]
     },
     {
-      "name": "episode_skill おすすめ_20260408_021406",
-      "theme": "skill おすすめ",
+      "name": "episode_占い おすすめ 理由_20260408_215224",
+      "theme": "占い おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260408_021406.mp3",
-      "audio_length": 2117380,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260408_215224.mp3",
+      "audio_length": 7119515,
+      "audio_duration": "00:07:24",
       "articles": [
         {
-          "title": "富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック",
-          "source": "Basketball King",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260408_021426",
-      "theme": "MCP おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260408_021426.mp3",
-      "audio_length": 6193736,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "マネーフォワード、AIが同僚になる「AI Cowork」 - AIカンパニーに向けて前進",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定",
+          "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 青森」4/16(木)開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ジェネシス、過去最高の第4四半期業績を記録",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIツール「Claude Code」の実践講座をオンライン開催。プログラミング不要、3時間で業務自動化スキルを習得。申込者数1100人を突破【株式会社Uravation】",
-          "source": "Pr Times",
+          "title": "「バチェラー」「バチェロレッテ」司会進行役・坂東工、シリーズ10作目で卒業へ「役目を終えたのだと実感」【コメント】",
+          "source": "Model Press",
           "trust_score": 8.5
         },
         {
-          "title": "StifelがAI成長の可能性を理由にDatadog株の投資判断を維持",
+          "title": "日本の女性が参政権を行使してから80年。4月10日に観たい「女性と選挙」の歴史と関わりを描いた映画7選",
+          "source": "Vogue",
+          "trust_score": 7.5
+        },
+        {
+          "title": "JPモルガン、PayPay株のカバレッジを開始、オーバーウェイト評価",
           "source": "Investing- Fx",
           "trust_score": 6.5
+        },
+        {
+          "title": "中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 盛岡」4/16(木)開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "突然メーターに「謎の!マーク」何の意味? ドライバーも「びっくり!」な表示、実は大事なモノだった! タイヤの日に覚えたい「空気圧」の大切さ",
+          "source": "Car News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【YouTubeチャート】M!LK、3週連続1位2位独占 HANAの新曲「Bad Girl」初登場",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         }
       ]
     }

@@ -4,19 +4,49 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-08T02:16:55.963439</lastBuildDate>
+        <lastBuildDate>2026-04-08T21:54:38.290647</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <title>エピソード 1: 哲学 おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【哲学 おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: テレ朝new】
+信頼度スコア: 7.5/10
+
+**hook（150文字）**
+世界は今、激しい変化と不確実性に直面しています。国際関係が緊張し、国境を越えた問題が日々増えています。そんな中で、世界...]]>
+
+
+記事一覧:
+  • 「25分間の会話」中身は? 高市総理×イラン大統領 電話会談 (出典: テレ朝new, 信頼度: 7.5/10)
+  • 「25分間の会話」中身は? 高市総理×イラン大統領 電話会談(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【産学連携】文教大学湘南総合研究所シンポジウムで、学術調査チームが講演 「マーケティング課題からみる調査事例「売れる」商品の開発秘話」 (出典: Pr Times, 信頼度: 8.0/10)
+  • 採用エントリー数が2.3倍に急増!上場企業yutoriが仕掛けるYouTube運用の成功事例 (出典: Pr Times, 信頼度: 8.0/10)
+  • 中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 山形」4/15(水)開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「EBISU Bloomin‘ JAZZ GARDEN 2026」開催!本イベントのために造られたビールが限定販売! (出典: Pr Times, 信頼度: 8.0/10)
+  • 「EBISU Bloomin‘ JAZZ GARDEN 2026」開催!本イベントのために造られたビールが限定販売! (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
+        <category>哲学 おすすめ 理由</category>
+        <pubDate>2026-04-08T21:54:38.290581</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ 理由_1_1775685278</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ 理由_20260408_215205.mp3" type="audio/mpeg" length="7855959" />
+        <itunes:duration>00:08:10</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 占い おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【占い おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,73 +54,24 @@
 【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
-**hook**
-あなたはデザインの世界で、創造性と効率性のバランスを取ることが難しいと感じたことがありませんか？デザインプロセスが複雑で、時間...]]>
+**problem（200文字）**
+こんな悩みありませんか？中小法人として、事業を拡大させたいと思っていますが、資金繰りが心配です。特に、現在の...]]>
 
 
 記事一覧:
-  • AIデザインプラットフォーム「Vaden」、Japan IT Week 春に出展。対話でデザイン基盤を構築するデモを実施 (出典: Pr Times, 信頼度: 8.0/10)
-  • ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: Pr Times, 信頼度: 8.5/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: Pr Times, 信頼度: 8.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-04-08T02:16:55.963339</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260408_021404.mp3" type="audio/mpeg" length="7715525" />
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Basketball King】
-信頼度スコア: 7.0/10
-
-**problem**
-こんな悩みありませんか？スポーツや音楽、あるいは学問など、さまざまな分野で上手くなりたいと思っていますが、ど...]]>
-
-
-記事一覧:
-  • 富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック (出典: Basketball King, 信頼度: 7.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-04-08T02:16:55.963400</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_2_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260408_021406.mp3" type="audio/mpeg" length="2117380" />
-    </item>
-    <item>
-        <title>エピソード 3: Mcp おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.0/10
-
-**intro（150文字）**
-今回のトピックは、AI技術の進化と、それがビジネスシーンに与える影響についてです。マネーフォワードという会社が...]]>
-
-
-記事一覧:
-  • マネーフォワード、AIが同僚になる「AI Cowork」 - AIカンパニーに向けて前進 (出典: Mynavi News, 信頼度: 8.0/10)
-  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: Pr Times, 信頼度: 8.0/10)
-  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • ジェネシス、過去最高の第4四半期業績を記録 (出典: Pr Times, 信頼度: 8.0/10)
-  • AIツール「Claude Code」の実践講座をオンライン開催。プログラミング不要、3時間で業務自動化スキルを習得。申込者数1100人を突破【株式会社Uravation】 (出典: Pr Times, 信頼度: 8.5/10)
-  • StifelがAI成長の可能性を理由にDatadog株の投資判断を維持 (出典: Investing- Fx, 信頼度: 6.5/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-04-08T02:16:55.963426</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_3_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260408_021426.mp3" type="audio/mpeg" length="6193736" />
+  • 中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 青森」4/16(木)開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「バチェラー」「バチェロレッテ」司会進行役・坂東工、シリーズ10作目で卒業へ「役目を終えたのだと実感」【コメント】 (出典: Model Press, 信頼度: 8.5/10)
+  • 日本の女性が参政権を行使してから80年。4月10日に観たい「女性と選挙」の歴史と関わりを描いた映画7選 (出典: Vogue, 信頼度: 7.5/10)
+  • JPモルガン、PayPay株のカバレッジを開始、オーバーウェイト評価 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • 中小法人が今すぐ活用できる制度を解説「助成金・補助金活用セミナー2026 in 盛岡」4/16(木)開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 突然メーターに「謎の!マーク」何の意味? ドライバーも「びっくり!」な表示、実は大事なモノだった! タイヤの日に覚えたい「空気圧」の大切さ (出典: Car News, 信頼度: 8.5/10)
+  • 【YouTubeチャート】M!LK、3週連続1位2位独占 HANAの新曲「Bad Girl」初登場 (出典: 産経ニュース, 信頼度: 7.0/10)</description>
+        <category>占い おすすめ 理由</category>
+        <pubDate>2026-04-08T21:54:38.290632</pubDate>
+        <guid isPermaLink="false">episode_占い おすすめ 理由_2_1775685278</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260408_215224.mp3" type="audio/mpeg" length="7119515" />
+        <itunes:duration>00:07:24</itunes:duration>
     </item>
     </channel>
 </rss>
