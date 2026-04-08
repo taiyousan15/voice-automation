@@ -4,44 +4,93 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-07T21:54:41.694592</lastBuildDate>
+        <lastBuildDate>2026-04-08T02:16:55.963439</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 思想 比較</title>
+        <title>エピソード 1: Mcp おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 比較】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.2/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
 
-**hook（150文字）**
-私たちは、毎日の生活の中でさまざまな決断を迫られます。特に、経済的な問題や社会的な課題に直面したとき、正しい方向を選ぶ...]]>
+**hook**
+あなたはデザインの世界で、創造性と効率性のバランスを取ることが難しいと感じたことがありませんか？デザインプロセスが複雑で、時間...]]>
 
 
 記事一覧:
-  • 「高市総理の決断、その可能性は無限大」公明議員が3月終了の電気・ガス支援の継続訴え 高市総理は「3月までは寒い期間の支援」継続を否定(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • 手堅く高配当株を買ったはずが「1.5億円の損失」...。投資初心者が陥るリスク、事前に防ぐ解決策は?(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • まさかの大渋滞!? 新バイパス開通と異例の迂回要請!? 国道2号「笠岡バイパス」一部開通でアクセス向上のはずが... 「側道の方が早い」の声も(くるまのニュース) (出典: Yahoo Japan, 信頼度: 9.2/10)
-  • まさかの大渋滞!? 新バイパス開通と異例の迂回要請!? 国道2号「笠岡バイパス」一部開通でアクセス向上のはずが... 「側道の方が早い」の声も (出典: Car News, 信頼度: 8.5/10)
-  • スマホもシャキーン!したかった。スライド式スマホが提示した「もうひとつの未来」 (出典: Gizmodo, 信頼度: 7.5/10)
-  • OpenAIの「上場請負人」アプリ部門CEOが突然の療養休暇入り。巨額のAIデータセンター投資に暗雲か (出典: Business Insider, 信頼度: 7.0/10)
-  • Nyx Foundation、Ethereum次世代クライアント「Verity」の開発を開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
-        <category>思想 比較</category>
-        <pubDate>2026-04-07T21:54:41.694557</pubDate>
-        <guid isPermaLink="false">episode_思想 比較_1_1775598881</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260407_215152.mp3" type="audio/mpeg" length="8650082" />
-        <itunes:duration>00:09:00</itunes:duration>
+  • AIデザインプラットフォーム「Vaden」、Japan IT Week 春に出展。対話でデザイン基盤を構築するデモを実施 (出典: Pr Times, 信頼度: 8.0/10)
+  • ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: Pr Times, 信頼度: 8.5/10)
+  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: Pr Times, 信頼度: 8.0/10)
+  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-04-08T02:16:55.963339</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1775614615</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260408_021404.mp3" type="audio/mpeg" length="7715525" />
+    </item>
+    <item>
+        <title>エピソード 2: Skill おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Basketball King】
+信頼度スコア: 7.0/10
+
+**problem**
+こんな悩みありませんか？スポーツや音楽、あるいは学問など、さまざまな分野で上手くなりたいと思っていますが、ど...]]>
+
+
+記事一覧:
+  • 富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック (出典: Basketball King, 信頼度: 7.0/10)</description>
+        <category>skill おすすめ</category>
+        <pubDate>2026-04-08T02:16:55.963400</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ_2_1775614615</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260408_021406.mp3" type="audio/mpeg" length="2117380" />
+    </item>
+    <item>
+        <title>エピソード 3: Mcp おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Mynavi News】
+信頼度スコア: 8.0/10
+
+**intro（150文字）**
+今回のトピックは、AI技術の進化と、それがビジネスシーンに与える影響についてです。マネーフォワードという会社が...]]>
+
+
+記事一覧:
+  • マネーフォワード、AIが同僚になる「AI Cowork」 - AIカンパニーに向けて前進 (出典: Mynavi News, 信頼度: 8.0/10)
+  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: Pr Times, 信頼度: 8.0/10)
+  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
+  • ジェネシス、過去最高の第4四半期業績を記録 (出典: Pr Times, 信頼度: 8.0/10)
+  • AIツール「Claude Code」の実践講座をオンライン開催。プログラミング不要、3時間で業務自動化スキルを習得。申込者数1100人を突破【株式会社Uravation】 (出典: Pr Times, 信頼度: 8.5/10)
+  • StifelがAI成長の可能性を理由にDatadog株の投資判断を維持 (出典: Investing- Fx, 信頼度: 6.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-04-08T02:16:55.963426</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_3_1775614615</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260408_021426.mp3" type="audio/mpeg" length="6193736" />
     </item>
     </channel>
 </rss>
