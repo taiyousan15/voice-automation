@@ -1,20 +1,25 @@
 {
-  "generated_at": "2026-04-07T02:15:44.617193",
-  "total_episodes": 2,
+  "generated_at": "2026-04-08T02:16:55.962917",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260407_021320",
-      "theme": "MCP 活用",
+      "name": "episode_MCP おすすめ 理由_20260408_021404",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260407_021320.mp3",
-      "audio_length": 7582196,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260408_021404.mp3",
+      "audio_length": 7715525,
       "audio_duration": null,
       "articles": [
         {
-          "title": "StifelがAI成長の可能性を理由にDatadog株の投資判断を維持",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "AIデザインプラットフォーム「Vaden」、Japan IT Week 春に出展。対話でデザイン基盤を構築するデモを実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
           "title": "国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築",
@@ -35,31 +40,61 @@
           "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 6.5
-        },
-        {
-          "title": "AIセキュリティのCoWorker、「LLM診断サービス」提供開始。世界基準に基づく、独自ツールと専門家の知見を組み合わせた高度な生成AI・LLM診断",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIセキュリティのCoWorker、「LLM診断サービス」提供開始。世界基準に基づく、独自ツールと専門家の知見を組み合わせた高度な生成AI・LLM診断",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_skill おすすめ_20260407_021324",
+      "name": "episode_skill おすすめ_20260408_021406",
       "theme": "skill おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260407_021324.mp3",
-      "audio_length": 2402428,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260408_021406.mp3",
+      "audio_length": 2117380,
       "audio_duration": null,
       "articles": [
         {
           "title": "富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック",
           "source": "Basketball King",
           "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260408_021426",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260408_021426.mp3",
+      "audio_length": 6193736,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "マネーフォワード、AIが同僚になる「AI Cowork」 - AIカンパニーに向けて前進",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ジェネシス、過去最高の第4四半期業績を記録",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIツール「Claude Code」の実践講座をオンライン開催。プログラミング不要、3時間で業務自動化スキルを習得。申込者数1100人を突破【株式会社Uravation】",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "StifelがAI成長の可能性を理由にDatadog株の投資判断を維持",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
