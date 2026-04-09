@@ -8,89 +8,39 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-08T02:16:55.963439</lastBuildDate>
+        <lastBuildDate>2026-04-09T02:10:16.546156</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-あなたはデザインの世界で、創造性と効率性のバランスを取ることが難しいと感じたことがありませんか？デザインプロセスが複雑で、時間...]]>
-
-
-記事一覧:
-  • AIデザインプラットフォーム「Vaden」、Japan IT Week 春に出展。対話でデザイン基盤を構築するデモを実施 (出典: Pr Times, 信頼度: 8.0/10)
-  • ビジネス職がAIを「使い倒す」生産性3倍組織に変わる「Claude研修パッケージ」の提供を開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: Pr Times, 信頼度: 8.5/10)
-  • 国産MA「UTAGE」がAIエージェント対応のAPI・MCPを公開 ― Claude・Claude CodeからLP(集客ページ)・ファネルを自動構築 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: Pr Times, 信頼度: 8.0/10)
-  • MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-04-08T02:16:55.963339</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260408_021404.mp3" type="audio/mpeg" length="7715525" />
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Basketball King】
-信頼度スコア: 7.0/10
-
-**problem**
-こんな悩みありませんか？スポーツや音楽、あるいは学問など、さまざまな分野で上手くなりたいと思っていますが、ど...]]>
-
-
-記事一覧:
-  • 富樫勇樹が高校生たちを熱血指導...「試合につながる練習」を伝授したスペシャルクリニック (出典: Basketball King, 信頼度: 7.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-04-08T02:16:55.963400</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_2_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260408_021406.mp3" type="audio/mpeg" length="2117380" />
-    </item>
-    <item>
-        <title>エピソード 3: Mcp おすすめ</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
 本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Mynavi News】
-信頼度スコア: 8.0/10
+【セクション 1: Travel Voice】
+信頼度スコア: 7.0/10
 
-**intro（150文字）**
-今回のトピックは、AI技術の進化と、それがビジネスシーンに与える影響についてです。マネーフォワードという会社が...]]>
+**hook**
+旅行の計画、いつも大変ですよね。時間をかけてホテルや観光スポットを探したり、予約したり... でも、最近はAIエージェントが...]]>
 
 
 記事一覧:
-  • マネーフォワード、AIが同僚になる「AI Cowork」 - AIカンパニーに向けて前進 (出典: Mynavi News, 信頼度: 8.0/10)
-  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: Pr Times, 信頼度: 8.0/10)
-  • バックオフィス業務を自律的に遂行するAIサービス『マネーフォワード AI Cowork』を2026年7月より提供開始予定 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • ジェネシス、過去最高の第4四半期業績を記録 (出典: Pr Times, 信頼度: 8.0/10)
-  • AIツール「Claude Code」の実践講座をオンライン開催。プログラミング不要、3時間で業務自動化スキルを習得。申込者数1100人を突破【株式会社Uravation】 (出典: Pr Times, 信頼度: 8.5/10)
-  • StifelがAI成長の可能性を理由にDatadog株の投資判断を維持 (出典: Investing- Fx, 信頼度: 6.5/10)</description>
+  • 旅行事業者はAIエージェント時代にどう対応するか? 「データ基盤」と「API」が生き残りの分岐点【外電】 (出典: Travel Voice, 信頼度: 7.0/10)
+  • AI英会話「KEN→RINGO」が大幅アップデート ── 12シーン実践会話・癖学習ダッシュボード・4段階プランで"伝わる外国語"を実現 (出典: Pr Times, 信頼度: 8.0/10)
+  • スズキが「シガーソケットに挿すだけ」の管理システムを展開! 他社やレンタカーも行ける“法人向け車両管理サービス”とは? 開始から4年目の現状は (出典: Car News, 信頼度: 8.5/10)
+  • 【開催レポート】NTTデータMSE、ローカルLLM/エッジLLM 生成AIハッカソンを開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 統合運用管理ソフトウェアの最新版「Hinemos(R) ver.7.2」を提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 高千穂交易、エージェンティック AI 時代の新たなリスクに対応する非人間アイデンティティ(NHI)セキュリティ基盤「Token Security」を販売開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • エルメ、AI連携で運用改善を支援する「エルメMCP」を公開 (出典: Pr Times, 信頼度: 7.5/10)</description>
         <category>MCP おすすめ</category>
-        <pubDate>2026-04-08T02:16:55.963426</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_3_1775614615</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260408_021426.mp3" type="audio/mpeg" length="6193736" />
+        <pubDate>2026-04-09T02:10:16.546119</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1775700616</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260409_020813.mp3" type="audio/mpeg" length="6323721" />
     </item>
     </channel>
 </rss>
