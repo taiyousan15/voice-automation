@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-04-09T21:55:34.630857",
+  "generated_at": "2026-04-10T02:29:04.526116",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 比較_20260409_215300",
-      "theme": "占い 比較",
+      "name": "episode_skill 活用_20260410_022734",
+      "theme": "skill 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260409_215300.mp3",
-      "audio_length": 8050310,
-      "audio_duration": "00:08:23",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260410_022734.mp3",
+      "audio_length": 4328384,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "ジェフリーズがレクセルを「買い」に格上げ、データセンター成長で27%の上値余地を予想、株価上昇",
-          "source": "Investing- Fx",
-          "trust_score": 7.0
+          "title": "Claude Codeはかっこいい。色々あったけど、やっぱかっこいい",
+          "source": "Gizmodo",
+          "trust_score": 7.5
         },
         {
-          "title": "レクサス新型ESは中国市場で苦戦の可能性! 価格と装備とスペックを中国メーカーのライバル車と比較してみた(THE EV TIMES)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Duell 2026年第2四半期決算:売上高は維持も市場低迷で業績見通しを下方修正",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【コメント欄で激論】「シンプルに高い」「室内が狭い」...「プリウス」の販売状況に関する記事が話題に(carview!)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【ヤフコメで話題】「ドラえもん映画の興行と邦画・洋画の公開事情」「家族像や時代背景への考察」 - ドラえもん映画をめぐる多様な視点(Yahoo!ニュース オリジナル THE PAGE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "キャナコード、好調な第1四半期売上を受けSTAAR Surgical株の格付けを引き上げ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "シチズンズ、住宅ローン金利懸念でホブナニアン株を格下げ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "RUNTEQ、法人向けエンジニア育成プラットフォーム「RUNTEQ Growth AI」を提供開始。",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }

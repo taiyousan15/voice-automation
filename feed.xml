@@ -4,44 +4,38 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-09T21:55:34.631193</lastBuildDate>
+        <lastBuildDate>2026-04-10T02:29:04.526386</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 占い 比較</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 比較】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Investing- Fx】
-信頼度スコア: 7.0/10
+【セクション 1: Gizmodo】
+信頼度スコア: 7.5/10
 
 **hook（150文字）**
-みなさん、投資の世界で成功を夢見ていますか？しかし、市場の予測はなかなか難しいものです。株価の上昇と下降は、予測不...]]>
+あなたは仕事で毎日、同じような作業を繰り返していることがありますか？その作業を自動化できれば、どれほど時間が節約できるで...]]>
 
 
 記事一覧:
-  • ジェフリーズがレクセルを「買い」に格上げ、データセンター成長で27%の上値余地を予想、株価上昇 (出典: Investing- Fx, 信頼度: 7.0/10)
-  • レクサス新型ESは中国市場で苦戦の可能性! 価格と装備とスペックを中国メーカーのライバル車と比較してみた(THE EV TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • Duell 2026年第2四半期決算:売上高は維持も市場低迷で業績見通しを下方修正 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 【コメント欄で激論】「シンプルに高い」「室内が狭い」...「プリウス」の販売状況に関する記事が話題に(carview!) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【ヤフコメで話題】「ドラえもん映画の興行と邦画・洋画の公開事情」「家族像や時代背景への考察」 - ドラえもん映画をめぐる多様な視点(Yahoo!ニュース オリジナル THE PAGE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • キャナコード、好調な第1四半期売上を受けSTAAR Surgical株の格付けを引き上げ (出典: Investing- Fx, 信頼度: 6.5/10)
-  • シチズンズ、住宅ローン金利懸念でホブナニアン株を格下げ (出典: Investing- Fx, 信頼度: 6.5/10)</description>
-        <category>占い 比較</category>
-        <pubDate>2026-04-09T21:55:34.631124</pubDate>
-        <guid isPermaLink="false">episode_占い 比較_1_1775771734</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260409_215300.mp3" type="audio/mpeg" length="8050310" />
-        <itunes:duration>00:08:23</itunes:duration>
+  • Claude Codeはかっこいい。色々あったけど、やっぱかっこいい (出典: Gizmodo, 信頼度: 7.5/10)
+  • RUNTEQ、法人向けエンジニア育成プラットフォーム「RUNTEQ Growth AI」を提供開始。 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-04-10T02:29:04.526342</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1775788144</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260410_022734.mp3" type="audio/mpeg" length="4328384" />
     </item>
     </channel>
 </rss>
