@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-04-09T02:10:16.545875",
+  "generated_at": "2026-04-10T02:29:04.526116",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260409_020813",
-      "theme": "MCP おすすめ",
+      "name": "episode_skill 活用_20260410_022734",
+      "theme": "skill 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260409_020813.mp3",
-      "audio_length": 6323721,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260410_022734.mp3",
+      "audio_length": 4328384,
       "audio_duration": null,
       "articles": [
         {
-          "title": "旅行事業者はAIエージェント時代にどう対応するか? 「データ基盤」と「API」が生き残りの分岐点【外電】",
-          "source": "Travel Voice",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AI英会話「KEN→RINGO」が大幅アップデート ── 12シーン実践会話・癖学習ダッシュボード・4段階プランで\"伝わる外国語\"を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "スズキが「シガーソケットに挿すだけ」の管理システムを展開! 他社やレンタカーも行ける“法人向け車両管理サービス”とは? 開始から4年目の現状は",
-          "source": "Car News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【開催レポート】NTTデータMSE、ローカルLLM/エッジLLM 生成AIハッカソンを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "統合運用管理ソフトウェアの最新版「Hinemos(R) ver.7.2」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "高千穂交易、エージェンティック AI 時代の新たなリスクに対応する非人間アイデンティティ(NHI)セキュリティ基盤「Token Security」を販売開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "エルメ、AI連携で運用改善を支援する「エルメMCP」を公開",
-          "source": "Pr Times",
+          "title": "Claude Codeはかっこいい。色々あったけど、やっぱかっこいい",
+          "source": "Gizmodo",
           "trust_score": 7.5
+        },
+        {
+          "title": "RUNTEQ、法人向けエンジニア育成プラットフォーム「RUNTEQ Growth AI」を提供開始。",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }

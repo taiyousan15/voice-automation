@@ -8,39 +8,34 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-09T02:10:16.546156</lastBuildDate>
+        <lastBuildDate>2026-04-10T02:29:04.526386</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Travel Voice】
-信頼度スコア: 7.0/10
+【セクション 1: Gizmodo】
+信頼度スコア: 7.5/10
 
-**hook**
-旅行の計画、いつも大変ですよね。時間をかけてホテルや観光スポットを探したり、予約したり... でも、最近はAIエージェントが...]]>
+**hook（150文字）**
+あなたは仕事で毎日、同じような作業を繰り返していることがありますか？その作業を自動化できれば、どれほど時間が節約できるで...]]>
 
 
 記事一覧:
-  • 旅行事業者はAIエージェント時代にどう対応するか? 「データ基盤」と「API」が生き残りの分岐点【外電】 (出典: Travel Voice, 信頼度: 7.0/10)
-  • AI英会話「KEN→RINGO」が大幅アップデート ── 12シーン実践会話・癖学習ダッシュボード・4段階プランで"伝わる外国語"を実現 (出典: Pr Times, 信頼度: 8.0/10)
-  • スズキが「シガーソケットに挿すだけ」の管理システムを展開! 他社やレンタカーも行ける“法人向け車両管理サービス”とは? 開始から4年目の現状は (出典: Car News, 信頼度: 8.5/10)
-  • 【開催レポート】NTTデータMSE、ローカルLLM/エッジLLM 生成AIハッカソンを開催 (出典: Pr Times, 信頼度: 8.0/10)
-  • 統合運用管理ソフトウェアの最新版「Hinemos(R) ver.7.2」を提供開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 高千穂交易、エージェンティック AI 時代の新たなリスクに対応する非人間アイデンティティ(NHI)セキュリティ基盤「Token Security」を販売開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • エルメ、AI連携で運用改善を支援する「エルメMCP」を公開 (出典: Pr Times, 信頼度: 7.5/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-04-09T02:10:16.546119</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_1_1775700616</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260409_020813.mp3" type="audio/mpeg" length="6323721" />
+  • Claude Codeはかっこいい。色々あったけど、やっぱかっこいい (出典: Gizmodo, 信頼度: 7.5/10)
+  • RUNTEQ、法人向けエンジニア育成プラットフォーム「RUNTEQ Growth AI」を提供開始。 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-04-10T02:29:04.526342</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1775788144</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260410_022734.mp3" type="audio/mpeg" length="4328384" />
     </item>
     </channel>
 </rss>
