@@ -1,135 +1,50 @@
 {
-  "generated_at": "2026-04-10T21:51:08.235480",
-  "total_episodes": 3,
+  "generated_at": "2026-04-11T02:09:42.755012",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ 理由_20260410_214740",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_MCP 活用_20260411_020730",
+      "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 おすすめ 理由_20260410_214740.mp3",
-      "audio_length": 8334105,
-      "audio_duration": "00:08:40",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260411_020730.mp3",
+      "audio_length": 7048462,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "コメ農家が悲鳴 軽油に1か月66万円 「コメが売れても手元に残るお金が少ない」 農機具のゴムベルトも...「入手できないとおしまい」(CBCテレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "2026年4月10日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "Thee Sacred Soulsが語る、チカーノ・ソウルへの敬愛とヴィンテージサウンドの源流",
+          "title": "「freee-mcp」、新たに電子契約領域であるfreeeサインに対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「freee-mcp」、新たに電子契約領域であるfreeeサインに対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIはなぜ文脈がないと使えないのか? - Quollioが示す、AI活用の前提となる「コンテキストレイヤー」",
           "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "維新、武器輸出案を了承 国会通知は文書配布想定(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "インスタ自動化ツール「エルグラム」、直感的に使えるマニュアルサイトへ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "織田信成、長女の小学校入学式ショット公開「パパに似てる」「バルーン持つ手が可愛い」と反響",
-          "source": "Model Press",
-          "trust_score": 8.0
-        },
-        {
-          "title": "時代劇「炎かがよへ」天野喜孝によるキャラクターデザイン画一挙解禁",
-          "source": "Natalie - Pop Culture News Site",
-          "trust_score": 8.0
-        },
-        {
-          "title": "廃業した老舗銭湯を再建 奔走する27歳 光熱費高騰などで費用3倍も「値上げできない」“入浴料の壁” 「攻めの」サウナ導入、クラフトビールで付加価値創出",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "台風4号(シンラコウ)停滞したのち北西へ...中心気圧920hPaで最大風速50メートルの「非常に強い」台風になる見込み 気象庁(MBSニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 比較_20260410_214756",
-      "theme": "Claude Code 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260410_214756.mp3",
-      "audio_length": 5437648,
-      "audio_duration": "00:05:39",
-      "articles": [
-        {
-          "title": "AIコーディングと“スライド作成”が同時にできる「DexCode」、オープンソースで公開",
+          "title": "無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる",
           "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "AIエージェントの「スキル」の品質低下を防ぐ? テストと検証機能を強化",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "安いClaudeモデルと高いClaudeモデルを組み合わせて「安価かつ高性能なAI」として動作させる仕組みをAnthropicが公開",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OpenAIがChatGPTのProプランに月額1万6800円のお手頃ティアを追加、従来の月額3万円ティアも継続",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ムーディーズ、信用およびコンプライアンスのワークフローをアンソロピックのClaudeに直接統合",
-          "source": "Businesswire",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude Codeはかっこいい。色々あったけど、やっぱかっこいい",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 活用_20260410_214817",
-      "theme": "哲学 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260410_214817.mp3",
-      "audio_length": 8377990,
-      "audio_duration": "00:08:43",
-      "articles": [
-        {
-          "title": "【攻殻機動隊展×最新AR】4/17(金) 無料トークイベント「Digital Intersection Node.2」を虎ノ門ヒルズで開催!",
+          "title": "無個性な資料を量産していませんか?──大手製造業グループ企業が導入した「AIを活用したスライド作成研修」TechTrainが提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "千葉大合格特化塾、新スローガン「やらないことを決めた日から、合格は近づく。」発表~90名合格達成を目指しリブランディング実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『ライフ イズ ストレンジ リユニオン』レビュー 「青春ミステリ」の輝きを復活させた最終章としてふさわしい作品",
-          "source": "Ign Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "L'ART × SALOMON New Chapter of Speed and Style2026年4月17日(金)発売",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "銀座ダイヤモンドシライシ/行定勲監督による新作ショートムービー「Brand New Day」篇を公開|4月11日(土)から全国にてテレビCM放送開始|濱尾ノリタカさん・志田彩良さん出演",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "銀座ダイヤモンドシライシ/行定勲監督による新作ショートムービー「Brand New Day」篇を公開|4月11日(土)から全国にてテレビCM放送開始|濱尾ノリタカさん・志田彩良さん出演",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "サロモン × ラート第3弾 コラボ仕様の「S/LAB PHANTASM 3」発売(FASHIONSNAP)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
