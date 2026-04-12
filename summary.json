@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-04-12T02:29:25.333492",
-  "total_episodes": 0,
+  "generated_at": "2026-04-12T21:43:26.376549",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_哲学 おすすめ_20260412_214326",
+      "theme": "哲学 おすすめ",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日本製が世界基準になる日は近い...「核融合発電の共通インフラ」として存在感を増す日本企業の正体",
+          "source": "President Online",
+          "trust_score": 7.0
+        },
+        {
+          "title": "SnowMan大絶賛!【目黒蓮さんのウインナーの食べ方】に出川さん「怒涛のごとく美味しい」お酒も進む!",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2ページ目 「自分も力になりたい」震災後 人口減少進むふるさとに戻った『27歳』、津波で失った家業再建した家族のもとに...・宮城",
+          "source": "日テレnews Nnn",
+          "trust_score": 7.5
+        },
+        {
+          "title": "旬の野菜が主役の自然派フレンチ、パレスホテル東京「エステール」(GOETHE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ブレゲ新作「トラディション 7037」|機構を見せる文字盤に時計師の美学が宿る",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "なすなかにし漫才ライブ「いとこの漫才祭」アーカイブ配信決定&「いとこの歌謡祭」ゲスト決定!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『日本にオバマは生まれるか』読書会開催のお知らせ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
