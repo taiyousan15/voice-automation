@@ -8,39 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-11T02:09:42.755369</lastBuildDate>
+        <lastBuildDate>2026-04-12T02:29:25.333656</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
-
-**hook**
-こんにちは、みなさん。今日は、映画『名探偵コナン ハイウェイの堕天使』の公開を記念して、MCP活用の重要性について話していきたいと思いま...]]>
-
-
-記事一覧:
-  • 2026年4月10日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 「freee-mcp」、新たに電子契約領域であるfreeeサインに対応 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
-  • 「freee-mcp」、新たに電子契約領域であるfreeeサインに対応 (出典: Pr Times, 信頼度: 8.0/10)
-  • AIはなぜ文脈がないと使えないのか? - Quollioが示す、AI活用の前提となる「コンテキストレイヤー」 (出典: Mynavi News, 信頼度: 8.5/10)
-  • インスタ自動化ツール「エルグラム」、直感的に使えるマニュアルサイトへ (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • 無料で読めるAIエージェントの実践ガイド、Googleが公開 基礎から本番実装まで学べる (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
-  • 無個性な資料を量産していませんか?──大手製造業グループ企業が導入した「AIを活用したスライド作成研修」TechTrainが提供開始 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-11T02:09:42.755324</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1775873382</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260411_020730.mp3" type="audio/mpeg" length="7048462" />
-    </item>
     </channel>
 </rss>
