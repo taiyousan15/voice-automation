@@ -4,14 +4,74 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-13T02:34:03.891771</lastBuildDate>
+        <lastBuildDate>2026-04-13T21:59:15.141311</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: 占い おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【占い おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**hook**
+大学進学を考えているあなた、就職するための準備はどうしていますか？大学選びは、将来のキャリアに大きな影響を与える重要な決断です。...]]>
+
+
+記事一覧:
+  • 「九州の中でも面倒見の良い学校」“就職評価が高い九州の大学”ランキング上位に集まった声「資格支援制度などが充実」「就職は他に比べて有利」(ねとらぼ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 英国銀行、金利再評価により収益ガイダンスを引き上げとJPモルガンが予想 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • 三菱マヒンドラ農機撤退 島根県 丸山知事が国に保証制度の早期適用を要望 県独自の支援策も行い関連企業を救済 島根県 (出典: 日テレnews Nnn, 信頼度: 8.0/10)
+  • 今日の運勢 4月14日(火)12星座占いランキング第1位は魚座(うお座)! あなたの星座は何位...!? (出典: Mynavi News, 信頼度: 8.5/10)
+  • 【ナフサ不足】TOTO、ユニットバスの新規受注停止。製造業に「ホルムズ海峡封鎖」影響広がる...競合リクシル「状況が確定次第、公表」【イラン戦争】 (出典: Business Insider, 信頼度: 7.0/10)
+  • 迫る“ホルムズ海峡逆封鎖” イランの“収入源”断ち交渉で譲歩引き出す狙いか 原油高騰エスカレートの可能性 (出典: Fnnプライムオンライン, 信頼度: 7.0/10)
+  • ただの薬味が世界の老化研究を覆す存在へ!?“本わさび”がもたらす驚きのパワーとは(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>占い おすすめ</category>
+        <pubDate>2026-04-13T21:59:15.141244</pubDate>
+        <guid isPermaLink="false">episode_占い おすすめ_1_1776117555</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260413_215652.mp3" type="audio/mpeg" length="6481710" />
+        <itunes:duration>00:06:45</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: Mcp おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Mynavi News】
+信頼度スコア: 8.0/10
+
+**problem**
+こんな悩みありませんか？エンジニアとしてのスキルを高めたい、最新の技術を学びたい、しかし時間やお金がなくて難しいという思...]]>
+
+
+記事一覧:
+  • 電子書籍ストア「Manatee」で「春のエンジニア応援フェア」開催中 - 4月26日まで (出典: Mynavi News, 信頼度: 8.0/10)
+  • SentinelOne、防御側に決定的な優位性をもたらす新たなAIセキュリティ製品群を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • SentinelOne、防御側に決定的な優位性をもたらす新たなAIセキュリティ製品群を発表 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • Profet AIとZentera Systems、製造業におけるエージェント型AI活用を支える強固なゼロトラストセキュリティ基盤の提供に向け提携 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • Profet AIとZentera Systems、製造業におけるエージェント型AI活用を支える強固なゼロトラストセキュリティ基盤の提供に向け提携 (出典: Pr Times, 信頼度: 8.0/10)
+  • 株式会社Qualiteg、「Startup JAPAN EXPO 2026」に出展 (出典: Pr Times, 信頼度: 8.0/10)
+  • 4分の1の生成AIアプリが“静かに事故る” MCP時代の落とし穴をGartnerが指摘 (出典: Atmarkit Itmedia, 信頼度: 7.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-04-13T21:59:15.141296</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_2_1776117555</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260413_215709.mp3" type="audio/mpeg" length="5769089" />
+        <itunes:duration>00:06:00</itunes:duration>
+    </item>
     </channel>
 </rss>

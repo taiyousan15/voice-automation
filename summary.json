@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-04-13T02:34:03.891617",
-  "total_episodes": 0,
+  "generated_at": "2026-04-13T21:59:15.140846",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ_20260413_215652",
+      "theme": "占い おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260413_215652.mp3",
+      "audio_length": 6481710,
+      "audio_duration": "00:06:45",
+      "articles": [
+        {
+          "title": "「九州の中でも面倒見の良い学校」“就職評価が高い九州の大学”ランキング上位に集まった声「資格支援制度などが充実」「就職は他に比べて有利」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "英国銀行、金利再評価により収益ガイダンスを引き上げとJPモルガンが予想",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "三菱マヒンドラ農機撤退 島根県 丸山知事が国に保証制度の早期適用を要望 県独自の支援策も行い関連企業を救済 島根県",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "今日の運勢 4月14日(火)12星座占いランキング第1位は魚座(うお座)! あなたの星座は何位...!?",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【ナフサ不足】TOTO、ユニットバスの新規受注停止。製造業に「ホルムズ海峡封鎖」影響広がる...競合リクシル「状況が確定次第、公表」【イラン戦争】",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "迫る“ホルムズ海峡逆封鎖” イランの“収入源”断ち交渉で譲歩引き出す狙いか 原油高騰エスカレートの可能性",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ただの薬味が世界の老化研究を覆す存在へ!?“本わさび”がもたらす驚きのパワーとは(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260413_215709",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260413_215709.mp3",
+      "audio_length": 5769089,
+      "audio_duration": "00:06:00",
+      "articles": [
+        {
+          "title": "電子書籍ストア「Manatee」で「春のエンジニア応援フェア」開催中 - 4月26日まで",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SentinelOne、防御側に決定的な優位性をもたらす新たなAIセキュリティ製品群を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SentinelOne、防御側に決定的な優位性をもたらす新たなAIセキュリティ製品群を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Profet AIとZentera Systems、製造業におけるエージェント型AI活用を支える強固なゼロトラストセキュリティ基盤の提供に向け提携",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Profet AIとZentera Systems、製造業におけるエージェント型AI活用を支える強固なゼロトラストセキュリティ基盤の提供に向け提携",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "株式会社Qualiteg、「Startup JAPAN EXPO 2026」に出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "4分の1の生成AIアプリが“静かに事故る” MCP時代の落とし穴をGartnerが指摘",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
