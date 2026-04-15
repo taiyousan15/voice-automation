@@ -4,14 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-15T02:26:19.965478</lastBuildDate>
+        <lastBuildDate>2026-04-15T22:05:45.255004</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: 占い 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【占い 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: 財経新聞：経済・株式の最新ニュース】
+信頼度スコア: 7.0/10
+
+**hook**
+こんにちは、リスナーさん。今日は建設業界の現状について話したいと思います。建設業界は、約にひゃくまん人もの就業者数が減少...]]>
+
+
+記事一覧:
+  • 株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能に建設業界向けサンプルを追加。入札・安全教育・経営報告の資料作成を効率化 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • 「英語で自社の事業を語る」実践力を100日で鍛え上げる。ビジネス実践特化型プログラム「English Pitch Bootcamp: 100 Days to Fukuoka」開講 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 映画『愚か者の身分』第35回日本映画批評家大賞にて【作品賞】を含む4部門受賞の快挙! (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • 2026年GWは「家で過ごす」が最多、予算1万円以下が5割超!節約志向が顕著に。GWの過ごし方ランキング2026発表 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
+  • 株式のトークン化が切り拓く資本市場の新時代|Four Pillars寄稿 (出典: Coinpost｜仮想通貨ビットコインニュース・投資情報, 信頼度: 7.5/10)
+  • Pfisterer 2025年第4四半期決算:過去最高の売上高、受注残高が42%急増 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • 「刑事責任軽視できない」 占い師自殺教唆事件 遺書偽造の信者に有罪判決 大阪地裁(産経新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>占い 活用</category>
+        <pubDate>2026-04-15T22:05:45.254892</pubDate>
+        <guid isPermaLink="false">episode_占い 活用_1_1776290745</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%B4%BB%E7%94%A8/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260415_215855.mp3" type="audio/mpeg" length="8612466" />
+        <itunes:duration>00:08:58</itunes:duration>
+    </item>
     </channel>
 </rss>
