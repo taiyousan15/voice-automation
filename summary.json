@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-04-15T22:05:45.254542",
+  "generated_at": "2026-04-16T02:35:48.650246",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20260415_215855",
-      "theme": "占い 活用",
+      "name": "episode_MCP おすすめ_20260416_023337",
+      "theme": "MCP おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260415_215855.mp3",
-      "audio_length": 8612466,
-      "audio_duration": "00:08:58",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260416_023337.mp3",
+      "audio_length": 6563630,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能に建設業界向けサンプルを追加。入札・安全教育・経営報告の資料作成を効率化",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "Polimill、行政専用アプリストア「Qommons ONE」ティザーサイトを公開 ― 1,200自治体・80万人の職員に直接リーチする【行政AX共創プラットフォーム】、4月β版リリースへ",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "「英語で自社の事業を語る」実践力を100日で鍛え上げる。ビジネス実践特化型プログラム「English Pitch Bootcamp: 100 Days to Fukuoka」開講",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "エンジニア向け大規模テックカンファレンス「Qiita Conference 2026」イベントページを公開!豪華ゲスト、参加企業を発表",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「障害調査でもう泣かない」 Cursor技術サポートが明かす、コンテキスト収集の極意",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "映画『愚か者の身分』第35回日本映画批評家大賞にて【作品賞】を含む4部門受賞の快挙!",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "「AIエージェント」が業務の大部分を代替、企業システムに変化をもたらす",
+          "source": "日経クロステック（xtech）",
           "trust_score": 7.0
         },
         {
-          "title": "2026年GWは「家で過ごす」が最多、予算1万円以下が5割超!節約志向が顕著に。GWの過ごし方ランキング2026発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "株式のトークン化が切り拓く資本市場の新時代|Four Pillars寄稿",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "title": "「VS Code」の拡張機能を好き勝手に使わせない――自由と安全の“最適解”とは",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "Pfisterer 2025年第4四半期決算:過去最高の売上高、受注残高が42%急増",
+          "title": "テラデータがマイクロソフトマーケットプレイスでAIアナリストエージェントを提供開始",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "「刑事責任軽視できない」 占い師自殺教唆事件 遺書偽造の信者に有罪判決 大阪地裁(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "テラデータがマイクロソフトマーケットプレイスでAIアナリストツールをリリース",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
