@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-04-15T02:26:19.965284",
-  "total_episodes": 0,
+  "generated_at": "2026-04-16T02:35:48.650246",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260416_023337",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ_20260416_023337.mp3",
+      "audio_length": 6563630,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Polimill、行政専用アプリストア「Qommons ONE」ティザーサイトを公開 ― 1,200自治体・80万人の職員に直接リーチする【行政AX共創プラットフォーム】、4月β版リリースへ",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "エンジニア向け大規模テックカンファレンス「Qiita Conference 2026」イベントページを公開!豪華ゲスト、参加企業を発表",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「障害調査でもう泣かない」 Cursor技術サポートが明かす、コンテキスト収集の極意",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「AIエージェント」が業務の大部分を代替、企業システムに変化をもたらす",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「VS Code」の拡張機能を好き勝手に使わせない――自由と安全の“最適解”とは",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "テラデータがマイクロソフトマーケットプレイスでAIアナリストエージェントを提供開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "テラデータがマイクロソフトマーケットプレイスでAIアナリストツールをリリース",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        }
+      ]
+    }
+  ]
 }
