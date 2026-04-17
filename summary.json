@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-04-17T02:30:04.216551",
-  "total_episodes": 1,
+  "generated_at": "2026-04-17T21:52:17.720606",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill 活用_20260417_022913",
-      "theme": "skill 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260417_022913.mp3",
-      "audio_length": 2559581,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "話し方トレーニングkaeka、2026年7月に「渋谷校」を開校。 国内・オンライン合わせ5拠点体制。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }

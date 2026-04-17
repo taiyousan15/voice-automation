@@ -4,37 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-17T02:30:04.216829</lastBuildDate>
+        <lastBuildDate>2026-04-17T21:52:17.720819</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-こんにちは、皆さん。今日は、自分自身のスキルを高めるための重要なステップについて話したいと思います。みなさん、自分のコミュニケーショ...]]>
-
-
-記事一覧:
-  • 話し方トレーニングkaeka、2026年7月に「渋谷校」を開校。 国内・オンライン合わせ5拠点体制。 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-04-17T02:30:04.216780</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1776393004</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260417_022913.mp3" type="audio/mpeg" length="2559581" />
-    </item>
     </channel>
 </rss>
