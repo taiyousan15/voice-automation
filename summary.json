@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-04-17T21:52:17.720606",
-  "total_episodes": 0,
+  "generated_at": "2026-04-18T02:14:29.367829",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260418_021216",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260418_021216.mp3",
+      "audio_length": 6686092,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【新機能】電話AIエージェント「スパ電」、エンタープライズプラン向けにMCP連携機能の提供を開始--コールセンター・問い合わせ対応の通話データを、あらゆるAIエージェントからリアルタイムに活用可能に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "OpenAIがAIエージェント「Codex」を大幅刷新、「PCの操作」「ブラウザで直接指示」「画像生成でUIモックアップ」など",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Salesforce、「Salesforce Headless 360」を発表 システム全体をプログラム可能にする開発者とAIのための新しい基盤",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "クリプタクト、AIアシスタントと連携するMCPサーバーを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "クリプタクト、AIアシスタントと連携するMCPサーバーを公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "freee、認定アドバイザー向けに資料回収から決算申告まで自動化できる「freee Agent Hub」と新たなAPIを提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
