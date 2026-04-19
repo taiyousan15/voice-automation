@@ -1,50 +1,160 @@
 {
-  "generated_at": "2026-04-19T02:34:32.189183",
-  "total_episodes": 3,
+  "generated_at": "2026-04-19T21:47:36.724846",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260419_023336",
-      "theme": "MCP 方法",
+      "name": "episode_哲学 方法_20260419_214336",
+      "theme": "哲学 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260419_023336.mp3",
-      "audio_length": 2309223,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260419_214336.mp3",
+      "audio_length": 7272070,
+      "audio_duration": "00:07:34",
       "articles": [
         {
-          "title": "renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発",
+          "title": "なぜポパイは「ほうれん草」なのか? 根源をたどるとソクラテスに行きつく!?",
+          "source": "Otona No Shuumatsu Web",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「国際太極拳の日」、太極拳発祥の地・陳家溝で陰陽の理に世界が集う・中国",
+          "source": "Afpbb News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「戦略なき努力は、時間の浪費だ。」-佐賀大合格特化塾の新たな挑戦。90名合格達成を宣言",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "地上波タブーのニューメディア『NoBorder』最新回公開 #43",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【第2弾は「帝国ホテル」のビーフカレー】語り継がれる歴史的な逸話と共に、不変の2つの哲学を味わえる一皿です!「カレー好きなら絶対に食べておくべき名店中の名店シリーズ2.」動画公開キャンペーン実施中!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【第2弾は「帝国ホテル」のビーフカレー】語り継がれる歴史的な逸話と共に、不変の2つの哲学を味わえる一皿です!「カレー好きなら絶対に食べておくべき名店中の名店シリーズ2.」動画公開キャンペーン実施中!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "投資の神様バフェットも明言...株式投資が「プラスサム・ゲーム」である納得の理由【チーフ・ストラテジストが解説】(THE GOLD ONLINE(ゴールドオンライン))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260419_214341",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260419_214341.mp3",
+      "audio_length": 3608240,
+      "audio_duration": "00:03:45",
+      "articles": [
+        {
+          "title": "株式会社Reafが、Claudeを「社員のように使える」まで研修する法人向け『Claude Code研修プログラム』を提供開始!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社Reafが、Claudeを「社員のように使える」まで研修する法人向け『Claude Code研修プログラム』を提供開始!",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20260419_023339",
-      "theme": "MCP 活用",
+      "name": "episode_占い おすすめ_20260419_214401",
+      "theme": "占い おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260419_023339.mp3",
-      "audio_length": 1855737,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260419_214401.mp3",
+      "audio_length": 7734751,
+      "audio_duration": "00:08:03",
       "articles": [
         {
-          "title": "【新機能】電話AIエージェント「スパ電」、エンタープライズプラン向けにMCP連携機能の提供を開始--コールセンター・問い合わせ対応の通話データを、あらゆるAIエージェントからリアルタイムに活用可能に",
+          "title": "子を500人作ると豪語!?『三銃士』で有名な“父”デュマのすさまじい食欲!",
+          "source": "Otona No Shuumatsu Web",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「見えない家事・育児負担」カルタ&LINEスタンプ 自治体連携を経て「しれっとゆう子さん」が全国展開(スポーツ報知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【ボクシング】井上拓真「どっかのタイミングで一発殴り返してくる」",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【DPC KOBE】35+日本代表 佐藤 匠洋選手 ピックルボール 初級&中級 練習会 4月後半開催",
           "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "元NHKの竹中知華アナ、スタイル際立つぴったりニット×ショーパン姿披露 巨大スイカ前でのショットに「健康的で美しい」「いろいろ目が忙しい」と反響",
+          "source": "Model Press",
           "trust_score": 8.5
+        },
+        {
+          "title": "「夫の介護だけは絶対にイヤ」と熟年離婚したのに...介護施設で週5働く59歳「低年金女性」の残酷な現実(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "美人アナウンサー、ミニスカからのぞく美脚に釘付け 愛犬とのお散歩ショットに「脚が長くてびっくり」「スタイル抜群」の声",
+          "source": "Model Press",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_skill 比較_20260419_023342",
-      "theme": "skill 比較",
+      "name": "episode_哲学 おすすめ_20260419_214535",
+      "theme": "哲学 おすすめ",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260419_023342.mp3",
-      "audio_length": 1831496,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260419_214535.mp3",
+      "audio_length": 6021954,
+      "audio_duration": "00:06:16",
       "articles": [
         {
-          "title": "Google ChromeのAI機能「Skills」を使ってみたい",
-          "source": "Business Insider",
+          "title": "マキロイのオーガスタ連覇で藤倉コンポジットのベンタスがメジャー5連勝",
+          "source": "Golf Digest",
           "trust_score": 7.5
+        },
+        {
+          "title": "“プラトニック・ラブ”の本当の意味とは?プラトン、ルソー、トルストイ 生涯肉を食わなかった三賢人",
+          "source": "Otona No Shuumatsu Web",
+          "trust_score": 7.5
+        },
+        {
+          "title": "キレた人に「申し訳ありません」は火に油...ひろゆき伝授“新しい職場の厄介な相手”撃退フレーズ【ひろゆきの対人防衛3選】",
+          "source": "President Online",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【記者コラム】松井秀喜さんと星稜野球部同期社長の海を越えた絆...上場セレモニーへ「何とか協力したかった」(スポーツ報知)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【離職率3%】Z世代が「入社できて幸せ」と語るSTREAMの秘密とは。800万円全額会社持ちの“ゆるい沖縄社員旅行”で投資回収できる理由",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【離職率3%】Z世代が「入社できて幸せ」と語るSTREAMの秘密とは。800万円全額会社持ちの“ゆるい沖縄社員旅行”で投資回収できる理由",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "BTS、7年ぶりの東京ドーム帰還 ARMYの「おかえり」と11万人の大合唱が響く...涙あふれる再会の夜",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         }
       ]
     }

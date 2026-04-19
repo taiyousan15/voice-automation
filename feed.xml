@@ -4,83 +4,129 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-19T02:34:32.189586</lastBuildDate>
+        <lastBuildDate>2026-04-19T21:47:36.725565</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: 哲学 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Otona No Shuumatsu Web】
+信頼度スコア: 7.5/10
+
+**hook**
+あなたは、歴史上の偉大な人物たちの食生活に興味を持ったことはありませんか？彼らはどのような食事をとっていたのか...]]>
+
+
+記事一覧:
+  • なぜポパイは「ほうれん草」なのか? 根源をたどるとソクラテスに行きつく!? (出典: Otona No Shuumatsu Web, 信頼度: 7.5/10)
+  • 「国際太極拳の日」、太極拳発祥の地・陳家溝で陰陽の理に世界が集う・中国 (出典: Afpbb News, 信頼度: 8.5/10)
+  • 「戦略なき努力は、時間の浪費だ。」-佐賀大合格特化塾の新たな挑戦。90名合格達成を宣言 (出典: Pr Times, 信頼度: 8.0/10)
+  • 地上波タブーのニューメディア『NoBorder』最新回公開 #43 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 6.5/10)
+  • 【第2弾は「帝国ホテル」のビーフカレー】語り継がれる歴史的な逸話と共に、不変の2つの哲学を味わえる一皿です!「カレー好きなら絶対に食べておくべき名店中の名店シリーズ2.」動画公開キャンペーン実施中! (出典: Pr Times, 信頼度: 8.5/10)
+  • 【第2弾は「帝国ホテル」のビーフカレー】語り継がれる歴史的な逸話と共に、不変の2つの哲学を味わえる一皿です!「カレー好きなら絶対に食べておくべき名店中の名店シリーズ2.」動画公開キャンペーン実施中! (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 投資の神様バフェットも明言...株式投資が「プラスサム・ゲーム」である納得の理由【チーフ・ストラテジストが解説】(THE GOLD ONLINE(ゴールドオンライン)) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>哲学 方法</category>
+        <pubDate>2026-04-19T21:47:36.725426</pubDate>
+        <guid isPermaLink="false">episode_哲学 方法_1_1776635256</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260419_214336.mp3" type="audio/mpeg" length="7272070" />
+        <itunes:duration>00:07:34</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: Mcp 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
 本日は、【MCP 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-皆さん、業務の効率化を実現したいと思ったことはありませんか？業務プロセスの改善は、会社の成長に大きな影響を与えることがあります。しかし、...]]>
-
-
-記事一覧:
-  • renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-04-19T02:34:32.189483</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1776566072</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260419_023336.mp3" type="audio/mpeg" length="2309223" />
-    </item>
-    <item>
-        <title>エピソード 2: Mcp 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
+【セクション 1: 財経新聞：経済・株式の最新ニュース】
+信頼度スコア: 7.5/10
 
 **problem**
-こんな悩みありませんか？コールセンターの問い合わせ対応で、通話データを効率的に活用できない。複数のAIエージェントを利用していて、...]]>
+こんな悩みありませんか？あなたの会社はAI技術を活用して業務を効率化したいと思っているのですが、社員に必要なスキ...]]>
 
 
 記事一覧:
-  • 【新機能】電話AIエージェント「スパ電」、エンタープライズプラン向けにMCP連携機能の提供を開始--コールセンター・問い合わせ対応の通話データを、あらゆるAIエージェントからリアルタイムに活用可能に (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-19T02:34:32.189538</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_2_1776566072</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260419_023339.mp3" type="audio/mpeg" length="1855737" />
+  • 株式会社Reafが、Claudeを「社員のように使える」まで研修する法人向け『Claude Code研修プログラム』を提供開始! (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 株式会社Reafが、Claudeを「社員のように使える」まで研修する法人向け『Claude Code研修プログラム』を提供開始! (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-04-19T21:47:36.725484</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_2_1776635256</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260419_214341.mp3" type="audio/mpeg" length="3608240" />
+        <itunes:duration>00:03:45</itunes:duration>
     </item>
     <item>
-        <title>エピソード 3: Skill 比較</title>
+        <title>エピソード 3: 占い おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 比較】に関する最新ニュースをお届けします。
+本日は、【占い おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Business Insider】
+【セクション 1: Otona No Shuumatsu Web】
 信頼度スコア: 7.5/10
 
 **intro**
-こんにちは、今日はGoogle ChromeのAI機能「Skills」について話しましょう。最近、AI技術が急速に...]]>
+こんにちは、皆さん。今日は、歴史上の有名人たちが何を食べていたのかについて話します。歴史上の人物たちがど...]]>
 
 
 記事一覧:
-  • Google ChromeのAI機能「Skills」を使ってみたい (出典: Business Insider, 信頼度: 7.5/10)</description>
-        <category>skill 比較</category>
-        <pubDate>2026-04-19T02:34:32.189564</pubDate>
-        <guid isPermaLink="false">episode_skill 比較_3_1776566072</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%AF%94%E8%BC%83/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260419_023342.mp3" type="audio/mpeg" length="1831496" />
+  • 子を500人作ると豪語!?『三銃士』で有名な“父”デュマのすさまじい食欲! (出典: Otona No Shuumatsu Web, 信頼度: 7.5/10)
+  • 「見えない家事・育児負担」カルタ&LINEスタンプ 自治体連携を経て「しれっとゆう子さん」が全国展開(スポーツ報知) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【ボクシング】井上拓真「どっかのタイミングで一発殴り返してくる」 (出典: Sanspo, 信頼度: 7.0/10)
+  • 【DPC KOBE】35+日本代表 佐藤 匠洋選手 ピックルボール 初級&中級 練習会 4月後半開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 元NHKの竹中知華アナ、スタイル際立つぴったりニット×ショーパン姿披露 巨大スイカ前でのショットに「健康的で美しい」「いろいろ目が忙しい」と反響 (出典: Model Press, 信頼度: 8.5/10)
+  • 「夫の介護だけは絶対にイヤ」と熟年離婚したのに...介護施設で週5働く59歳「低年金女性」の残酷な現実(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 美人アナウンサー、ミニスカからのぞく美脚に釘付け 愛犬とのお散歩ショットに「脚が長くてびっくり」「スタイル抜群」の声 (出典: Model Press, 信頼度: 8.0/10)</description>
+        <category>占い おすすめ</category>
+        <pubDate>2026-04-19T21:47:36.725515</pubDate>
+        <guid isPermaLink="false">episode_占い おすすめ_3_1776635256</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ_20260419_214401.mp3" type="audio/mpeg" length="7734751" />
+        <itunes:duration>00:08:03</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 4: 哲学 おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Golf Digest】
+信頼度スコア: 7.5/10
+
+**hook**
+驚くべき結果がコースを駆け抜けた。メジャー5連勝という数字が、ゴルフ界の最も厳しいプレッシャーの中で達成された。藤倉コンホープシ...]]>
+
+
+記事一覧:
+  • マキロイのオーガスタ連覇で藤倉コンポジットのベンタスがメジャー5連勝 (出典: Golf Digest, 信頼度: 7.5/10)
+  • “プラトニック・ラブ”の本当の意味とは?プラトン、ルソー、トルストイ 生涯肉を食わなかった三賢人 (出典: Otona No Shuumatsu Web, 信頼度: 7.5/10)
+  • キレた人に「申し訳ありません」は火に油...ひろゆき伝授“新しい職場の厄介な相手”撃退フレーズ【ひろゆきの対人防衛3選】 (出典: President Online, 信頼度: 7.0/10)
+  • 【記者コラム】松井秀喜さんと星稜野球部同期社長の海を越えた絆...上場セレモニーへ「何とか協力したかった」(スポーツ報知) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【離職率3%】Z世代が「入社できて幸せ」と語るSTREAMの秘密とは。800万円全額会社持ちの“ゆるい沖縄社員旅行”で投資回収できる理由 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • 【離職率3%】Z世代が「入社できて幸せ」と語るSTREAMの秘密とは。800万円全額会社持ちの“ゆるい沖縄社員旅行”で投資回収できる理由 (出典: Pr Times, 信頼度: 8.0/10)
+  • BTS、7年ぶりの東京ドーム帰還 ARMYの「おかえり」と11万人の大合唱が響く...涙あふれる再会の夜 (出典: Mynavi News, 信頼度: 8.5/10)</description>
+        <category>哲学 おすすめ</category>
+        <pubDate>2026-04-19T21:47:36.725549</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ_4_1776635256</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/4</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ_20260419_214535.mp3" type="audio/mpeg" length="6021954" />
+        <itunes:duration>00:06:16</itunes:duration>
     </item>
     </channel>
 </rss>
