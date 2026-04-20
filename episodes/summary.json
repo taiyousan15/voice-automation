@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-04-19T02:34:32.189183",
-  "total_episodes": 3,
+  "generated_at": "2026-04-20T02:34:05.991026",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 方法_20260419_023336",
-      "theme": "MCP 方法",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260419_023336.mp3",
-      "audio_length": 2309223,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "renue、全社でClaudeCode導入率100%を達成、社内業務統合CLI「renue-cli」を開発",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260419_023339",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260419_023339.mp3",
-      "audio_length": 1855737,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【新機能】電話AIエージェント「スパ電」、エンタープライズプラン向けにMCP連携機能の提供を開始--コールセンター・問い合わせ対応の通話データを、あらゆるAIエージェントからリアルタイムに活用可能に",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20260419_023342",
-      "theme": "skill 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 比較_20260419_023342.mp3",
-      "audio_length": 1831496,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Google ChromeのAI機能「Skills」を使ってみたい",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
