@@ -1,70 +1,30 @@
 {
-  "generated_at": "2026-04-21T02:33:15.282032",
-  "total_episodes": 3,
+  "generated_at": "2026-04-21T21:55:20.982362",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260421_023004",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ 理由_20260421_215304",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260421_023004.mp3",
-      "audio_length": 6557360,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260421_215304.mp3",
+      "audio_length": 6603336,
+      "audio_duration": "00:06:52",
       "articles": [
+        {
+          "title": "AI for Securityの実装を加速する自律型AI Agent Frameworkを開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
         {
           "title": "2026年4月20日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "Contract One、MCPサーバーの提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
           "title": "リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信",
           "source": "Pr Times",
           "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260421_023006",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260421_023006.mp3",
-      "audio_length": 2427088,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Robloxが開発ツールにAIエージェントを追加、クリエイターと対話する“共同パートナー”に",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260421_023016",
-      "theme": "skill おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260421_023016.mp3",
-      "audio_length": 7972988,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬)",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
         }
       ]
     }
