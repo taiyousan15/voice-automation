@@ -1,6 +1,6 @@
 # エピソード: Mcp 活用
 
-**2026-04-20** | テーマ: MCP 活用
+**2026-04-21** | テーマ: MCP 活用
 
 ---
 
@@ -15,16 +15,19 @@
 【セクション 1: Mynavi News】
 信頼度スコア: 8.0/10
 
-**problem（200文字）**
-こんな悩みありませんか？クリエイターとして、ゲーム開発の効率化や新しいアイデアの探索に苦労しています。特に、複雑なゲーム開発プロセスの中で、クリエイターと開発ツールの連携が上手くいかないことが悩みの種です。ゲーム開発プラットフォームのRobloxでは、開発ツール「Roblox Studio」がクリエイターの重...
+**problem**
+こんな悩みありませんか？クリエイターとして、アイデアを実現するためにさまざまなツールや技術を学び、習得する必要があります。しかし、時間や労力がかかりすぎて、創造性を発揮する時間が足りないと感じています。特に、ゲーム開発のような複雑なプロセスでは、効率的な開発ツールが必要です。
+
+**analysis**
+Robloxのよう...
 
 ## 音声を聴く
 
-[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260420_215531.mp3)
+[MP3ファイルはこちら](https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260421_023006.mp3)
 
 ## ポッドキャストを購読
 
-RSSフィードで購読: https://taiyousan15.github.io/voice-automation/feed.xml
+RSSフィードで購読: https://USERNAME.github.io/REPO_NAME/feed.xml
 
 ---
 

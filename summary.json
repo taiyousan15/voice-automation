@@ -1,40 +1,20 @@
 {
-  "generated_at": "2026-04-20T21:57:48.290801",
+  "generated_at": "2026-04-21T02:33:15.282032",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260420_215524",
-      "theme": "skill 活用",
+      "name": "episode_MCP 方法_20260421_023004",
+      "theme": "MCP 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260420_215524.mp3",
-      "audio_length": 4348028,
-      "audio_duration": "00:04:31",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260421_023004.mp3",
+      "audio_length": 6557360,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260420_215531",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260420_215531.mp3",
-      "audio_length": 6151522,
-      "audio_duration": "00:06:24",
-      "articles": [
-        {
-          "title": "Robloxが開発ツールにAIエージェントを追加、クリエイターと対話する“共同パートナー”に",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "2026年4月20日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
           "title": "Contract One、MCPサーバーの提供を開始",
@@ -49,46 +29,41 @@
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20260420_215553",
-      "theme": "思想 おすすめ 理由",
-      "status": "partial",
-      "audio_url": null,
-      "audio_length": null,
+      "name": "episode_MCP 活用_20260421_023006",
+      "theme": "MCP 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260421_023006.mp3",
+      "audio_length": 2427088,
       "audio_duration": null,
       "articles": [
         {
-          "title": "記者発表会に、椿をイメージした抜け感のあるロングドレスを纏い矢吹奈子が登場。SBI証券 presents TGC 松山 2026 ~ 2026年8月16日(日)に愛媛県武道館にて開催決定! ~",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "頭痛予報・花粉予報アプリ「ずつけあ」を完全無料で新規リリース - もると株式会社",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アイルトン・セナのフェラーリF1加入を拒否した理由 トッドが明かす“契約重視”の決断",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "スパークルホース【映画公開記念】秘蔵インタビュー 生前のマーク・リンカスが語った「死の淵からの帰還」【Sparklehorse】",
+          "title": "Robloxが開発ツールにAIエージェントを追加、クリエイターと対話する“共同パートナー”に",
           "source": "Mynavi News",
-          "trust_score": 8.5
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260421_023016",
+      "theme": "skill おすすめ",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260421_023016.mp3",
+      "audio_length": 7972988,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬)",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "鹿児島発ブランド「M4210」 西郷どんバッジや“持ち歩ける御朱印帳”が人気! 伝統素材×実用デザインの新提案",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
+          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "「クセになる、おいしい!」黒柳徹子がハマった、デニーズの『意外なサイドメニュー』がおいしそう!「デニーズ行きます」「いい食べっぷり」",
-          "source": "ハフポスト",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「アギト」は同い年!仮面ライダーG6に変身:ゆうちゃみ",
-          "source": "Cinema Today: Movie Information Updated Daily!",
+          "title": "【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         }
       ]
