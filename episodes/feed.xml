@@ -8,63 +8,15 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-21T02:33:15.282439</lastBuildDate>
+        <lastBuildDate>2026-04-22T02:30:21.298660</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 方法</title>
+        <title>エピソード 1: Skill 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
-
-**hook（150文字）**
-こんにちは、今日はGWの計画を立てているあなたにピッタリの情報を届けます。GWのお得なネタを探している方、多いと思います。...]]>
-
-
-記事一覧:
-  • 2026年4月20日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • Contract One、MCPサーバーの提供を開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-04-21T02:33:15.282361</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_1_1776738795</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 方法_20260421_023004.mp3" type="audio/mpeg" length="6557360" />
-    </item>
-    <item>
-        <title>エピソード 2: Mcp 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.0/10
-
-**problem**
-こんな悩みありませんか？クリエイターとして、アイデアを実現するためにさまざまなツールや技術を学び、習得する必要があります。し...]]>
-
-
-記事一覧:
-  • Robloxが開発ツールにAIエージェントを追加、クリエイターと対話する“共同パートナー”に (出典: Mynavi News, 信頼度: 8.0/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-21T02:33:15.282402</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_2_1776738795</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260421_023006.mp3" type="audio/mpeg" length="2427088" />
-    </item>
-    <item>
-        <title>エピソード 3: Skill おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -72,19 +24,20 @@
 【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
-**intro（150文字）**
-こんにちは、皆さん。今日は「実戦合気道」についてお話します。最近、よんせんまんインプレッションを突破した「覇天会...]]>
+**hook（150文字）**
+あなたの仕事は毎日、同じようなタスクを繰り返していることで頭を痛めていますか？効率化が必要だと感じていますが、どこから...]]>
 
 
 記事一覧:
-  • 【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬) (出典: Pr Times, 信頼度: 8.0/10)
-  • 【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催 (出典: Pr Times, 信頼度: 8.0/10)
-  • 【開催報告】美容の枠を越え、LINE公式アカウントとともに「選ばれるビューティシャンの共通点」を解き明かす活用セミナーを開催 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-04-21T02:33:15.282423</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_3_1776738795</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260421_023016.mp3" type="audio/mpeg" length="7972988" />
+  • ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)
+  • 「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波 (出典: Ascii, 信頼度: 7.5/10)
+  • 2026年4月20日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • 【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬) (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-04-22T02:30:21.298618</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1776825021</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3" type="audio/mpeg" length="4812381" />
     </item>
     </channel>
 </rss>
