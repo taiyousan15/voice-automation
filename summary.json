@@ -1,35 +1,115 @@
 {
-  "generated_at": "2026-04-22T02:30:21.298391",
-  "total_episodes": 1,
+  "generated_at": "2026-04-22T22:01:06.361737",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260422_022847",
-      "theme": "skill 方法",
+      "name": "episode_Claude Code 比較_20260422_215720",
+      "theme": "Claude Code 比較",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3",
-      "audio_length": 4812381,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260422_215720.mp3",
+      "audio_length": 6827362,
+      "audio_duration": "00:07:06",
+      "articles": [
+        {
+          "title": "Exploration Holdings経営層への生成AI伴走支援でコンサル費用超えのROIを実証。年換算約450~650時間の業務削減へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Snowflake、エージェンティックAIの制御基盤として Snowflake IntelligenceとCortex Codeを拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "RPG技術者不足で「AS/400レガシーに触れない」――生成AIで解決できるか、その検証結果",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【LYZON】生成AI市場における競争環境と将来展望に関する考察レポート 第二弾を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "テックトピア:米国のテクノロジー業界の舞台裏 第61回 「それは製品ではなく機能」 - Dropboxの歴史が示す、AIチャットボットのインフラ化",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20260422_215731",
+      "theme": "skill 活用",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
         {
           "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20260422_215751",
+      "theme": "占い 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260422_215751.mp3",
+      "audio_length": 9019976,
+      "audio_duration": "00:09:23",
+      "articles": [
+        {
+          "title": "クラウン エステートから 読み解くトヨタの本気。「革新と挑戦」の精神がクラウンを新たなステージへ(Webモーターマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波",
-          "source": "Ascii",
+          "title": "【初心者向け】【全国誌紹介多数の人気街コン♪】【完全着席】【占いの館♪出張占いあり】【スカイビル内レストラン貸切】【本格ドリンク&コース料理付】【同世代で盛り上がる】【LINE交換自由&席がえあり!】",
+          "source": "Machicon",
+          "trust_score": 7.0
+        },
+        {
+          "title": "LGが世界初の「39型5K2Kゲーミングモニター」を初披露。5KミニLEDモデルも(AV Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日本最大の洋上風力発電所はなぜ北九州市沖にできた (テレQ(TVQ九州放送))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "バンク・オブ・アメリカが包装食品業界のプライベートブランド動向分析を発表",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ランドスタッド第1四半期、63%が拡大し成長に回帰",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "2026年Geely Auto国際ビジネスパートナー会議が杭州で開幕、「One Geely」戦略でグローバル展開を加速",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
-        },
-        {
-          "title": "2026年4月20日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬)",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
