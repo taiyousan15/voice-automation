@@ -4,19 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-21T21:55:20.982602</lastBuildDate>
+        <lastBuildDate>2026-04-22T02:30:21.298660</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <title>エピソード 1: Skill 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -25,19 +25,19 @@
 信頼度スコア: 8.0/10
 
 **hook（150文字）**
-セキュリティの世界では、毎日新しい脅威が生まれています。サイバー攻撃、データろうえい、システムのクラッシュ......]]>
+あなたの仕事は毎日、同じようなタスクを繰り返していることで頭を痛めていますか？効率化が必要だと感じていますが、どこから...]]>
 
 
 記事一覧:
-  • AI for Securityの実装を加速する自律型AI Agent Frameworkを開発 (出典: Pr Times, 信頼度: 8.0/10)
+  • ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)
+  • 「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波 (出典: Ascii, 信頼度: 7.5/10)
   • 2026年4月20日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-04-21T21:55:20.982563</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1776808520</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260421_215304.mp3" type="audio/mpeg" length="6603336" />
-        <itunes:duration>00:06:52</itunes:duration>
+  • 【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬) (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 方法</category>
+        <pubDate>2026-04-22T02:30:21.298618</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1776825021</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3" type="audio/mpeg" length="4812381" />
     </item>
     </channel>
 </rss>

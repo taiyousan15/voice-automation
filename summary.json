@@ -1,20 +1,25 @@
 {
-  "generated_at": "2026-04-21T21:55:20.982362",
+  "generated_at": "2026-04-22T02:30:21.298391",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260421_215304",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill 方法_20260422_022847",
+      "theme": "skill 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260421_215304.mp3",
-      "audio_length": 6603336,
-      "audio_duration": "00:06:52",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3",
+      "audio_length": 4812381,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "AI for Securityの実装を加速する自律型AI Agent Frameworkを開発",
+          "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波",
+          "source": "Ascii",
+          "trust_score": 7.5
         },
         {
           "title": "2026年4月20日のヘッドラインニュース",
@@ -22,9 +27,9 @@
           "trust_score": 7.5
         },
         {
-          "title": "リバネスナレッジ取締役副社長 平塚武が世界最大級のSalesforce開発者会議「TDX 2026」に登壇 ― Tableau AnalyticsとData 360の統合アーキテクチャを発信",
+          "title": "【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬)",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
         }
       ]
     }
