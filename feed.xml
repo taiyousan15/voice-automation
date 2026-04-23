@@ -4,19 +4,48 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-22T22:01:06.362199</lastBuildDate>
+        <lastBuildDate>2026-04-23T02:34:24.199372</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Claude code 比較</title>
+        <title>エピソード 1: Mcp おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 比較】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.5/10
+
+**hook**
+皆さん、AIエーシェントを活用してビジネスを革新しようと考えたことはありませんか？しかし、AIエーシェント基盤...]]>
+
+
+記事一覧:
+  • 激化するAIエージェント基盤争い Googleは推論用TPUや新たな「Google Enterprise」で攻める (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • Adobe Summit 2026、人とAIに向けた顧客体験基盤「CX Enterprise」発表 - エージェント型AIを実運用へ (出典: Mynavi News, 信頼度: 8.5/10)
+  • 日本初、非エンジニア向け"Claude Code" / "Cursor" 特化型 学習サービス『AI Agent CAMP』開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 日本初、非エンジニア向け"Claude Code" / "Cursor" 特化型 学習サービス『AI Agent CAMP』開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ (出典: Pr Times, 信頼度: 8.0/10)
+  • SP.LINKS、決済代行業界として国内初※「e‐SCOTT Smart」リモートMCPサーバーを提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • Domo、企業全体のデータとAIエコシステムを接続する「AI Agent Builder」および「MCP Server」を発表 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-04-23T02:34:24.199281</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1776911664</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260423_023142.mp3" type="audio/mpeg" length="7628590" />
+    </item>
+    <item>
+        <title>エピソード 2: Skill 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,52 +53,19 @@
 【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
-**hook**
-あなたの会社は、経営層の業務効率化に苦労していますか？毎日の業務が、単調で時間のかかる作業で占められているということはあ...]]>
+**problem**
+こんな悩みありませんか？エンジニア以外の人も、最新のテクノロジーを活用して仕事の効率化を図りたいと考えているはずです。しかし、...]]>
 
 
 記事一覧:
-  • Exploration Holdings経営層への生成AI伴走支援でコンサル費用超えのROIを実証。年換算約450~650時間の業務削減へ (出典: Pr Times, 信頼度: 8.0/10)
-  • Snowflake、エージェンティックAIの制御基盤として Snowflake IntelligenceとCortex Codeを拡充 (出典: Pr Times, 信頼度: 8.0/10)
-  • RPG技術者不足で「AS/400レガシーに触れない」――生成AIで解決できるか、その検証結果 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • 【LYZON】生成AI市場における競争環境と将来展望に関する考察レポート 第二弾を公開 (出典: Pr Times, 信頼度: 8.0/10)
-  • テックトピア:米国のテクノロジー業界の舞台裏 第61回 「それは製品ではなく機能」 - Dropboxの歴史が示す、AIチャットボットのインフラ化 (出典: Mynavi News, 信頼度: 8.5/10)</description>
-        <category>Claude Code 比較</category>
-        <pubDate>2026-04-22T22:01:06.362068</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 比較_1_1776895266</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%AF%94%E8%BC%83/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260422_215720.mp3" type="audio/mpeg" length="6827362" />
-        <itunes:duration>00:07:06</itunes:duration>
-    </item>
-    <item>
-        <title>エピソード 2: 占い 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**intro**（150文字）
-こんにちは、今日はトヨタのクラウンエステートについて話します。1955年に初代が登場して以来、クラウンは長い歴史を持...]]>
-
-
-記事一覧:
-  • クラウン エステートから 読み解くトヨタの本気。「革新と挑戦」の精神がクラウンを新たなステージへ(Webモーターマガジン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【初心者向け】【全国誌紹介多数の人気街コン♪】【完全着席】【占いの館♪出張占いあり】【スカイビル内レストラン貸切】【本格ドリンク&コース料理付】【同世代で盛り上がる】【LINE交換自由&席がえあり!】 (出典: Machicon, 信頼度: 7.0/10)
-  • LGが世界初の「39型5K2Kゲーミングモニター」を初披露。5KミニLEDモデルも(AV Watch) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 日本最大の洋上風力発電所はなぜ北九州市沖にできた (テレQ(TVQ九州放送)) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • バンク・オブ・アメリカが包装食品業界のプライベートブランド動向分析を発表 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • ランドスタッド第1四半期、63%が拡大し成長に回帰 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 2026年Geely Auto国際ビジネスパートナー会議が杭州で開幕、「One Geely」戦略でグローバル展開を加速 (出典: Prニュースワイヤー, 信頼度: 7.5/10)</description>
-        <category>占い 活用</category>
-        <pubDate>2026-04-22T22:01:06.362178</pubDate>
-        <guid isPermaLink="false">episode_占い 活用_2_1776895266</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%B4%BB%E7%94%A8/2</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260422_215751.mp3" type="audio/mpeg" length="9019976" />
-        <itunes:duration>00:09:23</itunes:duration>
+  • 非エンジニア向けClaude Code活用術 第2回はSkillsの活用法をIncertoが開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明 (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-04-23T02:34:24.199345</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_2_1776911664</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260423_023151.mp3" type="audio/mpeg" length="7020459" />
     </item>
     </channel>
 </rss>

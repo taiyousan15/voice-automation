@@ -1,51 +1,26 @@
 {
-  "generated_at": "2026-04-22T22:01:06.361737",
-  "total_episodes": 3,
+  "generated_at": "2026-04-23T02:34:24.198827",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 比較_20260422_215720",
-      "theme": "Claude Code 比較",
+      "name": "episode_MCP おすすめ 理由_20260423_023142",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_Claude Code 比較_20260422_215720.mp3",
-      "audio_length": 6827362,
-      "audio_duration": "00:07:06",
-      "articles": [
-        {
-          "title": "Exploration Holdings経営層への生成AI伴走支援でコンサル費用超えのROIを実証。年換算約450~650時間の業務削減へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Snowflake、エージェンティックAIの制御基盤として Snowflake IntelligenceとCortex Codeを拡充",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "RPG技術者不足で「AS/400レガシーに触れない」――生成AIで解決できるか、その検証結果",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【LYZON】生成AI市場における競争環境と将来展望に関する考察レポート 第二弾を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "テックトピア:米国のテクノロジー業界の舞台裏 第61回 「それは製品ではなく機能」 - Dropboxの歴史が示す、AIチャットボットのインフラ化",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 活用_20260422_215731",
-      "theme": "skill 活用",
-      "status": "partial",
-      "audio_url": null,
-      "audio_length": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260423_023142.mp3",
+      "audio_length": 7628590,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "激化するAIエージェント基盤争い Googleは推論用TPUや新たな「Google Enterprise」で攻める",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Adobe Summit 2026、人とAIに向けた顧客体験基盤「CX Enterprise」発表 - エージェント型AIを実運用へ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
         {
           "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
           "source": "Pr Times",
@@ -57,6 +32,36 @@
           "trust_score": 7.5
         },
         {
+          "title": "Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SP.LINKS、決済代行業界として国内初※「e‐SCOTT Smart」リモートMCPサーバーを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Domo、企業全体のデータとAIエコシステムを接続する「AI Agent Builder」および「MCP Server」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20260423_023151",
+      "theme": "skill 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260423_023151.mp3",
+      "audio_length": 7020459,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "非エンジニア向けClaude Code活用術 第2回はSkillsの活用法をIncertoが開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
           "title": "普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明",
           "source": "Atmarkit Itmedia",
           "trust_score": 7.5
@@ -65,51 +70,6 @@
           "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 活用_20260422_215751",
-      "theme": "占い 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260422_215751.mp3",
-      "audio_length": 9019976,
-      "audio_duration": "00:09:23",
-      "articles": [
-        {
-          "title": "クラウン エステートから 読み解くトヨタの本気。「革新と挑戦」の精神がクラウンを新たなステージへ(Webモーターマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【初心者向け】【全国誌紹介多数の人気街コン♪】【完全着席】【占いの館♪出張占いあり】【スカイビル内レストラン貸切】【本格ドリンク&コース料理付】【同世代で盛り上がる】【LINE交換自由&席がえあり!】",
-          "source": "Machicon",
-          "trust_score": 7.0
-        },
-        {
-          "title": "LGが世界初の「39型5K2Kゲーミングモニター」を初披露。5KミニLEDモデルも(AV Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日本最大の洋上風力発電所はなぜ北九州市沖にできた (テレQ(TVQ九州放送))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "バンク・オブ・アメリカが包装食品業界のプライベートブランド動向分析を発表",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ランドスタッド第1四半期、63%が拡大し成長に回帰",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "2026年Geely Auto国際ビジネスパートナー会議が杭州で開幕、「One Geely」戦略でグローバル展開を加速",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
         }
       ]
     }
