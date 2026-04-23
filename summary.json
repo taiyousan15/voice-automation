@@ -1,75 +1,140 @@
 {
-  "generated_at": "2026-04-23T02:34:24.198827",
-  "total_episodes": 2,
+  "generated_at": "2026-04-23T21:58:36.077546",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260423_023142",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_哲学 方法_20260423_215450",
+      "theme": "哲学 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260423_023142.mp3",
-      "audio_length": 7628590,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 方法_20260423_215450.mp3",
+      "audio_length": 7875603,
+      "audio_duration": "00:08:12",
       "articles": [
         {
-          "title": "激化するAIエージェント基盤争い Googleは推論用TPUや新たな「Google Enterprise」で攻める",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
+          "title": "イラン戦争の死者を、「連続キル」と自慢...戦争を「ネットミーム化」する米政府の罪(ニューズウィーク日本版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "Adobe Summit 2026、人とAIに向けた顧客体験基盤「CX Enterprise」発表 - エージェント型AIを実運用へ",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+          "title": "轟く鼓動、駆ける弦― 演奏活動55周年を迎えた 和太鼓奏者・林英哲が、神奈川に新たな響きを刻む",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+          "title": "轟く鼓動、駆ける弦― 演奏活動55周年を迎えた 和太鼓奏者・林英哲が、神奈川に新たな響きを刻む",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ",
-          "source": "Pr Times",
+          "title": "4年ぶり大刷新! “600馬力超えの高性能仕様”もイイ「新型セダン」世界初公開! 直列6気筒エンジン搭載のガソリンエンジンモデルもある「7シリーズ」登場",
+          "source": "Car News",
           "trust_score": 8.0
         },
         {
-          "title": "SP.LINKS、決済代行業界として国内初※「e‐SCOTT Smart」リモートMCPサーバーを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "平日21時過ぎでもカウンター満席!【横浜家系ラーメン】平日限定クーポン発動で”チャーシュー”無料追加は知らなきゃ損",
+          "source": "Yomuno",
+          "trust_score": 7.5
         },
         {
-          "title": "Domo、企業全体のデータとAIエコシステムを接続する「AI Agent Builder」および「MCP Server」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "日本企業の経営者はAIオタク 「我が社に変革人材がいない」とは噴飯ものだ (木村岳史の極言暴論!)",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ワイズ、ミラノサローネでイソップ展示スタッフのユニフォームを製作(FASHIONSNAP)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_skill 活用_20260423_023151",
-      "theme": "skill 活用",
+      "name": "episode_占い おすすめ 理由_20260423_215511",
+      "theme": "占い おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260423_023151.mp3",
-      "audio_length": 7020459,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い おすすめ 理由_20260423_215511.mp3",
+      "audio_length": 8693550,
+      "audio_duration": "00:09:03",
       "articles": [
         {
-          "title": "非エンジニア向けClaude Code活用術 第2回はSkillsの活用法をIncertoが開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "着せ替えオープンワールドRPG『インフィニティニキ』の衣装たちは、“感情から”デザインされている。アートディレクターが語る“夢の創り方”",
+          "source": "Automaton",
+          "trust_score": 7.0
         },
         {
-          "title": "普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明",
-          "source": "Atmarkit Itmedia",
+          "title": "TVアニメ「らんま1/2」第3期作品公式イベント『ドタバタ格闘ファンミーティング』の詳細を発表! 山口勝平さん、日高のり子さん、山寺宏一さん、佐久間レイさん、名塚佳織さんが出演!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "TVアニメ「らんま1/2」第3期作品公式イベント『ドタバタ格闘ファンミーティング』の詳細を発表! 山口勝平さん、日高のり子さん、山寺宏一さん、佐久間レイさん、名塚佳織さんが出演!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ジョンマスターオーガニックからグリーンティーの香りの水性フレグランスが登場(FASHIONSNAP)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【ヤフコメで話題】「手取り最大化の“150万円ライン”は現実的か」「扶養内・共働き・年金受給の選択に多様な声」 - 手取りと生活設計を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "現代人の注意力は\"金魚以下\"...わずか8秒間しか集中が持たない時代に求められる\"一発勝負\"の自己紹介(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "JAXA「油井宇宙飛行士ミッション報告会」5/19(リセマム)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20260423_215533",
+      "theme": "占い 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 活用_20260423_215533.mp3",
+      "audio_length": 7961703,
+      "audio_duration": "00:08:17",
+      "articles": [
+        {
+          "title": "長安から世界へ:西安、「空のシルクロード」で新たな産業成長の勢いを創出",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "『星新一賞』でAI小説が上位独占も...審査員「AIの文章は読みたくない」人間がAI創作物に“拒否感”抱き議論勃発「まさに星新一的」",
+          "source": "2nn",
+          "trust_score": 7.5
+        },
+        {
+          "title": "スティフェル、シンガポールの好調を受けラスベガス・サンズの目標株価を引き上げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "最終時間: セール終了前に2026年最安値でInvestingProを入手",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【倒産情報】熊本地震関連74件 最大は不動産のヤマイ71億円 他にゴルフ場やホテル、居酒屋など ただ、迅速な支援が奏功し低水準 現在はTSMC進出などで県内総生産7兆円超の成長チャンス到来か(RKK熊本放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「テレアポなら1000万円稼げたけど...」幼馴染コンビ・サルゴリラが結成10年で挑む“新たなコントの道”(OCEANS)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "HSBCがOklo株をレーター・タイムラインを理由に買い推奨で開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
