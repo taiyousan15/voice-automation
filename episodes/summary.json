@@ -1,33 +1,73 @@
 {
-  "generated_at": "2026-04-22T02:30:21.298391",
-  "total_episodes": 1,
+  "generated_at": "2026-04-23T02:34:24.198827",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260422_022847",
-      "theme": "skill 方法",
+      "name": "episode_MCP おすすめ 理由_20260423_023142",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3",
-      "audio_length": 4812381,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260423_023142.mp3",
+      "audio_length": 7628590,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
+          "title": "激化するAIエージェント基盤争い Googleは推論用TPUや新たな「Google Enterprise」で攻める",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Adobe Summit 2026、人とAIに向けた顧客体験基盤「CX Enterprise」発表 - エージェント型AIを実運用へ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波",
-          "source": "Ascii",
+          "title": "日本初、非エンジニア向け\"Claude Code\" / \"Cursor\" 特化型 学習サービス『AI Agent CAMP』開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "2026年4月20日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SP.LINKS、決済代行業界として国内初※「e‐SCOTT Smart」リモートMCPサーバーを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Domo、企業全体のデータとAIエコシステムを接続する「AI Agent Builder」および「MCP Server」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20260423_023151",
+      "theme": "skill 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260423_023151.mp3",
+      "audio_length": 7020459,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "非エンジニア向けClaude Code活用術 第2回はSkillsの活用法をIncertoが開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬)",
+          "title": "ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース",
           "source": "Pr Times",
           "trust_score": 8.0
         }

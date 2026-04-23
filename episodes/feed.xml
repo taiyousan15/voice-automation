@@ -8,15 +8,44 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-22T02:30:21.298660</lastBuildDate>
+        <lastBuildDate>2026-04-23T02:34:24.199372</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 方法</title>
+        <title>エピソード 1: Mcp おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Atmarkit Itmedia】
+信頼度スコア: 7.5/10
+
+**hook**
+皆さん、AIエーシェントを活用してビジネスを革新しようと考えたことはありませんか？しかし、AIエーシェント基盤...]]>
+
+
+記事一覧:
+  • 激化するAIエージェント基盤争い Googleは推論用TPUや新たな「Google Enterprise」で攻める (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • Adobe Summit 2026、人とAIに向けた顧客体験基盤「CX Enterprise」発表 - エージェント型AIを実運用へ (出典: Mynavi News, 信頼度: 8.5/10)
+  • 日本初、非エンジニア向け"Claude Code" / "Cursor" 特化型 学習サービス『AI Agent CAMP』開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 日本初、非エンジニア向け"Claude Code" / "Cursor" 特化型 学習サービス『AI Agent CAMP』開始 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • Picaro.ai、有料プランにAIエージェント機能を実装--戦略立案から広告運用まで、AIと協働する新時代へ (出典: Pr Times, 信頼度: 8.0/10)
+  • SP.LINKS、決済代行業界として国内初※「e‐SCOTT Smart」リモートMCPサーバーを提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • Domo、企業全体のデータとAIエコシステムを接続する「AI Agent Builder」および「MCP Server」を発表 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP おすすめ 理由</category>
+        <pubDate>2026-04-23T02:34:24.199281</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1776911664</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP おすすめ 理由_20260423_023142.mp3" type="audio/mpeg" length="7628590" />
+    </item>
+    <item>
+        <title>エピソード 2: Skill 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,20 +53,19 @@
 【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
-**hook（150文字）**
-あなたの仕事は毎日、同じようなタスクを繰り返していることで頭を痛めていますか？効率化が必要だと感じていますが、どこから...]]>
+**problem**
+こんな悩みありませんか？エンジニア以外の人も、最新のテクノロジーを活用して仕事の効率化を図りたいと考えているはずです。しかし、...]]>
 
 
 記事一覧:
-  • ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)
-  • 「先に同僚を蒸留せよ」 中国テック労働者に広がる AI自動化の強烈な波 (出典: Ascii, 信頼度: 7.5/10)
-  • 2026年4月20日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 【4000万インプレッション突破】試合で検証する実戦合気道「覇天会」が新体系を公開 ― 傷つけず制する“制御の武道”を提唱(藤崎天敬) (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-04-22T02:30:21.298618</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_1_1776825021</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 方法_20260422_022847.mp3" type="audio/mpeg" length="4812381" />
+  • 非エンジニア向けClaude Code活用術 第2回はSkillsの活用法をIncertoが開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 普通の企業で「コーディングエージェント」を定着させるための3ステップ OpenAI Japan瀬良氏が説明 (出典: Atmarkit Itmedia, 信頼度: 7.5/10)
+  • ThinkingAI、企業向けAI Agentプラットフォーム「Agentic Engine」を正式リリース (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-04-23T02:34:24.199345</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_2_1776911664</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_skill 活用_20260423_023151.mp3" type="audio/mpeg" length="7020459" />
     </item>
     </channel>
 </rss>
