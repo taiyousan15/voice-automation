@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-04-24T02:32:25.063130",
-  "total_episodes": 0,
+  "generated_at": "2026-04-25T02:16:31.230684",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 活用_20260425_021423",
+      "theme": "MCP 活用",
+      "status": "success",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3",
+      "audio_length": 6103039,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "[関西]ファクトリーイノベーション Week 2026 出展のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }

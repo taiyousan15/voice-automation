@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-24T02:32:25.063653",
+  "generated_at": "2026-04-25T02:16:31.231425",
   "feed_url": "https://USERNAME.github.io/REPO_NAME/feed.xml",
-  "episodes_count": 0,
-  "latest_episode": null,
+  "episodes_count": 1,
+  "latest_episode": "MCP 活用",
   "audio_enabled": true
 }
