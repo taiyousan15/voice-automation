@@ -1,160 +1,50 @@
 {
-  "generated_at": "2026-04-24T21:59:59.819714",
-  "total_episodes": 4,
+  "generated_at": "2026-04-25T02:16:31.230684",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 比較_20260424_215519",
-      "theme": "思想 比較",
+      "name": "episode_MCP 活用_20260425_021423",
+      "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 比較_20260424_215519.mp3",
-      "audio_length": 9212237,
-      "audio_duration": "00:09:35",
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3",
+      "audio_length": 6103039,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "挾間美帆が語る グラミーノミネートを経て、名門ビッグバンドの歴史にオマージュを捧げた真意",
+          "title": "Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026",
           "source": "Mynavi News",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
-          "title": "『恋と深空』のバトルが本格的なのは、“戦闘こそがロマンス”だから。ともに戦い愛を育む、恋愛ゲームを広く届けるためのアプローチ",
-          "source": "Automaton",
+          "title": "[関西]ファクトリーイノベーション Week 2026 出展のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "久しぶりの運転で気をつけることは?ペーパードライバーの克服方法",
-          "source": "Mynavi News",
+          "title": "チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表",
+          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "「にせもの家族」その家族、全員が他人──騙す側の悪意がゼロ、ハートフルな騙し合いの物語",
-          "source": "Natalie - Pop Culture News Site",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「スカイラインGT-R」開発責任者の渡邉衡三氏の特別講演会 トヨタ博物館「第2回 Classic Car Meeting」で5月16日開催(Car Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "資産運用でETFってどう使う? 10本のETFを新規上場したNZAMが目指す「組み立てやすい」投資",
-          "source": "Mynavi News",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Windows 11で“損している使い方”5選、知らないと作業が遅くなる",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260424_215538",
-      "theme": "占い 比較",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_占い 比較_20260424_215538.mp3",
-      "audio_length": 8148949,
-      "audio_duration": "00:08:29",
-      "articles": [
-        {
-          "title": "JTB次期社長に青海友常務執行役員が内定 「AI活用し、社員の力発揮」(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Kofola 2025年第4四半期決算、EBITDA58%急増で転換点を示す",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Inficon 2026年第1四半期決算:力強い収益成長により通期ガイダンスを上方修正",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【2026年最新版】航空券の燃油サーチャージって何?値上げはいつから?韓国旅行に安く行く方法を調べてみた!【ハングクTIMES Vol.257】",
-          "source": "産経ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "中央区で異変、世帯増加に急ブレーキ 湾岸バブル失速の兆し",
+          "title": "Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "“おうち派or近場で楽しむ派”が主流?2026年GWのリアル",
+          "title": "SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "中国EVの猛攻にさらされる欧州 新車販売の1割が中国製 追加関税も骨抜きに(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260424_215544",
-      "theme": "skill おすすめ",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_skill おすすめ_20260424_215544.mp3",
-      "audio_length": 4487208,
-      "audio_duration": "00:04:40",
-      "articles": [
-        {
-          "title": "【吉積情報株式会社】吉積情報が提供する Cmosy Pocket(クモシィポケット)が「ITreview Grid Award 2026 Spring」で Leader を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "[ITmedia エンタープライズ] Cisco、MCPサーバやスキルの脅威を可視化するIDE拡張機能を公開",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 活用_20260424_215747",
-      "theme": "哲学 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260424_215747.mp3",
-      "audio_length": 6371786,
-      "audio_duration": "00:06:38",
-      "articles": [
-        {
-          "title": "LORENZ.OG が語る “AIR in colour” の思想とスニーカーカルチャーへの想い | Interviews",
-          "source": "Hypebeast. Jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Netflixでいま観るべき、おすすめドラマ・番組72選【2026年最新】",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【ポーカーゲーム初 タイトル対抗戦】「m HOLD'EM」 × 「ポーカーチェイス」「縦横戦 2026 春」開催のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ポーカーゲーム初 タイトル対抗戦】「m HOLD'EM」 × 「ポーカーチェイス」「縦横戦 2026 春」開催のお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「ICT」「園庭・保育環境」「マーケティング」「発達支援」「インクルーシブ教育」などをテーマに、創造性と対話で保育業界の未来を拓く幼児教育カンファレンス「Hoiku Hack2026」開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「小1の壁」「小3の壁」の背景にある“放課後の質”の課題解決へ― Soil×PolicyFundの支援を受け、政策共創プロジェクト始動",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "半導体産業の次の成長エンジン、「光電融合」産学連携プロジェクトの全容(ニュースイッチ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
