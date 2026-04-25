@@ -4,43 +4,44 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-25T02:16:31.231099</lastBuildDate>
+        <lastBuildDate>2026-04-25T21:45:31.777690</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 活用</title>
+        <title>エピソード 1: 思想 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
+本日は、【思想 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Mynavi News】
-信頼度スコア: 8.0/10
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
 
-**hook（150文字）**
-あなたの企業は、現在の市場環境で苦戦していますか？ デジタル化の波に乗り遅れてしまい、競争力が低下しているように感じ...]]>
+**hook**
+私たちが日々の生活を送る中で、世界のどこかで起こっている紛争や戦争。そうした状況下で命を守るために働く人々、例えば救急隊員。彼らもま...]]>
 
 
 記事一覧:
-  • Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026 (出典: Mynavi News, 信頼度: 8.0/10)
-  • [関西]ファクトリーイノベーション Week 2026 出展のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • 「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応 (出典: Pr Times, 信頼度: 8.0/10)
-  • 「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表 (出典: Pr Times, 信頼度: 8.5/10)
-  • Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速 (出典: Pr Times, 信頼度: 8.0/10)
-  • SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-25T02:16:31.231031</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1777083391</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3" type="audio/mpeg" length="6103039" />
+  • 救急隊も標的に──イスラエル軍のレバノン空爆、現場で何が起きているのか(ニューズウィーク日本版) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • “チャッピー”でライバルに差をつけろ! 新生活の仕事・学び・好感度に効く、ChatGPT活用術6選 (出典: Mynavi News, 信頼度: 8.5/10)
+  • 維新・藤田共同代表が富山市で講演 自・維連立での存在感を強調 県議選に向けて結束を呼びかけ(富山テレビ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「副首都目指すべき」 維新・吉村代表が来福し地方議員向け説明会 福岡市・天神 (出典: Fnnプライムオンライン, 信頼度: 7.5/10)
+  • ホタルイカ目玉飛ばしに県内外から40人挑戦!小学生部門優勝は4m70cm 滑川市・富山(チューリップテレビ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「福岡も副首都を目指して」維新・吉村代表が地元議員らに説明 来年の統一地方選で公約の柱に掲げるよう提案(ABCニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 留学で日常会話はペラペラに→帰国後、学校のテストで30点しか取れず大ショック(高校生新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>思想 方法</category>
+        <pubDate>2026-04-25T21:45:31.777656</pubDate>
+        <guid isPermaLink="false">episode_思想 方法_1_1777153531</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%96%B9%E6%B3%95/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_思想 方法_20260425_214314.mp3" type="audio/mpeg" length="6509295" />
+        <itunes:duration>00:06:46</itunes:duration>
     </item>
     </channel>
 </rss>

@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-04-25T02:16:31.230684",
+  "generated_at": "2026-04-25T21:45:31.777422",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260425_021423",
-      "theme": "MCP 活用",
+      "name": "episode_思想 方法_20260425_214314",
+      "theme": "思想 方法",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3",
-      "audio_length": 6103039,
-      "audio_duration": null,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_思想 方法_20260425_214314.mp3",
+      "audio_length": 6509295,
+      "audio_duration": "00:06:46",
       "articles": [
         {
-          "title": "Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026",
+          "title": "救急隊も標的に──イスラエル軍のレバノン空爆、現場で何が起きているのか(ニューズウィーク日本版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "“チャッピー”でライバルに差をつけろ! 新生活の仕事・学び・好感度に効く、ChatGPT活用術6選",
           "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "[関西]ファクトリーイノベーション Week 2026 出展のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表",
-          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "維新・藤田共同代表が富山市で講演 自・維連立での存在感を強調 県議選に向けて結束を呼びかけ(富山テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "「副首都目指すべき」 維新・吉村代表が来福し地方議員向け説明会 福岡市・天神",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ホタルイカ目玉飛ばしに県内外から40人挑戦!小学生部門優勝は4m70cm 滑川市・富山(チューリップテレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「福岡も副首都を目指して」維新・吉村代表が地元議員らに説明 来年の統一地方選で公約の柱に掲げるよう提案(ABCニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "留学で日常会話はペラペラに→帰国後、学校のテストで30点しか取れず大ショック(高校生新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
