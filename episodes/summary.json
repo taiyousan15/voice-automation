@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-25T02:16:31.230684",
+  "generated_at": "2026-04-26T02:39:32.764324",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260425_021423",
+      "name": "episode_MCP 活用_20260426_023715",
       "theme": "MCP 活用",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3",
-      "audio_length": 6103039,
+      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260426_023715.mp3",
+      "audio_length": 6826944,
       "audio_duration": null,
       "articles": [
         {
@@ -35,16 +35,6 @@
           "title": "チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }

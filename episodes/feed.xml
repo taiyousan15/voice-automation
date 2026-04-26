@@ -8,7 +8,7 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-25T02:16:31.231099</lastBuildDate>
+        <lastBuildDate>2026-04-26T02:39:32.764672</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
@@ -24,8 +24,8 @@
 【セクション 1: Mynavi News】
 信頼度スコア: 8.0/10
 
-**hook（150文字）**
-あなたの企業は、現在の市場環境で苦戦していますか？ デジタル化の波に乗り遅れてしまい、競争力が低下しているように感じ...]]>
+**hook**
+みなさん、現在のビジネス環境で最大の課題は何ですか？効率的なデータ分析、迅速な意思決定、競争力の維持... これらの要素をすべてバ...]]>
 
 
 記事一覧:
@@ -33,14 +33,12 @@
   • [関西]ファクトリーイノベーション Week 2026 出展のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
   • 「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応 (出典: Pr Times, 信頼度: 8.0/10)
   • 「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表 (出典: Pr Times, 信頼度: 8.5/10)
-  • Ahrefs(エイチレフス)、日本初の OOH 広告を渋谷に掲出。AI 検索時代の到来を見据え、日本市場への本格参入を加速 (出典: Pr Times, 信頼度: 8.0/10)
-  • SalesNow、日本初(※1)の企業データMCPサーバーを提供開始 ― 1,400万件超の企業データをClaude・Cursorから直接利用可能に (出典: Pr Times, 信頼度: 8.0/10)</description>
+  • チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表 (出典: Pr Times, 信頼度: 8.5/10)</description>
         <category>MCP 活用</category>
-        <pubDate>2026-04-25T02:16:31.231031</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1777083391</guid>
+        <pubDate>2026-04-26T02:39:32.764599</pubDate>
+        <guid isPermaLink="false">episode_MCP 活用_1_1777171172</guid>
         <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260425_021423.mp3" type="audio/mpeg" length="6103039" />
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260426_023715.mp3" type="audio/mpeg" length="6826944" />
     </item>
     </channel>
 </rss>
