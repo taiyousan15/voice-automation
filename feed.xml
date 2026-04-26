@@ -4,41 +4,74 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-26T02:39:32.764672</lastBuildDate>
+        <lastBuildDate>2026-04-26T21:50:18.899507</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 活用</title>
+        <title>エピソード 1: 哲学 おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
+本日は、【哲学 おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Mynavi News】
+【セクション 1: Pr Times】
 信頼度スコア: 8.0/10
 
 **hook**
-みなさん、現在のビジネス環境で最大の課題は何ですか？効率的なデータ分析、迅速な意思決定、競争力の維持... これらの要素をすべてバ...]]>
+あなたは今、人生のどんな状況にいるのかな？難しい決断や、将来への不安に悩んでいることはないだろうか。私たちも同じように、時には迷...]]>
 
 
 記事一覧:
-  • Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026 (出典: Mynavi News, 信頼度: 8.0/10)
-  • [関西]ファクトリーイノベーション Week 2026 出展のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • 「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応 (出典: Pr Times, 信頼度: 8.0/10)
-  • 「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様 (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
-  • チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-04-26T02:39:32.764599</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1777171172</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260426_023715.mp3" type="audio/mpeg" length="6826944" />
+  • 2026年下半期の運勢|四柱推命で占う2026年下半期あなたの総合運。公式サイトにて一般公開中 (出典: Pr Times, 信頼度: 8.0/10)
+  • [プレイレポ]春秋戦国時代を舞台にした建国シムRTS「マンデートオーダー」。採掘や生産から防衛線の構築,物流網の整備,外交政策の決定まで,やることが多すぎる! (出典: 4gamer.net, 信頼度: 7.5/10)
+  • 「短絡的になっている世界に対する、異議申し立ての本でもあります」ゲンロン創業者の東浩紀氏が『平和と愚かさ』で問いかける考えないことの危うさと必要性 (出典: テレ朝new, 信頼度: 7.5/10)
+  • 「短絡的になっている世界に対する、異議申し立ての本でもあります」ゲンロン創業者の東浩紀氏が『平和と愚かさ』で問いかける考えないことの危うさと必要性(ABEMA TIMES) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【名人戦】藤井聡太名人、午前のおやつは「小栗山モンブランエクレール」糸谷九段はアップルパイ(日刊スポーツ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ナイキ ACGというアドベンチャーの楽しみ方 (出典: Wired.jp, 信頼度: 7.0/10)
+  • パランティア社員たちの疑念「わたしたちは悪者なのか?」 (出典: Wired.jp, 信頼度: 7.5/10)</description>
+        <category>哲学 おすすめ 理由</category>
+        <pubDate>2026-04-26T21:50:18.899454</pubDate>
+        <guid isPermaLink="false">episode_哲学 おすすめ 理由_1_1777240218</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ 理由_20260426_214730.mp3" type="audio/mpeg" length="7625246" />
+        <itunes:duration>00:07:56</itunes:duration>
+    </item>
+    <item>
+        <title>エピソード 2: 哲学 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【哲学 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**problem**
+こんな悩みありませんか？ 自動車の選び方に迷ってしまう。特に、環境に優しい電動車やコンパクトなデザインが好きな人にとって、選択...]]>
+
+
+記事一覧:
+  • ヒョンデ新型「アイオニック3」欧州で世界初公開! 全長4.1m級ボディの“攻めてるデザイン”がカッコいい! 「147馬力」パワトレ搭載の新たな“コンパクトカー”登場(くるまのニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 新型「コンパクトカー」世界初公開! 全長4.1m級ボディの“攻めてるデザイン”がカッコいい! 「147馬力」パワトレ搭載のヒョンデ「アイオニック3」欧州で登場 (出典: Car News, 信頼度: 8.5/10)
+  • ワンビルで開催!ATEC presents 北村直登展「画家という生業」 in FUKUOKA【4/24~5/10】(ファンファン福岡) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「暗殺を研究してきた」トランプ氏、発砲事件の原因を考察 (出典: Afpbb News, 信頼度: 8.0/10)
+  • 「災害は発生する場所や時間を選びません」梅雨入り前に福岡県大刀洗町の消防団が筑後川で水防訓練(RKB毎日放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 名大合格特化塾、新スローガン「やらないことが決まれば、あとは全力でやるだけ。」発表~100名合格達成を目指しリブランディング実施 (出典: Pr Times, 信頼度: 8.0/10)
+  • かつては“狭き門”だったが...10年超で「警察官」受験者は1/4に 高齢者捜索が「主要任務」となった秋田県警、人手不足で迫る治安の限界(弁護士JPニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>哲学 活用</category>
+        <pubDate>2026-04-26T21:50:18.899496</pubDate>
+        <guid isPermaLink="false">episode_哲学 活用_2_1777240218</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%B4%BB%E7%94%A8/2</link>
+        <enclosure url="https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260426_214752.mp3" type="audio/mpeg" length="6901759" />
+        <itunes:duration>00:07:11</itunes:duration>
     </item>
     </channel>
 </rss>
