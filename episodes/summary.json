@@ -1,40 +1,25 @@
 {
-  "generated_at": "2026-04-26T02:39:32.764324",
+  "generated_at": "2026-04-27T02:39:13.076022",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260426_023715",
-      "theme": "MCP 活用",
+      "name": "episode_MCP おすすめ 理由_20260427_023905",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_MCP 活用_20260426_023715.mp3",
-      "audio_length": 6826944,
+      "audio_url": null,
+      "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Gemini EnterpriseとTPUが支える「Agentic Enterprise」 - Google Cloud NEXT 2026",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "[関西]ファクトリーイノベーション Week 2026 出展のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「mitoco Buddy」が「Salesforce Hosted MCP Servers」に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「Java 26」は何が変わった? 現場の実装・運用に影響をもたらす10の仕様",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "チェック・ポイント、「AI Defense Plane」とGoogle Cloud「Gemini Enterprise」の統合を発表",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
         }
       ]
     }
