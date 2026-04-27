@@ -1,94 +1,24 @@
 {
-  "generated_at": "2026-04-26T21:50:18.899164",
-  "total_episodes": 2,
+  "generated_at": "2026-04-27T02:39:13.076022",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 おすすめ 理由_20260426_214730",
-      "theme": "哲学 おすすめ 理由",
+      "name": "episode_MCP おすすめ 理由_20260427_023905",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 おすすめ 理由_20260426_214730.mp3",
-      "audio_length": 7625246,
-      "audio_duration": "00:07:56",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
       "articles": [
         {
-          "title": "2026年下半期の運勢|四柱推命で占う2026年下半期あなたの総合運。公式サイトにて一般公開中",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "[プレイレポ]春秋戦国時代を舞台にした建国シムRTS「マンデートオーダー」。採掘や生産から防衛線の構築,物流網の整備,外交政策の決定まで,やることが多すぎる!",
-          "source": "4gamer.net",
+          "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "「短絡的になっている世界に対する、異議申し立ての本でもあります」ゲンロン創業者の東浩紀氏が『平和と愚かさ』で問いかける考えないことの危うさと必要性",
-          "source": "テレ朝new",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「短絡的になっている世界に対する、異議申し立ての本でもあります」ゲンロン創業者の東浩紀氏が『平和と愚かさ』で問いかける考えないことの危うさと必要性(ABEMA TIMES)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【名人戦】藤井聡太名人、午前のおやつは「小栗山モンブランエクレール」糸谷九段はアップルパイ(日刊スポーツ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ナイキ ACGというアドベンチャーの楽しみ方",
-          "source": "Wired.jp",
-          "trust_score": 7.0
-        },
-        {
-          "title": "パランティア社員たちの疑念「わたしたちは悪者なのか?」",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 活用_20260426_214752",
-      "theme": "哲学 活用",
-      "status": "success",
-      "audio_url": "https://taiyousan15.github.io/voice-automation/podcast/episode_哲学 活用_20260426_214752.mp3",
-      "audio_length": 6901759,
-      "audio_duration": "00:07:11",
-      "articles": [
-        {
-          "title": "ヒョンデ新型「アイオニック3」欧州で世界初公開! 全長4.1m級ボディの“攻めてるデザイン”がカッコいい! 「147馬力」パワトレ搭載の新たな“コンパクトカー”登場(くるまのニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "新型「コンパクトカー」世界初公開! 全長4.1m級ボディの“攻めてるデザイン”がカッコいい! 「147馬力」パワトレ搭載のヒョンデ「アイオニック3」欧州で登場",
-          "source": "Car News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ワンビルで開催!ATEC presents 北村直登展「画家という生業」 in FUKUOKA【4/24~5/10】(ファンファン福岡)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「暗殺を研究してきた」トランプ氏、発砲事件の原因を考察",
-          "source": "Afpbb News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「災害は発生する場所や時間を選びません」梅雨入り前に福岡県大刀洗町の消防団が筑後川で水防訓練(RKB毎日放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "名大合格特化塾、新スローガン「やらないことが決まれば、あとは全力でやるだけ。」発表~100名合格達成を目指しリブランディング実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "かつては“狭き門”だったが...10年超で「警察官」受験者は1/4に 高齢者捜索が「主要任務」となった秋田県警、人手不足で迫る治安の限界(弁護士JPニュース)",
-          "source": "Yahoo Japan",
+          "title": "x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】",
+          "source": "Coindesk Japan",
           "trust_score": 9.7
         }
       ]
