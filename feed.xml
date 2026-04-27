@@ -4,37 +4,70 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-27T02:39:13.076280</lastBuildDate>
+        <lastBuildDate>2026-04-27T22:00:23.320515</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <title>エピソード 1: 占い 比較</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【占い 比較】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Gigazine】
-信頼度スコア: 7.5/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
 
 **hook**
-こんにちは、皆さん。今日は、AIを活用した社内アプリや自動化ツールを作成することに興味がある方に向けて、特別な話題を紹介したい...]]>
+母の日が近づいてきましたね。どんなプレゼントを買おうか悩んでいますか？実は、プレゼントを選ぶときに占いを参考にする人も多いようです。でも、...]]>
 
 
 記事一覧:
-  • 無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」 (出典: Gigazine, 信頼度: 7.5/10)
-  • x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】 (出典: Coindesk Japan, 信頼度: 9.7/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-04-27T02:39:13.076248</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1777257553</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+  • 母の日ギフト白書 2026年版、無料公開。母の日ギフト商戦のトレンド・傾向をアンケート統計調査から紐解く。10~70代の男女(計1,235名)を対象にした母の日プレゼント・ギフトに関する調査を公開。 (出典: Pr Times, 信頼度: 8.5/10)
+  • 底地という言葉を知っていますか?【アンケート結果発表】 (出典: Pr Times, 信頼度: 8.0/10)
+  • 日鉄鉱業【1515】株価2倍でも出遅れ感の理由は? チリの新銅山が拓く成長ストーリーと注意したい財務リスク(Finasee) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • ベアードがセンシエント・テクノロジーズ株のアウトパフォーム評価を目標株価125ドルで再確認 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • ジェフリーズがサイバー成長を理由にルブリック株をバイ評価で開始 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • 単なる「吉祥寺ブランド」だけじゃない、武蔵野市のマンション価格が高騰するカラクリとは (出典: Mynavi News, 信頼度: 8.5/10)
+  • 小型PCの新たなロマン!うっすいのにデスクトップグラボ搭載の高性能、「アトマン」を試してみた (出典: Ascii, 信頼度: 7.0/10)</description>
+        <category>占い 比較</category>
+        <pubDate>2026-04-27T22:00:23.320459</pubDate>
+        <guid isPermaLink="false">episode_占い 比較_1_1777327223</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/1</link>
+    </item>
+    <item>
+        <title>エピソード 2: 思想 おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Auto Sport】
+信頼度スコア: 7.5/10
+
+**problem**
+こんな悩みありませんか？ 自分の将来のキャリアについて悩んだり、自分の興味や関心事を探したりしていることがあると思います。特...]]>
+
+
+記事一覧:
+  • 元レッドブル代表ホーナーがMotoGPを訪問。リバティ傘下で見せる急成長に関心を隠さず「今は興味深い時期」 (出典: Auto Sport, 信頼度: 7.5/10)
+  • 初夏を前に羊の衣替え! 毛刈りをする理由とは? 村山産業高校の生徒たちが毛刈りに挑戦!(山形)(テレビユー山形) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【巧妙化】偽アプリで「利益が出ている」と錯覚...オホーツク管内の40代男性が3600万円のSNS型投資詐欺被害(HTB北海道ニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【中継】大槌町中心部の状況は(テレビ岩手ニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【りんごはこうやって食べてみて】もう何回作ったか分かりません!オーブン不要、りんごのおやつレシピ3選 (出典: ハフポスト, 信頼度: 7.5/10)
+  • ローソンストア100、シュークリームを138円→106円に値下げ(Impress Watch) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 2ページ目 石川のトップ交代から1か月 山野之義知事 県政運営に向け「身近な知事と思ってもらえるように」 (出典: 日テレnews Nnn, 信頼度: 8.0/10)</description>
+        <category>思想 おすすめ</category>
+        <pubDate>2026-04-27T22:00:23.320500</pubDate>
+        <guid isPermaLink="false">episode_思想 おすすめ_2_1777327223</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
     </item>
     </channel>
 </rss>
