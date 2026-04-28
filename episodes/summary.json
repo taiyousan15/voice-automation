@@ -1,16 +1,41 @@
 {
-  "generated_at": "2026-04-27T02:39:13.076022",
-  "total_episodes": 1,
+  "generated_at": "2026-04-28T02:47:04.543081",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260427_023905",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill 活用_20260428_024649",
+      "theme": "skill 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "MS、炭素回収を一時停止で業界激震/初の原子力推進で火星へ NASA「強気すぎる」計画",
+          "source": "Ascii",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20260428_024657",
+      "theme": "MCP おすすめ 理由",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Boomi、Boomi World 2026でデータ活用とAI主導イノベーションの未来を提示",
+          "source": "Businesswire",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Grafana Labs、新たなAI向けオブザーバビリティツールを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
         {
           "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
           "source": "Gigazine",
