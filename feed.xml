@@ -4,36 +4,68 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-28T02:47:04.543370</lastBuildDate>
+        <lastBuildDate>2026-04-28T22:06:14.086717</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 活用</title>
+        <title>エピソード 1: Skill おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
+本日は、【skill おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Ascii】
-信頼度スコア: 7.5/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
 
 **hook（150文字）**
-みなさん、現在の仕事や生活で、自分が持っているスキルを最大限に活用できていると感じていますか？多くの人が直面する問題は、自分...]]>
+皆さん、Webサイトを作成したいと思ったことはありませんか？でも、プログラミングの知識がなくて、挫折してしまった経...]]>
 
 
 記事一覧:
+  • エックスサーバー、AIエージェントとの対話でWebサイト制作をもっと手軽に!「サイト作成・公開スキル」を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • 島根県浜田市の日本海信用金庫と業務提携 (出典: Pr Times, 信頼度: 7.5/10)
+  • 重要事項説明調査の「一次スクリーニング」を自動化--不動産鑑定士が個人開発したClaude Skill「重調クン」を公開、宅地建物取引業法35条書面49項目に対応 (出典: Pr Times, 信頼度: 8.5/10)
+  • Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続 (出典: Coindesk Japan, 信頼度: 9.7/10)
   • MS、炭素回収を一時停止で業界激震/初の原子力推進で火星へ NASA「強気すぎる」計画 (出典: Ascii, 信頼度: 7.5/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-04-28T02:47:04.543339</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1777344424</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+        <category>skill おすすめ</category>
+        <pubDate>2026-04-28T22:06:14.086635</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ_1_1777413974</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+    </item>
+    <item>
+        <title>エピソード 2: 思想 おすすめ</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 おすすめ】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Mynavi News】
+信頼度スコア: 7.5/10
+
+**problem**
+こんな悩みありませんか？仕事の成果は出ているのに、会社の業績が思うように上がらない。会社の業績が上がらないと、自分の成果が...]]>
+
+
+記事一覧:
+  • 富士通、2025年度決算は減収増益で過去最高益を更新 - 次期中計にも時田CEOが言及 (出典: Mynavi News, 信頼度: 7.5/10)
+  • 【ボナベンチュラ】大人が買うべき「トートバッグ」BEST30|上品さを極めたワンランク上のキャンバストート(UOMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「普通のシャツとTシャツで」コーディネートが可愛くなる簡単テクニック(GISELe) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【大人のユニクロ】GWの「期間限定セール」、大人気のバギージーンズも「ユニクロ:シー」スウェットパンツも1,000円引き!(UOMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【大人が選ぶべきローファースニーカー】ヴァンズのプレミアムライン最新作はスタッズ付き(UOMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 【大人のリーバイス®】完売必至。サッカーの祭典に向けた、今しか手に入らない特別な「Type I Jacket」を手に入れろ!(UOMO) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 股関節が硬い人こそやるべき。1日5分で“しなやかな美脚”を作る最新トレ「バレリーナ風スクワット」の驚きの効果【海外】(ウィメンズヘルス) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>思想 おすすめ</category>
+        <pubDate>2026-04-28T22:06:14.086696</pubDate>
+        <guid isPermaLink="false">episode_思想 おすすめ_2_1777413974</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
     </item>
     </channel>
 </rss>
