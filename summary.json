@@ -1,95 +1,50 @@
 {
-  "generated_at": "2026-04-27T22:00:23.320160",
+  "generated_at": "2026-04-28T02:47:04.543081",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 比較_20260427_215956",
-      "theme": "占い 比較",
+      "name": "episode_skill 活用_20260428_024649",
+      "theme": "skill 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "母の日ギフト白書 2026年版、無料公開。母の日ギフト商戦のトレンド・傾向をアンケート統計調査から紐解く。10~70代の男女(計1,235名)を対象にした母の日プレゼント・ギフトに関する調査を公開。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "底地という言葉を知っていますか?【アンケート結果発表】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日鉄鉱業【1515】株価2倍でも出遅れ感の理由は? チリの新銅山が拓く成長ストーリーと注意したい財務リスク(Finasee)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ベアードがセンシエント・テクノロジーズ株のアウトパフォーム評価を目標株価125ドルで再確認",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ジェフリーズがサイバー成長を理由にルブリック株をバイ評価で開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "単なる「吉祥寺ブランド」だけじゃない、武蔵野市のマンション価格が高騰するカラクリとは",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "小型PCの新たなロマン!うっすいのにデスクトップグラボ搭載の高性能、「アトマン」を試してみた",
+          "title": "MS、炭素回収を一時停止で業界激震/初の原子力推進で火星へ NASA「強気すぎる」計画",
           "source": "Ascii",
-          "trust_score": 7.0
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_思想 おすすめ_20260427_220016",
-      "theme": "思想 おすすめ",
-      "status": "success",
+      "name": "episode_MCP おすすめ 理由_20260428_024657",
+      "theme": "MCP おすすめ 理由",
+      "status": "partial",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "元レッドブル代表ホーナーがMotoGPを訪問。リバティ傘下で見せる急成長に関心を隠さず「今は興味深い時期」",
-          "source": "Auto Sport",
+          "title": "Boomi、Boomi World 2026でデータ活用とAI主導イノベーションの未来を提示",
+          "source": "Businesswire",
           "trust_score": 7.5
         },
         {
-          "title": "初夏を前に羊の衣替え! 毛刈りをする理由とは? 村山産業高校の生徒たちが毛刈りに挑戦!(山形)(テレビユー山形)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【巧妙化】偽アプリで「利益が出ている」と錯覚...オホーツク管内の40代男性が3600万円のSNS型投資詐欺被害(HTB北海道ニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【中継】大槌町中心部の状況は(テレビ岩手ニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【りんごはこうやって食べてみて】もう何回作ったか分かりません!オーブン不要、りんごのおやつレシピ3選",
-          "source": "ハフポスト",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ローソンストア100、シュークリームを138円→106円に値下げ(Impress Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "2ページ目 石川のトップ交代から1か月 山野之義知事 県政運営に向け「身近な知事と思ってもらえるように」",
-          "source": "日テレnews Nnn",
+          "title": "Grafana Labs、新たなAI向けオブザーバビリティツールを発表",
+          "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "無料でプログラミングの専門知識がなくてもAIエージェントやワークフローを作成できるローコードプラットフォーム「Langflow」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "x402 FoundationがLinux Foundation傘下で発足──22社参加とAgentic.Market公開が示すエージェント決済の標準化【MCB FinTechカタログ通信】",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
         }
       ]
     }
