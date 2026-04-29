@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T22:06:14.086195",
+  "generated_at": "2026-04-29T02:46:53.631947",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260428_220548",
-      "theme": "skill おすすめ",
+      "name": "episode_skill おすすめ 理由_20260429_024631",
+      "theme": "skill おすすめ 理由",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
@@ -17,69 +17,54 @@
           "trust_score": 8.0
         },
         {
-          "title": "島根県浜田市の日本海信用金庫と業務提携",
-          "source": "Pr Times",
-          "trust_score": 7.5
-        },
-        {
-          "title": "重要事項説明調査の「一次スクリーニング」を自動化--不動産鑑定士が個人開発したClaude Skill「重調クン」を公開、宅地建物取引業法35条書面49項目に対応",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
           "title": "Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続",
           "source": "Coindesk Japan",
           "trust_score": 9.7
-        },
-        {
-          "title": "MS、炭素回収を一時停止で業界激震/初の原子力推進で火星へ NASA「強気すぎる」計画",
-          "source": "Ascii",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_思想 おすすめ_20260428_220606",
-      "theme": "思想 おすすめ",
+      "name": "episode_MCP 方法_20260429_024646",
+      "theme": "MCP 方法",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "富士通、2025年度決算は減収増益で過去最高益を更新 - 次期中計にも時田CEOが言及",
-          "source": "Mynavi News",
+          "title": "広島テレビ系にて紹介 AIサービス「MCP on」がアップデート",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "2026年4月28日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "【ボナベンチュラ】大人が買うべき「トートバッグ」BEST30|上品さを極めたワンランク上のキャンバストート(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "累計2,200社利用の広告データプラットフォーム「動画広告分析Pro」を提供するKASHIKA社に、AX代表・石綿文太が社外CAIOとして参画。AI駆動型マーケティングエージェントの共同開発体制を構築",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "「普通のシャツとTシャツで」コーディネートが可愛くなる簡単テクニック(GISELe)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Gainsight、MCPに正式対応",
+          "source": "Pr Times",
+          "trust_score": 7.5
         },
         {
-          "title": "【大人のユニクロ】GWの「期間限定セール」、大人気のバギージーンズも「ユニクロ:シー」スウェットパンツも1,000円引き!(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Zuora AI、Quote-to-Cashプロセスの生産性を大幅に向上させるAIエージェントをリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "【大人が選ぶべきローファースニーカー】ヴァンズのプレミアムライン最新作はスタッズ付き(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "MathWorks、MATLAB と Simulink の Release 2026a で組み込みシステム開発に信頼できる AI を提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "【大人のリーバイス®】完売必至。サッカーの祭典に向けた、今しか手に入らない特別な「Type I Jacket」を手に入れろ!(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "股関節が硬い人こそやるべき。1日5分で“しなやかな美脚”を作る最新トレ「バレリーナ風スクワット」の驚きの効果【海外】(ウィメンズヘルス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "純国産で国内利用機器の把握を意識したプローブ群を備える「Senda-Radar」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
