@@ -8,32 +8,61 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-28T02:47:04.543370</lastBuildDate>
+        <lastBuildDate>2026-04-29T02:46:53.632248</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 活用</title>
+        <title>エピソード 1: Skill おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
+本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Ascii】
-信頼度スコア: 7.5/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
 
-**hook（150文字）**
-みなさん、現在の仕事や生活で、自分が持っているスキルを最大限に活用できていると感じていますか？多くの人が直面する問題は、自分...]]>
+**hook**
+こんにちは、みなさん。今日は、ウェブサイト制作のスキルについて話していきたいと思います。ウェブサイトを作成することは、多く...]]>
 
 
 記事一覧:
-  • MS、炭素回収を一時停止で業界激震/初の原子力推進で火星へ NASA「強気すぎる」計画 (出典: Ascii, 信頼度: 7.5/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-04-28T02:47:04.543339</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1777344424</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+  • エックスサーバー、AIエージェントとの対話でWebサイト制作をもっと手軽に!「サイト作成・公開スキル」を公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • Gemini、AIエージェントによる暗号資産取引機能を発表──MCP経由でChatGPTやClaudeと接続 (出典: Coindesk Japan, 信頼度: 9.7/10)</description>
+        <category>skill おすすめ 理由</category>
+        <pubDate>2026-04-29T02:46:53.632192</pubDate>
+        <guid isPermaLink="false">episode_skill おすすめ 理由_1_1777430813</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+    </item>
+    <item>
+        <title>エピソード 2: Mcp 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**problem**
+こんな悩みありませんか？仕事の効率化を図りたいのに、現状の業務プロセスが改善できず、時間と労力が無駄に費やされている。特に、複雑な...]]>
+
+
+記事一覧:
+  • 広島テレビ系にて紹介 AIサービス「MCP on」がアップデート (出典: Pr Times, 信頼度: 8.0/10)
+  • 2026年4月28日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • 累計2,200社利用の広告データプラットフォーム「動画広告分析Pro」を提供するKASHIKA社に、AX代表・石綿文太が社外CAIOとして参画。AI駆動型マーケティングエージェントの共同開発体制を構築 (出典: Pr Times, 信頼度: 8.5/10)
+  • Gainsight、MCPに正式対応 (出典: Pr Times, 信頼度: 7.5/10)
+  • Zuora AI、Quote-to-Cashプロセスの生産性を大幅に向上させるAIエージェントをリリース (出典: Pr Times, 信頼度: 8.0/10)
+  • MathWorks、MATLAB と Simulink の Release 2026a で組み込みシステム開発に信頼できる AI を提供 (出典: Pr Times, 信頼度: 8.0/10)
+  • 純国産で国内利用機器の把握を意識したプローブ群を備える「Senda-Radar」を提供開始 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-04-29T02:46:53.632233</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_2_1777430813</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
     </item>
     </channel>
 </rss>
