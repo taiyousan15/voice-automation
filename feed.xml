@@ -4,19 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-29T22:06:36.429792</lastBuildDate>
+        <lastBuildDate>2026-04-30T02:47:53.472595</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp 比較</title>
+        <title>エピソード 1: Skill 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 比較】に関する最新ニュースをお届けします。
+本日は、【skill 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -25,73 +25,16 @@
 信頼度スコア: 8.0/10
 
 **hook**
-こんにちは、今日はあなたのビジネスが直面している課題について話したいと思います。Quote-to-Cashプロセス、つまり見積もりから請...]]>
+こんにちは、みんな。今日は、スキルを身につけることの重要性について話したいと思います。私たちは、日々の生活の中で新しいスキルを学ぶ機...]]>
 
 
 記事一覧:
-  • Zuora AI、Quote-to-Cashプロセスの生産性を大幅に向上させるAIエージェントをリリース (出典: Pr Times, 信頼度: 8.0/10)
-  • 株式会社アンド・ディ、「観光庁:インバウンド消費動向調査」の最新分析レポートを無料公開(国内162エリア別) (出典: Pr Times, 信頼度: 8.0/10)
-  • 人事評価SaaS「Scale人事評価」がリモートMCPサーバーをリリース--AIエージェントが評価データに直接アクセスし、評価業務の完全自動化を実現 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>MCP 比較</category>
-        <pubDate>2026-04-29T22:06:36.429660</pubDate>
-        <guid isPermaLink="false">episode_MCP 比較_1_1777500396</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%AF%94%E8%BC%83/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: 哲学 おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.5/10
-
-**problem**
-こんな悩みありませんか？新しいアイドルグループのデビューを待ち望んでいるのに、その裏側のストーリーやメンバーの個性がよくわ...]]>
-
-
-記事一覧:
-  • 「ABEMA」新番組、全員10代の日本人ボーイズグループ・VIBY誕生の裏側に迫る 『VIBY 1329 The night before debut』いよいよ今夜10時10分より放送開始! (出典: Pr Times, 信頼度: 8.5/10)
-  • 【新スローガン発表】明治大学特化総合型選抜コーチが「やらないことリストが、合格を決める。」を掲げ、140名合格へ向けて始動 (出典: Pr Times, 信頼度: 8.0/10)
-  • GDC 2026のセッション映像や資料は公式アーカイブ「GDC Vault」で公開中。4Gamerの現地取材記事をまとめて紹介 (出典: 4gamer.net, 信頼度: 7.5/10)
-  • 近年のゲームに「パリィ」採用例が増えている理由はなぜか?ゲームデザイナーが「合理性」と「歴史」の文脈で考えてみる (出典: Automaton, 信頼度: 7.0/10)
-  • エマニュエル・トッドが暴く「悪の教え」としての経済合理主義 利他性なき社会が少子化スパイラルを加速させる(AERA DIGITAL) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【佐藤優】古典・名著に挑戦しては挫折してしまう。ポイントはコンサルと「7回読み」 (出典: Business Insider, 信頼度: 7.5/10)
-  • どこでもサイエンス 第317回 虹を見て考えた人 (出典: Mynavi News, 信頼度: 8.5/10)</description>
-        <category>哲学 おすすめ 理由</category>
-        <pubDate>2026-04-29T22:06:36.429714</pubDate>
-        <guid isPermaLink="false">episode_哲学 おすすめ 理由_2_1777500396</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-    </item>
-    <item>
-        <title>エピソード 3: Claude code おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Investing- Fx】
-信頼度スコア: 6.5/10
-
-**intro**
-こんにちは、皆さん。今日は、Amazonが発表したデスクトップAIアシスタント「Quick」について...]]>
-
-
-記事一覧:
-  • Amazon、職場生産性向上のためのデスクトップAIアシスタント「Quick」を発表 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 株式会社Uravation、AIエージェント「OpenClaw」を活用した法人向け研修プログラムを提供開始 (出典: Pr Times, 信頼度: 8.0/10)
-  • 2026年4月28日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 【AI組織変革】AIネイティブ時代の組織デザイン。次世代人材ポートフォリオの正解とは?|5/21(木)・5/28(木)開催 (出典: Pr Times, 信頼度: 8.0/10)
-  • WordPress専用のAIコーディングCLIツール「Studio Code」ベータ版の無料提供が開始 (出典: Gigazine, 信頼度: 7.5/10)
-  • Zoom、Claude との連携により AI ワークフローでのミーティング インテリジェンスの活用を実現 (出典: Pr Times, 信頼度: 8.0/10)
+  • 【DPC KOBE】ゴールデンウィーク・ピックルボール特別イベントを開催 親子体験から団体戦・シングルスまで4プログラムを展開 (出典: Pr Times, 信頼度: 8.0/10)
   • エックスサーバー、AIエージェントとの対話でWebサイト制作をもっと手軽に!「サイト作成・公開スキル」を公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>Claude Code おすすめ</category>
-        <pubDate>2026-04-29T22:06:36.429777</pubDate>
-        <guid isPermaLink="false">episode_Claude Code おすすめ_3_1777500396</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/3</link>
+        <category>skill 方法</category>
+        <pubDate>2026-04-30T02:47:53.472563</pubDate>
+        <guid isPermaLink="false">episode_skill 方法_1_1777517273</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
     </item>
     </channel>
 </rss>

@@ -1,113 +1,18 @@
 {
-  "generated_at": "2026-04-29T22:06:36.429203",
-  "total_episodes": 3,
+  "generated_at": "2026-04-30T02:47:53.472336",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260429_220547",
-      "theme": "MCP 比較",
+      "name": "episode_skill 方法_20260430_024746",
+      "theme": "skill 方法",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Zuora AI、Quote-to-Cashプロセスの生産性を大幅に向上させるAIエージェントをリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "株式会社アンド・ディ、「観光庁:インバウンド消費動向調査」の最新分析レポートを無料公開(国内162エリア別)",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "人事評価SaaS「Scale人事評価」がリモートMCPサーバーをリリース--AIエージェントが評価データに直接アクセスし、評価業務の完全自動化を実現",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260429_220609",
-      "theme": "哲学 おすすめ 理由",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「ABEMA」新番組、全員10代の日本人ボーイズグループ・VIBY誕生の裏側に迫る 『VIBY 1329 The night before debut』いよいよ今夜10時10分より放送開始!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【新スローガン発表】明治大学特化総合型選抜コーチが「やらないことリストが、合格を決める。」を掲げ、140名合格へ向けて始動",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "GDC 2026のセッション映像や資料は公式アーカイブ「GDC Vault」で公開中。4Gamerの現地取材記事をまとめて紹介",
-          "source": "4gamer.net",
-          "trust_score": 7.5
-        },
-        {
-          "title": "近年のゲームに「パリィ」採用例が増えている理由はなぜか?ゲームデザイナーが「合理性」と「歴史」の文脈で考えてみる",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "エマニュエル・トッドが暴く「悪の教え」としての経済合理主義 利他性なき社会が少子化スパイラルを加速させる(AERA DIGITAL)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【佐藤優】古典・名著に挑戦しては挫折してしまう。ポイントはコンサルと「7回読み」",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        },
-        {
-          "title": "どこでもサイエンス 第317回 虹を見て考えた人",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ_20260429_220629",
-      "theme": "Claude Code おすすめ",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Amazon、職場生産性向上のためのデスクトップAIアシスタント「Quick」を発表",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "株式会社Uravation、AIエージェント「OpenClaw」を活用した法人向け研修プログラムを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年4月28日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【AI組織変革】AIネイティブ時代の組織デザイン。次世代人材ポートフォリオの正解とは?|5/21(木)・5/28(木)開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "WordPress専用のAIコーディングCLIツール「Studio Code」ベータ版の無料提供が開始",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Zoom、Claude との連携により AI ワークフローでのミーティング インテリジェンスの活用を実現",
+          "title": "【DPC KOBE】ゴールデンウィーク・ピックルボール特別イベントを開催 親子体験から団体戦・シングルスまで4プログラムを展開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
