@@ -8,33 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-04-30T02:47:53.472595</lastBuildDate>
+        <lastBuildDate>2026-05-01T02:54:17.359825</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-こんにちは、みんな。今日は、スキルを身につけることの重要性について話したいと思います。私たちは、日々の生活の中で新しいスキルを学ぶ機...]]>
-
-
-記事一覧:
-  • 【DPC KOBE】ゴールデンウィーク・ピックルボール特別イベントを開催 親子体験から団体戦・シングルスまで4プログラムを展開 (出典: Pr Times, 信頼度: 8.0/10)
-  • エックスサーバー、AIエージェントとの対話でWebサイト制作をもっと手軽に!「サイト作成・公開スキル」を公開 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-04-30T02:47:53.472563</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_1_1777517273</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
-    </item>
     </channel>
 </rss>

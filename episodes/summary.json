@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-04-30T02:47:53.472336",
-  "total_episodes": 1,
+  "generated_at": "2026-05-01T02:54:17.359638",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill 方法_20260430_024746",
-      "theme": "skill 方法",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【DPC KOBE】ゴールデンウィーク・ピックルボール特別イベントを開催 親子体験から団体戦・シングルスまで4プログラムを展開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "エックスサーバー、AIエージェントとの対話でWebサイト制作をもっと手軽に!「サイト作成・公開スキル」を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
