@@ -1,45 +1,125 @@
 {
-  "generated_at": "2026-05-02T02:36:10.037435",
-  "total_episodes": 1,
+  "generated_at": "2026-05-02T21:52:40.649022",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260502_023603",
-      "theme": "skill 活用",
+      "name": "episode_占い 比較_20260502_215158",
+      "theme": "占い 比較",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【新サービス】Ragate株式会社、OpenClaw AX 提供開始",
+          "title": "入荷されても飛ぶように売れて即完売!全然買えない(泣)【コストコ】SNS「震えるほどウマい...」感動する人続出!バズヒットスイーツ3選",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能をアップデート!SNSで目を惹くイラスト・図解入りの縦型形式のクリエイティブのAI自動生成に対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能をアップデート!イラスト・図解を駆使したビジュアル表現に優れたフィード・カルーセル投稿用スライドの自動生成に対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "米国ゲーマーの約4割が、「独占タイトルがあるから」コンソールでゲームを遊ぶと回答。割合は減少傾向も、未だ根強い独占タイトルの存在",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "井上尚弥vs中谷潤人「世紀の一戦」元世界2階級王者の予想は「終盤に...」",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『対話からの出発』吉田健一対談集 第5章『被災者が被災者支援の活動をおこす』読書会開催のお知らせ",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「髪型で人生は変わる」メンズ美容の新潮流を体現「KANTAN SERIES STYLING SHOW 2026」開催",
+          "title": "『対話からの出発』吉田健一対談集 第4章 『児童虐待とは何か、その対応は?』読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ 理由_20260502_215217",
+      "theme": "哲学 おすすめ 理由",
+      "status": "partial",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【作っただけでは勝ち残れない!】ご当地カレーを成功に導くための秘訣とは?成功例からプロが学術的に解説します ≪【カレー地域社会学】横須賀海軍カレーの成功の秘密≫動画公開キャンペーン",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "日経トレンディ「上半期ヒット大賞&下半期ブレイク予測」を発表。12のワードで消費トレンドが浮き彫りに",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【130名合格へ】立命館大学特化総合型選抜コーチが「やることを絞れ。時間は有限だ。」をスローガンに刷新",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "業界初※チャットだけで米国株の自動売買を実現する「Moomoo API Skill」を提供開始 - moomoo証券",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2025年SMBグロース企業賞が決定/下半期50社公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows>",
+          "title": "【作っただけでは勝ち残れない!】ご当地カレーを成功に導くための秘訣とは?成功例からプロが学術的に解説します ≪【カレー地域社会学】横須賀海軍カレーの成功の秘密≫動画公開キャンペーン",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows>",
+          "title": "大麻論争とBIGBANG脱退を経て再始動...T.O.P、女優ナナをMVに起用した理由を告白「正体不明の魅力」",
+          "source": "スマートニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【新スローガン発表】東京外国語大学特化総合型選抜コーチが「捨てる技術が、受験を制する。」を掲げ、90名合格へ向けて始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【新スローガン発表】東京外国語大学特化総合型選抜コーチが「捨てる技術が、受験を制する。」を掲げ、90名合格へ向けて始動",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260502_215228",
+      "theme": "哲学 比較",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "だから中国・朝鮮を\"悪友\"と見下し、切り捨てた...福沢諭吉が『脱亜論』で伝えたかった\"切実な本音\"(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "だから中国・朝鮮を\"悪友\"と見下し、切り捨てた...福沢諭吉が『脱亜論』で伝えたかった\"切実な本音\"",
+          "source": "President Online",
+          "trust_score": 7.0
+        },
+        {
+          "title": "宗教・科学・芸術の三つの分野にまたがって展開した知られざる「もう一つのロシア」―乗松 亨平『ロシア宇宙主義全史 神化思想からトランスヒューマニズム・人新世へ』沼野 充義による書評(ALL REVIEWS)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "岩手大、クジラ肉成分「バレニン」にパーキンソン病抑制の可能性を確認",
+          "source": "Mynavi News",
+          "trust_score": 8.0
         }
       ]
     }
