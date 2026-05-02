@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-05-01T21:59:13.196864",
+  "generated_at": "2026-05-02T02:36:10.037435",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ_20260501_215906",
-      "theme": "Claude Code おすすめ",
+      "name": "episode_skill 活用_20260502_023603",
+      "theme": "skill 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【デジライズ】法人向けプログラム「Claude Code法人導入支援」を正式提供開始 - 動画60本×ハンズオン×伴走支援で\"現場が自走するAI駆動経営\"を実現、先着10社で受付開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "株式会社Reaf、Claude Cowork法人向け企業研修を提供開始!! ~AIで業務自動化・効率化、リスキリング助成金で最大75%オフ~",
+          "title": "【新サービス】Ragate株式会社、OpenClaw AX 提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AI生成コードを含むプルリクエストを一律禁止にするべき理由がよくわかる「貢献者ポーカー」とは?",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "実践型AIスクール「AI+」応用専門講座、第一弾5講座を2026年5月1日(金)より開講",
+          "title": "「髪型で人生は変わる」メンズ美容の新潮流を体現「KANTAN SERIES STYLING SHOW 2026」開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -37,14 +27,19 @@
           "trust_score": 8.0
         },
         {
-          "title": "【Databeat】無料eBook「AI時代の広告担当者のためのBigQuery入門」配布開始のお知らせ",
+          "title": "2025年SMBグロース企業賞が決定/下半期50社公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "グーグルのコードの75%は生成AIが作成...コードの移行作業は6倍の速さに",
-          "source": "Business Insider",
-          "trust_score": 7.0
+          "title": "和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows>",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows>",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
