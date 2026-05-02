@@ -8,10 +8,37 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-01T02:54:17.359825</lastBuildDate>
+        <lastBuildDate>2026-05-02T02:36:10.037686</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Skill 活用</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Pr Times】
+信頼度スコア: 8.0/10
+
+**hook**
+あなたは、自分のスキルを活かして、仕事や生活で満足感を得ることができていますか？ 多くの人々は、自分の能力を十分に活用できずに、日々...]]>
+
+
+記事一覧:
+  • 【新サービス】Ragate株式会社、OpenClaw AX 提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「髪型で人生は変わる」メンズ美容の新潮流を体現「KANTAN SERIES STYLING SHOW 2026」開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 業界初※チャットだけで米国株の自動売買を実現する「Moomoo API Skill」を提供開始 - moomoo証券 (出典: Pr Times, 信頼度: 8.0/10)
+  • 2025年SMBグロース企業賞が決定/下半期50社公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • 和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows> (出典: Pr Times, 信頼度: 8.5/10)
+  • 和菓子作りや胡弓演奏体験など「将軍ゆかりの地」神楽坂を舞台に江戸の精神に触れる贅沢な体験! 『神楽坂で体感するSHOGUN文化』開催決定<English Follows> (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-05-02T02:36:10.037654</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1777689370</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
+    </item>
     </channel>
 </rss>
