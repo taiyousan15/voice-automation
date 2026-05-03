@@ -4,67 +4,67 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-02T21:52:40.650162</lastBuildDate>
+        <lastBuildDate>2026-05-03T02:47:12.245727</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: 占い 比較</title>
+        <title>エピソード 1: Mcp 方法</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 比較】に関する最新ニュースをお届けします。
+本日は、【MCP 方法】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Yomuno】
+【セクション 1: Gigazine】
 信頼度スコア: 7.5/10
 
 **hook（150文字）**
-こんにちは、今日は占いについて話します。占いは、人生の選択や将来についての不安を払拭するために行われることが多いですが、実際に占...]]>
+こんにちは、みんな。今日は、アイカツ！の最新ニュースで盛り上がっていますね。2026年秋から、テーマパークの新アトラクショ...]]>
 
 
 記事一覧:
-  • 入荷されても飛ぶように売れて即完売!全然買えない(泣)【コストコ】SNS「震えるほどウマい...」感動する人続出!バズヒットスイーツ3選 (出典: Yomuno, 信頼度: 7.5/10)
-  • 株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能をアップデート!SNSで目を惹くイラスト・図解入りの縦型形式のクリエイティブのAI自動生成に対応 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • 株式会社Mavericksは、動画生成AI「NoLang」のスライド生成機能をアップデート!イラスト・図解を駆使したビジュアル表現に優れたフィード・カルーセル投稿用スライドの自動生成に対応 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • 米国ゲーマーの約4割が、「独占タイトルがあるから」コンソールでゲームを遊ぶと回答。割合は減少傾向も、未だ根強い独占タイトルの存在 (出典: Automaton, 信頼度: 7.0/10)
-  • 井上尚弥vs中谷潤人「世紀の一戦」元世界2階級王者の予想は「終盤に...」 (出典: ライブドアニュース, 信頼度: 7.5/10)
-  • 『対話からの出発』吉田健一対談集 第5章『被災者が被災者支援の活動をおこす』読書会開催のお知らせ (出典: Pr Times, 信頼度: 8.0/10)
-  • 『対話からの出発』吉田健一対談集 第4章 『児童虐待とは何か、その対応は?』読書会開催のお知らせ (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>占い 比較</category>
-        <pubDate>2026-05-02T21:52:40.649447</pubDate>
-        <guid isPermaLink="false">episode_占い 比較_1_1777758760</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/1</link>
+  • 2026年5月1日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
+  • 「Claude Codeのライバル」Codex 非エンジニアにも分かりやすく解説 (出典: ライブドアニュース, 信頼度: 7.5/10)
+  • 【デジライズ】法人向けプログラム「Claude Code法人導入支援」を正式提供開始 - 動画60本×ハンズオン×伴走支援で"現場が自走するAI駆動経営"を実現、先着10社で受付開始 (出典: Pr Times, 信頼度: 8.5/10)
+  • 【イベントレポート】「作る」から「問いを立てる」時代へ。最前線のエンジニアたちが語る、AIと協働する次世代の働き方とマネジメント (出典: Pr Times, 信頼度: 8.0/10)
+  • 【イベントレポート】「作る」から「問いを立てる」時代へ。最前線のエンジニアたちが語る、AIと協働する次世代の働き方とマネジメント (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
+  • 実践型AIスクール「AI+」応用専門講座、第一弾5講座を2026年5月1日(金)より開講 (出典: Pr Times, 信頼度: 8.0/10)
+  • Boomi、年次ユーザーカンファレンス「Boomi World 2026」でデータ活用とAI主導イノベーションの未来を提示 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 方法</category>
+        <pubDate>2026-05-03T02:47:12.245675</pubDate>
+        <guid isPermaLink="false">episode_MCP 方法_1_1777776432</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/1</link>
     </item>
     <item>
-        <title>エピソード 2: 哲学 比較</title>
+        <title>エピソード 2: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 比較】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
+【セクション 1: 財経新聞：経済・株式の最新ニュース】
+信頼度スコア: 7.5/10
 
-**intro**（150文字）
-こんにちは、今日は哲学の分野に焦点を当てた特別なテーマを紹介します。福沢諭吉が唱えた「脱亜論」について、多くの人々が...]]>
+**problem**
+こんな悩みありませんか？自分を表現するために、外見を変える方法を探しているのに、どれも自分に合わないという人...]]>
 
 
 記事一覧:
-  • だから中国・朝鮮を"悪友"と見下し、切り捨てた...福沢諭吉が『脱亜論』で伝えたかった"切実な本音"(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • だから中国・朝鮮を"悪友"と見下し、切り捨てた...福沢諭吉が『脱亜論』で伝えたかった"切実な本音" (出典: President Online, 信頼度: 7.0/10)
-  • 宗教・科学・芸術の三つの分野にまたがって展開した知られざる「もう一つのロシア」―乗松 亨平『ロシア宇宙主義全史 神化思想からトランスヒューマニズム・人新世へ』沼野 充義による書評(ALL REVIEWS) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 岩手大、クジラ肉成分「バレニン」にパーキンソン病抑制の可能性を確認 (出典: Mynavi News, 信頼度: 8.0/10)</description>
-        <category>哲学 比較</category>
-        <pubDate>2026-05-02T21:52:40.650135</pubDate>
-        <guid isPermaLink="false">episode_哲学 比較_2_1777758760</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%AF%94%E8%BC%83/2</link>
+  • 「髪型で人生は変わる」メンズ美容の新潮流を体現「KANTAN SERIES STYLING SHOW 2026」開催 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 【新サービス】Ragate株式会社、OpenClaw AX 提供開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「髪型で人生は変わる」メンズ美容の新潮流を体現「KANTAN SERIES STYLING SHOW 2026」開催 (出典: Pr Times, 信頼度: 8.0/10)
+  • 業界初※チャットだけで米国株の自動売買を実現する「Moomoo API Skill」を提供開始 - moomoo証券 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-05-03T02:47:12.245712</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_2_1777776432</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/2</link>
     </item>
     </channel>
 </rss>
