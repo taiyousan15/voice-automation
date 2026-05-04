@@ -1,25 +1,70 @@
 {
-  "generated_at": "2026-05-04T02:44:23.589295",
-  "total_episodes": 1,
+  "generated_at": "2026-05-04T22:09:34.353125",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260504_024416",
-      "theme": "MCP 活用",
+      "name": "episode_哲学 方法_20260504_220917",
+      "theme": "哲学 方法",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
-          "source": "Gizmodo",
+          "title": "魔法図書館お片付けシム『司書のお仕事:魔導図書館を片付けろ!』さっそく盛況。散らかった3072冊の本をひたすら整理、「なぜか止められない」と評判の魔法司書ワーク",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "韓国が開発銀行のAI拠点に ADB総裁とMOU締結(聯合ニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "2026年下半期の運勢|ホロスコープで占う、あなたの全運勢と転機。公式サイトにて一般公開中",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【どっちが正解?カレーは「出来たて」OR「一晩寝かせる」】当たり前の思考にキッカケがあった!≪【カレーうんちく学】『一晩寝かせると美味い』は本当か?~起源となった意外な事件~≫動画公開キャンペーン",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "永島健志によるガストロノミー『81』が白金で再始動 ── 食とアートが交差する新章へ",
+          "source": "Hypebeast. Jp",
           "trust_score": 7.5
         },
         {
-          "title": "GoogleのローカルLLM「Gemma 4」は本当に無料で使えるのか",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
+          "title": "上智大学特化総合型選抜コーチ、新スローガン「遠回りをやめた時、合格が見えた。」発表~120名合格達成を目指しリブランディング実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "TOEICで満点を取るより英語を話せるようになる方法とは? 世界の超一流知識人に英語で取材する国際ジャーナリストが伝授【大野和基インタビュー 前編】(集英社オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20260504_220922",
+      "theme": "skill おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【GWに親子で楽しめる体験型フェス】吉田ちか活動15周年の感謝を込めて「CREATE YOUR DOT」開催!日時:5月5日(火・祝)10:00-19:00、会場:BE STAGE代々木",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【GWに親子で楽しめる体験型フェス】吉田ちか活動15周年の感謝を込めて「CREATE YOUR DOT」開催!日時:5月5日(火・祝)10:00-19:00、会場:BE STAGE代々木",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
