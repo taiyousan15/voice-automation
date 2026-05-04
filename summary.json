@@ -1,155 +1,25 @@
 {
-  "generated_at": "2026-05-03T21:55:03.550741",
-  "total_episodes": 4,
+  "generated_at": "2026-05-04T02:44:23.589295",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ 理由_20260503_215315",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_MCP 活用_20260504_024416",
+      "theme": "MCP 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "まだ間に合う! 見逃し厳禁の2026年アニメ 忙しい人のための厳選ガイド",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "元ばんばんざい流那「1人で立てる様に」娘の顔出しショット公開「はんくんの眼差しが優しい」「あっという間に成長してる」と反響",
-          "source": "Model Press",
-          "trust_score": 8.5
-        },
-        {
-          "title": "パッションを秘めた女子大学生4人が生み出す、独特の空気感がクセになる。漫画『We are connected』",
-          "source": "Ananweb",
-          "trust_score": 6.5
-        },
-        {
-          "title": "パウンドケーキを焼こうと思います。表面にこれを敷き詰めて焼いたら、焼き上がりはどんな感じになると思う?",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "うますぎて震えた...【厚揚げはこの食べ方が最高!】「照り照り」「とろ〜り」\"詰め込むだけ\"で禁断の味",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【そのカップ麺の食べ方、危険だからやめてーー!】調理師「国民生活センターやメーカー各社もNGと言っていて...」→理由に思わず\"ゾッ...!\"",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "櫻坂46山崎天、涙流した「5thアニラ」リハ裏話 副キャプテン就任の心境・後輩とのプライベート交流も【インタビュー】",
-          "source": "Model Press",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 活用_20260503_215317",
-      "theme": "Claude Code 活用",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "けっこう実用的。「OpenCode」×ローカルLLMで“無料Claude Code”してみた",
+          "title": "みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
           "source": "Gizmodo",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 比較_20260503_215337",
-      "theme": "思想 比較",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "日本ハム北山亘基が2年ぶり完封 「いつかエースと呼ばれるように」",
-          "source": "朝日新聞デジタル",
+          "title": "GoogleのローカルLLM「Gemma 4」は本当に無料で使えるのか",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "私と彼氏は、世界旅行中に会社を設立した。1年後には、売上高が約51億円に達している",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        },
-        {
-          "title": "48歳でFIREした男性が伝授する、ミリオネアになるための投資法。そして、もっとも役立ったアドバイスとは?",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        },
-        {
-          "title": "マクラーレンは2年連続スプリントでワン・ツー。ノリス「マシンの性能を最大限に引き出せた」予選では気温と風に苦戦",
-          "source": "Auto Sport",
-          "trust_score": 7.5
-        },
-        {
-          "title": "論文に反論するのではなく相手しない方がいい?研究者の中でも意見の分かれる議論に",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【受験の哲学を刷新】大阪大学特化総合型選抜コーチが「無駄を断った先に、逆転がある。」のスローガンで100名合格を目指す",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【母の日特別企画】2026年版 理想の母親像がついに決定! 3,077人が選んだ「お母さんになってほしい芸能人・有名人ランキング TOP20」発表。年代別も公開。栄えある第1位に輝いたのは!?",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260503_215403",
-      "theme": "占い 比較",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「ナンシー・グレース・ローマン宇宙望遠鏡」について知っておくべきこと",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "海外から見た日本の鉄道網の分析、日本はどのように「21世紀最強の鉄道システム」を築き上げたのか",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "約25%以上が無症状で性病感染ー256人のアンケートから分かる性感染症の実態。マッチングアプリや性風俗サービスから広がる\"身近な人\"からの感染",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『対話からの出発』吉田健一対談集第7章『自治体を信頼される政治をつくる』読書会開催のお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『対話からの出発』吉田健一対談集第6章『本当の市民自治をどう実現するか?』読書会開催のお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『対話からの出発』吉田健一対談集第7章『自治体を信頼される政治をつくる』読書会開催のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『対話からの出発』吉田健一対談集第6章『本当の市民自治をどう実現するか?』読書会開催のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
