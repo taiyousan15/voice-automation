@@ -8,33 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-04T02:44:23.589491</lastBuildDate>
+        <lastBuildDate>2026-05-05T02:37:04.133296</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Gizmodo】
-信頼度スコア: 7.5/10
-
-**hook**
-みんなこれでいいAIって思いますか？最近、Googleの最新ローカルLLM「Gemma 4」が話題になっています。無料で利用できるこのAI...]]>
-
-
-記事一覧:
-  • みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料 (出典: Gizmodo, 信頼度: 7.5/10)
-  • GoogleのローカルLLM「Gemma 4」は本当に無料で使えるのか (出典: ライブドアニュース, 信頼度: 7.5/10)</description>
-        <category>MCP 活用</category>
-        <pubDate>2026-05-04T02:44:23.589462</pubDate>
-        <guid isPermaLink="false">episode_MCP 活用_1_1777862663</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%B4%BB%E7%94%A8/1</link>
-    </item>
     </channel>
 </rss>

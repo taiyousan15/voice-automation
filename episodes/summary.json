@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:44:23.589295",
-  "total_episodes": 1,
+  "generated_at": "2026-05-05T02:37:04.133129",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 活用_20260504_024416",
-      "theme": "MCP 活用",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "みんなこれでいいAI。Googleの最新ローカルLLM「Gemma 4」は日本語うますぎ、でも無料",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        },
-        {
-          "title": "GoogleのローカルLLM「Gemma 4」は本当に無料で使えるのか",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
