@@ -4,65 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-04T22:09:34.353461</lastBuildDate>
+        <lastBuildDate>2026-05-05T02:37:04.133296</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 哲学 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【哲学 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Automaton】
-信頼度スコア: 7.0/10
-
-**hook（150文字）**
-みなさん、いつも大変なことを抱えながらも、日々を過ごしています。私たちが直面する問題は、日々の生活の中で出会うものです。例...]]>
-
-
-記事一覧:
-  • 魔法図書館お片付けシム『司書のお仕事:魔導図書館を片付けろ!』さっそく盛況。散らかった3072冊の本をひたすら整理、「なぜか止められない」と評判の魔法司書ワーク (出典: Automaton, 信頼度: 7.0/10)
-  • 韓国が開発銀行のAI拠点に ADB総裁とMOU締結(聯合ニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 2026年下半期の運勢|ホロスコープで占う、あなたの全運勢と転機。公式サイトにて一般公開中 (出典: Pr Times, 信頼度: 8.0/10)
-  • 【どっちが正解?カレーは「出来たて」OR「一晩寝かせる」】当たり前の思考にキッカケがあった!≪【カレーうんちく学】『一晩寝かせると美味い』は本当か?~起源となった意外な事件~≫動画公開キャンペーン (出典: Pr Times, 信頼度: 8.5/10)
-  • 永島健志によるガストロノミー『81』が白金で再始動 ── 食とアートが交差する新章へ (出典: Hypebeast. Jp, 信頼度: 7.5/10)
-  • 上智大学特化総合型選抜コーチ、新スローガン「遠回りをやめた時、合格が見えた。」発表~120名合格達成を目指しリブランディング実施 (出典: Pr Times, 信頼度: 8.0/10)
-  • TOEICで満点を取るより英語を話せるようになる方法とは? 世界の超一流知識人に英語で取材する国際ジャーナリストが伝授【大野和基インタビュー 前編】(集英社オンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>哲学 方法</category>
-        <pubDate>2026-05-04T22:09:34.353396</pubDate>
-        <guid isPermaLink="false">episode_哲学 方法_1_1777932574</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%93%B2%E5%AD%A6%20%E6%96%B9%E6%B3%95/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: Skill おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
-信頼度スコア: 7.0/10
-
-**problem**
-こんな悩みありませんか？子供と一緒に楽しめる体験型イベントを探しているのに、見つからないということ...]]>
-
-
-記事一覧:
-  • 【GWに親子で楽しめる体験型フェス】吉田ちか活動15周年の感謝を込めて「CREATE YOUR DOT」開催!日時:5月5日(火・祝)10:00-19:00、会場:BE STAGE代々木 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • 【GWに親子で楽しめる体験型フェス】吉田ちか活動15周年の感謝を込めて「CREATE YOUR DOT」開催!日時:5月5日(火・祝)10:00-19:00、会場:BE STAGE代々木 (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>skill おすすめ 理由</category>
-        <pubDate>2026-05-04T22:09:34.353438</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ 理由_2_1777932574</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-    </item>
     </channel>
 </rss>
