@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-05-06T02:41:56.865229",
-  "total_episodes": 0,
+  "generated_at": "2026-05-07T02:44:24.270461",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260507_024407",
+      "theme": "MCP おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ゼロからLLMプロンプトエンジニアリング 第11回 OpenClawクローンのZeroClawをラズパイで活用しよう",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AI時代の企業セキュリティ、ネットワークを「執行層」として再定義せよ | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "オムディア(Omdia)、中国本土のクラウドインフラ支出が2025年Q4に26%増、AI需要とエージェント拡大が牽引と発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260507_024416",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アンソロピックがAIエージェントを発表、ファクトセット株は4%下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "クロード、保険・金融サービス向けエージェントテンプレートを公開",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「MPCサーバー」でローカルLLMを“無料AIエージェント”に変えてみる",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
