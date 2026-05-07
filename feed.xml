@@ -4,63 +4,125 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-07T02:44:24.270779</lastBuildDate>
+        <lastBuildDate>2026-05-07T22:08:34.616103</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
+        <title>エピソード 1: 占い おすすめ 理由</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
+本日は、【占い おすすめ 理由】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
+【セクション 1: 朝日新聞デジタル】
+信頼度スコア: 7.5/10
 
 **hook（150文字）**
-こんにちは、皆さん。今日は、ZeroClawというOpenClawクローンについて話します。ZeroCla...]]>
+あなたは、人生の重大な決断を下す際に、心に引っかかるものを感じたことがありませんか？そのときに、占いがあなたの心を...]]>
 
 
 記事一覧:
-  • ゼロからLLMプロンプトエンジニアリング 第11回 OpenClawクローンのZeroClawをラズパイで活用しよう (出典: Mynavi News, 信頼度: 8.5/10)
-  • AI時代の企業セキュリティ、ネットワークを「執行層」として再定義せよ | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)
-  • オムディア(Omdia)、中国本土のクラウドインフラ支出が2025年Q4に26%増、AI需要とエージェント拡大が牽引と発表 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-05-07T02:44:24.270721</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1778121864</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+  • 【社説】高市首相のアジア外交 問われる「法の支配」への向き合い方 (出典: 朝日新聞デジタル, 信頼度: 7.5/10)
+  • Amazonが指示した価格操作の裏側。カリフォルニア州司法長官が社内メール公開 (出典: Gizmodo, 信頼度: 7.5/10)
+  • 安藤優子、GW明けの手料理公開 牡蠣の春巻き・トマトとイチゴのカプレーゼなど斬新メニューに「お店みたいなクオリティ」「真似してみたい」と注目集まる (出典: Model Press, 信頼度: 8.0/10)
+  • ハルビア2026年第1四半期:売上高が過去最高の5860万ユーロを記録、通貨逆風が影響 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • トヨタの新型車はここで鍛えられる!通常は非公開の開発拠点「テクニカルセンター下山」の内部とは?(MotorFan) (出典: Yahoo Japan, 信頼度: 9.2/10)
+  • 櫻坂46守屋麗奈、ミニワンピ×白タイツで美脚披露「清楚なお嬢様」「スラッとしててスタイル抜群」と絶賛の声 (出典: Model Press, 信頼度: 8.0/10)
+  • 元人気子役「4歳くらいの写真」幼少期ショット公開「懐かしすぎる」「表情もポーズも完成されてる」と反響【こどもの日】 (出典: Model Press, 信頼度: 8.0/10)</description>
+        <category>占い おすすめ 理由</category>
+        <pubDate>2026-05-07T22:08:34.615971</pubDate>
+        <guid isPermaLink="false">episode_占い おすすめ 理由_1_1778191714</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
     </item>
     <item>
-        <title>エピソード 2: Mcp おすすめ</title>
+        <title>エピソード 2: Mcp 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
+本日は、【MCP 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: Itmedia】
+【セクション 1: Wired.jp】
 信頼度スコア: 7.5/10
 
 **problem**
-こんな悩みありませんか？金融業界では、投資銀行や監査業務など、複雑なタスクが多くあります。ヒットピッチの作成や監査業務の効率化は...]]>
+こんな悩みありませんか？デザインを担当しているにもかかわらず、毎日のように同じような作業を繰り返している。時間が足りない、創造性が...]]>
 
 
 記事一覧:
-  • Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開 (出典: Itmedia, 信頼度: 7.5/10)
-  • アンソロピックがAIエージェントを発表、ファクトセット株は4%下落 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • クロード、保険・金融サービス向けエージェントテンプレートを公開 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 「MPCサーバー」でローカルLLMを“無料AIエージェント”に変えてみる (出典: Gizmodo, 信頼度: 7.5/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-05-07T02:44:24.270763</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_2_1778121864</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
+  • Canvaが提示する“AIデザイン時代”の新しいプラットフォームのかたち (出典: Wired.jp, 信頼度: 7.5/10)
+  • ServiceNow、ガバナンスの効いた自律型ワークのためのプラットフォームにより、 エンタープライズAIの混乱を制御へと変革 (出典: Pr Times, 信頼度: 8.0/10)
+  • 「人手のUI設計では低品質」 AIエージェントと喋る「バイブデザイン」で成果物の品質向上へ (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • AIに「人間のように覚えさせる」。脳の仕組みに基づく"生きた記憶"データベース「Cerememory」をオープンソースで公開 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • AIに「人間のように覚えさせる」。脳の仕組みに基づく"生きた記憶"データベース「Cerememory」をオープンソースで公開 (出典: Pr Times, 信頼度: 8.0/10)
+  • Guidepoint、Claude向けMCPを提供開始、信頼できる専門家の知見をAI活用型調査ワークフローに統合 (出典: 株式会社 共同通信, 信頼度: 7.5/10)
+  • 縦型ショート動画運用ツール「SHORTBOOSTER」、トレンド分析機能「縦型ショート Analytics」を標準搭載 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>MCP 活用</category>
+        <pubDate>2026-05-07T22:08:34.616030</pubDate>
+        <guid isPermaLink="false">episode_MCP 活用_2_1778191714</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/MCP%20%E6%B4%BB%E7%94%A8/2</link>
+    </item>
+    <item>
+        <title>エピソード 3: 思想 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Yahoo Japan】
+信頼度スコア: 9.7/10
+
+**intro**
+こんにちは、今日は「ビュリー」というブランドのイベントについて話します。ビュリーは、オフィシーヌ・ユニヴェルセル・ビュリ...]]>
+
+
+記事一覧:
+  • 「ビュリー」がトゥモローランド渋谷本店でイベント開催 水性香水の新マニフェストも(FASHIONSNAP) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 横山大阪市長、都構想の法定協設置議案の提出を表明 「可決前提ではない」と慎重姿勢も(産経新聞) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 2本出しマフラーに1Lターボの小型スポーツセダン!! 日本未上陸の日産アルメーラとは?(FORZA STYLE) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「これってレブル!?」いや、モンキーです! タイ発“ZEUS CUSTOM”のボバースタイルが完成度高すぎた【モンキー125カスタム】(MotorFan) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 23日に商人道サミット 三重・松阪で 基調講演は「日本長寿企業の世界的意義」(夕刊三重) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • DOMMUNE緊急開催決定!!!【MoN Takanawa × DOMMUNE】「アーティストと語る手塚治虫の予言した現代」 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • アトランタに出現した「AI警察犬」に賛否...SNS投稿で話題に(ニューズウィーク日本版) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
+        <category>思想 方法</category>
+        <pubDate>2026-05-07T22:08:34.616061</pubDate>
+        <guid isPermaLink="false">episode_思想 方法_3_1778191714</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%96%B9%E6%B3%95/3</link>
+    </item>
+    <item>
+        <title>エピソード 4: 占い 比較</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【占い 比較】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Automaton】
+信頼度スコア: 7.0/10
+
+**hook**
+驚くな！PCゲーム市場はとても成長していることがわかりました。市場調査会社Newzooのレポートによると、定価30ドル以下の安い作品がよ...]]>
+
+
+記事一覧:
+  • 「PCゲーマーは“定価が安い”新作を買いまくるので市場全体がどんどん成長中」とのアナリスト分析。続々と出てくる低価格大ヒット作 (出典: Automaton, 信頼度: 7.0/10)
+  • アリオン銀行、2026年第1四半期に堅調なROEを達成——合併交渉終了も業績好調 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • RBCキャピタル、広告収入懸念でスナップの目標株価を引き下げ (出典: Investing- Fx, 信頼度: 6.5/10)
+  • Zcash、30日間の上昇率が120%突破──Multicoin Capitalの支持表明で買い加速【価格分析】 (出典: Coindesk Japan, 信頼度: 9.7/10)
+  • NOBA、2026年第1四半期は利益が21%急増——信用品質の改善が牽引 (出典: Investing- Fx, 信頼度: 6.5/10)
+  • 5月27日(水)17時よりオンライン開催!ボランティアではなく"実業"としての社会貢献 収益を上げる福祉事業への投資 (出典: Pr Times, 信頼度: 8.0/10)</description>
+        <category>占い 比較</category>
+        <pubDate>2026-05-07T22:08:34.616088</pubDate>
+        <guid isPermaLink="false">episode_占い 比較_4_1778191714</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%AF%94%E8%BC%83/4</link>
     </item>
     </channel>
 </rss>
