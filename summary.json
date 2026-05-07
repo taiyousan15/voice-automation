@@ -1,84 +1,59 @@
 {
-  "generated_at": "2026-05-06T22:05:08.615077",
-  "total_episodes": 3,
+  "generated_at": "2026-05-07T02:44:24.270461",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 比較_20260506_220410",
-      "theme": "占い 比較",
+      "name": "episode_MCP おすすめ 理由_20260507_024407",
+      "theme": "MCP おすすめ 理由",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ラダー・キャピタル2026年第1四半期:記録的な融資組成も業績は予想下回る",
+          "title": "ゼロからLLMプロンプトエンジニアリング 第11回 OpenClawクローンのZeroClawをラズパイで活用しよう",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AI時代の企業セキュリティ、ネットワークを「執行層」として再定義せよ | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "オムディア(Omdia)、中国本土のクラウドインフラ支出が2025年Q4に26%増、AI需要とエージェント拡大が牽引と発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260507_024416",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アンソロピックがAIエージェントを発表、ファクトセット株は4%下落",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "中国ヒト型ロボット「商用化元年」 飛躍的に能力向上 急成長の背景 EVにも熱視線",
-          "source": "テレ朝new",
-          "trust_score": 7.0
+          "title": "クロード、保険・金融サービス向けエージェントテンプレートを公開",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "60年以上の歴史を持つスーパーカブ 鉄カブ~FIモデルまで、知っておきたいカブエンジンの知識をおさらい(MotorFan)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "女性の年金「月10万未満」が4割弱。第3号被保険者の縮小議論で岐路に立つ「主婦628万人・主夫13万人」(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "『解剖 加計学園問題』読書会開催のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『解剖 加計学園問題』読書会開催のお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【参加無料・5/13開催】価格競争から脱却し“選ばれる理由”を創る。EC支援4社による共催ウェビナーを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 比較_20260506_220413",
-      "theme": "Claude Code 比較",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "アンソロピック、評価額141兆円でOpenAI超えへ──人類史上最大の資金調達ラウンド | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20260506_220418",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "防犯専門誌「日防設ジャーナル」にChatlockが掲載--新製品発表を控え、日本市場での展開を強化",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "田んぼの見回り中、クマに襲われた...40代男性が顔と右腕にけが 秋田",
-          "source": "ライブドアニュース",
+          "title": "「MPCサーバー」でローカルLLMを“無料AIエージェント”に変えてみる",
+          "source": "Gizmodo",
           "trust_score": 7.5
         }
       ]
