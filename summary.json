@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-05-08T02:48:43.650110",
-  "total_episodes": 0,
+  "generated_at": "2026-05-08T22:04:47.829220",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い 方法_20260508_220423",
+      "theme": "占い 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【光岡気象予報士のお天気解説】5月9日(土)のポイント「4週間ぶり土・日は晴れ」【岡山・香川】(OHK岡山放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "アイスランズバンキ2026年第1四半期:インフレが過去最高の利益率を牽引、ROEは13%超",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "義務教育学校に路線バス 小学生がバスの乗り方を学ぶ教室(島根・松江市)",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "サムスン電子労組 会社側と再交渉へ「結果出なければスト突入」(聯合ニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「すべての発端は田久保氏の学歴詐称」選挙費用の賠償を求め住民監査請求 「行為選択の結果として生じた損害」と指摘 請求人代表「誰も責任を取らないという風潮が定着しているが私は良しとしていない」(テレビ静岡NEWS)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Netflix「地獄に堕ちるわよ」戸田恵梨香、緻密な役作りの全貌明かす",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "戸田恵梨香が「地獄に堕ちるわよ」舞台裏を語る、“唇を指で触る癖”を演技に組み込む",
+          "source": "Natalie - Pop Culture News Site",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い おすすめ 理由_20260508_220440",
+      "theme": "占い おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "エバーコアISI、為替逆風でアベポイントの目標株価を引き下げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「父が亡くなる」と言われ神降ろしを決意...地元で愛される歌手、もう一つの顔を公開",
+          "source": "スマートニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "新車カーリース「クルカ」、5月の「人気おすすめランキング」を発表!トヨタが1~4位を独占した激戦区で、唯一割り込んだのは \"消えゆくSUV\" !?",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "新車カーリース「クルカ」、5月の「人気おすすめランキング」を発表!トヨタが1~4位を独占した激戦区で、唯一割り込んだのは \"消えゆくSUV\" !?",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "光老化対策スキンケアとの相性を5つの質問で確かめる",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ファンドマネージャーはBTC優位を維持、ETHとSOLへの期待が上昇──CoinSharesの調査で",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "相次ぐ納豆値上げ...大豆高騰に加えトレー・フィルムなどナフサ由来の製品多く「企業努力では吸収困難」食卓に打撃",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
