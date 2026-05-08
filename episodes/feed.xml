@@ -8,59 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-07T02:44:24.270779</lastBuildDate>
+        <lastBuildDate>2026-05-08T02:48:43.650298</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Mcp おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
-
-**hook（150文字）**
-こんにちは、皆さん。今日は、ZeroClawというOpenClawクローンについて話します。ZeroCla...]]>
-
-
-記事一覧:
-  • ゼロからLLMプロンプトエンジニアリング 第11回 OpenClawクローンのZeroClawをラズパイで活用しよう (出典: Mynavi News, 信頼度: 8.5/10)
-  • AI時代の企業セキュリティ、ネットワークを「執行層」として再定義せよ | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)
-  • オムディア(Omdia)、中国本土のクラウドインフラ支出が2025年Q4に26%増、AI需要とエージェント拡大が牽引と発表 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)</description>
-        <category>MCP おすすめ 理由</category>
-        <pubDate>2026-05-07T02:44:24.270721</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ 理由_1_1778121864</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: Mcp おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Itmedia】
-信頼度スコア: 7.5/10
-
-**problem**
-こんな悩みありませんか？金融業界では、投資銀行や監査業務など、複雑なタスクが多くあります。ヒットピッチの作成や監査業務の効率化は...]]>
-
-
-記事一覧:
-  • Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開 (出典: Itmedia, 信頼度: 7.5/10)
-  • アンソロピックがAIエージェントを発表、ファクトセット株は4%下落 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • クロード、保険・金融サービス向けエージェントテンプレートを公開 (出典: Investing- Fx, 信頼度: 6.5/10)
-  • 「MPCサーバー」でローカルLLMを“無料AIエージェント”に変えてみる (出典: Gizmodo, 信頼度: 7.5/10)</description>
-        <category>MCP おすすめ</category>
-        <pubDate>2026-05-07T02:44:24.270763</pubDate>
-        <guid isPermaLink="false">episode_MCP おすすめ_2_1778121864</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-    </item>
     </channel>
 </rss>
