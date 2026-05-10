@@ -1,6 +1,187 @@
 {
-  "generated_at": "2026-05-10T02:48:54.096827",
-  "total_episodes": 0,
+  "generated_at": "2026-05-10T21:57:02.843081",
+  "total_episodes": 4,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code おすすめ_20260510_215550",
+      "theme": "Claude Code おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "“無料AI”が進化しまくり。「ローカルLLM」は今こんな感じになってます",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アンソロピック時価総額150兆円超の衝撃...OpenAIを凌駕する”実利AI”の正体",
+          "source": "Business Journal",
+          "trust_score": 7.5
+        },
+        {
+          "title": "KARRIMORコラボ特別付録『カリマー アウトドア調光機能グラス』付き BE-PAL6月号は、本日(5月9日)発売!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "日本酒「江戸彩」、パレスホテル大宮にて提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Code法人研修プログラム、Incertoが提供開始:「道具を買う」AI 導入から、業務で Claude Code を使いこなす AI Native 人材を社内で育てる方向へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "夜宵草が描く「LINEマンガ」オリジナルウェブトゥーン『シークレットスターライブ』完結記念で10話無料公開&ギフト券20枚プレゼント!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「アンソロピックは邪悪」と呼んだマスクが、22万基ものGPUを貸し出す──AI業界「計算資源不足」の象徴 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260510_215608",
+      "theme": "哲学 比較",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "韓国発の実験的プロダクトレーベル PLASTICPRODUCT について ── 生産背景とブランド哲学から読み解く | Interviews",
+          "source": "Hypebeast. Jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "逮捕の運転手は5日前にも事故 「免許返納」周囲に発言も レンタカーとドライバーの手配巡り学校とバス会社“対立主張”【磐越道バス事故まとめ】",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "多摩モノレール高松駅にて「駅ジャック広告」開始のお知らせ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "いま、マクラーレンという選択肢がおもしろい|アルトゥーラ・スパイダーと750Sスパイダーを乗り比べ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "いま、マクラーレンという選択肢がおもしろい|アルトゥーラ・スパイダーと750Sスパイダーを乗り比べ(octane.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "“技術・想い・職人”をリアルタイムで届ける。モノづくり特化ライブコマース「BEGINNING LEGACY」始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "“技術・想い・職人”をリアルタイムで届ける。モノづくり特化ライブコマース「BEGINNING LEGACY」始動",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ 理由_20260510_215629",
+      "theme": "思想 おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「スター・ウォーズはどう考えても見る順番は456123456やろ」456は世界観や物語の全体像を説明、123は英雄ルークが生まれるまでのサイドストーリーといえる",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【「今日好き」かいとあカップルインタビュー】交際時に決めたこと「受け入れてくれました」かいとがとあに“直してほしいところ”も明かす",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【「今日好き」ゆうゆうカップルインタビュー】LINE派の中で1回だけした電話内容 新たな交際ルールも誕生「返信に困ったときに」",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ハースF1チームがフェラーリ“マカレナ”リアウイング採用を見送った理由",
+          "source": "F1-gate",
+          "trust_score": 7.5
+        },
+        {
+          "title": "もやしがシャキシャキ!最高のナムルになる、ゆでる前の「ほんのひと手間」",
+          "source": "現代ビジネス | 講談社",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【豆腐】そのまま食べるの!?もったいなーーーい!!「3連パックが即消える!」「後戻りできない...」激ウマレシピ",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【冷凍餃子】フライパンで焼かないでーー!?\"メーカーが明かす食べ方\"に感動...「想像超えた!」「完全に本格的な...」簡単なのに家族も大喜び!2選",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260510_215655",
+      "theme": "哲学 おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "21人が死傷したマイクロバス事故 運行会社と高校で違法運送があった可能性",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "地域医療支える薬剤師の役割学ぶ 岐阜市でフォーラム 学生ら約300人が参加(ぎふチャンDIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "英国プレミアムヘルメット「ヘドン」の新作『エピキュリスト』予約開始、カラーラインアップ追加も(レスポンス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "囲碁「肥後本因坊戦」、挑戦者決定戦の4強決まる 熊本県内のアマ二大タイトルの一つ",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【NEW OPEN】2026年6月21日、那須塩原に圧倒的スケールを誇るレジデンスリゾート『ヴィラ楓倉 -KAGURA-』がグランドオープン!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "元Jリーガー太田宏介4 北中米W杯ベスト8進出への期待(会社四季報オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【NEW OPEN】2026年6月21日、那須塩原に圧倒的スケールを誇るレジデンスリゾート『ヴィラ楓倉 -KAGURA-』がグランドオープン!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
