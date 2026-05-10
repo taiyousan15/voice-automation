@@ -8,37 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-09T02:43:19.553170</lastBuildDate>
+        <lastBuildDate>2026-05-10T02:48:54.096984</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**hook**
-投資を始めたばかりの人なら誰でも、同じ疑問にぶつかると思います。「オルカンとS&P500、どちらを選べばいいのか？」この疑問は...]]>
-
-
-記事一覧:
-  • 「オルカン vs S&P500」どちらがベスト?資産数億円の社長が「間違いない」と断言した投資先【国山ハセンが見つけた答え】(OTONA SALONE) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • Zenken、新潟県より令和8年度「外国人介護人材海外現地マッチング支援事業」を受託 (出典: Pr Times, 信頼度: 8.0/10)
-  • Zenken、新潟県より令和8年度「外国人介護人材海外現地マッチング支援事業」を受託 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
-  • AI爆速コーディングを実現しよう! 『完全解説!Claude Codeテクニック集 爆速開発のための完全ガイド』発行 技術の泉シリーズ、5月の新刊 (出典: Pr Times, 信頼度: 8.5/10)
-  • ローカルAI・OpenClawを導入!タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。(ライフハッカー・ジャパン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • ローカルAI・OpenClawを導入!タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。 (出典: Lifehacker, 信頼度: 7.5/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-05-09T02:43:19.553109</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1778294599</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-    </item>
     </channel>
 </rss>

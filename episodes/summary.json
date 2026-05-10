@@ -1,47 +1,6 @@
 {
-  "generated_at": "2026-05-09T02:43:19.552826",
-  "total_episodes": 1,
+  "generated_at": "2026-05-10T02:48:54.096827",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill 活用_20260509_024312",
-      "theme": "skill 活用",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「オルカン vs S&P500」どちらがベスト?資産数億円の社長が「間違いない」と断言した投資先【国山ハセンが見つけた答え】(OTONA SALONE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Zenken、新潟県より令和8年度「外国人介護人材海外現地マッチング支援事業」を受託",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Zenken、新潟県より令和8年度「外国人介護人材海外現地マッチング支援事業」を受託",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI爆速コーディングを実現しよう! 『完全解説!Claude Codeテクニック集 爆速開発のための完全ガイド』発行 技術の泉シリーズ、5月の新刊",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ローカルAI・OpenClawを導入!タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。(ライフハッカー・ジャパン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ローカルAI・OpenClawを導入!タクシー移動中に緊急事態が起きても、スマホ1つで解決できました。",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
