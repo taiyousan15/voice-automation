@@ -4,91 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-09T21:54:36.550537</lastBuildDate>
+        <lastBuildDate>2026-05-10T02:48:54.096984</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Claude code 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**hook**
-あなたは、デザインの仕事をしている人ですか？それとも、AIの技術に興味がある人ですか？いずれにしても、デザインとAIの融...]]>
-
-
-記事一覧:
-  • 【オンラインウェビナー開催】Claude Design 活用術と漫画AIの発明ーAI先進企業2社が語る (出典: Pr Times, 信頼度: 8.0/10)
-  • 「そもそも、ドキュメントをExcelで作成している理由って何ですか?」──AI活用を停滞させていた「慣習」を打破。 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>Claude Code 比較</category>
-        <pubDate>2026-05-09T21:54:36.550412</pubDate>
-        <guid isPermaLink="false">episode_Claude Code 比較_1_1778363676</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E6%AF%94%E8%BC%83/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: 思想 おすすめ</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 おすすめ】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**problem**
-こんな悩みありませんか？地域の活性化やコミュニティの結束を強めるために、住民同士で一致団結して行動したいと思っているのに、...]]>
-
-
-記事一覧:
-  • 「江別の底力」思いよ届け 雨の中約400人が願いを込めた人文字「F」江別市 ファイターズ2軍誘致期成会(HTB北海道ニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 知らない駅で下車...ほんの少し日常から離脱した女子高生の冒険に「めっちゃエモい」「こんな日があってもいい」の声【作者に聞く】(ウォーカープラス) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 「早く寝て明日に備える」は大人には不可能...体内時計が作り出す「徹夜明けでも眠れない魔の時間帯」の正体(プレジデントオンライン) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • いくらなんでも「三菱み」強すぎない? 日産ローグPHEVが「ダイナミックシールド感」満点なワケ(WEB CARTOP) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • メルセデス・ベンツ純正色で全塗装! 欧州車スタイルに生まれ変わったホンダ「RC系オデッセイ」(Auto Messe Web) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 中山功太“いじめ”受けた先輩芸人を「死ぬほど才能あります」再言及...透ける“恨みと敬意”混在の複雑な感情(SmartFLASH) - Yahoo!ニュース (出典: Google News, 信頼度: 8.5/10)
-  • 「めっちゃ明るくなる」築30年〈リビング壁〉を2児ママがシール壁紙を貼るだけDIY→〈清潔感あふれる垢抜け空間〉に雰囲気ガラリ(LIMO) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>思想 おすすめ</category>
-        <pubDate>2026-05-09T21:54:36.550481</pubDate>
-        <guid isPermaLink="false">episode_思想 おすすめ_2_1778363676</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/2</link>
-    </item>
-    <item>
-        <title>エピソード 3: 思想 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Fnnプライムオンライン】
-信頼度スコア: 7.5/10
-
-**intro**
-こんにちは、今日は憲法9条について話します。憲法9条は日本の平和主義を規定しており、戦争を放棄しています。最近、憲法9条2項の削...]]>
-
-
-記事一覧:
-  • 「憲法9条2項削除」が持論の石破前総理「1項をきちんと残している限り“日本が戦争をする国に”ならない」主張 改憲・護憲で“分断”には「意見に賛同する人たちばかり集まって盛り上がっても何も得られない」 (出典: Fnnプライムオンライン, 信頼度: 7.5/10)
-  • 【ライブレポート】甘党男子が9周年で“究極”フルコースを披露 (出典: Barks, 信頼度: 7.5/10)
-  • 栄養たっぷりでも足が速い「いんげん」。しんなりしてしまった後にごちそうに変える魔法(FRaU) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 栄養たっぷりでも足が速い「いんげん」。しんなりしてしまった後にごちそうに変える魔法 (出典: 現代ビジネス | 講談社, 信頼度: 7.5/10)
-  • 社員のモチベーションが高い理由は...フードロス対策をビジネスにした「クラダシ」のルール (出典: 現代ビジネス | 講談社, 信頼度: 7.5/10)</description>
-        <category>思想 活用</category>
-        <pubDate>2026-05-09T21:54:36.550518</pubDate>
-        <guid isPermaLink="false">episode_思想 活用_3_1778363676</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%B4%BB%E7%94%A8/3</link>
-    </item>
     </channel>
 </rss>
