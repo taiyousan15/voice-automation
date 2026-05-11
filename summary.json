@@ -1,6 +1,117 @@
 {
-  "generated_at": "2026-05-11T02:57:59.231738",
-  "total_episodes": 0,
+  "generated_at": "2026-05-11T22:14:52.449718",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_哲学 おすすめ 理由_20260511_221424",
+      "theme": "哲学 おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "磐越道事故 高校生21人死傷 68歳運転手の“危ない運転”供述と証言 白バス疑いも捜査 福島(福島中央テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "磐越道事故 高校生21人死傷 68歳運転手の“危ない運転”供述と証言 白バス疑いも捜査 福島",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.5
+        },
+        {
+          "title": "誤差なし/狂いなし◆5万人ドハマり/未来読み的中占 シャンバラ占星術が「本格占い|みのり」で提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "『教養としての三菱・三井・住友』7刷決定で19000部突破!「三菱グループの接待ではキリンビールを用意せよ」など、知っておきたい不文律が満載!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "『教養としての三菱・三井・住友』7刷決定で19000部突破!「三菱グループの接待ではキリンビールを用意せよ」など、知っておきたい不文律が満載!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "誤差なし/狂いなし◆5万人ドハマり/未来読み的中占 シャンバラ占星術が「本格占い|みのり」で提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "出店152番組、登壇63名、協力企業22社、12,713人が集結。配信者・リスナー・企業が“境界なく交わる”国内ポッドキャストに新しい景色を生んだ「PODCAST EXPO 2026」大盛況で閉幕",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260511_221440",
+      "theme": "MCP おすすめ",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "株式会社kickflowと共催WEBセミナー「データ活用が進まない本当の理由は「組織」と「承認」にある - PoCで終わらせない意思決定の仕組み化 -」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIイベント特化プラットフォーム「Weabee」本日ベータ公開、全国180施設のAIイベントをツール×カテゴリ×地域で構造化",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "AIイベント特化プラットフォーム「Weabee」本日ベータ公開、全国180施設のAIイベントをツール×カテゴリ×地域で構造化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ソウル投資振興財団,「2026 Invest Seoul IR in Tokyo」を盛況のうちに終了",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ソウル投資振興財団,「2026 Invest Seoul IR in Tokyo」を盛況のうちに終了",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Aquacraft、養殖管理サービス「uwotech pro」のMCP対応を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "コストをなんとわずか17分の1に節約できるDeepSeek V4 Proを使ったClaude Codeエージェントループ「deepclaude」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260511_221445",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIエージェントが「Figma」でデザインを作成・編集可能に “意図しないUI生成”を防ぐ仕組みとは",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "[ITmedia エンタープライズ] Anthropicが事業戦略を一挙公開 中堅企業支援の新会社設立、金融特化エージェント、SpaceX提携まで",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
