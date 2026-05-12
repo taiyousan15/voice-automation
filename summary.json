@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-05-12T02:50:02.661800",
-  "total_episodes": 0,
+  "generated_at": "2026-05-12T22:18:29.875052",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260512_221823",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIは仕事を「奪わない」 職場で実際に起きていることとは",
+          "source": "Cnn",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIは仕事を「奪わない」 職場で実際に起きていることとは(CNN.co.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "複数のClaude Codeを1画面で管理できる公式機能「agent view」が登場&Claudeの全機能がAWS経由で使用可能に",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ベースマキナ、AIエージェントによる本番データ操作にガバナンスをあとづけする「AI SecureOps」の事前登録受付を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アンソロピックの新機能「ドリーミング」、自己改善型AIエージェントを実現へ | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂? カギは“最後まで自走する力”",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "イーロン・マスク氏に助けを求めたAnthropic。開発者会議で幹部や従業員たちから聞いた興味深い内情",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }

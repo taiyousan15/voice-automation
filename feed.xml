@@ -4,14 +4,42 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-12T02:50:02.661991</lastBuildDate>
+        <lastBuildDate>2026-05-12T22:18:29.875446</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: Claude code おすすめ 理由</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【Claude Code おすすめ 理由】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Cnn】
+信頼度スコア: 7.5/10
+
+**hook**
+みなさん、仕事を失う心配はありませんか？最近、人工知能（AI（エーアイ））が仕事を奪うのではないかという懸念が広がってい...]]>
+
+
+記事一覧:
+  • AIは仕事を「奪わない」 職場で実際に起きていることとは (出典: Cnn, 信頼度: 7.5/10)
+  • AIは仕事を「奪わない」 職場で実際に起きていることとは(CNN.co.jp) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 複数のClaude Codeを1画面で管理できる公式機能「agent view」が登場&Claudeの全機能がAWS経由で使用可能に (出典: Gigazine, 信頼度: 7.5/10)
+  • ベースマキナ、AIエージェントによる本番データ操作にガバナンスをあとづけする「AI SecureOps」の事前登録受付を開始 (出典: Pr Times, 信頼度: 8.0/10)
+  • アンソロピックの新機能「ドリーミング」、自己改善型AIエージェントを実現へ | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)
+  • GPT-5.5は最高性能ではないのに、なぜエンジニアが熱狂? カギは“最後まで自走する力” (出典: Atmarkit Itmedia, 信頼度: 7.0/10)
+  • イーロン・マスク氏に助けを求めたAnthropic。開発者会議で幹部や従業員たちから聞いた興味深い内情 (出典: Business Insider, 信頼度: 7.5/10)</description>
+        <category>Claude Code おすすめ 理由</category>
+        <pubDate>2026-05-12T22:18:29.875397</pubDate>
+        <guid isPermaLink="false">episode_Claude Code おすすめ 理由_1_1778624309</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
+    </item>
     </channel>
 </rss>
