@@ -4,14 +4,42 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://USERNAME.github.io/REPO_NAME</link>
+        <link>https://taiyousan15.github.io/voice-automation</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-13T02:55:04.743803</lastBuildDate>
+        <lastBuildDate>2026-05-13T22:20:09.437087</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
+    <item>
+        <title>エピソード 1: 思想 方法</title>
+        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
+本日は、【思想 方法】に関する最新ニュースをお届けします。
+それでは、今週のハイライトをご紹介します。
+
+---
+
+【セクション 1: Ascii】
+信頼度スコア: 7.5/10
+
+**hook**
+こんにちは、みんな！今日は、橋本ひかりさんの10th DVD「vs仮想エロス part2」の発売記念イベントについて話そうと思います。彼女のキャ...]]>
+
+
+記事一覧:
+  • 2人きりの内覧でムードは最高潮へ! 橋本ひかりが10th DVDで魅せたレアな姿とは? (出典: Ascii, 信頼度: 7.5/10)
+  • 現職に新人2人の三つどもえか 新潟県知事選あす告示 「活力ある新潟」「県民投票条例制定」「原発廃止」候補予定者の政策出そろう(BSN新潟放送) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 「行ったことのない聞いたことがない国の料理」を召し上がれ 「万博ナンバーワンレストラン」が今度は「大阪ナンバーワン」を目指す 「世界のグルメ」を楽しめるくら寿司店舗が市内に(ABCニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • 平将明 元デジタル大臣「PTを作ると、ほぼ国の政策になる」--T4IS2026で『AIオンチェーン金融構想PT』連休明け提言と日本版Project Glasswingを解説 (出典: Pr Times, 信頼度: 8.5/10)
+  • 【動画】14日の天気 - 九州~東北 午後はにわか雨や雷雨に注意 関東から西は広く夏日続く(13日19時更新)(ウェザーマップ) (出典: Yahoo Japan, 信頼度: 9.7/10)
+  • My New Band Believe × carolineが語り合う black midi解散後に共鳴した2組の化学反応 (出典: Mynavi News, 信頼度: 8.5/10)
+  • アニメ「北斗の拳」タキ役は石原夏織、トヨ役は定岡小百合、ジャッカル役は松山鷹志 (出典: Natalie - Pop Culture News Site, 信頼度: 8.5/10)</description>
+        <category>思想 方法</category>
+        <pubDate>2026-05-13T22:20:09.437052</pubDate>
+        <guid isPermaLink="false">episode_思想 方法_1_1778710809</guid>
+        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%96%B9%E6%B3%95/1</link>
+    </item>
     </channel>
 </rss>
