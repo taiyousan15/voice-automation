@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-13T02:55:04.744112",
+  "generated_at": "2026-05-14T02:57:41.120427",
   "feed_url": "https://USERNAME.github.io/REPO_NAME/feed.xml",
-  "episodes_count": 0,
-  "latest_episode": null,
+  "episodes_count": 1,
+  "latest_episode": "skill 活用",
   "audio_enabled": true
 }
