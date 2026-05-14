@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-05-13T22:20:09.436828",
+  "generated_at": "2026-05-14T02:57:41.119858",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20260513_222002",
-      "theme": "思想 方法",
+      "name": "episode_skill 活用_20260514_025734",
+      "theme": "skill 活用",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2人きりの内覧でムードは最高潮へ! 橋本ひかりが10th DVDで魅せたレアな姿とは?",
-          "source": "Ascii",
+          "title": "株式投資の鉄則「長期投資」のためのホールド力を身に付けるには?【初心者が知っておきたい投資のメソッド】",
+          "source": "Sarai.jp",
           "trust_score": 7.5
         },
         {
-          "title": "現職に新人2人の三つどもえか 新潟県知事選あす告示 「活力ある新潟」「県民投票条例制定」「原発廃止」候補予定者の政策出そろう(BSN新潟放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「行ったことのない聞いたことがない国の料理」を召し上がれ 「万博ナンバーワンレストラン」が今度は「大阪ナンバーワン」を目指す 「世界のグルメ」を楽しめるくら寿司店舗が市内に(ABCニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "平将明 元デジタル大臣「PTを作ると、ほぼ国の政策になる」--T4IS2026で『AIオンチェーン金融構想PT』連休明け提言と日本版Project Glasswingを解説",
+          "title": "【吉積情報株式会社】オールグロース税理士法人における「Cmosy Pocket」導入事例を掲載いたしました",
           "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【動画】14日の天気 - 九州~東北 午後はにわか雨や雷雨に注意 関東から西は広く夏日続く(13日19時更新)(ウェザーマップ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "My New Band Believe × carolineが語り合う black midi解散後に共鳴した2組の化学反応",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "アニメ「北斗の拳」タキ役は石原夏織、トヨ役は定岡小百合、ジャッカル役は松山鷹志",
-          "source": "Natalie - Pop Culture News Site",
-          "trust_score": 8.5
+          "trust_score": 8.0
         }
       ]
     }
