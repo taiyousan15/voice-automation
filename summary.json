@@ -1,25 +1,95 @@
 {
-  "generated_at": "2026-05-14T02:57:41.119858",
-  "total_episodes": 1,
+  "generated_at": "2026-05-14T22:17:00.723255",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260514_025734",
-      "theme": "skill 活用",
+      "name": "episode_哲学 おすすめ 理由_20260514_221636",
+      "theme": "哲学 おすすめ 理由",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "株式投資の鉄則「長期投資」のためのホールド力を身に付けるには?【初心者が知っておきたい投資のメソッド】",
-          "source": "Sarai.jp",
+          "title": "『オールド・ボーイ』から20年、韓国映画の巨匠がカンヌ審査委員長に...「今度は奉仕する番」",
+          "source": "スマートニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "カフェで「10時間勉強」していたら犯罪になる? 仕事と生活に役立つ書籍を一挙公開(ニューズウィーク日本版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "悩みにズバリ決着つける◆細密理論で誤差なく的中【萬葉推心占】が「本格占い|みのり」で提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "悩みにズバリ決着つける◆細密理論で誤差なく的中【萬葉推心占】が「本格占い|みのり」で提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【吉積情報株式会社】オールグロース税理士法人における「Cmosy Pocket」導入事例を掲載いたしました",
+          "title": "アーカイブを称えて ― BIRKENSTOCKを象徴する3つのアイコン、BOSTON・LONDON・MILANOのアニバーサリーを祝う限定スペシャルエディション",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アーカイブを称えて ― BIRKENSTOCKを象徴する3つのアイコン、BOSTON・LONDON・MILANOのアニバーサリーを祝う限定スペシャルエディション",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "琉球大学病院「ユビー生成AI」活用で臨床研究業務を2.33倍に効率化、緊急転院時の入院初期記録作成も2時間から5分に短縮",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20260514_221653",
+      "theme": "占い 活用",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "9人組アイドルグループ・BUDDiiS初の冠番組『EBiDAN 熱中!朝までBUDDiiS』のテラサオリジナルを今夜独占配信!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "習近平主席、トランプ大統領に米国産原油の購入拡大に関心と表明",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "DMM GAMES×f4samurai、『コードギアス 反逆のルルーシュ ロストストーリーズ』がリリース4周年記念イベントを開催!無料200回スカウトなど豪華キャンペーンも同時開催中!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "肥後銀が188億円の最高益 26年3月期決算 金利上昇、半導体関連融資が好調",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "DMM GAMES×f4samurai、『コードギアス 反逆のルルーシュ ロストストーリーズ』がリリース4周年記念イベントを開催!無料200回スカウトなど豪華キャンペーンも同時開催中!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "NvidiaがH200チップの中国企業への販売承認報道を受け株価上昇",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ドリーム・アーツ SmartDB、SaaS型ワークフロー市場で5年連続首位",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
