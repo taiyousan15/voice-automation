@@ -8,33 +8,10 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-14T02:57:41.120113</lastBuildDate>
+        <lastBuildDate>2026-05-15T02:57:48.151558</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: Skill 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Sarai.jp】
-信頼度スコア: 7.5/10
-
-**hook**
-投資を始めたい、という思いはあるけれど、どこから始めてよいのかわからない。長期投資の重要性は聞いたことがあるけれど、実際に始めるのは...]]>
-
-
-記事一覧:
-  • 株式投資の鉄則「長期投資」のためのホールド力を身に付けるには?【初心者が知っておきたい投資のメソッド】 (出典: Sarai.jp, 信頼度: 7.5/10)
-  • 【吉積情報株式会社】オールグロース税理士法人における「Cmosy Pocket」導入事例を掲載いたしました (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 活用</category>
-        <pubDate>2026-05-14T02:57:41.120076</pubDate>
-        <guid isPermaLink="false">episode_skill 活用_1_1778727461</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
-    </item>
     </channel>
 </rss>
