@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-05-15T02:57:48.151392",
-  "total_episodes": 0,
+  "generated_at": "2026-05-15T22:04:34.244391",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_思想 方法_20260515_220407",
+      "theme": "思想 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【マレーシア・ペナン】「焼肉すだく」海外展開を加速 日本産黒毛和牛を提供する新店舗が2026年5月15日グランドオープン",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「一瞬、石原さとみに見えました」←すっぴん姿では「さすがに無理」と思っていたが...... 衝撃の姿に「すごい」「やば~」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "BTC(ビットコイン)は米イラン情勢に警戒も、米中首脳会談後のリスクオン期待が下支えか【マネックス証券】",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "難民・移民に会いに行く。取材して記事を書く。「市民ジャーナリスト」になる夏~ 5/28(木)、6/16(火)、7/5(日)にZoom説明会~",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "2026年5月15日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "紫陽花と宝石のきらめきを閉じ込めた初夏の限定スイーツ!5月15日より販売開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "紫陽花と宝石のきらめきを閉じ込めた初夏の限定スイーツ!7月15日より販売開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260515_220427",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "EC-CUBE最新版、AIフレンドリーなECオープンソースへ進化。AIが消費者の最適な購買をサポートする「エージェンティックコマース」に対応。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【6月16日開催】経営×バックオフィス×AIの祭典「freee 統合ワールド 2026」のセッションを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Jicoo、国内初の予約・日程調整システム用MCPサーバーを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【イベント出展のお知らせ】6月25日-26日開催 AWS Summit Japan 2026 にSaaSus Platform が出展します",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Coupa、「Coupa Compose」および「Coupa Catalyst」を発表:Inspire 2026にてエージェント型AIによる価値創出を加速(抄訳版)",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Okta、AIエージェント向けセキュリティ機能を拡張し、新たなエージェントエコシステムとあらゆるアイデンティティプロバイダーに対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "自律型AIエージェントの台頭:企業が直面する顧客コミュニケーションの変革 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
 }
