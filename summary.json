@@ -1,45 +1,50 @@
 {
-  "generated_at": "2026-05-16T02:46:44.886190",
-  "total_episodes": 2,
+  "generated_at": "2026-05-16T21:56:55.540434",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260516_024630",
-      "theme": "skill 方法",
+      "name": "episode_Claude Code おすすめ_20260516_215648",
+      "theme": "Claude Code おすすめ",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年5月15日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260516_024636",
-      "theme": "MCP 比較",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "アップル次期CEOに求められるのはキラーAIプロダクト どのように主導権を握るのか",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
         {
-          "title": "【aucfan.com】700億件の相場データをAIで活用!Claude対応で査定業務を自動化",
+          "title": "【6/3出雲市開催】山陰の経営者向け「業務で本当に使えるClaude Code AIエージェント講座」を無料開催/審査制20名限定",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Coupa、「Coupa Compose」および「Coupa Catalyst」を発表:Inspire 2026にてエージェント型AIによる価値創出を加速(抄訳版)",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "自律型AIエージェントの台頭:企業が直面する顧客コミュニケーションの変革 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "title": "セールスフォースが描くAI時代の未来──ヘッドレス360とエージェント革命 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
           "source": "Forbes Japan Official Site",
           "trust_score": 9.7
+        },
+        {
+          "title": "Figmaの株価が本日急騰した理由とは",
+          "source": "Investing- Fx",
+          "trust_score": 6.0
+        },
+        {
+          "title": "2026年5月15日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "企業のAnthropic採用率がついにOpenAIを上回った",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "NGINXでリモートコード実行の脆弱性が発見される、影響を受けるバージョンはこれ",
+          "source": "Gigazine",
+          "trust_score": 7.5
         }
       ]
     }
