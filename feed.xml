@@ -4,42 +4,36 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-16T21:56:55.540785</lastBuildDate>
+        <lastBuildDate>2026-05-17T02:55:44.188772</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Claude code おすすめ</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code おすすめ】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: 産経ニュース】
-信頼度スコア: 7.0/10
+【セクション 1: Gigazine】
+信頼度スコア: 7.5/10
 
 **hook**
-あなたは、現在の仕事や生活で、変化の波に乗り遅れているような気がしますか？テクノロジーが急速に進化する中で、ビジネスや個...]]>
+こんにちは、リスナーさん。今日は、自分を高めるために大切なスキル活用について話したいと思います。最近、仕事や日常生活で困難に直面して...]]>
 
 
 記事一覧:
-  • アップル次期CEOに求められるのはキラーAIプロダクト どのように主導権を握るのか (出典: 産経ニュース, 信頼度: 7.0/10)
-  • 【6/3出雲市開催】山陰の経営者向け「業務で本当に使えるClaude Code AIエージェント講座」を無料開催/審査制20名限定 (出典: Pr Times, 信頼度: 8.0/10)
-  • セールスフォースが描くAI時代の未来──ヘッドレス360とエージェント革命 | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)
-  • Figmaの株価が本日急騰した理由とは (出典: Investing- Fx, 信頼度: 6.0/10)
-  • 2026年5月15日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)
-  • 企業のAnthropic採用率がついにOpenAIを上回った (出典: Business Insider, 信頼度: 7.5/10)
-  • NGINXでリモートコード実行の脆弱性が発見される、影響を受けるバージョンはこれ (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>Claude Code おすすめ</category>
-        <pubDate>2026-05-16T21:56:55.540741</pubDate>
-        <guid isPermaLink="false">episode_Claude Code おすすめ_1_1778968615</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
+  • 2026年5月15日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)</description>
+        <category>skill 活用</category>
+        <pubDate>2026-05-17T02:55:44.188742</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1778986544</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
     </item>
     </channel>
 </rss>
