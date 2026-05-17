@@ -8,15 +8,15 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-16T02:46:44.886461</lastBuildDate>
+        <lastBuildDate>2026-05-17T02:55:44.188772</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 方法</title>
+        <title>エピソード 1: Skill 活用</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
+本日は、【skill 活用】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -24,40 +24,16 @@
 【セクション 1: Gigazine】
 信頼度スコア: 7.5/10
 
-**hook（150文字）**
-こんにちは、みなさん！今日は、皆さんに共通する悩みについて話したいと思います。なぜ、自分が本当に好きなものを追求するこ...]]>
+**hook**
+こんにちは、リスナーさん。今日は、自分を高めるために大切なスキル活用について話したいと思います。最近、仕事や日常生活で困難に直面して...]]>
 
 
 記事一覧:
   • 2026年5月15日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.5/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-05-16T02:46:44.886399</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_1_1778899604</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: Mcp 比較</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 比較】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Pr Times】
-信頼度スコア: 8.0/10
-
-**problem**
-こんな悩みありませんか？不動産の売買やリースの際に、物件の価値を適切に評価することが難しい。特に、市場動向や地域の特徴を考慮した、...]]>
-
-
-記事一覧:
-  • 【aucfan.com】700億件の相場データをAIで活用!Claude対応で査定業務を自動化 (出典: Pr Times, 信頼度: 8.0/10)
-  • Coupa、「Coupa Compose」および「Coupa Catalyst」を発表:Inspire 2026にてエージェント型AIによる価値創出を加速(抄訳版) (出典: Pr Times, 信頼度: 8.5/10)
-  • 自律型AIエージェントの台頭:企業が直面する顧客コミュニケーションの変革 | Forbes JAPAN 公式サイト(フォーブス ジャパン) (出典: Forbes Japan Official Site, 信頼度: 9.7/10)</description>
-        <category>MCP 比較</category>
-        <pubDate>2026-05-16T02:46:44.886441</pubDate>
-        <guid isPermaLink="false">episode_MCP 比較_2_1778899604</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%AF%94%E8%BC%83/2</link>
+        <category>skill 活用</category>
+        <pubDate>2026-05-17T02:55:44.188742</pubDate>
+        <guid isPermaLink="false">episode_skill 活用_1_1778986544</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%B4%BB%E7%94%A8/1</link>
     </item>
     </channel>
 </rss>
