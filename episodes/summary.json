@@ -1,19 +1,39 @@
 {
-  "generated_at": "2026-05-17T02:55:44.188564",
-  "total_episodes": 1,
+  "generated_at": "2026-05-18T03:33:35.377886",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260517_025537",
-      "theme": "skill 活用",
+      "name": "episode_skill 方法_20260518_033326",
+      "theme": "skill 方法",
       "status": "success",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年5月15日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "【DPC KOBE】浴衣で楽しむ、女性限定ピックルボールイベント。「浴衣 DE ピックル」5/25(月)開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【DPC KOBE】浴衣で楽しむ、女性限定ピックルボールイベント。「浴衣 DE ピックル」5/25(月)開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260518_033328",
+      "theme": "MCP 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "エベレストに32回目登頂 ネパール人ガイドが記録を更新",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         }
       ]
