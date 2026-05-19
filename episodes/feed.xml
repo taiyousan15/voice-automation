@@ -8,55 +8,38 @@
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-18T03:33:35.378256</lastBuildDate>
+        <lastBuildDate>2026-05-19T03:26:41.405446</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill 方法</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill 方法】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
 
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
-信頼度スコア: 7.0/10
+【セクション 1: Pr Times】
+信頼度スコア: 8.5/10
 
 **hook**
-あなたは、新しいスキルを身に付けることで、人生がより豊かになることを願っていますか？しかし、どのようにしてそのスキ...]]>
+こんにちは、みなさん。今日は、開発現場で直面する課題について話したいと思います。開発効率が上がらず、プロジェクトの遅れに悩むことがあ...]]>
 
 
 記事一覧:
-  • 【DPC KOBE】浴衣で楽しむ、女性限定ピックルボールイベント。「浴衣 DE ピックル」5/25(月)開催 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • 【DPC KOBE】浴衣で楽しむ、女性限定ピックルボールイベント。「浴衣 DE ピックル」5/25(月)開催 (出典: Pr Times, 信頼度: 8.0/10)</description>
-        <category>skill 方法</category>
-        <pubDate>2026-05-18T03:33:35.378168</pubDate>
-        <guid isPermaLink="false">episode_skill 方法_1_1779075215</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/skill%20%E6%96%B9%E6%B3%95/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: Mcp 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【MCP 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: ライブドアニュース】
-信頼度スコア: 7.5/10
-
-**problem**
-こんな悩みありませんか？自分に課した目標を達成することができず、挫折してしまう。実際、多くの人は目標を達成するための方法がわから...]]>
-
-
-記事一覧:
-  • エベレストに32回目登頂 ネパール人ガイドが記録を更新 (出典: ライブドアニュース, 信頼度: 7.5/10)</description>
-        <category>MCP 方法</category>
-        <pubDate>2026-05-18T03:33:35.378219</pubDate>
-        <guid isPermaLink="false">episode_MCP 方法_2_1779075215</guid>
-        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E6%96%B9%E6%B3%95/2</link>
+  • 【発売前重版!】「Claude Code」が開発現場の常識を塗り替え、IT産業の課題を解決するか。『開発効率をアップする! Claude Code 実用入門』発売【Amazonランキング1位】 (出典: Pr Times, 信頼度: 8.5/10)
+  • SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化 (出典: Pr Times, 信頼度: 8.5/10)
+  • SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 戸田建設、内製した生成AI基盤「Toda-AI-Portal(TM)」を本格展開へ (出典: Pr Times, 信頼度: 8.0/10)
+  • Boomi、AIエージェント連携のガバナンス強化に向け、Lunar.dev社の買収意向を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース (出典: Pr Times, 信頼度: 8.0/10)
+  • AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-05-19T03:26:41.405416</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1779161201</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
     </item>
     </channel>
 </rss>
