@@ -4,19 +4,19 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-18T22:09:57.625838</lastBuildDate>
+        <lastBuildDate>2026-05-19T03:26:41.405446</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
     <item>
-        <title>エピソード 1: Skill おすすめ</title>
+        <title>エピソード 1: Mcp おすすめ</title>
         <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【skill おすすめ】に関する最新ニュースをお届けします。
+本日は、【MCP おすすめ】に関する最新ニュースをお届けします。
 それでは、今週のハイライトをご紹介します。
 
 ---
@@ -25,71 +25,21 @@
 信頼度スコア: 8.5/10
 
 **hook**
-こんにちは、リスナーさん。今日はマーケティングの世界で大きな変化が起こっていることについて話したいと思います。マーケティング担当...]]>
+こんにちは、みなさん。今日は、開発現場で直面する課題について話したいと思います。開発効率が上がらず、プロジェクトの遅れに悩むことがあ...]]>
 
 
 記事一覧:
-  • 「AIマーケ最前線 -事業会社マーケター大集合 ~超リアルな事例Night~_Vo3」開催レポート|セッション&テーブルディスカッションでAIエージェント時代のマーケを深掘り (出典: Pr Times, 信頼度: 8.5/10)</description>
-        <category>skill おすすめ</category>
-        <pubDate>2026-05-18T22:09:57.622494</pubDate>
-        <guid isPermaLink="false">episode_skill おすすめ_1_1779142197</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/skill%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: 占い おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Mynavi News】
-信頼度スコア: 8.5/10
-
-**problem**
-こんな悩みありませんか？毎週、自分が属する星座の占いを見て、運勢を確認している。しかし、占い師のアドバイスが具体的で...]]>
-
-
-記事一覧:
-  • 今週の12星座占い「水瓶座(みずがめ座)」全体運・開運アドバイス【2026年5月18日(月)~5月24日(日)今週の運勢】 (出典: Mynavi News, 信頼度: 8.5/10)
-  • 今週の12星座占い「山羊座(やぎ座)」全体運・開運アドバイス【2026年5月18日(月)~5月24日(日)今週の運勢】 (出典: Mynavi News, 信頼度: 8.5/10)
-  • OpenAIを巡る「マスク対アルトマン」裁判、その“本当の敗者”とは (出典: Wired.jp, 信頼度: 7.5/10)
-  • 「収入は大いに下がった」日本を率いた名将・中垣内祐一、還暦を前に選んだ“米農家”への道絶大な人気も「自分はもう終わってる人」...過去の栄光に固執しないバレー界レジェンドの生き様 (出典: Pr Times, 信頼度: 8.5/10)
-  • 1周目のパンクに始まり最終ラップでは熾烈な2位争い。ボルトロッティが語る「クレイジー」なABTウラカンのニュル24時間 (出典: Auto Sport, 信頼度: 7.5/10)
-  • 今週の12星座占い「射手座(いて座)」全体運・開運アドバイス【2026年5月18日(月)~5月24日(日)今週の運勢】 (出典: Mynavi News, 信頼度: 8.5/10)
-  • 4度のW杯を経験した“空気清浄機”、その真価を振り返る...後藤啓介、堂安律、森保監督も求めた“長友基準” (出典: Gexaka, 信頼度: 7.5/10)</description>
-        <category>占い おすすめ 理由</category>
-        <pubDate>2026-05-18T22:09:57.624822</pubDate>
-        <guid isPermaLink="false">episode_占い おすすめ 理由_2_1779142197</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-    </item>
-    <item>
-        <title>エピソード 3: 思想 活用</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【思想 活用】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Auto Sport】
-信頼度スコア: 7.5/10
-
-**intro**
-こんにちは、今日はF1の最新ニュースを取り上げます。2026年のF1第14戦スペインGPの舞台となるマドリングサーキットについ...]]>
-
-
-記事一覧:
-  • マドリードの新サーキットをアンバサダーのサインツが試走。高速セクションを「F1マシンを最大限に味わえる」と評価 (出典: Auto Sport, 信頼度: 7.5/10)
-  • 【コレが原点!?】目から鱗の"ホタテ貝焼き"「マドレーヌ」動画が240万再生突破! 「凄ーい!!」「これこそほんものや!!」感動の声続々 (出典: Mynavi News, 信頼度: 8.0/10)
-  • yosugala「アイドルであることを誇りに思っている」──“人間臭さ”こそが武器、メジャー初EPが映すバンドサイドからの求心力 (出典: Mynavi News, 信頼度: 8.5/10)
-  • 奥川浩彦の「撮ってみましたF1日本グランプリ2026」(後編)(Car Watch) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • ヤンチャから洗練かつ上質に?「26式GRヤリス」の進化が走り出しから“驚くレベル”だった...登場から6年、今後の展開とは(carview!) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 【ライブレポート】BE:FIRST、初のスタジアムライブからその先へ「付いてきてくれてありがとう!まだまだいくぜ!」 (出典: Barks, 信頼度: 7.5/10)
-  • 韓国 きょうのニュース(5月18日)(聯合ニュース) (出典: Yahoo Japan, 信頼度: 9.7/10)</description>
-        <category>思想 活用</category>
-        <pubDate>2026-05-18T22:09:57.624995</pubDate>
-        <guid isPermaLink="false">episode_思想 活用_3_1779142197</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E6%80%9D%E6%83%B3%20%E6%B4%BB%E7%94%A8/3</link>
+  • 【発売前重版!】「Claude Code」が開発現場の常識を塗り替え、IT産業の課題を解決するか。『開発効率をアップする! Claude Code 実用入門』発売【Amazonランキング1位】 (出典: Pr Times, 信頼度: 8.5/10)
+  • SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化 (出典: Pr Times, 信頼度: 8.5/10)
+  • SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)
+  • 戸田建設、内製した生成AI基盤「Toda-AI-Portal(TM)」を本格展開へ (出典: Pr Times, 信頼度: 8.0/10)
+  • Boomi、AIエージェント連携のガバナンス強化に向け、Lunar.dev社の買収意向を発表 (出典: Pr Times, 信頼度: 8.0/10)
+  • AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース (出典: Pr Times, 信頼度: 8.0/10)
+  • AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.5/10)</description>
+        <category>MCP おすすめ</category>
+        <pubDate>2026-05-19T03:26:41.405416</pubDate>
+        <guid isPermaLink="false">episode_MCP おすすめ_1_1779161201</guid>
+        <link>https://USERNAME.github.io/REPO_NAME/episodes/MCP%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81/1</link>
     </item>
     </channel>
 </rss>
