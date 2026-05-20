@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-05-19T03:26:41.405172",
-  "total_episodes": 1,
+  "generated_at": "2026-05-20T03:26:47.364320",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ_20260519_032634",
-      "theme": "MCP おすすめ",
-      "status": "success",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【発売前重版!】「Claude Code」が開発現場の常識を塗り替え、IT産業の課題を解決するか。『開発効率をアップする! Claude Code 実用入門』発売【Amazonランキング1位】",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "SUSE、SUSECON 2026でAIパートナーシップおよびエージェンティック製品のイノベーションを通じてオープンソースの提供を強化",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "戸田建設、内製した生成AI基盤「Toda-AI-Portal(TM)」を本格展開へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Boomi、AIエージェント連携のガバナンス強化に向け、Lunar.dev社の買収意向を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI×SNS運用最適化プラットフォーム「MirAI-POST(ミライポスト)」正式リリース",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
