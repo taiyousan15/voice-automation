@@ -4,43 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-19T22:21:28.459693</lastBuildDate>
+        <lastBuildDate>2026-05-20T03:26:47.364474</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 占い おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Ascii】
-信頼度スコア: 7.0/10
-
-**hook**
-占い、運気、幸せ。誰でもが心に抱える大切なテーマです。でも、本当に運気を上げる方法はあるのでしょうか？その答えを探す旅に出ましょう。
-...]]>
-
-
-記事一覧:
-  • 改名後の運気上昇も実感! 「RiNCENT♯」の雪乃椛鈴が彼女感をテーマにしたグラビアを披露 (出典: Ascii, 信頼度: 7.0/10)
-  • 【2027年問題】エアコン省エネ基準UP控え想定される価格上昇前の駆け込み需要も...今季エアコン最新事情(静岡) (出典: 日テレnews Nnn, 信頼度: 8.0/10)
-  • 2025年にアメリカ人の約10%が暗号資産を利用、2022年以来の高水準:FRB (出典: Coindesk Japan, 信頼度: 9.7/10)
-  • 【岸明日香インタビュー】「最後になるかもしれない」覚悟で挑んだ写真集 「全部グラビアのおかげ」15年間貫いた愛と軌跡 (出典: Model Press, 信頼度: 8.5/10)
-  • 生誕イベントの祝花にGPS機器 5人組アイドルグループ運営が声明発表「精神的負担が生じており活動への影響も発生」【本人コメント全文】 (出典: Model Press, 信頼度: 8.5/10)
-  • 東出昌大、YouTube休止の真相を告白「生きてる実感を失うから...」 瀬戸大也、栄光からの転落「どうにでもなれって...」五輪延期とスキャンダルの裏側を吐露 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • 元バレーボール日本代表監督の中垣内祐一氏が2022年に故郷で米農家に転身 (出典: ライブドアニュース, 信頼度: 7.5/10)</description>
-        <category>占い おすすめ 理由</category>
-        <pubDate>2026-05-19T22:21:28.459655</pubDate>
-        <guid isPermaLink="false">episode_占い おすすめ 理由_1_1779229288</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/1</link>
-    </item>
     </channel>
 </rss>
