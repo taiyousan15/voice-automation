@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-05-21T03:33:10.884574",
-  "total_episodes": 0,
+  "generated_at": "2026-05-21T22:25:34.598957",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い 方法_20260521_222511",
+      "theme": "占い 方法",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "モヘンジョダロはいかにして繁栄と格差縮小を実現したのか──最新研究が覆す都市の定説(ARTnews JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "国際環境認証ブルーフラッグを継続取得!アジア初のリビエラ逗子マリーナ5年連続、リビエラシーボニアマリーナ3年連続の快挙。国内2/3を占めるリビエラが「環境×観光」で富裕層インバウンドを呼び込む地方創生",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "世界初となる黒毛和牛へのメタン削減資材ボベアー®の給与実証で生産された環境配慮ビーフ社内カフェで提供",
+          "source": "Kyodonewsprwire",
+          "trust_score": 8.5
+        },
+        {
+          "title": "初期ウルトラマンシリーズを巡る海外利用権、約25年にわたる“訴訟”で円谷プロが勝訴。グローバル展開をさらに推進へ",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "不妊症治療法として「タクロリムス」を用いた手法の安全・有効性を確認",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "中ロ首脳会談で蜜月アピールも...深まる対中依存で力関係に変化 ウクライナ情勢も議論 中国がロシア兵を極秘訓練か",
+          "source": "テレ朝new",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中ロ首脳会談で蜜月アピールも...深まる対中依存で力関係に変化 ウクライナ情勢も議論 中国がロシア兵を極秘訓練か(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260521_222528",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "success",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ベースマキナ、AIで社内システムへの操作を定義・呼び出し可能にするスキル・CLI・API提供を開始。AIファーストな利用体験を実現。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ベースマキナ、AIで社内システムへの操作を定義・呼び出し可能にするスキル・CLI・API提供を開始。AIファーストな利用体験を実現。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "不動産AIエージェント「土地価格査定クン」v1.4.2、Apache 2.0で公開する初のオープンソースAVM--業界歴20年超の不動産鑑定士が個人開発で「AVM界のLinux」を目指す",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Google検索がエージェント化──ユーザーの出る幕はなくなりつつある?",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株価が1年で5倍超え。インテルがAI時代に再注目される理由",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026年5月20日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
