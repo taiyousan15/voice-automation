@@ -4,70 +4,14 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
     <channel>
         <title>AI情報ポッドキャスト - 最新トレンド自動配信</title>
-        <link>https://taiyousan15.github.io/voice-automation</link>
+        <link>https://USERNAME.github.io/REPO_NAME</link>
         <description>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</description>
         <language>ja</language>
         <managingEditor>AI Podcast System</managingEditor>
-        <lastBuildDate>2026-05-21T22:25:34.599332</lastBuildDate>
+        <lastBuildDate>2026-05-22T03:31:57.494252</lastBuildDate>
         <generator>Podcast Automation System</generator>
         <itunes:author>AI Podcast System</itunes:author>
         <itunes:summary>AIビジネス、バイブコーディング、エージェント活用など、最新AI情報を毎日自動配信</itunes:summary>
         <itunes:explicit>false</itunes:explicit>
-    <item>
-        <title>エピソード 1: 占い 方法</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【占い 方法】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: Yahoo Japan】
-信頼度スコア: 9.7/10
-
-**hook（150文字）**
-私たちは、都市が大きくなるほど、格差が広がり、富が少数の手に集中していくという「社会の常識」を長年信じてきました。しか...]]>
-
-
-記事一覧:
-  • モヘンジョダロはいかにして繁栄と格差縮小を実現したのか──最新研究が覆す都市の定説(ARTnews JAPAN) (出典: Yahoo Japan, 信頼度: 9.7/10)
-  • 国際環境認証ブルーフラッグを継続取得!アジア初のリビエラ逗子マリーナ5年連続、リビエラシーボニアマリーナ3年連続の快挙。国内2/3を占めるリビエラが「環境×観光」で富裕層インバウンドを呼び込む地方創生 (出典: Pr Times, 信頼度: 8.5/10)
-  • 世界初となる黒毛和牛へのメタン削減資材ボベアー®の給与実証で生産された環境配慮ビーフ社内カフェで提供 (出典: Kyodonewsprwire, 信頼度: 8.5/10)
-  • 初期ウルトラマンシリーズを巡る海外利用権、約25年にわたる“訴訟”で円谷プロが勝訴。グローバル展開をさらに推進へ (出典: 電ファミニコゲーマー – ゲームの面白い記事読んでみない？, 信頼度: 7.0/10)
-  • 不妊症治療法として「タクロリムス」を用いた手法の安全・有効性を確認 (出典: Mynavi News, 信頼度: 8.0/10)
-  • 中ロ首脳会談で蜜月アピールも...深まる対中依存で力関係に変化 ウクライナ情勢も議論 中国がロシア兵を極秘訓練か (出典: テレ朝new, 信頼度: 7.0/10)
-  • 中ロ首脳会談で蜜月アピールも...深まる対中依存で力関係に変化 ウクライナ情勢も議論 中国がロシア兵を極秘訓練か(テレビ朝日系(ANN)) (出典: Yahoo Japan, 信頼度: 9.2/10)</description>
-        <category>占い 方法</category>
-        <pubDate>2026-05-21T22:25:34.599268</pubDate>
-        <guid isPermaLink="false">episode_占い 方法_1_1779402334</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/%E5%8D%A0%E3%81%84%20%E6%96%B9%E6%B3%95/1</link>
-    </item>
-    <item>
-        <title>エピソード 2: Claude code おすすめ 理由</title>
-        <description><![CDATA[こんにちは、ポッドキャスト自動配信システムへようこそ。
-本日は、【Claude Code おすすめ 理由】に関する最新ニュースをお届けします。
-それでは、今週のハイライトをご紹介します。
-
----
-
-【セクション 1: 財経新聞：経済・株式の最新ニュース】
-信頼度スコア: 7.0/10
-
-**problem**
-こんな悩みありませんか？社内システムの管理や操作が煩雑で、効率が悪い。AIの活用もした...]]>
-
-
-記事一覧:
-  • ベースマキナ、AIで社内システムへの操作を定義・呼び出し可能にするスキル・CLI・API提供を開始。AIファーストな利用体験を実現。 (出典: 財経新聞：経済・株式の最新ニュース, 信頼度: 7.0/10)
-  • ベースマキナ、AIで社内システムへの操作を定義・呼び出し可能にするスキル・CLI・API提供を開始。AIファーストな利用体験を実現。 (出典: Pr Times, 信頼度: 8.0/10)
-  • AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応 (出典: Gigazine, 信頼度: 7.5/10)
-  • 不動産AIエージェント「土地価格査定クン」v1.4.2、Apache 2.0で公開する初のオープンソースAVM--業界歴20年超の不動産鑑定士が個人開発で「AVM界のLinux」を目指す (出典: Pr Times, 信頼度: 8.5/10)
-  • Google検索がエージェント化──ユーザーの出る幕はなくなりつつある? (出典: Wired.jp, 信頼度: 7.0/10)
-  • 株価が1年で5倍超え。インテルがAI時代に再注目される理由 (出典: Gizmodo, 信頼度: 7.5/10)
-  • 2026年5月20日のヘッドラインニュース (出典: Gigazine, 信頼度: 7.0/10)</description>
-        <category>Claude Code おすすめ 理由</category>
-        <pubDate>2026-05-21T22:25:34.599308</pubDate>
-        <guid isPermaLink="false">episode_Claude Code おすすめ 理由_2_1779402334</guid>
-        <link>https://taiyousan15.github.io/voice-automation/episodes/Claude%20Code%20%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%20%E7%90%86%E7%94%B1/2</link>
-    </item>
     </channel>
 </rss>
