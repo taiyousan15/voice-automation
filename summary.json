@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T03:31:57.493936",
-  "total_episodes": 1,
+  "generated_at": "2026-05-22T22:13:28.306595",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
@@ -30,20 +30,50 @@
           "title": "VMware、「AIはプライベートクラウドへ」VCF 9.1で運用・セキュリティ強化",
           "source": "Mynavi News",
           "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 比較_20260522",
+      "theme": "思想 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ブリンカー・インターナショナルのSWOT分析:株価の勢いはマージンの試練に直面",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "Google最新モデル「Gemini 3.5 Flash」誕生。最大の目玉は自律型エージェントAI【Google I/O 2026】(ライフハッカー・ジャパン)",
+          "title": "「W杯に縁がない? 何なんだろうね」過去2大会は不完全燃焼...中村俊輔コーチが指導者として自身3度の大舞台へ「微力ですけど代表のために」",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Bleachersが曝け出す内省のロックンロール ジャック・アントノフが語る作曲術と詞世界、ケンドリック・ラマーからのインスピレーション",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "オートメッセ in 愛知で見えたトーヨータイヤの狙いと「走りが楽しくなる」最新プロダクト(くるまのニュース)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "Google最新モデル「Gemini 3.5 Flash」誕生。最大の目玉は自律型エージェントAI【Google I/O 2026】",
-          "source": "Lifehacker",
-          "trust_score": 7.5
+          "title": "オートメッセ in 愛知で見えたトーヨータイヤの狙いと「走りが楽しくなる」最新プロダクト",
+          "source": "Car News",
+          "trust_score": 8.5
         },
         {
-          "title": "スマホのローカルAIを動かしたら想像以上に実用的だった!私が愛用するLLM活用法5選",
-          "source": "Lifehacker",
+          "title": "ユタカ技研のアシストスーツ「BELT POWER X」、ダイヤ工業の体験型ミュージアムで展示開始(レスポンス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "3日に1回は射精を 貯め過ぎると精子の質が低下...「不妊」原因の“半分”は男性に",
+          "source": "Fnnプライムオンライン",
           "trust_score": 7.5
         }
       ]
