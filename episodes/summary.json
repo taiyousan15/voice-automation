@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-05-22T03:31:57.493936",
+  "generated_at": "2026-05-23T02:50:21.439418",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260522",
-      "theme": "MCP 比較",
+      "name": "episode_MCP おすすめ_20260523",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AlibabaがAIエージェント向け新モデル「Qwen3.7-Max」を発表、35時間の自律作業と1000回超のツール呼び出しに対応",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "AI時代の旅行ビジネス、OTAの競争軸は「旅行体験の課題解決」と「価格」へ、世界大手アゴダCEOが語った現在地",
+          "source": "Travel Voice",
+          "trust_score": 7.0
         },
         {
-          "title": "【Ahrefs エイチレフス】API・MCP 上限を最大 10 倍に拡大、AI エージェント活用を加速",
+          "title": "ウィブル証券、「AI × API Trading Summit 2026」にメインスポンサー参加",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "GMO天秤AIとデジライズ、生成AIの法人向けリスキリング支援を開始",
+          "title": "【吉積情報株式会社】Google Cloud Next '26 現地レポートを公開。Google Workspace における AI エージェント活用と導入の鉄則を解説",
           "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "VMware、「AIはプライベートクラウドへ」VCF 9.1で運用・セキュリティ強化",
-          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "Google最新モデル「Gemini 3.5 Flash」誕生。最大の目玉は自律型エージェントAI【Google I/O 2026】(ライフハッカー・ジャパン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "OktaがClaude Compliance APIと統合、Claude環境内のアイデンティティ保護を強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Google最新モデル「Gemini 3.5 Flash」誕生。最大の目玉は自律型エージェントAI【Google I/O 2026】",
-          "source": "Lifehacker",
-          "trust_score": 7.5
+          "title": "Boomi、Gongと協業し、「Boomi Agentstudio」にRevenue AIを導入",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "スマホのローカルAIを動かしたら想像以上に実用的だった!私が愛用するLLM活用法5選",
-          "source": "Lifehacker",
-          "trust_score": 7.5
+          "title": "ウィブル証券、「Webull MCP Server」および 「Webull Agent Skills」を強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新型国産SNS「miraipage」、プロフィールの\"電子名刺化\"に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
