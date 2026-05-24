@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-05-23T02:50:21.439418",
-  "total_episodes": 1,
+  "generated_at": "2026-05-24T03:28:37.817668",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ_20260523",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AI時代の旅行ビジネス、OTAの競争軸は「旅行体験の課題解決」と「価格」へ、世界大手アゴダCEOが語った現在地",
-          "source": "Travel Voice",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ウィブル証券、「AI × API Trading Summit 2026」にメインスポンサー参加",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【吉積情報株式会社】Google Cloud Next '26 現地レポートを公開。Google Workspace における AI エージェント活用と導入の鉄則を解説",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "OktaがClaude Compliance APIと統合、Claude環境内のアイデンティティ保護を強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Boomi、Gongと協業し、「Boomi Agentstudio」にRevenue AIを導入",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ウィブル証券、「Webull MCP Server」および 「Webull Agent Skills」を強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "新型国産SNS「miraipage」、プロフィールの\"電子名刺化\"に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
