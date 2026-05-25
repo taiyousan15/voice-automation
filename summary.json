@@ -1,90 +1,20 @@
 {
-  "generated_at": "2026-05-24T22:01:10.549047",
-  "total_episodes": 2,
+  "generated_at": "2026-05-25T03:39:28.967096",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 おすすめ 理由_20260524",
-      "theme": "哲学 おすすめ 理由",
+      "name": "episode_skill おすすめ_20260525",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "岡本多緒がカンヌ国際映画祭で日本人初の快挙を達成 約10年前はモデルから「情熱をお芝居に」と宣言",
-          "source": "Sanspo",
-          "trust_score": 7.0
-        },
-        {
-          "title": "BeOne Medicines、ASCO 2026およびEHA 2026で60件超の抄録を発表し、がん領域を先導",
-          "source": "Businesswire",
+          "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
-        },
-        {
-          "title": "衣替えに合わせて実践したい、デンマーク式クローゼット整理術",
-          "source": "Vogue",
-          "trust_score": 7.5
-        },
-        {
-          "title": "長塚京三「高らかに乾杯!」黒崎煌代「心から納得」カンヌ女優賞受賞エフィラが岡本多緒を祝福",
-          "source": "Nikkan Sports",
-          "trust_score": 7.5
-        },
-        {
-          "title": "濱口竜介監督「2人が魂」女優賞受賞祝福に妊娠中の岡本多緒、赤ちゃんが「興奮して出てきそう」",
-          "source": "Nikkan Sports",
-          "trust_score": 7.5
-        },
-        {
-          "title": "腕時計は、道具だ。オーデマ、パネライ、シチズンetc. “信頼”で選ぶ傑作6本(OCEANS)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "なぜ何もかも最後までやり遂げられないのか?",
-          "source": "Wired.jp",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 方法_20260524",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "WEIRDCOREとKALKULが『攻殻機動隊』の世界に重ねるもの",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "表現力の衰退を打開するには『会話で差がつく大人の上級語彙』宮崎哲弥著 著者に聞きたい(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "岡本多緒 カンヌ映画祭で日本人初の女優賞受賞! 「夢さえも超えている」",
-          "source": "スマートニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "イタリアで大歓迎のキャサリン妃 赤ちゃんにそっぽをむかれるメーガンさん 人出が少ないのは「セキュリティーのせい」(AERA DIGITAL)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日本人デザイナーのパリ発ジュエリー「ラ・レフレクション」 「記憶や人生が重なっていくジュエリー」のデザイン思想とは(WWDJAPAN.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "a16zが独自のファミリーオフィスを設立 従来型資産管理が創業者に応えられなかった構造的理由 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
         }
       ]
     }
