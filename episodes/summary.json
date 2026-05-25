@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-24T03:28:37.817668",
-  "total_episodes": 0,
+  "generated_at": "2026-05-25T03:39:28.967096",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ_20260525",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「Gemini」「Claude Code」「Codex」 全社展開・本番実装に役立つ5つのポイント",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
