@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-05-26T02:58:37.965632",
-  "total_episodes": 0,
+  "generated_at": "2026-05-27T03:38:36.080536",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ_20260527",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Uravation、OpenAI Codex に特化した実務講座『Codex活用講座|仕事で使いこなす3時間』を2026年7月19日に1,000名規模でオンライン開催決定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Uravation、OpenAI Codex に特化した実務講座『Codex活用講座|仕事で使いこなす3時間』を2026年7月19日に1,000名規模でオンライン開催決定",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIコーディングツールの”しくじり”3選 「MCPを増やすほど賢くなるは誤解です」",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ウブン、「Amazon AIエージェント構築支援サービス」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ウブン、「Amazon AIエージェント構築支援サービス」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
