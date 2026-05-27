@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-05-26T22:25:02.759390",
-  "total_episodes": 2,
+  "generated_at": "2026-05-27T03:38:36.080536",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 方法_20260526",
-      "theme": "占い 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ロシア政府「キーウの外国人は即刻退避を」 寄宿舎攻撃への大規模報復を予告(テレビ朝日系(ANN))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "宮崎県内で「分電盤の点検商法」が急増!高齢者は要注意、怪しい電話や訪問に惑わされないで",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「3Dプリンター工法」の実証実験公開 高齢化による建設業界の「担い手不足」解消に期待(島根・雲南市)",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "兄が「実家は自分が住むから相続したい」と言っています。土地の評価額は「3000万円」らしいのですが、妹の私は何も受け取れないのでしょうか?(ファイナンシャルフィールド)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "最速で億万長者になる「7つの攻略法」。ずる賢く勝つカギは、こだわりを捨てた「合理的思考」にあった(みんかぶマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "熱中症で1114人搬送 1人死亡、18~24日(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【#影響力が増すキャバ嬢】「死にたいと思ってしまう瞬間があった」人生絶望からの逆転劇「人には人の地獄がある」夜の世界で見つけた自分ならではの強み──東京上野・ゆうか",
-          "source": "Model Press",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260526",
+      "name": "episode_skill おすすめ_20260527",
       "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
@@ -80,11 +35,6 @@
           "title": "ウブン、「Amazon AIエージェント構築支援サービス」を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
-        {
-          "title": "鹿児島で地域店舗向けにSNS×MEOを組み合わせた新たな集客支援モデルを展開|株式会社国境離島革命団、店舗集客支援のEn placeと業務提携",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
