@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-05-28T22:44:07.348671",
-  "total_episodes": 1,
+  "generated_at": "2026-05-29T03:27:48.066819",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260528",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "OrcaRouter、MCP Server機能を正式リリース ― Claude Code、Cursor、Windsurf等200+AIモデルへの統一アクセスを実現",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ClickHouse、ARR前年同期比300%超、顧客数4,000社突破、Claude搭載のAIエージェントを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」、言語と文書を理解する2つのAIを提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」、言語と文書を理解する2つのAIを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI用語115語・ツール30本・導入事例を1サイトに集約--無料メディア「AI産業通信」公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
