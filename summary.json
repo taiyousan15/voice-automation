@@ -1,93 +1,23 @@
 {
-  "generated_at": "2026-05-29T22:41:09.121769",
-  "total_episodes": 2,
+  "generated_at": "2026-05-30T02:54:35.049831",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ 理由_20260529",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_skill おすすめ 理由_20260530",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「過去最大の減少幅」日本の人口300万人減 5年で大阪市の全人口より多い数が消えた 国勢調査速報値(ABEMA TIMES)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "火山、活動で「ランク分け」へ 今夏にも、噴火予測目指す(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【70代に聞いた】最強だと思う「そうめんの薬味」ランキング! 2位は「ネギ」、1位は?(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "検察官が不利な証拠を認識しながら裁判進めたことは「合理性を肯定できない」名古屋地裁が国に110万円の賠償命じる判決(東海テレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "新スタジアム整備費用 県立鴨池庭球場の方が「78億円低く」 2つの候補地調査結果明らかに",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.5
-        },
-        {
-          "title": "カルロス・サインツJr. 2027年F1規則でFIAに要求「反対勢力に屈するな」",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "カーディナルズ、コークが生んだ文学的ロックの新鋭──サマソニを前にブルックリン公演を目撃",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260529",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "定員1000名満席につき、最終100席を追加開放--新恵社・AI Orchestra共催「非エンジニアのためのClaude Code入門ウェビナー」、5月31日開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【AI活用促進の中核人材を育てる】Claude Code / Cursor 特化の法人研修「AI Agent Camp 法人研修」を提供開始",
+          "title": "横浜・みなとみらいで、「アメリカの教室」をまるごと体験できる2026 サマースクール 申込受付開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Jooto、AIツールとタスク・プロジェクト情報をつなぐローカルMCPサーバー/CLIツールを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Neuron ES、MCPサーバー対応によりMicrosoft 365 Copilotからオンプレ・クラウド問わず“AI検索”を可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「mitoco 会計」「mitoco AI」Ver.5.0をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Jooto、AIツールとタスク・プロジェクト情報をつなぐローカルMCPサーバー/CLIツールを公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「mitoco 会計」「mitoco AI」Ver.5.0をリリース",
+          "title": "横浜・みなとみらいで、「アメリカの教室」をまるごと体験できる2026 サマースクール 申込受付開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         }
