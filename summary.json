@@ -1,6 +1,77 @@
 {
-  "generated_at": "2026-06-01T03:54:56.247699",
-  "total_episodes": 0,
+  "generated_at": "2026-06-01T23:05:07.782944",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code 比較_20260601",
+      "theme": "Claude Code 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Offers、ブランド刷新を実施 - 『AI時代の採用は、Offersから』。AI時代の採用と転職を支える、新たな取り組みを順次開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260601",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "OrcaRouterで次世代AIモデル「MiniMax M3」APIをサポート開始 ― 超長文コンテキスト処理を従来比15.6倍高速化、100万トークン対応で企業のAI活用を加速",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【ビジネス職向け】FLINTERS、セキュリティ対策と実務活用を両立する「Claude Code法人導入研修」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "freee CAIO横路がAnthropic社主催のアジア初開催イベント「Code with Claude」およびAWS社主催「AWS Summit Japan」に登壇",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "freee CAIO横路がAnthropic社主催のアジア初開催イベント「Code with Claude」およびAWS社主催「AWS Summit Japan」に登壇",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "製薬ドキュメントを専門とするラクヤクAI、AI駆動型組織への完全移行を宣言",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Amazonがトークン消費を競うランキングボードを廃止...「トークン消費を目的に、AIを使わないで」",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20260601",
+      "theme": "skill 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "2年連続、鹿児島県の「移住・交流促進のためのセミナー開催業務」を受託",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
