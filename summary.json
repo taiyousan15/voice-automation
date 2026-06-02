@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T03:48:02.766628",
-  "total_episodes": 1,
+  "generated_at": "2026-06-02T23:05:46.569260",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
@@ -12,12 +12,127 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "OrcaRouterで次世代AIモデル「MiniMax M3」APIをサポート開始 ― 超長文コンテキスト処理を従来比15.6倍高速化、100万トークン対応で企業のAI活用を加速",
+          "title": "ENSAPIA Engineering株式会社「AI Engineering Summit Tokyo 2026」協賛のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Rimo、国内議事録ツール初のAIエージェント連携を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ENSAPIA Engineering株式会社「AI Engineering Summit Tokyo 2026」協賛のお知らせ",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Confluent、スケーラブルなリアルタイムAIの構築と保護をさらに容易に",
+          "title": "事業会社のマーケティング部門向けに「デジタル広告運用におけるAIネイティブなマーケティング組織」に進化する伴走プログラムを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "エンタープライズでAIエージェントが成果につながりにくい理由",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude Cowork・Codeの圧倒的なエージェント体験を、個人から組織へ。セルフホスト×組織統制×モデルフリーを実現するAIエージェント実行基盤「agens」をhomulaが提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "OrcaRouterで次世代AIモデル「MiniMax M3」APIをサポート開始 ― 超長文コンテキスト処理を従来比15.6倍高速化、100万トークン対応で企業のAI活用を加速",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260602",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "少数株ドットコム創業者会長兼代表取締役の山中裕が、熊本に上場するビューティーカダンと、株主としての対話を開始、日本の農業分野の新しいビジネスモデルの構築に情熱",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "少数株ドットコム創業者・山中裕氏、裁判官への「経済学・統計学研修の義務付け」を求める政策提案を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "出荷本数世界No.1*スタイラスペンメーカー「Metapen」Microsoft Surface用新ラインナップ2種を販売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "なぜ賢明な企業はAI時代でも採用を継続するのか | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ステーブルコインは金融をどこまで変えるのか──香港、米国規制、日本市場の行方【アニモカ会長・ヤット・シウ氏来日インタビュー後編】",
+          "source": "Coindesk Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "発火しない高容量スマホ電池を実現する新材料! その可能性とは......(MONOist)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "高山右近の生涯|秀吉に仕え、追放されても信仰を捨てなかった武将【日本史人物伝】",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20260602",
+      "theme": "Claude Code 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AnthropicがIPOに向けて申請",
+          "source": "Mynavi News",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Anthropic、史上最大級のIPOへ。企業価値は154兆円規模",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【2026年5月版】“生成AI”主要8サービス料金早見表。――価格据え置きのまま、主力モデルが軒並み世代交代を遂げる",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ChatGPTの共有リンクがマルウェア配布に悪用――OpenAIドメインを経由し企業ファイアウォールを回避(Push Security報告)",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "GitHub Copilot、トークン課金に完全移行——エージェント機能のヘビーユーザーは費用激増?",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Uravation、主要AIツールを網羅した「ツール特化型研修シリーズ」のラインナップを整備し提供を拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ビジネス職向け】FLINTERS、セキュリティ対策と実務活用を両立する「Claude Code法人導入研修」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
