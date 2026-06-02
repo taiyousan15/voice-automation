@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-06-01T03:54:56.247699",
-  "total_episodes": 0,
+  "generated_at": "2026-06-02T03:48:02.766628",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260602",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "OrcaRouterで次世代AIモデル「MiniMax M3」APIをサポート開始 ― 超長文コンテキスト処理を従来比15.6倍高速化、100万トークン対応で企業のAI活用を加速",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Confluent、スケーラブルなリアルタイムAIの構築と保護をさらに容易に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
