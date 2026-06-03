@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-06-02T03:48:02.766628",
-  "total_episodes": 1,
+  "generated_at": "2026-06-03T03:56:36.638491",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260602",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_MCP おすすめ_20260603",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "OrcaRouterで次世代AIモデル「MiniMax M3」APIをサポート開始 ― 超長文コンテキスト処理を従来比15.6倍高速化、100万トークン対応で企業のAI活用を加速",
+          "title": "Uravation、Claude Code・MCP・Skillsを活用した「業務特化型AIエージェント開発」サービスを強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ドキュサイン、グラハム・シェルドン氏を最高製品責任者に任命",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "クラロティ、CPS業界特化型AIセキュリティエージェント「Claroty Claire」を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "フィットネストラッカーアプリ「Strava」がAIによるデータスクレイピングに対抗するため開発者向けAPIアクセスを有料化",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "Confluent、スケーラブルなリアルタイムAIの構築と保護をさらに容易に",
+          "title": "法人データベース「Compalyze」、編集部メディア「Compalyze Journal」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "法人データベース「Compalyze」、編集部メディア「Compalyze Journal」を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "リッジアイ、SBIグループとAnthropicによるAIトランスフォーメーションを推進",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260603",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIを学ぶ人から、AIを使って任す人へ。Zenmetry、60日間の超・伴走型AIエージェント化プログラムを6月より開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
