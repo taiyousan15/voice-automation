@@ -1,61 +1,116 @@
 {
-  "generated_at": "2026-06-03T03:56:36.638491",
-  "total_episodes": 2,
+  "generated_at": "2026-06-03T23:07:53.955479",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260603",
-      "theme": "MCP おすすめ",
+      "name": "episode_占い おすすめ_20260603",
+      "theme": "占い おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Uravation、Claude Code・MCP・Skillsを活用した「業務特化型AIエージェント開発」サービスを強化",
+          "title": "6/7立川北口・地域マルシェ「TACHI-EN MARKET」。肩・首・骨盤の整体“ワンコイン体験(500円)”ブースも登場",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ドキュサイン、グラハム・シェルドン氏を最高製品責任者に任命",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "『日露戦争に投資した男―ユダヤ人銀行家の日記―』田畑則重 著 読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "クラロティ、CPS業界特化型AIセキュリティエージェント「Claroty Claire」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "『会社法制定の経緯と概要』相澤哲 著 読書会開催のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アップルの画像生成AI、ついに改善? iOS 27でGenmojiも高画質化か",
+          "source": "Ascii",
           "trust_score": 7.0
         },
         {
-          "title": "フィットネストラッカーアプリ「Strava」がAIによるデータスクレイピングに対抗するため開発者向けAPIアクセスを有料化",
-          "source": "Gigazine",
+          "title": "アップルの未発表ヘッドホン判明か FCC登録で存在明らかに",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アップル「iPhone 18 Pro」新色がリークか ダークチェリーなど4色のカメラ部品画像",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "がらり、本日リリースのEP『螺旋の街』収録曲「レンズ」のMV公開。大久保桜子演じる地下アイドルの変質する感情を描いた映像に",
+          "source": "Barks",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20260603",
+      "theme": "哲学 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "少数株ドットコム創業者・山中裕氏、裁判官への「経済学・統計学研修の義務付け」を求める政策提案を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "法人データベース「Compalyze」、編集部メディア「Compalyze Journal」を公開",
+          "title": "アレン様、現在のリアル貯金額ぶっちゃけ「私やばくて」",
+          "source": "Model Press",
+          "trust_score": 8.0
+        },
+        {
+          "title": "TVアニメ『乙女ゲー世界はモブに厳しい世界です2』放送開始日時が2026年7月8日(水)に決定!",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "法人データベース「Compalyze」、編集部メディア「Compalyze Journal」を公開",
+          "title": "TVアニメ『乙女ゲー世界はモブに厳しい世界です2』放送開始日時が2026年7月8日(水)に決定!",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "trust_score": 6.5
         },
         {
-          "title": "リッジアイ、SBIグループとAnthropicによるAIトランスフォーメーションを推進",
+          "title": "「金儲けのためなら、商売はやめたほうがいい」松下幸之助も実践した“天地自然の法則”から名将・広岡達朗が導いた〈最強の仕事論〉(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【みんなの銀行5周年】目指すは“金融の黒子”。トップが語る「銀行らしくない銀行」のこれまでと、BaaSで描く未来",
+          "source": "Getnews",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「三菱グループの接待ではキリンビールを用意せよ」......もはや社会人にとって必読となった『教養としての三菱・三井・住友』売れ行き好調で2万部突破!",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_skill おすすめ_20260603",
-      "theme": "skill おすすめ",
+      "name": "episode_skill 比較_20260603",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "Snowflake CoWork、エージェント型エンタープライズを牽引するナレッジワーカー向けパーソナルAIエージェントへと進化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "シェアサロン空間に新たな価値を──GO TODAY SHAiRE SALON銀座Cras店にて、Dyson製品を期間限定で体験できる場を展開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "AIを学ぶ人から、AIを使って任す人へ。Zenmetry、60日間の超・伴走型AIエージェント化プログラムを6月より開始",
           "source": "Pr Times",
