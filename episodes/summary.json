@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-06-04T03:51:51.178230",
-  "total_episodes": 1,
+  "generated_at": "2026-06-05T03:36:56.654105",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260604",
-      "theme": "MCP 方法",
+      "name": "episode_MCP 比較_20260605",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "はてな、AIを活用したインタビュー分析SaaS「toitta」でMCPサーバー(β版)を提供開始",
+          "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
           "title": "BtoB広告運用をAIエージェントで実行する『ウルテク 広告AIエージェント』を提供開始",
@@ -22,28 +22,23 @@
           "trust_score": 8.0
         },
         {
-          "title": "x3d株式会社、池田泉州銀行のICTコンサルティングチームにAI活用実践研修を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "x3d株式会社、池田泉州銀行のICTコンサルティングチームにAI活用実践研修を実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
           "title": "無料でWebサイトの「AIエージェント対応度」を評価 Cloudflareが新ツール公開",
           "source": "Atmarkit Itmedia",
           "trust_score": 7.5
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20260605",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "Intent Exchange、ドローン航路を実証し、国際業界団体にてタスクフォースを立ち上げ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Intent Exchange、ドローン航路を実証し、国際業界団体にてタスクフォースを立ち上げ",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "【毎日書評】部下が自ら動き出す! 日本の上司がやっていない「世界の一流」のマネジメント",
+          "source": "Lifehacker",
           "trust_score": 7.5
         }
       ]
