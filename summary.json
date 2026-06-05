@@ -1,50 +1,45 @@
 {
-  "generated_at": "2026-06-04T22:25:26.341592",
-  "total_episodes": 1,
+  "generated_at": "2026-06-05T03:36:56.654105",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ 理由_20260604",
-      "theme": "Claude Code おすすめ 理由",
+      "name": "episode_MCP 比較_20260605",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "[無料公開] Claude CodeからAPIキーや環境変数が漏れる前に。企業運用向けセキュリティ対策Ebookを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Anthropicが「サイバー攻撃はすでにAIで自動化されている」と報告",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI音声合成の新境地を開く! 『AI音声API入門 クラウド時代の音声合成』発行 技術の泉シリーズ、6月の新刊",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "非エンジニア経営者が年間400時間を創出した「経営者のための Claude Code 活用ハンドブック」を無料配布開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
           "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "はてな、AIを活用したインタビュー分析SaaS「toitta」でMCPサーバー(β版)を提供開始",
+          "title": "BtoB広告運用をAIエージェントで実行する『ウルテク 広告AIエージェント』を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "BtoB広告運用をAIエージェントで実行する『ウルテク 広告AIエージェント』を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "無料でWebサイトの「AIエージェント対応度」を評価 Cloudflareが新ツール公開",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20260605",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【毎日書評】部下が自ら動き出す! 日本の上司がやっていない「世界の一流」のマネジメント",
+          "source": "Lifehacker",
+          "trust_score": 7.5
         }
       ]
     }
