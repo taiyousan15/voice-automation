@@ -1,95 +1,25 @@
 {
-  "generated_at": "2026-06-05T22:20:35.124903",
-  "total_episodes": 2,
+  "generated_at": "2026-06-06T02:57:33.618022",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ 理由_20260605",
-      "theme": "Claude Code おすすめ 理由",
+      "name": "episode_skill 方法_20260606",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2日18時間で取り戻せる「AIエージェントに乗り遅れた方」専用、ホリエモンAI学校 2日Camp、6月スタート",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Anthropicが「AIがAIを作る」自己改善ループのリスクを警告、AI開発をAI自身が加速する可能性を論じる",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIを仕事の同僚にする Windows×Claude活用術 第1回 Claudeを仕事の同僚にする第一歩 使い始める前に知っておきたい基本知識",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【めぐる組】Claudeのサブスクだけで始める「サーバーレスAI秘書」をオープンソース公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「この1年はAI戦国時代」 メルカリに学ぶ、AIガバナンス策定の勘所",
+          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
           "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
+          "trust_score": 7.0
         },
         {
-          "title": "[無料公開] Claude CodeからAPIキーや環境変数が漏れる前に。企業運用向けセキュリティ対策Ebookを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Anthropicが「サイバー攻撃はすでにAIで自動化されている」と報告",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ_20260605",
-      "theme": "哲学 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『Mr.都市伝説 関暁夫の裏都市伝説』、新作「現代戦争の裏側~トランプとユダヤの思惑~」全15話を6月5日(金)より「タテドラ」で配信開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "コスチュームクリエイター新朋子と気鋭の若きクリエイターが創り出す、20の“あるかもしれない物語”。COMO Inc. 20周年プロジェクト『reversible』始動",
+          "title": "【学びも転職も、完全無料】株式会社PASET、リスキリング×転職支援をワンストップで届ける「PASETエージェント」をリリース ― AI時代に「準備して選ばれる人」を増やす",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "ウブロがサッカー日本代表のオフィシャルウォッチを発売!ダークネイビーをまとった限定モデル(OTOKOMAE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "磐越道バス事故から6日で1か月...県内の高校も安全管理への意識高まる・福島",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.0
-        },
-        {
-          "title": "サッカーW杯開幕間近! 日本代表GK・大迫敬介選手へ出水市民の熱い寄せ書き【鹿児島】",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『ファイナンス・セオリー』コラム1「ネットワーキング」メズィアン・ラスファー Meziane Lasfer 著 読書会開催のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『ファイナンス・セオリー』コラム1「ネットワーキング」メズィアン・ラスファー Meziane Lasfer 著 読書会開催のお知らせ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
         }
       ]
     }
