@@ -1,25 +1,140 @@
 {
-  "generated_at": "2026-06-06T02:57:33.618022",
-  "total_episodes": 1,
+  "generated_at": "2026-06-06T22:09:12.138492",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260606",
-      "theme": "skill 方法",
+      "name": "episode_占い おすすめ 理由_20260606",
+      "theme": "占い おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+          "title": "【もう一つの京都 雨情草庵】雨に潤う初夏、蛍舞う頃の漁火と活烏賊 ー海の京都 夕日ヶ浦温泉ー",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "天才か?もう【カップ麺にお湯は注がない!?】「大バズり」「星野源さんも興奮」衝撃アレンジ2選",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "最終回に最高視聴率21.8%を叩き出す!【韓国ドラマ】鉄板「ラブコメ」ストーリーにハマる",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【やってはいけない!ケチャップの置き方】\"食品メーカー\"の回答に→「ずっと反対だった...」勉強になる",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【バナナは常温で置かないで...!!】スーパー青果部の「1ヶ月長持ちする」\"賢い保存法\"に目からウロコ!簡単絶品アレンジも",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社DataMarket、中堅企業向けデータ基盤構築支援サービスを3領域に体系化し公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "日本財団母乳バンクが、初の全国1万人・全世代調査「母乳バンク・ドナーミルク認知度調査」を実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ_20260606",
+      "theme": "Claude Code おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「ローカルLLMは本当に手元で動く?」「IT担当不在でも『自走するDX』とは」――ITの“常識”をアップデート",
           "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "【学びも転職も、完全無料】株式会社PASET、リスキリング×転職支援をワンストップで届ける「PASETエージェント」をリリース ― AI時代に「準備して選ばれる人」を増やす",
+          "title": "2日18時間で取り戻せる「AIエージェントに乗り遅れた方」専用、ホリエモンAI学校 2日Camp、6月スタート",
           "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Uberは従業員がAIツールを使い過ぎたことで「1人あたり各ツール月額24万円まで」という制限を設けている",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Anthropicが「AIがAIを作る」自己改善ループのリスクを警告、AI開発をAI自身が加速する可能性を論じる",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIが社員のプロンプトをリアルタイムに評価・改善提案する「Agent Monitor」(デスクトップ版)をrenueが開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIが社員のプロンプトをリアルタイムに評価・改善提案する「Agent Monitor」(デスクトップ版)をrenueが開発",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Google、AIエージェント向け「Android CLI」を正式公開 アプリ開発が“3倍高速”に",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 比較_20260606",
+      "theme": "思想 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "湖畔を彩るハナショウブ あわら市の北潟湖畔で7割ほど見ごろ 春先に温暖な日が続き生育順調 「花菖蒲まつり」も開催中(FBC 福井放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "原材料高でも過去最高益──億り人投資家が語る、ブロンコビリーの“慎重すぎる”勝ち筋",
+          "source": "Mynavi News",
           "trust_score": 8.5
+        },
+        {
+          "title": "『ファイナルファンタジーVII リベレーション』インタビュー。過去作エリアは登場する?ザックスはどうなる?プレイアブル化するヴィンセントやシドはどうなってる? 最新作の気になる情報を浜口Dに聞いてきた",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【スーパーのうなぎ、分厚いの買わないで】って本当!?中国産うなぎ「平べったいvs厚い」焼いて比べたら...",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "もう、めんつゆ味玉に戻れない!【土井善晴さん】「漬けると味玉が\"衝撃的に旨くなる\"」食べ方!一生モノ(泣)",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "全国10万人調査から「日本の疲労状況2026」を発表疲労者は依然7055万人も、「元気な人」は22.6%へ微増",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "まつ毛も心も宇宙まで上向きに!『宇宙兄弟』と「スカルプDまつ毛美容液」がコラボレーション毎日をちょっと前向きにしてくれる限定ノベルティ「キャラクターミラー」&「トートバッグ」をプレゼント",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     }
