@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-06-05T03:36:56.654105",
-  "total_episodes": 2,
+  "generated_at": "2026-06-06T02:57:33.618022",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260605",
-      "theme": "MCP 比較",
+      "name": "episode_skill 方法_20260606",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AIエージェント活用の「個人技化」「ブラックボックス」を解消、AI活用のベストプラクティスを可視化する5つの新機能を「Findy AI+」で提供開始",
+          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【学びも転職も、完全無料】株式会社PASET、リスキリング×転職支援をワンストップで届ける「PASETエージェント」をリリース ― AI時代に「準備して選ばれる人」を増やす",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "BtoB広告運用をAIエージェントで実行する『ウルテク 広告AIエージェント』を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "無料でWebサイトの「AIエージェント対応度」を評価 Cloudflareが新ツール公開",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20260605",
-      "theme": "skill おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【毎日書評】部下が自ら動き出す! 日本の上司がやっていない「世界の一流」のマネジメント",
-          "source": "Lifehacker",
-          "trust_score": 7.5
         }
       ]
     }
