@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-06-07T03:43:51.069472",
-  "total_episodes": 1,
+  "generated_at": "2026-06-07T22:10:48.997298",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ_20260607",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "テラスカイとブリッジインターナショナル、資本業務提携を締結",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "テラスカイとブリッジインターナショナル、資本業務提携を締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日本初!PCログ領域でAIエージェントに接続するMCP連携機能をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
