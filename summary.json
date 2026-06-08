@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:52:35.346312",
-  "total_episodes": 1,
+  "generated_at": "2026-06-08T22:43:35.832348",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 方法_20260608",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "SLV が Solana v4 対応を完了-XDP による Turbine 高速化と Alpenglow 先行対応の BLS 登録を、AI エージェントとの対話で誰でも再現できる運用レシピとして提供",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "SLV が Solana v4 対応を完了-XDP による Turbine 高速化と Alpenglow 先行対応の BLS 登録を、AI エージェントとの対話で誰でも再現できる運用レシピとして提供",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
