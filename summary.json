@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-06-10T22:54:33.722409",
-  "total_episodes": 1,
+  "generated_at": "2026-06-11T03:49:43.773902",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 活用_20260610",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Salesforce、Tableauの次世代AIエージェント型分析基盤「Agentic Analytics Platform」の国内展開を開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Infoblox、AIエージェント時代のセキュリティ運用基盤「Infoblox IQ」を発表 ネットワーク・セキュリティ運用の自動化を加速",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ゼットスケーラー、エージェント型AIを保護する新たな製品イノベーションを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ゼットスケーラー、エージェント型AIを保護する新たな製品イノベーションを発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Boomi、AgentstudioにSnowflake Cortex Agents対応を追加し、AIエージェントの統合ガバナンスを実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「CやJavaはAIが苦手な言語」 Claude Codeを大規模レガシーコードで生かす3つの成功パターンとハーネス",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI利用社員の4人に1人が機密情報を入力...企業の”見えないリスク”を管理する方法",
-          "source": "Business Journal",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
