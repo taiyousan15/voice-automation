@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-06-10T03:34:42.778286",
-  "total_episodes": 1,
+  "generated_at": "2026-06-11T03:49:43.773902",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260610",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "自然言語でWindows PCをカスタマイズするAIスキル公開",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "学習塾「ミライ式」、大阪府豊中市に新校舎「豊中桜塚校」を開校!",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "学習塾「ミライ式」、大阪府豊中市に新校舎「豊中桜塚校」を開校!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
