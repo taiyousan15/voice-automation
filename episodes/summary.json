@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-11T03:49:43.773902",
-  "total_episodes": 0,
+  "generated_at": "2026-06-12T03:47:30.064237",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 活用_20260612",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アラヤ、AIと「パーティ」を組んで働くAIパートナープラットフォーム「ClanExe」の製品紹介サイトを先行公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
