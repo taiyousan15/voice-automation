@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-06-12T03:47:30.064237",
-  "total_episodes": 1,
+  "generated_at": "2026-06-12T22:42:04.815647",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260612",
-      "theme": "skill 活用",
+      "name": "episode_Claude Code 活用_20260612",
+      "theme": "Claude Code 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【450名規模!】スタートアップHRフォーラム2026 Summer 公式サイト公開と参加者募集のお知らせ!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「ClaudeCodeビジネス実践講座」に登壇。6月23日開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「ClaudeCodeビジネス実践講座」に登壇。6月23日開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "TCSとアンソロピック(Anthropic)、エンタープライズAIの本格展開の推進に向けてグローバルプレミアパートナーシップを締結",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "孤独な経営から、共創する経営へ。AIを味方にした経営者の新・拠点が、渋谷に誕生。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIO/GEO/SEO横断診断ツール「AIOGeoScan」サービス本格開始のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ソニーが実践するFinOps、AI時代のクラウドコストと付き合うためのポイントとは",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260612",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -13,18 +58,53 @@
       "articles": [
         {
           "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20260612",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Yextの取締役セス・ウォー氏、同社株を約49万8000ドル分取得",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Netskope、AIセキュリティ分野でAWSセキュリティコンピテンシー認定を取得",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "チェック・ポイント、MSPプラットフォームの拡充を発表 MSPの安全なAIトランスフォーメーションを前進させる新プラットフォーム、AIセキュリティ機能、統合セキュリティバンドルを提供",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "アラヤ、AIと「パーティ」を組んで働くAIパートナープラットフォーム「ClanExe」の製品紹介サイトを先行公開",
+          "title": "タニウム、AI時代のIT・セキュリティ運用を変革する「Tanium Atlas」を発表",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "メルカリ、WorkatoのAgentic AI基盤で年間250人日を半減――全社AIガバナンス基盤の構築へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "生成AIと「実世界の人流データ」がつながる。Location AI Platform(R)がAPI/MCPによる外部提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "エクスペンシファイ取締役アルバレス氏、約1万6,247ドル相当の株式を売却",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
