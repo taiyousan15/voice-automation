@@ -1,236 +1,11 @@
 {
-  "generated_at": "2026-06-11T22:52:35.164307",
-  "total_episodes": 6,
+  "generated_at": "2026-06-12T03:47:30.064237",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ_20260611",
-      "theme": "思想 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "中島健人×長濱ねる「ラブ≠コメディ」、ケンティーのセリフすぎるアドリブに共演者驚愕",
-          "source": "Natalie - Pop Culture News Site",
-          "trust_score": 8.5
-        },
-        {
-          "title": "東電、処理水の海洋放出を再開",
-          "source": "熊日",
-          "trust_score": 6.0
-        },
-        {
-          "title": "北陸の梅雨入りはいつ?「暑さが強まり、その後、梅雨入りへ」【気象予報士 解説(ソラをライブ)】",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "トノサマバッタを食べる藤原竜也にファンざわつく「顔!」「表情見てるだけで...」「ムリ!って言ってたのに」",
-          "source": "Buzzfeed",
-          "trust_score": 7.5
-        },
-        {
-          "title": "健保連から「子ども7割がすぐ受診、医療費が無償でも適切利用を」と呼びかける記事が出て批判が殺到する「風邪だからと様子を見たら喘息で入院手前になった」",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【方針発表】株式会社PROLEXT、「相続セカンドオピニオンの標準化」を事業方針として正式策定--第1弾として、相談者全員への無償セカンドオピニオン診断を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "大雨や水難事故を想定した救助訓練 3つの警察署が合同で救助手順などを確認",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 おすすめ 理由_20260611",
-      "theme": "思想 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「不安なのはみんな一緒」女性自衛隊隊員がカメラの前で見せた涙。両親や仲間に支えられたありのままの言葉に胸を打たれる!(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「まるで恋人の思い出話を語るかのよう」 田中眞紀子が披瀝した「筑紫哲也」とのプライベートエピソード(AERA DIGITAL)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【無印良品】490円で! 素肌に心地よい、バブーシュをまとめ買い(SPUR)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日頃子どもの行動に理解のない夫。いざ子どもが被害者になると......【著者インタビュー】(ダ・ヴィンチWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "長野県の高3男子→渋谷に行くと......「すごーい」「めちゃ変わるな~」 衝撃のイメチェンに「こんなの爆モテする人生しかない」(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "娘「スカート履きたい」母「ダメ!」父「神経質だよ...」→義父からの性的虐待10年が残した深い呪縛に「胸が苦しくなる」【作者に聞く】(ウォーカープラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "イトーヨーカドー、ウイスキー「響21年」「山崎18年」「白州18年」をメーカー希望小売価格で抽選販売(グルメ Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20260611",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "トルビズオン、「ClaudeによるAIエージェント構築ハンズオン実践会」を東京で開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「Claude Fable 5」をAIの開発に利用するとこっそり性能が制限されることが判明、セキュリティ対策も厳しすぎて不満が続出",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Xcode 27ベータ、AIコード補完を端末内で実行 ソースコードをクラウド送信せず",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Cursor調査が示すAIコーディングの実像――開発者間の差は縮まらず、広がっている",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Anthropic、「Mythos」同等の最高性能モデル「Fable 5」を一般提供開始―22日まではサブスクリプション内で無料提供",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "OpenAIもAnthropicも見逃している、AIエージェントの真の価値 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "鉄腕アトムー科学+魔法=AI on NVIDIA DGX Sparkが出した答えとは?",
-          "source": "Ascii",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260611",
-      "theme": "哲学 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "トゥースピリットとは? 先住民族に伝わるクィアな人々【プライド月間 2026】",
-          "source": "Vogue",
-          "trust_score": 7.5
-        },
-        {
-          "title": "チョッパーの名言ランキング! ヒルルク関連の名セリフが多数ランクイン",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ドン ペリニヨン ティルダ・スウィントン × オリヴィエ・サイヤールによるパフォーマンス作品「HOUSE OF GESTURES」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "累計500名が受講、130社のソーシャルビジネスを輩出したボーダレスアカデミー、7つの新コースを開講",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "モノづくり特化ライブコマース「BEGINNING LEGACY」、グランフロント大阪「The Lab.」にリアル出展開始。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日本フィルハーモニー交響楽団 70周年記念特別定期演奏会<秋冬>半期定期会員券 6月18日(木)発売!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "モノづくり特化ライブコマース「BEGINNING LEGACY」、グランフロント大阪「The Lab.」にリアル出展開始。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 比較_20260611",
-      "theme": "思想 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "国会に「郵便アベンジャーズ」集結? 元1日郵便局長、郵便局員、バイト、ヘビーユーザーが集い「挨拶でかます」流れに?(ABEMA TIMES)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「いい会社」を買う人がなぜ勝てないのか...著名トレーダーが明かす本命株より確実な“資金の連想ゲーム ”(みんかぶマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【検証】2週間でマイナス1.2Kg。プロ直伝「自宅でトランポリン」ダイエットをエディターがやってみた(ウィメンズヘルス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "LUUPで死亡事故、同社の発表が“事故から1週間後”の報道と重なった理由を直撃 広報が明かした背景事情(ピンズバNEWS)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "新潟や松下電気でプレーしたグレッグ・ストルトが仕掛ける「アジア大学バスケットボールリーグ(AUBL)」の野望",
-          "source": "Basketball King",
-          "trust_score": 7.0
-        },
-        {
-          "title": "副業ブームなのに...実は「1万円も稼げない人」が多数派?",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ホンダ「インサイト」がSUVで復活!! 3000台限定の新型BEVに見えるホンダの狙いと迷い(ベストカーWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20260611",
-      "theme": "skill 比較",
+      "name": "episode_skill 活用_20260612",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -238,13 +13,18 @@
       "articles": [
         {
           "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "対戦ゲームのプレイヤー維持には「スキル上達の場」も重要か。競技系モードとカジュアルモードの“異なる効果”示す研究結果",
-          "source": "Automaton",
-          "trust_score": 7.0
+          "title": "アラヤ、AIと「パーティ」を組んで働くAIパートナープラットフォーム「ClanExe」の製品紹介サイトを先行公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
