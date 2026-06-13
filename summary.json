@@ -1,53 +1,38 @@
 {
-  "generated_at": "2026-06-13T03:34:24.136271",
-  "total_episodes": 2,
+  "generated_at": "2026-06-13T22:10:59.478590",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260613",
-      "theme": "skill おすすめ",
+      "name": "episode_Claude Code 比較_20260613",
+      "theme": "Claude Code 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "人気マルチサバイバル『Don’t Starve Together』大型アプデと同時に「148円セール」開始。聖域で迎える新たな過酷冒険",
-          "source": "Automaton",
-          "trust_score": 7.5
-        },
-        {
-          "title": "トルビズオン、「ClaudeによるAIエージェント構築ハンズオン実践会」を東京で開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
+          "title": "Anthropic、年8.5万ドルのフェロー制度創設 アモデイCEOがAIによる雇用喪失リスクに言及",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "<生まれ月>による学力差と<家庭環境>に関係はあるのか?出生月の偏りや親の経済状況を調査。結果は意外にも...(婦人公論.jp)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260613",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "Claude MaxとChatGPT Proは月額200ドルなのにそれぞれ約8000ドルと約1万4000ドル相当のトークンが使えるとの指摘",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
         {
-          "title": "メルカリ、WorkatoのAgentic AI基盤で年間250人日を半減――全社AIガバナンス基盤の構築へ",
+          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「AIエージェント仕事術」講座に登壇。6月18日開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「AIエージェント仕事術」講座に登壇。6月18日開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIO/GEO/SEO横断診断ツール「AIOGeoScan」サービス本格開始のお知らせ",
           "source": "Pr Times",
           "trust_score": 8.0
         }
