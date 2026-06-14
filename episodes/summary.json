@@ -1,57 +1,6 @@
 {
-  "generated_at": "2026-06-13T03:34:24.136271",
-  "total_episodes": 2,
+  "generated_at": "2026-06-14T03:55:20.665197",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260613",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "人気マルチサバイバル『Don’t Starve Together』大型アプデと同時に「148円セール」開始。聖域で迎える新たな過酷冒険",
-          "source": "Automaton",
-          "trust_score": 7.5
-        },
-        {
-          "title": "トルビズオン、「ClaudeによるAIエージェント構築ハンズオン実践会」を東京で開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Claude Mythos/Fable 5 を含む最新「実費 AI」がメール分析し、Alexa やアプリに指示できる新機能を mailSpeak に追加",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "<生まれ月>による学力差と<家庭環境>に関係はあるのか?出生月の偏りや親の経済状況を調査。結果は意外にも...(婦人公論.jp)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260613",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "メルカリ、WorkatoのAgentic AI基盤で年間250人日を半減――全社AIガバナンス基盤の構築へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
