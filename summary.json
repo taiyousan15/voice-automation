@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-06-13T22:10:59.478590",
-  "total_episodes": 1,
+  "generated_at": "2026-06-14T03:55:20.665197",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_Claude Code 比較_20260613",
-      "theme": "Claude Code 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Anthropic、年8.5万ドルのフェロー制度創設 アモデイCEOがAIによる雇用喪失リスクに言及",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claude MaxとChatGPT Proは月額200ドルなのにそれぞれ約8000ドルと約1万4000ドル相当のトークンが使えるとの指摘",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「AIエージェント仕事術」講座に登壇。6月18日開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Uravation代表 佐藤傑、SBクリエイティブが主催の「AIエージェント仕事術」講座に登壇。6月18日開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIO/GEO/SEO横断診断ツール「AIOGeoScan」サービス本格開始のお知らせ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
