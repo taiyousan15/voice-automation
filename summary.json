@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-14T03:55:20.665197",
-  "total_episodes": 0,
+  "generated_at": "2026-06-14T22:17:49.337654",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 方法_20260614",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "コーディングAIエージェント向けのオープンソースHeroku「InsForge」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "これは作業革命...Claudeの「アーティファクト」で爆速ワークフローが実現",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIのLLMアーキテクチャの新技法「KV共有」「mHC」「圧縮アテンション」とは何か?",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
