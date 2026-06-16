@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-06-16T03:57:02.595470",
-  "total_episodes": 0,
+  "generated_at": "2026-06-16T22:55:28.547158",
+  "total_episodes": 4,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 比較_20260616",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIエージェントが日本円ステーブルコインJPYCを活用し、健康経営(R) における行動変容の実践を「バイブコーディング」する。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "クラウドAI依存からの脱却 NASベンダーが仕掛ける「社内AI基盤」構想",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20260616",
+      "theme": "哲学 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ルカや安齋竜三を指標に...川崎で指導者キャリアをスタートする菊地祥平",
+          "source": "Basketball King",
+          "trust_score": 7.0
+        },
+        {
+          "title": "大河原克行のNewsInsight 第456回 変わるシャープの現在地、2026年度の事業戦略を読み解く (前編)",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "2026年6月16日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『攻殻機動隊 THE GHOST IN THE SHELL』が7月7日よりアマプラにて国内見放題の最速配信が決定!予告映像では正体不明のハッカー“人形使い” の存在がほのめかされている",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【フリーアナウンサー進藤晶子氏がAI展示会に初登壇】トップランナーへの取材で培った“聞く力”で、AI時代の企業の想いに迫る特別対談を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【フリーアナウンサー進藤晶子氏がAI展示会に初登壇】トップランナーへの取材で培った“聞く力”で、AI時代の企業の想いに迫る特別対談を開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "レスポートサックと韓国ファッションブランドコラボ企画が始動!第一弾は“Rest&Recreation(レスト&レクリエーション)”",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260616",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "アドラー心理学の岸見一郎「家族の死から立ち直るには、自分のなかでその人を再生することです」(クーリエ・ジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "横浜アンサンブル・ワンダーランドVol.4「弦がハマれば、心もハマる STRING STARS!」 日本フィルの名手が贈る室内楽コンサート 9月15日(火)開催(6月19日(金)発売)",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "余命半年の日本人女性とフランス人女性が「夜通し語り合う」3時間16分...『ドライブ・マイ・カー』監督最新作への“正直な感想” 『急に具合が悪くなる』を採点!",
+          "source": "文春オンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "マンガ『ブラック・ジャック』Kindle版全巻が「231円」となるセール開催中。全25巻まとめて購入しても「5775円」とお得に、神業を持った謎の天才外科医“ブラック・ジャック”を描いた医療マンガ",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 おすすめ_20260616",
+      "theme": "哲学 おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「1880円の券付きでお得な」カフェ・ド・クリエ〈コジコジサマーバッグ〉が4800円で買える「豪華5点セットにファンから歓喜の声」(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "『攻殻機動隊』新作アニメ、放送直後から見放題配信 Prime Video版予告編映像も公開",
+          "source": "産経ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【 追悼 】セブン&アイホールディングス 鈴木敏文さんを偲んで",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "バーバリー、アテネ・リビエラのワン&オンリー・アエスティシスを夏の特別なホリデー空間に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
