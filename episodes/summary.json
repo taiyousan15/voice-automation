@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-06-18T03:46:04.296550",
-  "total_episodes": 0,
+  "generated_at": "2026-06-19T04:08:31.018667",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 比較_20260619",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Workatoが切り拓く次世代エンタープライズ自動化--TOPPANホールディングスが業務自動化・AIエージェント・APIガバナンスを横断的に実証し、本番展開基盤の設計を完了",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Plaud(プラウド)、2年以内にARRを100万米ドルから1億米ドルへ拡大し、プロフェッショナル向けにAIの活用領域を画面の外へ拡張",
+          "source": "Businesswire",
+          "trust_score": 7.5
+        },
+        {
+          "title": "OrcaRouterがWeb自動化プラットフォーム「Apify」の公式Actorとして提供開始 ― 40,000超のActorからシームレスに200+LLMへアクセス可能に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "OrcaRouterがWeb自動化プラットフォーム「Apify」の公式Actorとして提供開始 ― 40,000超のActorからシームレスに200+LLMへアクセス可能に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIに何を任せ,何を任せないのか。ネクソンのユーザーリサーチ分析プラットフォーム「Insight Finder」開発の知見が語られたセッションをレポート[NDC26]",
+          "source": "4gamer.net",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「接客やめたい、土日祝休み、デスクワーク希望」という条件で事務系の職業訓練を考えたが、30代未経験だと事務系の訓練を受けても正社員はほぼ無理とハロワから言われた",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
