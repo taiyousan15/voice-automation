@@ -1,95 +1,50 @@
 {
-  "generated_at": "2026-06-19T22:09:43.751513",
-  "total_episodes": 2,
+  "generated_at": "2026-06-20T03:31:52.831377",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20260619",
-      "theme": "占い 活用",
+      "name": "episode_MCP おすすめ_20260620",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "30kg積める!! 旅や仕事にも使える電動アシスト3輪自転車が注目の理由(ベストカーWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "「エージェント社会には憲法が必要。その最初の実験場はゲームだ」――AIエージェント社会の未来を語る[NDC26]",
+          "source": "4gamer.net",
+          "trust_score": 7.0
         },
         {
-          "title": "【コメント欄で激論】「強みを読み誤った」「姿勢は評価すべき」「どん底からの復活劇は得意技」...ホンダ赤字決算の記事が話題(carview!)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "AIと話すだけで動画編集できる映像ソフト、オープンソースで登場 出力は「Premiere」「DaVinci」でも読み込み可",
+          "source": "Itmedia",
+          "trust_score": 7.5
         },
         {
-          "title": "ショートドラマアプリ「BUMP」史上最速・最大のヒットシリーズ『プロ彼女の条件』待望のシーズン4が本日6月19日(金)19時より独占配信開始!生田衣梨奈、モーニング娘。卒業後初のドラマ出演作!",
+          "title": "インスタ自動化ツールエルグラムがChatGPT向けアプリ公開、AI分析に対応",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
-          "title": "JPMがシカをニュートラルに格上げ、マージンリスクは織り込み済みと判断",
+          "title": "インスタ自動化ツールエルグラムがChatGPT向けアプリ公開、AI分析に対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "新興市場銘柄ダイジェスト:ジャパニアスが反落、インフキュリオンが反落",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "2026年6月19日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "新興市場銘柄ダイジェスト:ジャパニアスが反落、インフキュリオンが反落",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【限定3組】スイス名門ボーディングスクール4校を2日間で視察。9月21日・22日にスイス学校視察プログラムを開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【限定3組】スイス名門ボーディングスクール4校を2日間で視察。9月21日・22日にスイス学校視察プログラムを開催",
+          "title": "財務AIエージェント『M&Aナビ SmartDD』 独自開発の構造化エンジンによって、元帳などを含むPDF財務資料の構造化精度99%超を達成",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 方法_20260619",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ロエベが180才に。森岡書店で日本限定の写真展も(IMA ONLINE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【ジョルジオ アルマーニ】アーカイブ復刻プロジェクトの第2章が始動、時代と世代を超えて受け継がれる美学(Pen Online)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "職場の“苦手な人”とどう付き合う?無理なく一緒に働くためのヒントをご紹介!7/7(火)無料セミナー「名言と心理学から学ぶ 職場の“苦手な人”との付き合い方」",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ラルフ、ミリタリーetc. 業界人がリーバイス級に信頼を置く“大人のチノパン”4選!(OCEANS)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "警視庁トクリュウ本部、増加の「偽警察詐欺」に渋谷で注意呼び掛け 昨年の被害188億円(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "皇室典範改正骨子案、正副議長がおおむね了承 政府が説明、22日に要綱説明へ(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「上司からの評価」を全社公開。エンゲージメント偏差値70を達成したユースフルが「第15回 日本HRチャレンジ大賞」優秀賞を受賞",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
         }
       ]
     }
