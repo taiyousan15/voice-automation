@@ -1,50 +1,20 @@
 {
-  "generated_at": "2026-06-21T04:02:45.057319",
-  "total_episodes": 2,
+  "generated_at": "2026-06-21T22:19:12.847883",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260621",
-      "theme": "MCP 比較",
+      "name": "episode_Claude Code 活用_20260621",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "インスタ自動化ツールエルグラムがChatGPT向けアプリ公開、AI分析に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "インスタ自動化ツールエルグラムがChatGPT向けアプリ公開、AI分析に対応",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "財務AIエージェント『M&Aナビ SmartDD』 独自開発の構造化エンジンによって、元帳などを含むPDF財務資料の構造化精度99%超を達成",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260621",
-      "theme": "skill 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "仕事が劇的に捗るClaudeの隠れた実力派ツール10選",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        },
-        {
-          "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-          "source": "Itmedia",
-          "trust_score": 7.5
+          "title": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
         }
       ]
     }
