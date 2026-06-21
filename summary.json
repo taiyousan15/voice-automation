@@ -1,75 +1,10 @@
 {
-  "generated_at": "2026-06-20T22:15:13.960596",
-  "total_episodes": 3,
+  "generated_at": "2026-06-21T04:02:45.057319",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 活用_20260620",
-      "theme": "哲学 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "新日本プロレスがテレビ朝日の連結子会社へ。棚橋弘至社長が明かす“大政奉還”の真意...「単なる親会社の交代ではない」",
-          "source": "日刊spa! | 働く世代のホンネ情報",
-          "trust_score": 7.5
-        },
-        {
-          "title": "新日本プロレスがテレビ朝日の連結子会社へ 棚橋弘至が明かす真意",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "新作アニメ『攻殻機動隊 THE GHOST IN THE SHELL』が7月8日より各種動画配信サービスでも配信決定。前日7月7日にはPrime Videoで配信予定",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Rokid スマートAIグラス」はスマホ時代の電力インフラを味方につけたAIグラス",
-          "source": "Ascii",
-          "trust_score": 7.5
-        },
-        {
-          "title": "山口周さん・山口真由さん・田村淳さん推薦! 2500年にわたり世界中のリーダーが頼り続けた究極の生存戦略を現代に。「人生をひらく古典の知恵」シリーズから『孫子の兵法』が発売",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「ムートン」「オーパス・ワン」を経た名醸造家が、チリで挑む新しいワインの形",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【先人に学ぶ人生の仕舞い方】徳川家康・73歳(数え75歳)没「人の一生は重荷を負て遠き道をゆくが如し」",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260620",
-      "theme": "skill 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "仕事が劇的に捗るClaudeの隠れた実力派ツール10選",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        },
-        {
-          "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260620",
+      "name": "episode_MCP 比較_20260621",
       "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
@@ -90,6 +25,26 @@
           "title": "財務AIエージェント『M&Aナビ SmartDD』 独自開発の構造化エンジンによって、元帳などを含むPDF財務資料の構造化精度99%超を達成",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20260621",
+      "theme": "skill 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "仕事が劇的に捗るClaudeの隠れた実力派ツール10選",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "画面操作を“録画”→AIが作業代行 Codexに新機能「Record & Replay」",
+          "source": "Itmedia",
+          "trust_score": 7.5
         }
       ]
     }
