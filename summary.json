@@ -1,22 +1,6 @@
 {
-  "generated_at": "2026-06-21T22:19:12.847883",
-  "total_episodes": 1,
+  "generated_at": "2026-06-22T04:03:36.667988",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_Claude Code 活用_20260621",
-      "theme": "Claude Code 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「若手はLinuxを学べ」「CLIで問題特定はもう古くなる」 AI時代に再定義されるエンジニアの基礎と現場の常識",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
