@@ -1,48 +1,28 @@
 {
-  "generated_at": "2026-06-24T22:23:14.860218",
+  "generated_at": "2026-06-25T03:24:54.301961",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260624",
-      "theme": "MCP 方法",
+      "name": "episode_skill おすすめ_20260625",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "絶対リーチ!RCS、MCPサーバーの提供を開始。AIエージェントからRCS/SMS配信を操作可能に",
+          "title": "B-EN-G、現場の映像をインタラクティブ教材に変えるクラウドプラットフォーム「orishia Skill Studio」を7月1日より提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アオラナウ、Workatoと共同で「AWS Summit Japan 2026」にAIエージェントデモを展示",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "絶対リーチ!RCS、MCPサーバーの提供を開始。AIエージェントからRCS/SMS配信を直接操作可能に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "エルメのMCPでAIから配信メッセージの作成が可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "クリプタクト、AI連携機能を公開。ClaudeやChatGPTとの会話で仮想通貨の損益計算を完結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【国内初※】デジタル販促プラットフォーム「ONEBUCKET」、AI「Claude」とのMCP連携に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【デジライズ】freee統合ワールド2026登壇レポート|Anthropic菅野 信 氏とともに語る「AIの未来から現場のリアルまで」",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Okta、安全なAIエージェント接続の業界標準「Cross App Access」のエコシステムを拡大",
+          "title": "YOYOGI MORIより新作3Dモデル「CZR100_TARMAC ASSAULT」発表",
           "source": "Pr Times",
           "trust_score": 8.0
         }
