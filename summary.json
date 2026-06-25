@@ -1,30 +1,95 @@
 {
-  "generated_at": "2026-06-25T03:24:54.301961",
-  "total_episodes": 1,
+  "generated_at": "2026-06-25T22:25:04.865157",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260625",
-      "theme": "skill おすすめ",
+      "name": "episode_哲学 おすすめ 理由_20260625",
+      "theme": "哲学 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "B-EN-G、現場の映像をインタラクティブ教材に変えるクラウドプラットフォーム「orishia Skill Studio」を7月1日より提供開始",
-          "source": "Pr Times",
+          "title": "コミック新連載【マダムチェリーに相談だ!】(1)おしゃれ迷子の40代がおしゃれな会社に再就職。これからどうなる!?(webマガジン mi-mollet)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「グランドセイコー」がミラノサローネに出展する理由 これまで通りでは、欧州市場は拡大できないという限界を自覚(WWDJAPAN.com)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「GWR-B3000」誕生 - 新生GRAVITYMASTERが示す、航空時計の未来基準",
+          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "アオラナウ、Workatoと共同で「AWS Summit Japan 2026」にAIエージェントデモを展示",
+          "title": "【田鍋梨々花×SK-II】伝統ある46年の歴史や名品を深掘り!(CanCam.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "旬と瞬を味わう。熱海のオーベルジュ「無為自然 -ATAMI-」で美食旅(GOETHE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ドキュメンタリー『THE ORIGIN OF ULTRAMAN』斎藤工、つるの剛士、近藤頌利ら歴代ウルトラマンシリーズキャスト・著名人の応援コメント到着",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【映画劇場・笹やんのええやん】「急に具合が悪くなる」ビターズ・エンド配給 、公開中",
+          "source": "Sanspo",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 比較_20260625",
+      "theme": "思想 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「疑念に対する力強い返答」 2ゴールで大記録を達成したロナウドに各方面から賛辞! 元同僚は「アンチたちよ、黙るべきだ」",
+          "source": "The Digest",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【速報・2026年度大学入試分析】共通テスト難化、医学部志望者が弱気出願 私大は入試日程の変更が増加(朝日新聞Thinkキャンパス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「カスタムベースの大本命!?」CG合成で先取り検証、ランクルFJの足元に映えるホイールをガチで選んでみた!!",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【青森で震度6強】“長い揺れ”ビルの外壁崩落 11人けが 東北地方で地震相次ぐ",
+          "source": "テレ朝new",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Identity V 第五人格」の新モード“手記の加筆”はPvEと聞いたけれど...実際どうなの?集まってプレイしてみた!【プレイレポ】",
+          "source": "アニメ！アニメ！",
+          "trust_score": 7.0
+        },
+        {
+          "title": "BCP策定率21.4% 着実に増加も、依然4割の企業で未策定 規模間での策定格差は大きく、「スキル」「人材」「時間」の不足が課題に",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "YOYOGI MORIより新作3Dモデル「CZR100_TARMAC ASSAULT」発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "『Identity V 第五人格』の新モード「手記の加筆」はPvEと聞いたけれど......実際どうなの?集まってプレイしてみた!【プレイレポ】",
+          "source": "インサイド",
+          "trust_score": 7.0
         }
       ]
     }
