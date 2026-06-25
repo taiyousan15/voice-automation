@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-24T03:27:34.944309",
-  "total_episodes": 0,
+  "generated_at": "2026-06-25T03:24:54.301961",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ_20260625",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "B-EN-G、現場の映像をインタラクティブ教材に変えるクラウドプラットフォーム「orishia Skill Studio」を7月1日より提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アオラナウ、Workatoと共同で「AWS Summit Japan 2026」にAIエージェントデモを展示",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "YOYOGI MORIより新作3Dモデル「CZR100_TARMAC ASSAULT」発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
