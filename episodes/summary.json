@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-26T03:32:52.264501",
+  "generated_at": "2026-06-27T02:55:21.128632",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260626",
-      "theme": "MCP 比較",
+      "name": "episode_skill 活用_20260627",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ferret One、AIでBtoBマーケを加速させる「ferret One MCPサーバー」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ferret One、AIでBtoBマーケを加速させる「ferret One MCPサーバー」の提供を開始",
+          "title": "JFEシステムズ、当社社員が「2026 Japan All AWS Certifications Engineers」に選出",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        },
+        {
+          "title": "Exabeam、AIエージェントやデジタルワーカーの”動作検証”を実現するオープンソース「Praxen」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
