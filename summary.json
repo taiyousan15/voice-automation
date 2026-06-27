@@ -1,95 +1,25 @@
 {
-  "generated_at": "2026-06-26T22:19:11.821442",
-  "total_episodes": 2,
+  "generated_at": "2026-06-27T02:55:21.128632",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20260626",
-      "theme": "思想 方法",
+      "name": "episode_skill 活用_20260627",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "6/5(金)によもぎ蒸しサロン『YOMO(R)』が大阪中崎町駅徒歩3分にOPEN!“食べられるよもぎ蒸し”で15分のウェルネス体験",
+          "title": "JFEシステムズ、当社社員が「2026 Japan All AWS Certifications Engineers」に選出",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "富裕層のお金をかける基準は「1日の使用時間」...ブランドバッグより寝具や椅子に投資する合理性(みんかぶマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "鉄鋼王・カーネギーの「罪悪感を排除するロジック」(みんかぶマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "動画投稿は「死なないため」——元専業主婦・しっぽじかんさんが、妻でも母でもない“私”を取り戻すまで(webマガジン mi-mollet)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "レコルトの「自動調理ポット」を試してみた。料理初心者でも“お店レベル”のポタージュはつくれる?(モダンリビング)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【ロエベ】大人が買うべき格上げショルダーバッグ|軽やかなレザーを採用した「フェザーライト パズル」(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【IWCシャフハウゼン】パイロット・ウォッチ誕生90周年記念「NSAエキシビション」を開催【7月17日~23日】(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ 理由_20260626",
-      "theme": "占い おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "北乃きい×藤原樹W主演『未婚詐欺』、追加キャスト解禁 島崎遥香&和内璃乃&押田岳【コメントあり】",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『Mr.都市伝説 関暁夫の裏都市伝説』、新作「ダイヤモンドとゴールド~輝きの裏に隠された闇~」全14話を6月26日(金)より「タテドラ」で配信開始",
+          "title": "Exabeam、AIエージェントやデジタルワーカーの”動作検証”を実現するオープンソース「Praxen」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "長野県の“南信州”が全国生産量トップ「半生菓子」 もなか、マシュマロ...水分量10~30%で「日持ち」が特徴 藩主が和菓子好き、栗しぐれの製造公開、ミックスの誕生 70社が15社に「後継者を」",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MUSEはなぜ宇宙へ向かうのか マシュー・ベラミーが語る孤独、AI、再生",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「再婚相手はいない」離婚から1年の人気女優、占い師に告げられた厳しい恋愛運",
-          "source": "スマートニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "奥智哉&杢代和人(原因は自分にある。)真逆な2人が仲良くなった理由「正直、宇宙人のような感覚でした」3度目共演で見えた新たな一面【「君は夏のなか」インタビュー前編】",
-          "source": "Model Press",
-          "trust_score": 8.5
-        },
-        {
-          "title": "インフォスティーラー感染の35%は、ユーザーが一時フォルダーからファイルを直接実行することに起因、Kasperskyの調査により判明",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
         }
       ]
     }
