@@ -1,6 +1,202 @@
 {
-  "generated_at": "2026-06-29T03:42:51.462599",
-  "total_episodes": 0,
+  "generated_at": "2026-06-29T22:14:14.459200",
+  "total_episodes": 5,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code 活用_20260629",
+      "theme": "Claude Code 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Slack向け「Claude Tag」が登場、8月3日までに移行が必要に――常駐型AIがもたらす変革と管理者の課題",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年6月29日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社playknot、Anthropic「Claude Partner Network」に認定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【生成AI×産業用ロボット】生成AIは産業用ロボットをどこまで動かせるか",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アルバイト採用を自動化する「AIバイト面接」、MCPに対応し「AIバイト面接 MCPサーバー」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "プラットフォーム王者の誤算――ナデラ発言が示すマイクロソフトのAI戦略の死角 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "スタートアップ創業者の夜を奪うAI実装の落とし穴 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260629",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "MCPサーバー向け金融データAPIを大幅拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "MCPサーバー向け金融データAPIを大幅拡充",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "移動中も商談前も、競合広告をスマホで。動画広告分析Pro公式アプリ「DPro Lite」Android版をGoogle Playで提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260629",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "年末の株価は「?」 バリュー株投資家が株価最高値更新で考える「仕込むタイミング」と「見送るタイミング」(みんかぶマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "第28回電撃小説大賞〈大賞〉受賞作『姫騎士様のヒモ』2027年1月よりTVアニメ放送決定!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「学びの協奏コンテスト」入賞者が国際クリエイティビティ&イノベーションアワード(ICIA)2026世界大会@カンボジアにて金賞・銀賞を受賞!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "CAMPER × ISSEY MIYAKEまるで靴下を履くように足を包み込む「Anna(アンナ)」発売",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "CAMPER × ISSEY MIYAKEまるで靴下を履くように足を包み込む「Anna(アンナ)」発売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "教育現場の生成AI活用、普及の鍵は「現場キーパーソン」",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "“2万人が涙”一緒に笑って泣ける大阪口コミ人情占◆天晶流推命が「本格占い|みのり」で提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い おすすめ 理由_20260629",
+      "theme": "占い おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「日本代表に心から敬服」「アジア人の誇り」中国のSNSが〈サムライブルー〉を大絶賛する“切実な理由”【FIFAワールドカップ2026】(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "IVS2026、注目セッションの第三弾を発表。AI・ディープテック・投資など6つのジャンル別に、京都市長 松井孝治氏、ユーグレナ 出雲充氏、OpenAIなど注目24セッションをご紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "米商務省、Anthropicの「Claude Mythos 5」を重要インフラ防衛向けに限定復旧、一般向けの「Fable 5」は停止継続",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "NVIDIAの次世代AI基板「Vera Rubin」今秋出荷へ、HBM4採用でメモリ帯域3倍・トークンコストは10分の1に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "+223%のリターンを達成:7月のAI選定銘柄リストが間もなく公開",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "バンク・オブ・アメリカ、エジプト株をエマージング市場で首位に格上げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "クレーンゲームに異変!? お菓子にカップ麺、日用品も... 活況の理由は!? 加藤アナが身をもって体験!",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260629",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "OpenAI、AIコーディングの遠隔操作機能「Codex Remote」を一般提供 QRコードによる安全なリレー接続を採用",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ティム・スウィーニー インタビュー:Epic Games CEOが語る、UE6におけるAIの役割と、新作ゲームが成功を掴めない理由",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "エルメ、友だち詳細ページと新規登録・ログインのデザイン刷新",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
