@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-06-29T03:42:51.462599",
-  "total_episodes": 0,
+  "generated_at": "2026-06-30T03:31:04.732284",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 方法_20260630",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Slack向け「Claude Tag」が登場、8月3日までに移行が必要に――常駐型AIがもたらす変革と管理者の課題",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "OpenAI、AIコーディングの遠隔操作機能「Codex Remote」を一般提供 QRコードによる安全なリレー接続を採用",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ティム・スウィーニー インタビュー:Epic Games CEOが語る、UE6におけるAIの役割と、新作ゲームが成功を掴めない理由",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "移動中も商談前も、競合広告をスマホで。動画広告分析Pro公式アプリ「DPro Lite」Android版をGoogle Playで提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "エルメ、友だち詳細ページと新規登録・ログインのデザイン刷新",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
