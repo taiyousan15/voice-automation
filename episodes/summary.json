@@ -1,49 +1,34 @@
 {
-  "generated_at": "2026-06-30T03:31:04.732284",
+  "generated_at": "2026-07-01T03:40:06.127435",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260630",
-      "theme": "MCP 方法",
+      "name": "episode_skill おすすめ_20260701",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Slack向け「Claude Tag」が登場、8月3日までに移行が必要に――常駐型AIがもたらす変革と管理者の課題",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "その業務効率化、Claude Code でできるかもよ?──東大発 sai X aid、自動化ツールを買い足す前に試したい『Claude Code 導入支援』を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "OpenAI、AIコーディングの遠隔操作機能「Codex Remote」を一般提供 QRコードによる安全なリレー接続を採用",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "Novel Coreが豊洲PITで具現化した、ジャンルも世代も混合した前代未聞のフロア構想",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
+          "title": "山形県鶴岡市の鶴岡信用金庫とみらいワークスが業務提携",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "カスタマーサポートツール「Tayori」がAPIを公開。社内チャット・顧客管理・タスク管理などデータ連携が可能に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ティム・スウィーニー インタビュー:Epic Games CEOが語る、UE6におけるAIの役割と、新作ゲームが成功を掴めない理由",
-          "source": "Ign Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "移動中も商談前も、競合広告をスマホで。動画広告分析Pro公式アプリ「DPro Lite」Android版をGoogle Playで提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "エルメ、友だち詳細ページと新規登録・ログインのデザイン刷新",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "【ライブレポート】Novel Core、全エネルギーを振り絞って”遊び倒した”ツアーファイナル「お前らのことを一生ワクワクさせる」",
+          "source": "Barks",
           "trust_score": 7.5
         }
       ]
