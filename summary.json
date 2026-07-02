@@ -1,93 +1,88 @@
 {
-  "generated_at": "2026-07-02T03:25:13.898913",
+  "generated_at": "2026-07-02T22:14:20.790887",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260702",
-      "theme": "MCP 方法",
+      "name": "episode_Claude Code 活用_20260702",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "FactSet、2026年度第3四半期決算がAI成長で予想を上回る",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "クリプタクト、Gtaxを統合 10月に仮想通貨損益計算サービス一本化へ",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "title": "2026年7月2日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "スマートラウンド、スタートアップがClaudeやChatGPTから資本政策の相談・作成ができる「資本政策MCPサーバー」をリリース",
+          "title": "AIが特許DBを自由自在に操る時代へ。企業の生産性を圧倒的に高める「知財AIエージェント」提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIが特許DBを自由自在に操る時代へ。企業の生産性を圧倒的に高める「知財AIエージェント」提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Speeda、新サービス「Speeda MCP連携」の提供を開始。主要な生成AIから経済情報の呼び出しが可能に",
+          "title": "ITエンジニアやテックリード向けの無料セミナー「フルサイクルエンジニアが『前提条件』になる時代 ~AI時代のキャリア戦略~」を開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "『EC Intelligence』ChatGPT・Claude等からデータ分析が可能に。",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AIとタッグ組んだ防御が必要 AI時代の正義ハッカーの役割 EYSCパートナー・西尾素己氏",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
         },
         {
-          "title": "BizStack、MCPクライアントに対応。“現場を理解するAI”を強化",
+          "title": "GMO天秤AIとポールトゥウィン、特別セッション&交流会「AI Night 2026」を共同開催 ~AIだけでは現場は変わらない-AI活用・品質・顧客体験のリアルを語る夜~",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
-          "title": "土台から、羅針盤へ。ロジクラ、AI標準規格「MCP(Model Context Protocol)」に対応",
+          "title": "【教室向け】Claude実践セミナー第3回を開催",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260702",
-      "theme": "MCP おすすめ",
+      "name": "episode_Claude Code 方法_20260702",
+      "theme": "Claude Code 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ゲームエンジンUnity、いきなり規約改訂で「サードパーティー製AIツール」利用を制限。“Unity指定ルート”以外封じる",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "GitHub Copilotの従量課金移行で「請求ショック」が現実に、エージェント機能の多用でコストが最大50倍に急増か",
+          "title": "Anthropicが「Claude Sonnet 5」をリリース――「Opus」に迫る自律エージェント性能を低コストで実現",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Jamf、業界初のMac向けAIコントロールプレーン「AIガバナンス」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIエージェント経由でXのAPIを操作して「投稿検索」「トレンド分析」などが可能な「X MCP」が公開される",
-          "source": "Gigazine",
+          "title": "Google、Claude CodeやCodexにAIエージェント開発スキルを注入する「agents-cli」をリリース 評価からデプロイまで自動化",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "カスタマーサポート・ヘルプデスク向け新ソリューション『GMO即レスAI for CS』を7/1(水)提供開始【GMOペパボ】",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Claude Codeがシステムプロンプトに「隠し識別子」を埋め込み、Anthropicが修正を約束",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "NEとCafe24、越境ECで業務提携 ― 200万ストアのグローバル基盤と、ネクストエンジンのバックヤードを接続",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AWS、企業へのAI導入支援に10億ドルを投資――エンジニアを顧客企業に常駐派遣へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "メール配信システム「blastengine」、AIエージェント連携を実現する「MCPサーバー」を提供開始",
+          "title": "Claude Fable 5が世界で提供再開、ジェイルブレイク対策の新分類器を導入",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIと作ったWebアプリをすぐに公開できるホスティングサービス「ロリポップ!デプロイナウ byGMOペパボ」提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
