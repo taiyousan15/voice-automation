@@ -1,75 +1,140 @@
 {
-  "generated_at": "2026-07-04T02:44:18.893782",
-  "total_episodes": 2,
+  "generated_at": "2026-07-04T22:03:53.002588",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260704",
-      "theme": "MCP 活用",
+      "name": "episode_思想 活用_20260704",
+      "theme": "思想 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "LM Arenaに謎の「Gemini Flash」が出現、Gemini 4かそれとも3.6へのマイナーアップデートか?",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "2児の母が町長になって8年...リゾート施設の売却方針を巡る問題も 学んだ“折れない心”の真意と思い描くリーダー像|新潟・津南町",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「昨年より前進した姿を」J1開幕へ挑むファジアーノ岡山、沖田神社で必勝祈願(RSK山陽放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【大人のモンベル】猛暑も快適な「夏の優秀ショートパンツ」。水陸両用の「H2.OD プリントショーツ」が買い!(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "31歳・2児の母で全国最年少町長に...2期8年務めた桑原悠氏が語る地方政治の理想と現実「決めても前に進まない」|新潟・津南町",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「天ぷら北川」(東京 恵比寿)|静岡出身の主人が揚げるサクサク軽やかな駿河湾の魚介",
+          "source": "Sarai.jp",
           "trust_score": 7.5
         },
         {
-          "title": "Nuvei、Visaとのファーストパーティのエージェント内決済を完了、加盟店主導のエージェント型決済戦略を発表",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "「安吾はストレートじゃなくて変化球」 作家・坂口安吾を新潟市名誉市民に 市民団体がフォーラム開催 新潟・中央区(BSN新潟放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "Snowflake、AIエージェント実現へ4要素を提示 CoCoやCoWorkを紹介",
-          "source": "Mynavi News",
-          "trust_score": 7.5
-        },
-        {
-          "title": "株式会社GENAI、経営者・役員専用「Claude Code・Codex 完全解説セミナー」を無料開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AWS、開発者向け生成AI「Amazon Q Developer」のサポート終了を告知 各種IDEでの利用は非推奨に",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "DATAZORA、「KIJI MCP」の提供を開始。生成AIツールから国内500万社超の法人データやニュースに直接アクセス",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "テラスカイ、アイスタイルのSFA・販売管理システム統合を支援し、営業から請求までの業務最適化を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "引退した電気機「山男」の見学会 ふるさと納税の返礼品として初開催 ファンが雄姿を堪能 秋田市(秋田テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260704",
-      "theme": "MCP おすすめ",
+      "name": "episode_哲学 おすすめ_20260704",
+      "theme": "哲学 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Google、自律型AI「Gemini Spark」のMac版ベータを公開 ローカルファイル連携やリアルタイム追跡を搭載",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "「商品マスタ統一目指す」 製・配・販トップが議論 日本スーパーマーケット協 総会に合わせパネルディスカッション(食品新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【森保ジャパン届かなかった景色】MF堂安「まさにこれが日本のスタイル」 全員攻撃全員守備を確立",
+          "source": "Sanspo",
           "trust_score": 7.0
         },
         {
-          "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
-          "source": "Gigazine",
+          "title": "【先人に学ぶ人生の仕舞い方】夏目漱石・49歳没「本来の自分には死んで始めて還れるのだと考へてゐる」(サライ.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "TBS若林有子アナ、ブルーノ・マーズにベルリンで独占インタビュー 中学からの大ファン「家宝のようなツーショット」 サンジャポで7・5放送",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "愛情や世話焼きも、度を越せば人を傷つけてしまう。だから、いささか無関心で冷たいと思われようが、「適度な距離」を保つことが賢明なのだ。 - 求めない練習 絶望の哲学者ショーペンハウアーの幸福論",
+          "source": "ダイヤモンド・オンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "名家からの没落が「異端の天才」を生んだ? 坂口安吾に学ぶ、逆境を生き抜く力 - ビジネスエリートのための 教養としての文豪",
+          "source": "ダイヤモンド・オンライン",
           "trust_score": 7.5
         },
         {
-          "title": "Apple、SafariにAIエージェント用「MCPサーバー」をネイティブ搭載――17のツールでブラウザ操作を自動化",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "INI高塚大夢、JO1メンバーきっかけでオーディション挑戦 池崎理人&シュウ・フェンファンの音楽ルーツは?【THE MUSIC DAY 2026】",
+          "source": "Model Press",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260704",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「臓器直撃」「口腔がん手術で顔貌激変」無煙たばこの深刻リスクに学会トップが本気の警告",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「骨太の方針」が大幅なスリム化も、医療政策の記載数は増えた?",
+          "source": "Nikkei Medical",
+          "trust_score": 9.7
+        },
+        {
+          "title": "安さだけでは説明できない...ニトリが王者となり、イケアが一度撤退した「納得の理由」(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "8年連続PGA使用率1位へ いきなり結果を出したタイトリスト新GTSドライバー",
+          "source": "Golf Digest",
           "trust_score": 7.5
+        },
+        {
+          "title": "【アロフト・バイ・マリオット東京銀座】ニッカウヰスキー創業者・竹鶴政孝の哲学を味わう、「ウイスキージャーニー」を銀座で体験",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新紙幣発行から2年、北里柴三郎への認知度79.7%・信頼度94.9%に上昇KITASATO Premium Award、始動1周年を機に「一般社団法人 日本品質評価機構」として新体制へ",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "トリップアドバイザー「トラベラーズチョイス アワード」4年連続受賞、およびJTB「2025年度サービス最優秀旅館・ホテル」優秀賞を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
