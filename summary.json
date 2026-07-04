@@ -1,145 +1,75 @@
 {
-  "generated_at": "2026-07-03T22:09:45.462106",
-  "total_episodes": 4,
+  "generated_at": "2026-07-04T02:44:18.893782",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20260703",
-      "theme": "占い 活用",
+      "name": "episode_MCP 活用_20260704",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "クラウド向けソフトウェア大手に立ち入り 独禁法違反容疑 公取委",
-          "source": "朝日新聞デジタル",
+          "title": "LM Arenaに謎の「Gemini Flash」が出現、Gemini 4かそれとも3.6へのマイナーアップデートか?",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "殺害されたハメネイ師の壮大な葬儀始まる、米建国250周年に合わせ トランプ氏に挑戦的なメッセージ",
-          "source": "Cnn",
+          "title": "Nuvei、Visaとのファーストパーティのエージェント内決済を完了、加盟店主導のエージェント型決済戦略を発表",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "落とし物が宮城県でコロナ禍後最多に インターネット検索が可能(khb東日本放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Prime Videoで話題の『ひつじ探偵団』のグッズみたい!ニトリの「ヒツジ型収納ケース」がカワイイ。しかも299円(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "軽トラからBEVまで同一ラインで製造 ダイハツ九州が実践する多品種生産の裏側 中津工場を現地取材",
-          "source": "Car News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "公取委、異例の調査打ち切り 米ブロードコムの違反を認定できず",
-          "source": "朝日新聞デジタル",
+          "title": "Snowflake、AIエージェント実現へ4要素を提示 CoCoやCoWorkを紹介",
+          "source": "Mynavi News",
           "trust_score": 7.5
         },
         {
-          "title": "【マクアケ新プロジェクト】【遠赤×体圧分散】ハニカムゲルと高反発ファイバーで寝返りを支える高機能快眠枕!",
+          "title": "株式会社GENAI、経営者・役員専用「Claude Code・Codex 完全解説セミナー」を無料開催",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260703",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
+        {
+          "title": "AWS、開発者向け生成AI「Amazon Q Developer」のサポート終了を告知 各種IDEでの利用は非推奨に",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
         {
           "title": "DATAZORA、「KIJI MCP」の提供を開始。生成AIツールから国内500万社超の法人データやニュースに直接アクセス",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【 Ahrefs 】対話だけで分析・自動化・コンテンツ作成が完結、マーケ特化 AI ワークスペース「 Letaido(レタイド)」日本語版を提供開始",
+          "title": "テラスカイ、アイスタイルのSFA・販売管理システム統合を支援し、営業から請求までの業務最適化を実現",
           "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "検索の8割がゼロクリック,買い物の3割はAI任せという現実に,MolocoとBrazeが説く獲得と収益化の回し方[IVS2026]",
-          "source": "4gamer.net",
-          "trust_score": 7.5
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_占い おすすめ_20260703",
-      "theme": "占い おすすめ",
+      "name": "episode_MCP おすすめ_20260704",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Netflix「ガス人間」登場人物・キャスト・相関図【まとめ】",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.5
-        },
-        {
-          "title": "杉咲花&多部未華子、『クロエマ』笑顔でクランクアップ 原作者・海野つなみ絶賛「続編をお待ちしています」",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "アニメ『とある暗部の少女共棲(アイテム)』10月9日より放送決定。暗部組織「アイテム」の少女たちを描いたメインPVも公開",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『Mr.都市伝説 関暁夫の裏都市伝説』、新作「特殊詐欺の罠~想像を超えた犯罪組織~」全15話を7月3日(金)より「タテドラ」で配信開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【7/2(木)NEW OPEN】押上駅徒歩3分!都内17店舗目となる「アドキャスト押上店」が新たに誕生!墨田・中央・葛飾・江戸川エリアの快適な住まい探しを支える不動産コンサルティングサービスを徹底強化",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "れいわ・山本太郎代表がスピード違反 罰金9万円と90日間の運転免許停止処分 大分市内の東九州道で時速149kmで走行",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "今日の運勢 7月4日(土)「12星座占いランキング」第1位は蠍座(さそり座)! あなたの星座は何位...!?",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260703",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "RUNTEQ、IT特化の人材紹介サービスを提供する子会社「RUNTEQ AGENT」を設立",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Zenken、インド政府主催の「人的資源モビリティ・フォーラム」に登壇",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Zenken、インド政府主催の「人的資源モビリティ・フォーラム」に登壇",
+          "title": "Google、自律型AI「Gemini Spark」のMac版ベータを公開 ローカルファイル連携やリアルタイム追跡を搭載",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        },
+        {
+          "title": "AIエージェントでSafariを自動操作してテストやデバッグを実行できる「Safari MCP server」が登場",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Apple、SafariにAIエージェント用「MCPサーバー」をネイティブ搭載――17のツールでブラウザ操作を自動化",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
