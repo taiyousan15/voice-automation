@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-07-05T02:54:51.227281",
-  "total_episodes": 0,
+  "generated_at": "2026-07-06T03:21:53.461438",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260706",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SF映画「トロン:レガシー」のシェル入力履歴シーンを詳しく見てみるとこうなる",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ERPC、x402 決済対応の Solana RPC を公開 - AI エージェントが必要な API にその場で支払う時代の幕開け",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ERPC、x402 決済対応の Solana RPC を公開 - AI エージェントが必要な API にその場で支払う時代の幕開け",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
