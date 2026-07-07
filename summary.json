@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-07-07T02:55:01.671945",
-  "total_episodes": 0,
+  "generated_at": "2026-07-07T22:15:47.977338",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 方法_20260707",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "国内クラウド事業者初『ConoHa VPS byGMO』がAIエージェントから自然言語でVPSを操作できるリモートMCPサーバーを提供開始【GMOインターネット】",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "QuickSolution(R) がMCPに対応、AIエージェントからオンプレ/クラウドの横断検索を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "キンドリル、AIエージェントを活用した業務変革を加速させる「AI オーケストレーション・フォー・ビジネス」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "キンドリル、AIエージェントを活用した業務変革を加速させる「AI オーケストレーション・フォー・ビジネス」を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ゼロワングロース、AIエージェントによる「ゼロタッチCRM運用」の実現支援サービスを開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Amazon×楽天×Shopifyを、使い慣れたAIで横断分析--Picaro.AI MCP、先着10社限定で提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ZEB設計をAIで。「ZEBopt Codesign」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
