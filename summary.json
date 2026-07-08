@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-07-08T02:32:01.986510",
-  "total_episodes": 0,
+  "generated_at": "2026-07-08T22:13:46.618232",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 方法_20260708",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Unreal Engine最新版「Unreal Engine 5.8」の見どころレポート。次世代の「Unreal Engine 6」へは,どうつながっていくのか",
+          "source": "4gamer.net",
+          "trust_score": 7.0
+        },
+        {
+          "title": "デザインコンテスト「GMO DESIGN AWARD 2026」開催決定!3年目のテーマは「トキメキ」",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ソフトウェアサプライチェーン攻撃から「エンジニアの背中」を守る。Takumi byGMO・「Guard」機能「Runner」機能 開発の舞台裏",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【Ahrefs × GMO TECH 初共催ウェビナー】AI 回答 4 万件を解析。AI 検索で選ばれるブランドの「推薦の文法」を 7 月 23 ウェビナーで大公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "取引価格626万件・地価44年分・J-REIT10万件超を横断 - ChatGPT、Claude、Copilotから使える不動産データベース「不動産DB」正式版公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIが破壊するIT業界の“人月商売” 「SIerの死」後に“生き残る者”の正体",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "QuickSolution(R) がMCPに対応、AIエージェントからオンプレ/クラウドの横断検索を実現",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
