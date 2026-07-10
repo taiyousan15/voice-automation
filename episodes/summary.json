@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-07-09T02:49:21.087108",
-  "total_episodes": 1,
+  "generated_at": "2026-07-10T02:52:04.149310",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260709",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Unreal Engine最新版「Unreal Engine 5.8」の見どころレポート。次世代の「Unreal Engine 6」へは,どうつながっていくのか",
-          "source": "4gamer.net",
-          "trust_score": 7.0
-        },
-        {
-          "title": "メール・会議・Slackの内容をAIが覚えて仕事を手伝う「Rowboat」、Claude Desktop代替として何が便利なのか?",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "デザインコンテスト「GMO DESIGN AWARD 2026」開催決定!3年目のテーマは「トキメキ」",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ソフトウェアサプライチェーン攻撃から「エンジニアの背中」を守る。Takumi byGMO・「Guard」機能「Runner」機能 開発の舞台裏",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "取引価格626万件・地価44年分・J-REIT10万件超を横断 - ChatGPT、Claude、Copilotから使える不動産データベース「不動産DB」正式版公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Hakuhodo DY ONE、博報堂と共同でAIエージェントが購買を代行する時代を見据えたエージェンティックコマース領域の統合ソリューション「Agentic Commerce ONE(TM)」を始動",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AMDのAI開発キット「Ryzen AI Halo」レビューがさっそく登場、約64万円で128GBの超大容量ユニファイドメモリ&Zen 5CPU&Radeon 8060S GPUを搭載した強力ミニワークステーション",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
