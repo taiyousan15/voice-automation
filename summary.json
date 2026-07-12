@@ -1,61 +1,26 @@
 {
-  "generated_at": "2026-07-11T21:56:05.471715",
-  "total_episodes": 2,
+  "generated_at": "2026-07-12T02:35:14.063841",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ 理由_20260711",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_MCP おすすめ_20260712",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "おとぎの森公園では水遊びの子どもたちも 富山県内全観測地点で真夏日(北日本放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "菊池修司が“素顔”をさらけ出す1st写真集を発売!「お客様の人生が少しでも鮮やかになるような役者活動を続けたい」",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「決めても前に進まない」31歳・2児の母で全国最年少町長に...2期8年務めた桑原悠氏が語る地方政治の理想と現実",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "株価と配当の両取りを狙える銘柄を見つける方法...プロ注目「初任給60万円」",
-          "source": "ライブドアニュース",
+          "title": "無料で複数人の旅行を計画するためリアルタイムコラボ&インタラクティブマップ&予算管理&持ち物リストを管理・共有できる「trek」",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "松本若菜&佐野勇斗、ドラマ初共演で感じた魅力「少年のような真っすぐな心」「想像以上に真面目」 『君の好きは無敵』でタッグ",
-          "source": "産経ニュース",
+          "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
+          "source": "Gigazine",
           "trust_score": 7.0
         },
-        {
-          "title": "中川翼・ゲンジブ桜木雅哉W主演! 人気BL漫画『ちょっと待とうよ、春虎くん』実写ドラマ化",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "中川翼&桜木雅哉(原因は自分にある。)W主演で「ちょっと待とうよ、春虎くん」実写化 先輩マスク男子&一途でまっすぐな後輩男子の青春ラブストーリー",
-          "source": "Model Press",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260711",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "自社の業務に合わせたAIエージェントを「10分で作成」 freeeが「AI戦略」を強化(ITmedia ビジネスオンライン)",
           "source": "Yahoo Japan",
@@ -80,7 +45,47 @@
           "title": "GitHub Copilotが大変革 無料でAIエージェント解禁、JetBrains対応とコスト管理強化を同時発表",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20260712",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ビットバンクがMCPサーバ・CLI公開し実証実験、AIエージェントによる新たな取引体験の実現へ",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
         },
+        {
+          "title": "AIを人間向けシステムに「後づけ」しても、生産性は向上しない(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ゼロワングロース、オープンソースCRM「Twenty」の日本初の認定ソリューションパートナーとしてサービス提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Web制作会社で、非エンジニアのAI推進担当者が週1回×約2ヶ月の研修で業務システムを内製開発──if「AI駆動開発研修」の導入事例を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260712",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
           "title": "【7月15日14時~】九州電力、千葉大学が登壇!次世代高速RDB 劔”Tsurugi” 事例紹介セミナー2026 を開催いたします。",
           "source": "Pr Times",
@@ -90,6 +95,31 @@
           "title": "インフキュリオン、「食事補助HQ」に次世代カード発行プラットフォーム「Xard」を提供",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        },
+        {
+          "title": "【7月15日14時~】九州電力、千葉大学が登壇!次世代高速RDB 劔”Tsurugi” 事例紹介セミナー2026 を開催いたします。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260712",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「設置するだけでAI検索に引用される」AEO対策SaaS「PUENTE AEO Booster」を正式リリース ── 登録不要の無料AI可読性診断も公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株式会社if、Claude Code伴走研修でセミナー動画の30秒ダイジェスト自動生成を構築支援──全国規模の中小企業向け事業協同組合で未経験メンバーが運用開始【導入事例】",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
