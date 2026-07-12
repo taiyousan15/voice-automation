@@ -1,111 +1,56 @@
 {
-  "generated_at": "2026-07-12T02:35:14.063841",
-  "total_episodes": 4,
+  "generated_at": "2026-07-12T21:57:53.786053",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260712",
-      "theme": "MCP おすすめ",
+      "name": "episode_思想 おすすめ_20260712",
+      "theme": "思想 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "無料で複数人の旅行を計画するためリアルタイムコラボ&インタラクティブマップ&予算管理&持ち物リストを管理・共有できる「trek」",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "無料でAI向けのブラウザ自動化ができる「Browser4」",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "自社の業務に合わせたAIエージェントを「10分で作成」 freeeが「AI戦略」を強化(ITmedia ビジネスオンライン)",
+          "title": "【動画】13日の天気 - 西日本や東海中心に厳しい暑さ 日田で38°C予想 東~北日本はくもりや雨(12日19時更新)(ウェザーマップ)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "JavaエンジニアはAI時代でも輝ける LLMを組み込む3ステップとは",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIエージェントで新たな取引体験の実現へ、ビットバンクが実証実験開始",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【7/10話題】NECが顔認証とアバランチ活用のオンチェーン取引基盤検討、ビットバンクのAIエージェント向けMCPサーバ、Swiftの共有台帳が初期利用へなど(音声ニュース)",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "GitHub Copilotが大変革 無料でAIエージェント解禁、JetBrains対応とコスト管理強化を同時発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260712",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ビットバンクがMCPサーバ・CLI公開し実証実験、AIエージェントによる新たな取引体験の実現へ",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "AIを人間向けシステムに「後づけ」しても、生産性は向上しない(DIAMOND ハーバード・ビジネス・レビュー)",
+          "title": "【関東の天気】あす蒸し暑い 急な雨にも注意 14日から猛暑に熱帯夜も...(テレビ朝日系(ANN))",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "ゼロワングロース、オープンソースCRM「Twenty」の日本初の認定ソリューションパートナーとしてサービス提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "中日ファンからチームに「守備力を上げてほしい」と切実な本音 これに対する谷繁元信の返答は...",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "Web制作会社で、非エンジニアのAI推進担当者が週1回×約2ヶ月の研修で業務システムを内製開発──if「AI駆動開発研修」の導入事例を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260712",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【7月15日14時~】九州電力、千葉大学が登壇!次世代高速RDB 劔”Tsurugi” 事例紹介セミナー2026 を開催いたします。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "インフキュリオン、「食事補助HQ」に次世代カード発行プラットフォーム「Xard」を提供",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "絶対に失敗できない次世代Xbox。レイオフと値上げの逆風のなか",
+          "source": "Gizmodo",
           "trust_score": 7.5
         },
         {
-          "title": "【7月15日14時~】九州電力、千葉大学が登壇!次世代高速RDB 劔”Tsurugi” 事例紹介セミナー2026 を開催いたします。",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "写真家・大城信吉さんの写真展 沖縄の人々の生活や伝統文化など100作品展示(沖縄テレビOTV)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「鬼滅の刃」伊之助の素顔にビックリ!「ギャップやばい」「超絶美人」善逸の運命の出会いに「ギャグ化が加速」...再放送第十四話【ネタバレあり反応まとめ】",
+          "source": "アニメ！アニメ！",
           "trust_score": 7.0
+        },
+        {
+          "title": "月10万円の配当金を目指すなら、株価の高安より着目すべき指標がある",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_skill 比較_20260712",
-      "theme": "skill 比較",
+      "name": "episode_skill 活用_20260712",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
