@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-07-13T02:36:33.140465",
-  "total_episodes": 0,
+  "generated_at": "2026-07-13T22:01:24.681958",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_Claude Code おすすめ_20260713",
+      "theme": "Claude Code おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "フィールズ賞受賞のテレンス・タオ氏、AIエージェントで27年前の数学コードを数時間で移植――自身が見落としたバグも2件発見",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Metaの初有料AIモデル「Muse Spark 1.1」、独立系ベンチマークが公開―競合比3分の1のコストで同等性能も、自律型エージェントでは9ポイント下回る",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude code、CursorなどのAIコーディング6製品に脆弱性―偽の承認画面でSSHアクセス権奪われる恐れ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エイベックス松浦勝人「最近は、秘書に頼むこともAIで自分でやってしまう」(GOETHE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Claude Codeは指示前の初期データだけで約3万3000トークンを使用、実用構成では約7万5000トークンに",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Codeが主要クラウドで「自動モード」をデフォルト化、エンタープライズのオプトインを廃止",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社if、法人向けAI研修のOEM提供を本格展開──研修カリキュラム・教材・講師伴走ノウハウ・助成金申請サポートの知見を一括提供、パートナー企業が自社ブランドでAI研修事業を立ち上げ可能に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
