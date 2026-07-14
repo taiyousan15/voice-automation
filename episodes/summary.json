@@ -1,6 +1,27 @@
 {
-  "generated_at": "2026-07-13T02:36:33.140465",
-  "total_episodes": 0,
+  "generated_at": "2026-07-14T02:21:32.034157",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 活用_20260714",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SESエンジニアの《スキル資産化》を実現するクラウドサービス『Skill Suite(スキルスイート)』を2026年7月13日より提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "小田原市の「副業人材マッチング支援業務」をみらいワークスが4年連続で推進",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
