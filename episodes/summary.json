@@ -1,125 +1,40 @@
 {
-  "generated_at": "2026-07-15T02:14:14.328077",
-  "total_episodes": 3,
+  "generated_at": "2026-07-16T02:26:50.282669",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260715",
-      "theme": "MCP 活用",
+      "name": "episode_skill おすすめ_20260716",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Cursorが開発中と報じられたAIエージェント「Sand」の全貌――ClaudeやChatGPT追撃を狙うも、SpaceX買収で不透明な先行き",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "PR TIMES、第1四半期として過去最高の売上高を更新(2026年度第1四半期決算を発表)",
+          "title": "Meta Heroes、「AI実務辞書100記事」を無料公開 ── AI初心者から企業導入担当者まで目的別に学べる",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "PR TIMES、第1四半期として過去最高の売上高を更新(2026年度第1四半期決算を発表)",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "2026年7月14日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "MCP対応AIプラットフォーム「mitoco Buddy」をバージョンアップ",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "ノーベル賞受賞者16人らがAIによる大規模雇用喪失に警鐘",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         },
         {
-          "title": "株式会社if、IT開発企業向けにAI駆動開発研修・フルスタックエンジニア育成研修による伴走支援を強化──開発体制の内製化と新人育成、個別相談会を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "株式会社if、IT開発企業向けにAI駆動開発研修・フルスタックエンジニア育成研修による伴走支援を強化──開発体制の内製化と新人育成、個別相談会を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260715",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Infoblox、Kentikの買収で最終合意",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "MySQLのスロークエリを調査して、APIのレスポンスタイムを5分から20秒に改善した話",
-          "source": "Freee Developer Portal",
+          "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "国内証券会社初※ 米国株取引手数料を完全無料化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Yextの取締役ダニエル・エングランダー氏、同社株を約39万8,000ドル取得",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "株式会社bubo、AIが書いたコードを「世に出す前に見極める」QAツール「Nioh(仁王)」を提供開始。MCP対応のAIクライアントから呼び出せ、正式版に先立ち先行ベータを限定募集",
+          "title": "創業約1年で大企業導入拡大、\"育成を組織の共通言語に\"──AI人材育成プラットフォーム「SkillCanvas」、日本の人事部『HRアワード2026』に入賞!",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "株式会社bubo、AIが書いたコードを「世に出す前に見極める」QAツール「Nioh(仁王)」を提供開始。MCP対応のAIクライアントから呼び出せ、正式版に先立ち先行ベータを限定募集",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "グーグルを去るヴィント・サーフ氏の警告:AIエージェントの相互運用には自然言語ではなく「厳密なプロトコル」が必要だ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260715",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Gemini 3.5 Pro、7月17日一般公開の噂もスペックは未確定――開発遅延の背景に「事前学習からの再構築」か",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIネイティブ予約ゲートウェイ「Dida MCP」の提供を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIネイティブ予約ゲートウェイ「Dida MCP」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Metaが初の有料AI API提供へ、独自チップ「Iris」9月生産開始とクラウド参入報道で株価急反発",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
         }
       ]
     }
