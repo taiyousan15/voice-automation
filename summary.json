@@ -1,40 +1,80 @@
 {
-  "generated_at": "2026-07-16T02:26:50.282669",
-  "total_episodes": 1,
+  "generated_at": "2026-07-16T22:07:52.462611",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260716",
-      "theme": "skill おすすめ",
+      "name": "episode_思想 方法_20260716",
+      "theme": "思想 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Meta Heroes、「AI実務辞書100記事」を無料公開 ── AI初心者から企業導入担当者まで目的別に学べる",
+          "title": "「女性のセックス依存症」にはどんな症状・リスクがあるかご存知ですか?【医師監修】(メディカルドック)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "庭に植えたら大変!繁殖力が強すぎる「侵食系」植物3選。人気の品種も実は要注意...【プロ監修】(モダンリビング)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【大人のドクターマーチン】MHL.と初コラボ。名作靴「1461」を英国製でモダンにアップデート【7月16日発売】(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「いつ復帰したの?」一度消えた“紅白出場”アイドル 7年ぶりGP帯ドラマ出演に驚きの声...出産→重病発症→引退、離婚→元夫の逮捕を経て再始動",
+          "source": "女性自身",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ついに合法野球賭博が解禁か!?NPBオーナー会議で『野球くじ』導入を議論!",
+          "source": "Esuteru Japanese Gaming Blog",
+          "trust_score": 8.7
+        },
+        {
+          "title": "宝来光子 著『買いたくなる1分ストーリー』日本実業出版社から発売 商品・サービスの魅力を“1分の物語”に変える実践書(@Press[PR])",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【PLUS VENDOME×YUKI】コラボレーションジュエリー第4弾の発売が決定",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ_20260716",
+      "theme": "思想 おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "2026年7月14日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "レッドブルF1代表がハジャーを高評価「フェルスタッペンから多くを学んでいる」",
+          "source": "F1-gate",
           "trust_score": 7.5
         },
         {
-          "title": "ノーベル賞受賞者16人らがAIによる大規模雇用喪失に警鐘",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
+          "title": "【RIZIN】鹿志村仁之介、打倒サバテロに自信「穴は見えている」ジョリーへの“黙ってろ”発言の真意も説明",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "Wソックスの「賭けは大成功だった」村上宗隆20発、地元記者が絶賛「球団史上初の『1億ドルプレーヤー』になるのにふさわしい」",
+          "source": "The Digest",
+          "trust_score": 7.0
         },
         {
-          "title": "創業約1年で大企業導入拡大、\"育成を組織の共通言語に\"──AI人材育成プラットフォーム「SkillCanvas」、日本の人事部『HRアワード2026』に入賞!",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "【日産 キックス 新型試乗】外も中も手抜かりは一切なし! 乗れば驚く走りの進化に「日産、変わったなあ」",
+          "source": "Response",
+          "trust_score": 7.5
         }
       ]
     }
