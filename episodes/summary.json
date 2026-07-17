@@ -1,42 +1,6 @@
 {
-  "generated_at": "2026-07-16T02:26:50.282669",
-  "total_episodes": 1,
+  "generated_at": "2026-07-17T02:29:21.928881",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260716",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Meta Heroes、「AI実務辞書100記事」を無料公開 ── AI初心者から企業導入担当者まで目的別に学べる",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年7月14日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ノーベル賞受賞者16人らがAIによる大規模雇用喪失に警鐘",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「AIによる雇用喪失」のリスクを警鐘する緊急声明が発表される、16人のノーベル賞受賞者やGoogle元CEOなど著名な経済学者やテック界の大物が署名",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "創業約1年で大企業導入拡大、\"育成を組織の共通言語に\"──AI人材育成プラットフォーム「SkillCanvas」、日本の人事部『HRアワード2026』に入賞!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
