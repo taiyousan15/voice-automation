@@ -1,93 +1,48 @@
 {
-  "generated_at": "2026-07-17T21:59:16.613916",
-  "total_episodes": 2,
+  "generated_at": "2026-07-18T02:20:12.550168",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 活用_20260717",
-      "theme": "哲学 活用",
+      "name": "episode_MCP おすすめ 理由_20260718",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
-        {
-          "title": "【8月6日、19日開催】和歌山から教育の未来を考える日英による教育イノベーションをテーマにした市民公開シンポジウムA I 時代の教育、日英の学校比較、体験型教育、テクノロジー活用を多角的に考える機会に",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「支配権」は不要、必要なのは「資本参加」という生存戦略。店舗網654拠点・ジョージア巨大食品チェーン「ニコラ」の強固なサプライチェーンと持分6%の富豪が体現する少数株主のリアル",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "鉄道チャンネルyoutubeサイトにて、7月18日(土)から『お前はまだグンマを知らない~令和版~』第1話~第12話を【期間限定】一挙公開!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「支配権」は不要、必要なのは「資本参加」という生存戦略。店舗網654拠点・ジョージア巨大食品チェーン「ニコラ」の強固なサプライチェーンと持分6%の富豪が体現する少数株主のリアル",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『ムーミン』の世界観で過ごす、夏のリトリートステイ 「ムーミン」×ハイアット リージェンシー 東京ベイ期間限定コラボルームとコラボメニューが登場",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "東進 夏期特別招待講習 申込受付中 東大現役合格906名、共通テスト+102.5点の理由を体験",
-          "source": "Kyodonewsprwire",
-          "trust_score": 8.5
-        },
-        {
-          "title": "東進 夏期特別招待講習 申込受付中 東大現役合格906名、共通テスト+102.5点の理由を体験",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260717",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AIエージェントで知財業務はここまで変わる!「IP Samurai MCPサーバー」無料オンラインセミナーを8月3日に開催!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "累計60万人が受講した企業向けeラーニング「共感講座(R)」シリーズに新作登場",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "累計60万人が受講した企業向けeラーニング「共感講座(R)」シリーズに新作登場",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
         {
           "title": "Google「Gemini 3.5 Pro」が3度目の延期か、ハルシネーション問題で暫定版投入の観測も",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "企業の「トークン課金高すぎ」問題を受けて、GPT-5.4 Thinkingモデルを半額でリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
           "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
           "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "脆弱性管理ソリューション「FutureVuls」AI連携機能を強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "オロ、システム連携の開発・実行基盤「Synqlet」を提供開始 ~ ノーコードでは届かない、柔軟な連携を実現 ~",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "MetaがAI収益化を本格始動、新API「Muse Spark 1.1」と広告自動化の全貌",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         }
