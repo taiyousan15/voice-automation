@@ -1,50 +1,110 @@
 {
-  "generated_at": "2026-07-18T02:20:12.550168",
-  "total_episodes": 1,
+  "generated_at": "2026-07-18T21:56:55.397577",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260718",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_占い 比較_20260718",
+      "theme": "占い 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第4弾、「イブライム・シャリカゼ氏に学ぶ中国発ブランドをジョージア全土に広げたグローバル・フランチャイズ戦略」ウェビナー開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第5弾、ギオルギ・ジョルダニア―不動産バブルの陰で「セメント・コンクリート」を握る、持分40%の少数株主が証明したインフラ投資の勝算",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ゴールドの高級腕時計に含まれる「金の価値」はどれくらい?(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Metaの独自AIチップ「Iris」がテスト通過、ブロードコムが競合3社の設計を一手に担う構図に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中国主導のAIガバナンス組織「WAICO」が発足 世界のAI規制が欧米主導と二極化",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "超加工食品が心血管死の3割前後に関与か、GLP-1薬は体重減少と独立して炎症を抑制:ICO 2026報告",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "なぜ「買取専門店」が不気味なほど増えているのか 素人でも簡単に開業できる買取ビジネスのカラクリ",
+          "source": "J-cast ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260718",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「Copilot」から「Claude」に乗り換えて検証。WordもExcelも効率がガラッと変わった",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20260718",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "HTTP 402コードが35年ぶりに始動、AIエージェント向け決済規格「x402」にVisaやMastercardが参画",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIエージェントで知財業務はここまで変わる!「IP Samurai MCPサーバー」無料オンラインセミナーを8月3日に開催!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "累計60万人が受講した企業向けeラーニング「共感講座(R)」シリーズに新作登場",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "累計60万人が受講した企業向けeラーニング「共感講座(R)」シリーズに新作登場",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
           "title": "Google「Gemini 3.5 Pro」が3度目の延期か、ハルシネーション問題で暫定版投入の観測も",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "脆弱性管理ソリューション「FutureVuls」AI連携機能を強化",
+          "title": "企業の「トークン課金高すぎ」問題を受けて、GPT-5.4 Thinkingモデルを半額でリリース",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "オロ、システム連携の開発・実行基盤「Synqlet」を提供開始 ~ ノーコードでは届かない、柔軟な連携を実現 ~",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
-          "source": "Gigazine",
+          "title": "PMやUXデザイナーとAIが対になり事業成果を加速、グッドパッチがAI駆動開発支援を本格化",
+          "source": "Codezine",
           "trust_score": 7.5
-        },
-        {
-          "title": "MetaがAI収益化を本格始動、新API「Muse Spark 1.1」と広告自動化の全貌",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
         }
       ]
     }
