@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-07-18T02:20:12.550168",
-  "total_episodes": 1,
+  "generated_at": "2026-07-19T02:32:10.677579",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ 理由_20260718",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Google「Gemini 3.5 Pro」が3度目の延期か、ハルシネーション問題で暫定版投入の観測も",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Cygamesやバンダイナムコスタジオ、プラチナゲームズが登壇。ゲーム制作フェス「ゲームメーカーズ スクランブル2026」第1弾の講演ラインナップを公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "脆弱性管理ソリューション「FutureVuls」AI連携機能を強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "オロ、システム連携の開発・実行基盤「Synqlet」を提供開始 ~ ノーコードでは届かない、柔軟な連携を実現 ~",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Claudeのメモリから氏名や勤務先を盗み出す攻撃手法が発見される、ウェブ閲覧機能を悪用して外部サイトへ送信",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MetaがAI収益化を本格始動、新API「Muse Spark 1.1」と広告自動化の全貌",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
