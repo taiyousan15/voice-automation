@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-07-19T21:59:05.509064",
-  "total_episodes": 0,
+  "generated_at": "2026-07-20T02:46:51.359696",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260720",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "3D CADの操作をClaudeに完全お任せ? AIと会話して3Dパーツをデザインする方法(ライフハッカー・ジャパン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "3D CADの操作をClaudeに完全お任せ? AIと会話して3Dパーツをデザインする方法",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "MetaのAstryxがGitHub Trendingに再浮上、JSONマニフェストでAIのUIコード幻覚を抑制",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "エンタープライズ向け「エージェント型アシスタント」第1世代の実力を測る | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "あなたの知らないうちに、AIエージェントは給与台帳に加わっている | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
 }
