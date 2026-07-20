@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-07-20T02:46:51.359696",
-  "total_episodes": 1,
+  "generated_at": "2026-07-20T22:05:21.271785",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260720",
-      "theme": "MCP おすすめ",
+      "name": "episode_Claude Code 活用_20260720",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 - Forbes JAPAN",
+          "source": "Google News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "MetaのAstryxがGitHub Trendingに再浮上、JSONマニフェストでAIのUIコード幻覚を抑制",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Claude Fable 5のサブスク提供に決着、Maxは「週制限50%」で継続、Proは「100ドルクレジット」後に従量課金へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIエージェント導入前に、確認しておくべきコストとは?",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "エージェント型アシスタントを半年使って見えた「導入の壁」 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ_20260720",
+      "theme": "Claude Code おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Claude Fable 5が一部のサブスクプランで使用可能に",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Telegram、ボット基盤を自社サーバーに載せる「Telegram Serverless」を公開 データ保管の前提も変わる",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "エンタープライズ向け「エージェント型アシスタント」第1世代の実力を測る | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "中国版「ミュトス級AI」はすぐそこに、セキュリティー上の脅威はどこまで深刻か | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260720",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「AI生成コードの48%に脆弱性」時代のアプリケー DerScanner、ションセキュリティプロセス転換を提言",
+          "source": "Ein Presswire",
+          "trust_score": 8.5
+        },
         {
           "title": "3D CADの操作をClaudeに完全お任せ? AIと会話して3Dパーツをデザインする方法(ライフハッカー・ジャパン)",
           "source": "Yahoo Japan",
@@ -20,31 +100,51 @@
           "title": "3D CADの操作をClaudeに完全お任せ? AIと会話して3Dパーツをデザインする方法",
           "source": "Lifehacker",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 方法_20260720",
+      "theme": "占い 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【社説】福岡県議会の金銭疑惑 ウミを出し切る徹底した外部調査を",
+          "source": "朝日新聞デジタル",
+          "trust_score": 7.5
         },
         {
-          "title": "MetaのAstryxがGitHub Trendingに再浮上、JSONマニフェストでAIのUIコード幻覚を抑制",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "【アニメ放送中】モンゴル史に名を残すふたりの女性の復讐譚。“知”でもってモンゴル帝国を生き抜く女性たちの物語『天幕のジャードゥーガル』(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "「特集」トランプ氏vs司法 独善・暴走に最後のとりで",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
         },
         {
-          "title": "AI検索時代のブランド可視化ツール「Optyino.ai」、AIエージェントからダッシュボードデータを直接参照できる「MCP接続」機能を一般公開",
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第8弾、ナニ・アンディアシュヴィリ―靴店から年商1億GEL超の小売帝国へ。多角化の果てに「分社化」を選んだ、持分25%の集中投資戦略",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "エンタープライズ向け「エージェント型アシスタント」第1世代の実力を測る | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第9弾、テア・カカバゼ――競合を50%超引き離す圧倒的シェア。M&Aと家族経営の資本構成から読み解く家電小売の絶対優位性",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "言葉控えるFRBに「ウォーシュGPT」登場...ウォール街、AIで金利シグナル探す(中央日報日本語版)",
+          "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "あなたの知らないうちに、AIエージェントは給与台帳に加わっている | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
+          "title": "HSBCがアポロ・グローバル・マネジメント株を買い推奨、クレジット重視を評価",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
