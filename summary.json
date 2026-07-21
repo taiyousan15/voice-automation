@@ -1,20 +1,175 @@
 {
-  "generated_at": "2026-07-21T02:30:25.917011",
-  "total_episodes": 1,
+  "generated_at": "2026-07-21T22:08:08.694418",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260721",
-      "theme": "MCP 比較",
+      "name": "episode_占い 比較_20260721",
+      "theme": "占い 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "MetaのAstryxがGitHub Trendingに再浮上、JSONマニフェストでAIのUIコード幻覚を抑制",
+          "title": "世界で6.5億人が栄養不足 25年、コロナ前依然上回る(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Alphabet・テスラ・インテルの決算迫る、巨額AI設備投資の収益化を測る試金石に",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        },
+        {
+          "title": "W杯初のハーフタイムショーがもたらした変革:サッカーのルールを破り、配信権争奪戦を再点火",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「酷暑日」の恋活・婚活、6割が「会いたいが、デート内容は...」 意識に男女差 民間調査(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第11弾、ダヴィト・ジュゲンティ――公共入札83件・落札6億GEL超。単独経営から折半出資へ舵を切ったインフラ企業のガバナンス",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第10弾、ギヴィ・チョチア―中国とロシアの資本が交錯するインフラ市場。落札総額6億GELの道路建設大手で始動した50:50共同経営",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第11弾、ダヴィト・ジュゲンティ――公共入札83件・落札6億GEL超。単独経営から折半出資へ舵を切ったインフラ企業のガバナンス",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20260721",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "大谷翔平の「人生の時を刻む」 セイコー初の“マスターピース”は100万時間の積算機能(WWDJAPAN.com)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "伊勢丹メンズ館で「香水夏市」開催中 25年7月の香水売上高は41%増(WWDJAPAN.com)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「BOXIL EXPO 人事・総務展 2026 夏」KEYNOTEの全登壇者が決定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「BOXIL EXPO 人事・総務展 2026 夏」KEYNOTEの全登壇者が決定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "人材採用プロセスで重視されつつある、「IQ以外の知能」とは(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20260721",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "コミックシーモアから“一話完結”レーベル誕生、「電子マンガの表現広げる」読切ならではの発想の熱さに注目",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「外でバスケをしろ」...バスケゲームに夢中な息子から、年商32億円のビジネスのアイデアが生まれた",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「あと10年は着られるようにがんばりたい」IQ99の猫好 杏が「Cream」掲載イベント初開催!",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "先週のオトトイ(2026年7月21日)",
+          "source": "Ototoy",
+          "trust_score": 7.0
+        },
+        {
+          "title": "[プレイレポ]お茶を振る舞う武人や,宙を舞い踊って襲い掛かる布。中国文化から生まれた強敵が立ちはだかる「Swords of Legends」",
+          "source": "4gamer.net",
+          "trust_score": 7.5
+        },
+        {
+          "title": "私が恋した東京アドレス ILLITのスタイリスト、イ・ヒョナが通う新宿のセレクトショップ",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Nerdy最高会計責任者のカイル・キャラウェイ氏、1万1,102ドル相当の株式を売却",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260721",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ウィブル証券、生成AIサービスとの連携機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ウィブル証券、生成AIサービスとの連携機能を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "政府、AI活用のデジタル社会を目指す「重点計画」 次期マイナカードは29年度に(Impress Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「SkyVisualEditor」Ver.25.0をリリース",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ゲームエンジン「Unity 7」のロードマップが公開。開発者が使い慣れたAIツールとの連携を強化",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "TDCソフトのクラウドワークフローサービス「Styleflow」、「AIエージェント連携」と「企業間連携」の新機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AIのクレジット浪費」をどう防ぐ? Visual Studio Codeに「コスト管理」機能追加",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
         }
       ]
     }
