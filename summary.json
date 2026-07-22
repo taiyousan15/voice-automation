@@ -1,20 +1,75 @@
 {
-  "generated_at": "2026-07-22T02:29:14.240201",
-  "total_episodes": 1,
+  "generated_at": "2026-07-22T22:09:41.434371",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260722",
-      "theme": "skill 比較",
+      "name": "episode_skill おすすめ_20260722",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "B-EN-Gの、orishia Skill StudioとAIを活用した 現場DXと安全教育の推進プロジェクトが 令和8年度「トライアングルエヒメ2.0」の対象事業に採択",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【吉積情報株式会社】創業 116 年、「物語がつづく暮らし」を提案する住生活総合グループ・ヤマネホールディングス、Google Workspace と Gemini を全社導入。",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
           "title": "AIエージェントが購入できるEC決済基盤「uniple checkout」提供開始 - JPYC決済をプラグインで導入",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20260722",
+      "theme": "哲学 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【DRIMAGE JAPAN プレスリリース】クローズドベータテストは大盛況!『アーケロン(Arkheron)』けんきカスタムイベントの様子をレポートでご紹介",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【DRIMAGE JAPAN プレスリリース】クローズドベータテストは大盛況!『アーケロン(Arkheron)』けんきカスタムイベントの様子をレポートでご紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "“本気”で精油と向き合う THREEの自社農園と蒸留所を訪問",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "“本気”で精油と向き合う THREEの自社農園と蒸留所に訪問",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "公開初週の週末で動員数15,000人突破!映画『チルド』エニーマート篇予告&モチーフビジュアル解禁",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第12弾、グリゴリ・グダヴァゼ――中国輸入トップ5・利益率18%の家電大手「メガテクニカ」。50%持分とFC展開で勝つ堅実経営",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "少数株ドットコム・山中裕が語る『Forbesジョージア富豪100人』第13弾、ロイン・ドゥンバゼ――バトゥミの海岸線を変えた、単独オーナーの15年",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
