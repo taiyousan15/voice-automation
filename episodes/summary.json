@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-21T02:30:25.917011",
+  "generated_at": "2026-07-22T02:29:14.240201",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260721",
-      "theme": "MCP 比較",
+      "name": "episode_skill 比較_20260722",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "MetaのAstryxがGitHub Trendingに再浮上、JSONマニフェストでAIのUIコード幻覚を抑制",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "AIエージェントが購入できるEC決済基盤「uniple checkout」提供開始 - JPYC決済をプラグインで導入",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
