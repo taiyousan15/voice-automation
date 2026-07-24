@@ -1,56 +1,11 @@
 {
-  "generated_at": "2026-07-23T22:09:19.400577",
+  "generated_at": "2026-07-24T02:31:00.945341",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 方法_20260723",
-      "theme": "占い 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "TVアニメ『GATE SEASON2 自衛隊 彼の海にて、斯く戦えり』エンディングテーマを一般公募",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "箱を開けた瞬間、笑顔になる愛らしさ。金沢でおすすめのお土産4選(Web eclat)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "EU、グーグルに制裁金1660億円 検索で自社サービス優遇",
-          "source": "朝日新聞デジタル",
-          "trust_score": 7.5
-        },
-        {
-          "title": "20万円盗んだ男性巡査を懲戒免職 死亡の女性宅から「生活費の足しに」埼玉県警(テレビ朝日系(ANN))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "激しい炎...車内に放置したモバイルバッテリーから出火 寝室、宿泊施設でも「リチウムイオン電池」の火災事故 熱に弱い特性「夏の暑さは人だけでなく、リチウム電池にも影響」 車内や直射日光の当たる場所への放置に注意",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "熱波のフランス、死者5千人超増 6~7月の16日間、若者も(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "2026年7月23日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260723",
-      "theme": "MCP 比較",
+      "name": "episode_MCP 活用_20260724",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -62,19 +17,54 @@
           "trust_score": 8.0
         },
         {
-          "title": "BIZナレッジ、安全なプライベート環境で社内データの横断検索・自動処理を実現",
+          "title": "Claude Partner Network認定パートナーのplayknot、Claude CodeとComputer Useを解説",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude Partner Network認定パートナーのplayknot、Claude CodeとComputer Useを解説",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIセキュリティのCoWorker、WordPressの重大な脆弱性「wp2shell」に対応した統合AIセキュリティ基盤「CoWorker Security AI」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "RoboRoboコンプライアンスチェックが「ITreview Grid Award 2026 Summer」の反社チェックツールカテゴリー総合部門で「Leader」を獲得",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Box、企業コンテンツ全体で稼働するAIエージェントを保護する新たな制御機能を発表",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Gemini 3.6 Flashのベンチマーク結果はこんな感じ",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "BIZナレッジ、安全なプライベート環境で社内データの横断検索・自動処理を実現",
+          "title": "マーケティングAIエージェント「Mazrica Engage」、MCPに対応",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260724",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "LangChain、AIエージェントの評価を対話形式で構築する「Eval Engineering Skill」を公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Webページの「見えない文字」で任意コードを実行されるAWS Kiroの脆弱性が発覚 CVE未割り当てのため手動更新が必要",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
