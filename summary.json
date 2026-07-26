@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-07-25T22:01:16.126087",
+  "generated_at": "2026-07-26T02:36:12.956788",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 比較_20260725",
-      "theme": "思想 比較",
+      "name": "episode_MCP 活用_20260726",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【スズキ アルトラパン LC 新型試乗】軽自動車はハイトワゴンだけじゃない...中村孝仁",
-          "source": "Response",
-          "trust_score": 7.0
+          "title": "TDCソフト、クラウドワークフローサービス「Styleflow」でMCPに対応した新機能",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "「80年代が好き! ジェンマが好き!」 気づいたら21台も集めた、カブ屋の濃すぎる愛【ミニバイク名車】",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年F1ハンガリーGP初日フリー走行:全22人のドライバーコメント",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "話題の「バレリーナの夜食」を“すぐ食べたい”→時短アレンジが反響「作ってみたい」(ハフポスト日本版)",
+          "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始(あたらしい経済)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "「これこそ彼らしい決断」盟友ウェイドが語るレブロンのシクサーズ移籍の真意「お金なんて必要としていない」<DUNKSHOOT>",
-          "source": "The Digest",
-          "trust_score": 7.0
+          "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "ガブリエル・ボルトレト アウディF1に自信「レーシングブルズの前に出れる」",
-          "source": "F1-gate",
+          "title": "「愚痴から始まる請求自動化」 地味に面倒な集計をビジネスチャットの会話から自動集計するアプリをAIで作ってみた",
+          "source": "Ascii",
           "trust_score": 7.5
         },
         {
-          "title": "夏のお出かけ用のはずが一軍入りに! 「KiUのミニ財布」を毎日使いたくなる理由(Fav-Log by ITmedia)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "コインベース、AIエージェント向け決済機能を発表 x402採用",
+          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Linux FoundationとJASA 「組込みLinuxエンジニア認定プログラム」を発表 ~フィジカルAI時代の組込みエンジニアのスキル向上を支援~",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Linux FoundationとJASA 「組込みLinuxエンジニア認定プログラム」を発表 ~フィジカルAI時代の組込みエンジニアのスキル向上を支援~",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
