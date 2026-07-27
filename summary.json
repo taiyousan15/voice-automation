@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-07-26T22:03:37.420984",
+  "generated_at": "2026-07-27T02:44:18.982107",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ_20260726",
-      "theme": "思想 おすすめ",
+      "name": "episode_skill おすすめ_20260727",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "夏のキャンプや海水浴に。「GIGA PUMP」を使えば、面倒な空気入れが約30秒で終わるんです",
-          "source": "Roomie Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "夏休みの日曜に開催! 蒜山高原で「オーストラリア産ラム肉」味わい感じるグルメイベント【岡山】(RSK山陽放送)",
+          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望(プレジデントオンライン)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "【2026年新月・満月カレンダー】7月29日、みずがめ座の満月“バックムーン”を解説── 「振り返りと調整」を行おう",
-          "source": "Vogue",
+          "title": "中国で「人間蒸留」が広がり、大卒1270万人の雇用不安が深まる",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         },
         {
-          "title": "「特集」インフレが引き起こす「株高不況」 資産構成の見直しを",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
-        },
-        {
-          "title": "松井玲奈「非常食とは思えないおいしさ!」高校生考案“缶詰パン”に驚愕!食べながら備える「食品の家庭備蓄」のコツ",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「80年代が好き! ジェンマが好き!」 21台コレクションで見る濃すぎる世界【ミニバイク名車】",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【社説】憲法改正の国民投票制度 ネットの弊害、先送りせずに対応を",
-          "source": "朝日新聞デジタル",
-          "trust_score": 7.5
+          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望",
+          "source": "President Online",
+          "trust_score": 7.0
         }
       ]
     }
