@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-07-26T02:36:12.956788",
+  "generated_at": "2026-07-27T02:44:18.982107",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260726",
-      "theme": "MCP 活用",
+      "name": "episode_skill おすすめ_20260727",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "TDCソフト、クラウドワークフローサービス「Styleflow」でMCPに対応した新機能",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始(あたらしい経済)",
+          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望(プレジデントオンライン)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "米コインベース、AIエージェントからのUSDC決済受付を企業向けに開始",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「愚痴から始まる請求自動化」 地味に面倒な集計をビジネスチャットの会話から自動集計するアプリをAIで作ってみた",
-          "source": "Ascii",
+          "title": "中国で「人間蒸留」が広がり、大卒1270万人の雇用不安が深まる",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         },
         {
-          "title": "コインベース、AIエージェント向け決済機能を発表 x402採用",
-          "source": "Coinpost｜仮想通貨ビットコインニュース・投資情報",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Linux FoundationとJASA 「組込みLinuxエンジニア認定プログラム」を発表 ~フィジカルAI時代の組込みエンジニアのスキル向上を支援~",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Linux FoundationとJASA 「組込みLinuxエンジニア認定プログラム」を発表 ~フィジカルAI時代の組込みエンジニアのスキル向上を支援~",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望",
+          "source": "President Online",
+          "trust_score": 7.0
         }
       ]
     }
