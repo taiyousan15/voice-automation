@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-07-27T22:12:41.429740",
-  "total_episodes": 1,
+  "generated_at": "2026-07-28T02:23:59.822049",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_占い 活用_20260727",
-      "theme": "占い 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "<関東秋お出かけイベント2026>東京・横浜・千葉ほか、紅葉やハロウィン、グルメフェス情報",
-          "source": "Fashion Press",
-          "trust_score": 8.5
-        },
-        {
-          "title": "しいたけ.さんと岸田奈美さんの往復書簡が、noteでスタート",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "分解しては編み直す──ここのがっこう出身デザイナー 林ひかりの破壊と想像の間",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「生成AIなんでも展示会 Vol.6」ビジネス出展・協賛プランの募集を開始!来場3,000人規模・意思決定層も集うAIイベントでPR・採用を",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【西武渋谷店】オルタナティブロックバンド『羊文学』写真展を開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "しろたんファン、東京駅に行列を作る 大人も愛着が湧くぬいぐるみのヒミツ(WWDJAPAN.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "相場展望 7月27日号 米国株:相場に変化⇒➀AI巨額投資への懸念2高期待が好決算でも不満 日本株:米国ハイテク株・ハイテク株比率が高い韓国総合に引きずられて下落",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
