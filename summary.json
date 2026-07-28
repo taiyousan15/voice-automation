@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-07-28T02:23:59.822049",
-  "total_episodes": 0,
+  "generated_at": "2026-07-28T22:10:52.589640",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ 理由_20260728",
+      "theme": "占い おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ソ・イングク×パク・ジヒョン「残念ながら明日も出勤です!」が働く大人に刺さる 世界で話題の韓国オフィスロマンスに注目",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Claude Code更新 fork刷新・サブエージェント制御【7/14〜23】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "EU AI法の適用スケジュールが確定、8月2日に透明性義務、12月に「裸体化」アプリ禁止へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Google Classroom、1億5000万人以上のユーザー向けに役割別ホームページを展開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "サムスンの新型「Galaxy Z Fold8」は折りたたみの概念を刷新する新デザイン",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "サムスン「Galaxy Z Fold8」を試してみた 初めて折りたたみスマホが欲しいと思えた新デザイン",
+          "source": "Cnn",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ころん(すとぷり)ワンマンライブ『ころわん! -あけおめライブ2026- inさいたまスーパーアリーナ』が「ABEMA PPV」で独占配信決定!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260728",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "汎用ツールを\"小さな専用ツール\"で置き換える — 生成AI時代のBuild vs Buy再考",
+          "source": "Chatwork Creators Note Engineering Blog",
+          "trust_score": 7.0
+        },
+        {
+          "title": "顔認証システムにAPIで即日アドオン!判定精度99.99%の「なりすまし判定API」をAWS Marketplaceにて国内・海外へ同時提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "◆◆ 経営者自身がAIを使いこなす「AIカンパニー研修」を正式リリース ◆◆",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Anyflow Embed、AIによるコード生成でAPI連携を構築する「コードソリューション」β版を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「Kimi K3」オープンウェイトが7月27日公開へ、セルフホストで推論データの中国法リスクを低減",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年7月27日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20260728",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "コマース事業特化のAIエージェント「ecforce AI」、コード実行ツールとキャンバスツールを追加(日本ネット経済新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "GMOインターネットグループ、Anthropicと戦略的パートナーシップ契約を締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ぷらっとホームと日立ソリューションズ東日本、「ねぶた祭DAO」実証第2弾へ",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "『AI MONBAN』に続く第二弾!世界水準の AI Red Teaming と Web セキュリティの知見を融合した『AI アプリケーション脆弱性診断サービス』を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "GLOBIS 学び放題、法人のAI活用を促進する新ラーニングパス「AIリテラシーグレード」提供開始 習熟度に応じた4段階の学習設計で組織全体のAI活用を支援",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【書籍発売・予約開始】BLUEISH代表 為藤アキラ・著『現場で役立つ マルチエージェントAI設計入門 Google A2A×ADKで実現する堅牢な運用システム』",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
