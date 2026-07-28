@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-07-27T02:44:18.982107",
-  "total_episodes": 1,
+  "generated_at": "2026-07-28T02:23:59.822049",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260727",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "中国で「人間蒸留」が広がり、大卒1270万人の雇用不安が深まる",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "大卒1270万人が就職難なのに、今度は自分の「AI分身」に仕事を奪われる...中国で始まった「人間蒸留」という絶望",
-          "source": "President Online",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
