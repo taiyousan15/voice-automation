@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-07-29T02:28:03.943253",
-  "total_episodes": 0,
+  "generated_at": "2026-07-29T22:05:22.084150",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260729",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIと外部ツールをつなぐ共通規格「MCP」が過去最大のアップデート、セッション廃止で何が変わったのか?",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【イベントレポート後編】JSAI2026にGMOインターネットグループが登壇|GPUクラウドが支えるAI開発の最前線",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【イベントレポート】JSAI2026にGMOインターネットグループが登壇|オープニング挨拶と最前線の研究発表",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ゲーム制作イベント「ゲームメーカーズ スクランブル2026」,8月30日開催。講演ラインナップ第1弾が公開に",
+          "source": "4gamer.net",
+          "trust_score": 7.0
+        },
+        {
+          "title": "テラデータ、グローバル金融機関におけるAI活用事例を発表し、リアルタイム詐欺検知などの成果を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Linux Foundationの新レポート、日本でAI人材需要が急増する一方、フルスタックのスキル不足が明らかに",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260729",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「量子コンピュータを用いた材料シミュレーション基盤の開発」がNEDO事業に採択",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【防災の日】無料ウェビナー・医療機関向け防災対策ウェビナーをオンデマンド配信!!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIエージェントの企業システムへの接続拡大を背景に、AI出力におけるデータポリシー違反が倍増",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【防災の日】無料ウェビナー・医療機関向け防災対策ウェビナーをオンデマンド配信!!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Boomi調査で判明:企業の86%がAIエージェントを導入済み、一方で信頼している企業はわずか34%",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
