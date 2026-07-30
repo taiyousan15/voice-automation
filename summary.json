@@ -1,90 +1,50 @@
 {
-  "generated_at": "2026-07-30T02:09:58.271985",
-  "total_episodes": 2,
+  "generated_at": "2026-07-30T22:13:42.047504",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260730",
-      "theme": "MCP 方法",
+      "name": "episode_思想 方法_20260730",
+      "theme": "思想 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ベリスク、2026年第2四半期決算が予想を上回り株価上昇",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIと外部ツールをつなぐ共通規格「MCP」が過去最大のアップデート、セッション廃止で何が変わったのか?",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【イベントレポート後編】JSAI2026にGMOインターネットグループが登壇|GPUクラウドが支えるAI開発の最前線",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【イベントレポート】JSAI2026にGMOインターネットグループが登壇|オープニング挨拶と最前線の研究発表",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「量子コンピュータを用いた材料シミュレーション基盤の開発」がNEDO事業に採択",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【防災の日】無料ウェビナー・医療機関向け防災対策ウェビナーをオンデマンド配信!!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260730",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか?」という観点で測定したベンチマークテスト「mcpbench」",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCPサーバー比較カオスマップを公開 ─ 提供元・認証まで“安全に選べる”114サービス",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "人間向けに作られたウェブサイト、これからは「AIエージェント」対応が必要に | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "コマース事業特化のAIエージェント「ecforce AI」、コード実行ツールとキャンバスツールを追加(日本ネット経済新聞)",
+          "title": "高校で1学期だけ一緒にいた男女→10年以上経って再会すると...... 感動的な現在の姿に「なんて素敵なお話」「お幸せに」(ねとらぼ)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "MCPプロトコルがステートレス化へ、ローンチ以来最大の仕様変更",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "特殊詐欺被害 上期1816億円で最悪",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル",
-          "source": "Gigazine",
+          "title": "(2026年7月1日) ECS Service Connect の zone-aware routing でクロスAZ通信を8割減らす(デフォルト有効、ただし再デプロイが必要)",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
+        },
+        {
+          "title": "Tシャツからポロ、キャップまで!! 75周年のランドクルーザー公式新作アイテムを身に着けよう!!(ベストカーWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "50代、私だけの時間「大人のひとり旅」今、一番行きたい宿(Web eclat)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【モンベル好きスタイリストが選ぶ夏の名品30】日常でも置いて映える防災ラジオ「H.C.マルチラジオ」(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【差がつく大人のサロモン】グレー×ブルーの「XA PRO 3D」限定カラーはアーバンリサーチだけ!(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
