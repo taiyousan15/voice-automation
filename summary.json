@@ -1,80 +1,95 @@
 {
-  "generated_at": "2026-07-31T02:38:15.860399",
+  "generated_at": "2026-07-31T22:10:42.532340",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260731",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_哲学 方法_20260731",
+      "theme": "哲学 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Wix、AI で開発したアプリの本番運用を可能にする Wix Headless の機能強化を発表",
+          "title": "『Mr.都市伝説 関暁夫の裏都市伝説』、新作「社会福祉の闇~弱者を喰らう悪魔たち~」全17話を7月31日(金)より「タテドラ」で配信開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "フューチャーアーキテクト、戦略業務系システム「FutureBANK」のSFA機能を刷新",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "New Relic、AIコーディングアシスタントに可視性とガバナンスをもたらす新機能「New Relic Preflight」を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Amazon Bedrock AgentCore がテレメトリデータの単一ロググループ統合に対応したので試してみた",
-          "source": "Serverworks Corporation",
+          "title": "[ITmedia ビジネスオンライン] キオクシア、株価3分の1急落は「絶好のタイミング」 過去最高益と8000億円自社株買いで示す自信",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "Claude Opus 5 が AWS で利用可能になってました。東京リージョンから試せます",
-          "source": "Serverworks Corporation",
+          "title": "ウォーレン・バフェットは「人格者」だから成功した、と考える人が知らない事実(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日本の釣具メーカー社長が世界最高峰のデザイン賞授賞式に出席!世界初の最高栄誉を受賞した動画も公開!(ルアマガプラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ARISAKとEttoneが語る、音楽とビジュアルの共通言語──『Loose Dial』vol.4",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "自然と人、南仏の美学が融合した、ロクシタンの持続型ビジネスの背景は?(フィガロジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "グリーンアライアンス、中央学院大学 駅伝部学生寮に奥行き150mmの薄型蓄電池を寄贈",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "エンタープライズAIは実験から実装へ――Microsoft本社で「VSLive! 2026」が開幕",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP 方法_20260731",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ_20260731",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "無料でAIコーディングの利用状況、トークンコスト可視化 オープンソースのMCPサーバ「Preflight」公開",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+          "title": "2026年7月31日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "QueryPie AI、FDEによるAIトランスフォーメーション支援事業を日本で本格化",
+          "title": "Simbian、自律型AIエージェント「AI Threat Hunt Agent」を日本市場で発表",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ベリスク、2026年第2四半期決算が予想を上回り株価上昇",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "オンラインホワイトボード「Strap」、CLI・MCPでAIエージェントと連携し、業務フロー・資料のAI作図を実現する新機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "オンラインホワイトボード「Strap」、CLI・MCPでAIエージェントと連携し、業務フロー・資料のAI作図を実現する新機能を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「天秤AI Biz byGMO」、自律実行型チャットのβ版を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "音声・自由記述をAIが介護記録に整理 「Kaigos」が顧客検証を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
