@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-07-30T02:09:58.271985",
+  "generated_at": "2026-07-31T02:38:15.860399",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260730",
+      "name": "episode_MCP おすすめ 理由_20260731",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Wix、AI で開発したアプリの本番運用を可能にする Wix Headless の機能強化を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "フューチャーアーキテクト、戦略業務系システム「FutureBANK」のSFA機能を刷新",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "New Relic、AIコーディングアシスタントに可視性とガバナンスをもたらす新機能「New Relic Preflight」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Amazon Bedrock AgentCore がテレメトリデータの単一ロググループ統合に対応したので試してみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Opus 5 が AWS で利用可能になってました。東京リージョンから試せます",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エンタープライズAIは実験から実装へ――Microsoft本社で「VSLive! 2026」が開幕",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260731",
       "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
@@ -12,79 +57,24 @@
       "audio_duration": null,
       "articles": [
         {
+          "title": "無料でAIコーディングの利用状況、トークンコスト可視化 オープンソースのMCPサーバ「Preflight」公開",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "QueryPie AI、FDEによるAIトランスフォーメーション支援事業を日本で本格化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
           "title": "ベリスク、2026年第2四半期決算が予想を上回り株価上昇",
           "source": "Investing- Fx",
           "trust_score": 6.5
-        },
-        {
-          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIと外部ツールをつなぐ共通規格「MCP」が過去最大のアップデート、セッション廃止で何が変わったのか?",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【イベントレポート後編】JSAI2026にGMOインターネットグループが登壇|GPUクラウドが支えるAI開発の最前線",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【イベントレポート】JSAI2026にGMOインターネットグループが登壇|オープニング挨拶と最前線の研究発表",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「量子コンピュータを用いた材料シミュレーション基盤の開発」がNEDO事業に採択",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【防災の日】無料ウェビナー・医療機関向け防災対策ウェビナーをオンデマンド配信!!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260730",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか?」という観点で測定したベンチマークテスト「mcpbench」",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCPサーバー比較カオスマップを公開 ─ 提供元・認証まで“安全に選べる”114サービス",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "人間向けに作られたウェブサイト、これからは「AIエージェント」対応が必要に | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "コマース事業特化のAIエージェント「ecforce AI」、コード実行ツールとキャンバスツールを追加(日本ネット経済新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "MCPプロトコルがステートレス化へ、ローンチ以来最大の仕様変更",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AMDが自社製GPUで学習した独自開発AIモデル「Instella-MoE」を公開、Gemma-4-E4Bより高性能な小型モデル",
-          "source": "Gigazine",
-          "trust_score": 7.5
         }
       ]
     }
