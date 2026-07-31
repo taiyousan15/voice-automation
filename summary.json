@@ -1,50 +1,80 @@
 {
-  "generated_at": "2026-07-30T22:13:42.047504",
-  "total_episodes": 1,
+  "generated_at": "2026-07-31T02:38:15.860399",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20260730",
-      "theme": "思想 方法",
+      "name": "episode_MCP おすすめ 理由_20260731",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "高校で1学期だけ一緒にいた男女→10年以上経って再会すると...... 感動的な現在の姿に「なんて素敵なお話」「お幸せに」(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Wix、AI で開発したアプリの本番運用を可能にする Wix Headless の機能強化を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "特殊詐欺被害 上期1816億円で最悪",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "フューチャーアーキテクト、戦略業務系システム「FutureBANK」のSFA機能を刷新",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "(2026年7月1日) ECS Service Connect の zone-aware routing でクロスAZ通信を8割減らす(デフォルト有効、ただし再デプロイが必要)",
+          "title": "New Relic、AIコーディングアシスタントに可視性とガバナンスをもたらす新機能「New Relic Preflight」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Amazon Bedrock AgentCore がテレメトリデータの単一ロググループ統合に対応したので試してみた",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "Tシャツからポロ、キャップまで!! 75周年のランドクルーザー公式新作アイテムを身に着けよう!!(ベストカーWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Claude Opus 5 が AWS で利用可能になってました。東京リージョンから試せます",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         },
         {
-          "title": "50代、私だけの時間「大人のひとり旅」今、一番行きたい宿(Web eclat)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "エンタープライズAIは実験から実装へ――Microsoft本社で「VSLive! 2026」が開幕",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "【モンベル好きスタイリストが選ぶ夏の名品30】日常でも置いて映える防災ラジオ「H.C.マルチラジオ」(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "KubeCon Japan 2026開幕、GPUスケジューリング・OTel・認可がAI時代に向け成熟",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260731",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "無料でAIコーディングの利用状況、トークンコスト可視化 オープンソースのMCPサーバ「Preflight」公開",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
         },
         {
-          "title": "【差がつく大人のサロモン】グレー×ブルーの「XA PRO 3D」限定カラーはアーバンリサーチだけ!(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "OpenAIはGPT-5.6の推論効率をGPT-5.6自身を用いて自律的に改善した",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "QueryPie AI、FDEによるAIトランスフォーメーション支援事業を日本で本格化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ベリスク、2026年第2四半期決算が予想を上回り株価上昇",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
