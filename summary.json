@@ -1,55 +1,35 @@
 {
-  "generated_at": "2026-07-31T22:10:42.532340",
+  "generated_at": "2026-08-01T02:36:57.915868",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 方法_20260731",
-      "theme": "哲学 方法",
+      "name": "episode_skill おすすめ 理由_20260801",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『Mr.都市伝説 関暁夫の裏都市伝説』、新作「社会福祉の闇~弱者を喰らう悪魔たち~」全17話を7月31日(金)より「タテドラ」で配信開始",
+          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "[ITmedia ビジネスオンライン] キオクシア、株価3分の1急落は「絶好のタイミング」 過去最高益と8000億円自社株買いで示す自信",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ウォーレン・バフェットは「人格者」だから成功した、と考える人が知らない事実(ダイヤモンド・オンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日本の釣具メーカー社長が世界最高峰のデザイン賞授賞式に出席!世界初の最高栄誉を受賞した動画も公開!(ルアマガプラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ARISAKとEttoneが語る、音楽とビジュアルの共通言語──『Loose Dial』vol.4",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "自然と人、南仏の美学が融合した、ロクシタンの持続型ビジネスの背景は?(フィガロジャポン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "グリーンアライアンス、中央学院大学 駅伝部学生寮に奥行き150mmの薄型蓄電池を寄贈",
+          "title": "夏の思い出を、香りまで特別に。Maison Orchidee・DeepLayerが由比ヶ浜の海の家「海渡」と初コラボ 海帰りにサロン品質のヘアケアを無料体験できる期間限定イベントを開催",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260731",
+      "name": "episode_MCP おすすめ_20260801",
       "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
