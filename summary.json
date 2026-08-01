@@ -1,73 +1,93 @@
 {
-  "generated_at": "2026-08-01T02:36:57.915868",
+  "generated_at": "2026-08-01T22:01:44.199974",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ 理由_20260801",
-      "theme": "skill おすすめ 理由",
+      "name": "episode_哲学 おすすめ 理由_20260801",
+      "theme": "哲学 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
+          "title": "Galaxy Watch Ultra 2が8月7日発売、本格ダイブ機能は後日提供へ",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "夏の思い出を、香りまで特別に。Maison Orchidee・DeepLayerが由比ヶ浜の海の家「海渡」と初コラボ 海帰りにサロン品質のヘアケアを無料体験できる期間限定イベントを開催",
+          "title": "GCCがLLM生成コードを禁止、GPLv3ライセンス保護のため",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        },
+        {
+          "title": "日本酒通が頷く銘柄「天穏」とは? 出雲の地から届く、穏やかで深い一杯【日本酒のススメ】",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "業界人やアニメ関係者がよく利用していた喫茶店『談話室滝沢』は全店閉店していたがその理由が「プロの矜持」であった",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "副業人材サービス『lotsful』、パーソルイノベーションからカーブアウトしアカツキグループへ参画",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【先人に学ぶ人生の仕舞い方】嘉納治五郎・77歳没「精力善用、自他共栄」",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ミュージカル『DEATH NOTE』新版がロンドンで開幕、米ブロードウェイ上演も構想",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260801",
-      "theme": "MCP おすすめ",
+      "name": "episode_思想 活用_20260801",
+      "theme": "思想 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年7月31日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "まだまだ成長過程。“生の現場”で経験を積む「Cloud ten」のお披露目イベントリポート第3弾!|「zero to ten」第8回",
+          "source": "Ananweb",
           "trust_score": 7.5
         },
         {
-          "title": "Simbian、自律型AIエージェント「AI Threat Hunt Agent」を日本市場で発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "1グラム1ドルの麻薬が日本では3万円に...日本の犯罪組織すらすべてをコントロールできない「闇ビジネス」の裏側(クーリエ・ジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "Hootsuite、AI ネイティブなソーシャルメディア運用基盤 「Hootsuite Social OS」を国内提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "【長岡まつり花火物語】「正三尺玉」誕生から100年...長岡の夜空を彩り続けた花火の歴史と継承 長岡花火に込められた思い",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
         },
         {
-          "title": "オンラインホワイトボード「Strap」、CLI・MCPでAIエージェントと連携し、業務フロー・資料のAI作図を実現する新機能を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "高校生や大学生がまちの未来について考える きたかみ未来創造シンポジウム 岩手県北上市(岩手めんこいテレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "オンラインホワイトボード「Strap」、CLI・MCPでAIエージェントと連携し、業務フロー・資料のAI作図を実現する新機能を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "Nike Air Max Design Process ── 『blue room』Hatsuki が考える次世代 Air Max のデザイン | Interviews",
+          "source": "Hypebeast. Jp",
           "trust_score": 7.5
         },
         {
-          "title": "「天秤AI Biz byGMO」、自律実行型チャットのβ版を提供開始",
+          "title": "【大阪・本町】高知の畑から、都会の1杯へ。生産農家さん直送の国産柑橘ドリンクが主役のカフェ『CITRUS JOURNEY』がグランドオープン-- 各階でコンセプトと香りが変わる、\"旅する\"カフェ",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
-          "title": "音声・自由記述をAIが介護記録に整理 「Kaigos」が顧客検証を開始",
+          "title": "No.2 -「AIといえば、assie ,」AI活用したブランディング支援。",
           "source": "Pr Times",
           "trust_score": 8.0
         }
