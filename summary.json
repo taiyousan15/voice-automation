@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T02:35:47.684881",
-  "total_episodes": 3,
+  "generated_at": "2026-08-02T22:00:31.225525",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
@@ -35,51 +35,6 @@
           "title": "AIエージェントを使いこなす企業と使いこなせない企業 その差はどこにあるか | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
           "source": "Forbes Japan Official Site",
           "trust_score": 9.7
-        },
-        {
-          "title": "営業の人手不足をAIエージェントで解消へ RAYVEN、愛媛県「トライアングルエヒメ2.0」に採択",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年7月31日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20260802",
-      "theme": "skill おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【桐蔭学園】全国の高校生 44名が横浜に集結! 仲間とともに描く未来を創造する",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 活用_20260802",
-      "theme": "skill 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "PHP Conference Japan 2026 にブース出展してきました!",
-          "source": "Chatwork Creators Note Engineering Blog",
-          "trust_score": 7.0
         }
       ]
     }
