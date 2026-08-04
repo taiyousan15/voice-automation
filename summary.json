@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-08-04T02:22:02.722135",
+  "generated_at": "2026-08-04T22:18:41.601939",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260804",
-      "theme": "skill 活用",
+      "name": "episode_占い おすすめ_20260804",
+      "theme": "占い おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "ジェイリース、「住宅確保要配慮者プラン」を改定し保証対象を拡大",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "<8月11日は「山の日」> 引き取り不動産の6割超が「山林」、前年比20%増 相続土地の「持て余し」実態を公表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AKB48メンバー、美肌輝くノースリーブトップス姿披露「爽やかで素敵」「肌綺麗すぎる」と絶賛の声",
+          "source": "Model Press",
+          "trust_score": 8.0
+        },
+        {
+          "title": "食料品の消費税1%減税、飲食店ではテイクアウト増加による売り上げ減を懸念",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "“消費減税1%”に飲食店は戸惑いの声 テイクアウト増加で「売り上げ減る」 容器もナフサ不足で不安 大手はメニュー強化で対応も",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【専門家に聞く】鹿児島県の経済への影響「長期化の可能性」 熊本地震発生から1週間",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "男性の8割が上半身の露出に抵抗 ゴールドウインが水辺での装いと意識を調査",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
         }
       ]
     }
