@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-03T02:37:32.431240",
+  "generated_at": "2026-08-04T02:22:02.722135",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260803",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill 活用_20260804",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Looker 26.12がMFAをデフォルトで有効化、既知のXSS脆弱性も修正",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         }
       ]
     }
