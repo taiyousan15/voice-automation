@@ -1,155 +1,20 @@
 {
-  "generated_at": "2026-08-03T22:12:58.805822",
-  "total_episodes": 4,
+  "generated_at": "2026-08-04T02:22:02.722135",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ_20260803",
-      "theme": "占い おすすめ",
+      "name": "episode_skill 活用_20260804",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "夏休みに行きたい「都道府県」ランキング! 2位は「沖縄県」、1位は?(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "小椋久美子、子ども食堂立ち上げに独占密着 現役引退後の苦悩を明かす「生きるのが怖くなった」 「37歳で卵子凍結」を初告白「別れた悲しい気持ちを昇華できるんじゃないかと思って」",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【1日1組限定】お盆明け、大人の贅沢が始まる。今帰仁のプライベートヴィラ「AO NAKIJIN」が、8月後半の宿泊客へ「フルボトル・シャンパン」を贈る緊急キャンペーンを開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "プロ野球でピッチクロック採用が決定 理事会・実行委員会で全会一致、採用時期は未定",
-          "source": "Nikkan Sports",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アリアナ・グランデ、新作『petal』が世界席巻 Spotifyでは収録曲すべてが上位入り",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "倫理観がブッ壊れていて「もっとゲスい展開にしてください」などと言ってくる編集者はわりといるという話→手っ取り早く売れるためのアドバイスだが、作者は自分の良心に従うべき?",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "今日の運勢 8月4日(火)「12星座占いランキング」第1位は牡羊座(おひつじ座)! あなたの星座は何位?",
+          "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発",
           "source": "Mynavi News",
           "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260803",
-      "theme": "skill 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Microsoft Research、AIがタスクの実行結果を自ら評価し、解法や注意点を蓄積するフレームワーク「EvoLib」を紹介",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20260803",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「AIを使えばアプリが作れる」ってホント?文系が10ヶ月やってみた",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude Code の `/insights` を試してみた - ここまでの使い方を可視化・言語化してみよう",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Claude Opus 5」公開で世代交代──\"5世代\"で逆転したAI活用の常識を、全54ページで完全図解。Renewer、『Claude 5世代 マスターガイド』を無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Claude Code、誰がいくら使ってる? それ、CloudWatch でわかります ── Coding Agent Insights とは",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【Expert Cross #3・前編】ソフト・ハードの両面から「話せる」エンジニアの流儀 GMOサイバーセキュリティ byイエラエ・三村聡志が語る、「伝えることで世界を良くする」エキスパートの在り方",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "中国AI「Kimi K3」が示した、勝敗を分ける計算資源と電力 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "アイドルグループ『Juice=Juice』の宮本佳林さんがAIで10時間配信の全システムを構築し技術ブログも公開して話題になる",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 活用_20260803",
-      "theme": "占い 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ビットマイン、ETH保有率5%に迫る──7月のETH ETF流入はビットコインETFの2倍超【価格分析】",
-          "source": "Coindesk Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日産、2026年第1四半期に増益転換も株価は下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "データセンター需要がLegrandの成長を加速、RBCが格上げ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "総合不動産のリストグループが運営するプロダンスチームList::X(リストエクス) EXILE/FANTASTICS世界が新ディレクターに就任",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【速報】高市総理「200億円超の予備費使用を4日に閣議決定」熊本地震に対応 激甚災害「本激として指定する見込み」",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ユニリーバ、26年上半期は増収 ビューティ好調で通期予想を上方修正",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "総合不動産のリストグループが運営するプロダンスチームList::X(リストエクス) EXILE/FANTASTICS世界が新ディレクターに就任",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
