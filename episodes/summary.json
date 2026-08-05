@@ -1,20 +1,90 @@
 {
-  "generated_at": "2026-08-04T02:22:02.722135",
-  "total_episodes": 1,
+  "generated_at": "2026-08-05T02:22:10.834972",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260804",
-      "theme": "skill 活用",
+      "name": "episode_MCP 比較_20260805",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "日本オラクル、AI Agent Studioを強化 ノーコードとプロコードでAIエージェント開発",
-          "source": "Mynavi News",
+          "title": "レブビティ、2026年第2四半期は予想を上回るも株価は時間外で下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "アトラックラボ、行動前に複数の未来を予測するロボットAIプラットフォームを開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "広告リサーチ・AIツール「アド.com」、AIアシスタント(ClaudeやChatGPT等)から直接広告データにアクセスできる「MCP連携(β版)」の提供を開始!",
+          "source": "Pr Times",
           "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260805",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Adobeから無料ソフト「Darktable」に乗り換えたら、AIとの会話での画像編集が実現できた",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIが変えるDMOの役割とは? 観光地域情報のサービス基盤へ、その実現に必要な2つの要素【外電】",
+          "source": "Travel Voice",
+          "trust_score": 7.5
+        },
+        {
+          "title": "特許検索競技大会三分野ゴールド制覇賞受賞者が教える!生成AI×MCPサーバーによる「特許調査」「明細書作成」実践演習セミナーを東京で開催(8月28日・9月3日)",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Elastic、OpenAI社とのコラボレーションにより、フロンティアインテリジェンスで非構造化エンタープライズデータを最大活用",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "クロミが“大人可愛い”ランジェリーに♪ “隠れクロミ”刺繍やチャーム、小悪魔っぽショーツが愛され度満点◎",
+          "source": "アニメ！アニメ！",
+          "trust_score": 7.5
+        },
+        {
+          "title": "開発業務メインではない移行系プロジェクトにおいて、私と AI はどう並走するか?試行錯誤の数ヶ月を振り返る",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260805",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "プロダクト開発、AIに丸ごと任せられるのか?Meetup Spec/Issue駆動知見を語り尽くす!Findy Meetup登壇レポート",
+          "source": "Freee Developer Portal",
+          "trust_score": 7.5
         }
       ]
     }
