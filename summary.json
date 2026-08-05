@@ -1,90 +1,95 @@
 {
-  "generated_at": "2026-08-05T02:22:10.834972",
-  "total_episodes": 3,
+  "generated_at": "2026-08-05T22:16:50.424420",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260805",
-      "theme": "MCP 比較",
+      "name": "episode_思想 方法_20260805",
+      "theme": "思想 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "レブビティ、2026年第2四半期は予想を上回るも株価は時間外で下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "GENDAがLDH JAPANと合弁会社を設立~新会社「東京ディーディー株式会社」代表は元ジブリ社長の星野康二氏~",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "アトラックラボ、行動前に複数の未来を予測するロボットAIプラットフォームを開発",
+          "title": "【調査レポート】既存クライアントの50%が「AIの普及により部下へのフィードバックが効率化された」と回答",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【Kalodataウィークリー】日本TikTok Shop市場、大型セール終了後も日本TikTok Shop市場はGMV26.76億円を維持 食品・飲料は7月上旬比2倍超(7月27日週)",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【夏休み2026】教育版マイクラでまちづくり、親子30組無料...嘉悦大8/24",
+          "source": "リセマム",
+          "trust_score": 7.5
+        },
+        {
+          "title": "医学部の奨学金一覧 後悔しない選び方のポイントを解説(朝日新聞Thinkキャンパス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Appreciate株式会社が、Uvance Innovation Studioにて健康体験イベントを開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "広告リサーチ・AIツール「アド.com」、AIアシスタント(ClaudeやChatGPT等)から直接広告データにアクセスできる「MCP連携(β版)」の提供を開始!",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "【シトロエン e-C3 新型試乗】BEVらしからぬソフトな乗り心地と“割り切り”に驚いた",
+          "source": "Response",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260805",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 活用_20260805",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Adobeから無料ソフト「Darktable」に乗り換えたら、AIとの会話での画像編集が実現できた",
-          "source": "Lifehacker",
+          "title": "AI時代のクラウドネイティブを支えるOSS、人材、インフラ ――KubeCon + CloudNativeCon Japan 2026記者発表会レポート",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.5
         },
         {
-          "title": "AIが変えるDMOの役割とは? 観光地域情報のサービス基盤へ、その実現に必要な2つの要素【外電】",
-          "source": "Travel Voice",
-          "trust_score": 7.5
-        },
-        {
-          "title": "特許検索競技大会三分野ゴールド制覇賞受賞者が教える!生成AI×MCPサーバーによる「特許調査」「明細書作成」実践演習セミナーを東京で開催(8月28日・9月3日)",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Elastic、OpenAI社とのコラボレーションにより、フロンティアインテリジェンスで非構造化エンタープライズデータを最大活用",
+          "title": "Human to AIからAI to AI時代の到来を見据え、顧客接点を収益に変える「Helpfeel Growth」提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "クロミが“大人可愛い”ランジェリーに♪ “隠れクロミ”刺繍やチャーム、小悪魔っぽショーツが愛され度満点◎",
-          "source": "アニメ！アニメ！",
-          "trust_score": 7.5
+          "title": "「ecforce AI」、外部AIツールからの連携に対応する「MCP接続機能」提供(日本ネット経済新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "開発業務メインではない移行系プロジェクトにおいて、私と AI はどう並走するか?試行錯誤の数ヶ月を振り返る",
+          "title": "【New Relic】AWS DevOps Agent に New Relic を連携する設定手順まとめ",
           "source": "Serverworks Corporation",
           "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20260805",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "プロダクト開発、AIに丸ごと任せられるのか?Meetup Spec/Issue駆動知見を語り尽くす!Findy Meetup登壇レポート",
-          "source": "Freee Developer Portal",
+          "title": "Fracton VenturesとNanoHuman、会議AI「SuperIntern」の導入企業の促進に向けて、公式パートナーシップを締結",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AI に「社内の常識」を渡す仕組み、Context Ontology Accelerator とは",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
+        },
+        {
+          "title": "「頷き過ぎて首もげる」AIで仕事を効率化したのに、空いた時間にさらに仕事を入れられて、仕事量だけ増えていった",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
         }
       ]
     }
