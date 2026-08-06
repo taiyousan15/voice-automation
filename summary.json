@@ -1,71 +1,76 @@
 {
-  "generated_at": "2026-08-05T22:16:50.424420",
-  "total_episodes": 2,
+  "generated_at": "2026-08-06T02:24:35.697343",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20260805",
-      "theme": "思想 方法",
+      "name": "episode_skill 活用_20260806",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "GENDAがLDH JAPANと合弁会社を設立~新会社「東京ディーディー株式会社」代表は元ジブリ社長の星野康二氏~",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【調査レポート】既存クライアントの50%が「AIの普及により部下へのフィードバックが効率化された」と回答",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【Kalodataウィークリー】日本TikTok Shop市場、大型セール終了後も日本TikTok Shop市場はGMV26.76億円を維持 食品・飲料は7月上旬比2倍超(7月27日週)",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【夏休み2026】教育版マイクラでまちづくり、親子30組無料...嘉悦大8/24",
-          "source": "リセマム",
-          "trust_score": 7.5
-        },
-        {
-          "title": "医学部の奨学金一覧 後悔しない選び方のポイントを解説(朝日新聞Thinkキャンパス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Appreciate株式会社が、Uvance Innovation Studioにて健康体験イベントを開催",
+          "title": "吉積情報株式会社は、ITトレンドEXPO2026 Summer に出展・セッション登壇いたします",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【シトロエン e-C3 新型試乗】BEVらしからぬソフトな乗り心地と“割り切り”に驚いた",
-          "source": "Response",
-          "trust_score": 7.5
+          "title": "AI Librarium、トップコンサルタントの実践知を「Skill」として活用する実践型FDE育成プログラム 「FDE College」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20260805",
-      "theme": "MCP 活用",
+      "name": "episode_MCP 比較_20260806",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
-        {
-          "title": "AI時代のクラウドネイティブを支えるOSS、人材、インフラ ――KubeCon + CloudNativeCon Japan 2026記者発表会レポート",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        },
         {
           "title": "Human to AIからAI to AI時代の到来を見据え、顧客接点を収益に変える「Helpfeel Growth」提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
+        {
+          "title": "「頷き過ぎて首もげる」AIで仕事を効率化したのに、空いた時間にさらに仕事を入れられて、仕事量だけ増えていった",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "YURAGI Travel、訪日富裕層旅行に特化したMCPサーバーを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "レブビティ、2026年第2四半期は予想を上回るも株価は時間外で下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "アトラックラボ、行動前に複数の未来を予測するロボットAIプラットフォームを開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260806",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
           "title": "「ecforce AI」、外部AIツールからの連携に対応する「MCP接続機能」提供(日本ネット経済新聞)",
           "source": "Yahoo Japan",
@@ -87,9 +92,14 @@
           "trust_score": 7.5
         },
         {
-          "title": "「頷き過ぎて首もげる」AIで仕事を効率化したのに、空いた時間にさらに仕事を入れられて、仕事量だけ増えていった",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
+          "title": "基幹データをAI活用基盤へ。primeNumber「TROCCO」とウイングアーク「Dr.Sum」が連携を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Kiteworks、日本ワムネットの完全子会社化により日本のエンタープライズ向けセキュアデータ交換市場に参入",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
