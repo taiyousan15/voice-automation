@@ -1,16 +1,51 @@
 {
-  "generated_at": "2026-08-05T02:22:10.834972",
+  "generated_at": "2026-08-06T02:24:35.697343",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260805",
+      "name": "episode_skill 活用_20260806",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "吉積情報株式会社は、ITトレンドEXPO2026 Summer に出展・セッション登壇いたします",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI Librarium、トップコンサルタントの実践知を「Skill」として活用する実践型FDE育成プログラム 「FDE College」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260806",
       "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "Human to AIからAI to AI時代の到来を見据え、顧客接点を収益に変える「Helpfeel Growth」提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「頷き過ぎて首もげる」AIで仕事を効率化したのに、空いた時間にさらに仕事を入れられて、仕事量だけ増えていった",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "YURAGI Travel、訪日富裕層旅行に特化したMCPサーバーを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
         {
           "title": "レブビティ、2026年第2四半期は予想を上回るも株価は時間外で下落",
           "source": "Investing- Fx",
@@ -25,16 +60,11 @@
           "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
           "source": "Gigazine",
           "trust_score": 7.0
-        },
-        {
-          "title": "広告リサーチ・AIツール「アド.com」、AIアシスタント(ClaudeやChatGPT等)から直接広告データにアクセスできる「MCP連携(β版)」の提供を開始!",
-          "source": "Pr Times",
-          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260805",
+      "name": "episode_MCP おすすめ_20260806",
       "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
@@ -42,49 +72,34 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "Adobeから無料ソフト「Darktable」に乗り換えたら、AIとの会話での画像編集が実現できた",
-          "source": "Lifehacker",
-          "trust_score": 7.5
+          "title": "「ecforce AI」、外部AIツールからの連携に対応する「MCP接続機能」提供(日本ネット経済新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "AIが変えるDMOの役割とは? 観光地域情報のサービス基盤へ、その実現に必要な2つの要素【外電】",
-          "source": "Travel Voice",
-          "trust_score": 7.5
+          "title": "【New Relic】AWS DevOps Agent に New Relic を連携する設定手順まとめ",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.0
         },
         {
-          "title": "特許検索競技大会三分野ゴールド制覇賞受賞者が教える!生成AI×MCPサーバーによる「特許調査」「明細書作成」実践演習セミナーを東京で開催(8月28日・9月3日)",
+          "title": "Fracton VenturesとNanoHuman、会議AI「SuperIntern」の導入企業の促進に向けて、公式パートナーシップを締結",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Elastic、OpenAI社とのコラボレーションにより、フロンティアインテリジェンスで非構造化エンタープライズデータを最大活用",
+          "title": "AI に「社内の常識」を渡す仕組み、Context Ontology Accelerator とは",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "基幹データをAI活用基盤へ。primeNumber「TROCCO」とウイングアーク「Dr.Sum」が連携を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "クロミが“大人可愛い”ランジェリーに♪ “隠れクロミ”刺繍やチャーム、小悪魔っぽショーツが愛され度満点◎",
-          "source": "アニメ！アニメ！",
-          "trust_score": 7.5
-        },
-        {
-          "title": "開発業務メインではない移行系プロジェクトにおいて、私と AI はどう並走するか?試行錯誤の数ヶ月を振り返る",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20260805",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "プロダクト開発、AIに丸ごと任せられるのか?Meetup Spec/Issue駆動知見を語り尽くす!Findy Meetup登壇レポート",
-          "source": "Freee Developer Portal",
-          "trust_score": 7.5
+          "title": "Kiteworks、日本ワムネットの完全子会社化により日本のエンタープライズ向けセキュアデータ交換市場に参入",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
