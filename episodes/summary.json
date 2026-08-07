@@ -1,105 +1,25 @@
 {
-  "generated_at": "2026-08-06T02:24:35.697343",
-  "total_episodes": 3,
+  "generated_at": "2026-08-07T02:33:47.502680",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260806",
-      "theme": "skill 活用",
+      "name": "episode_skill おすすめ_20260807",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "吉積情報株式会社は、ITトレンドEXPO2026 Summer に出展・セッション登壇いたします",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI Librarium、トップコンサルタントの実践知を「Skill」として活用する実践型FDE育成プログラム 「FDE College」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260806",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Human to AIからAI to AI時代の到来を見据え、顧客接点を収益に変える「Helpfeel Growth」提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「頷き過ぎて首もげる」AIで仕事を効率化したのに、空いた時間にさらに仕事を入れられて、仕事量だけ増えていった",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "YURAGI Travel、訪日富裕層旅行に特化したMCPサーバーを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "レブビティ、2026年第2四半期は予想を上回るも株価は時間外で下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "アトラックラボ、行動前に複数の未来を予測するロボットAIプラットフォームを開発",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「AIに指輪物語の3D世界を作らせる」というベンチマークテストが提案される",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260806",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「ecforce AI」、外部AIツールからの連携に対応する「MCP接続機能」提供(日本ネット経済新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【New Relic】AWS DevOps Agent に New Relic を連携する設定手順まとめ",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Fracton VenturesとNanoHuman、会議AI「SuperIntern」の導入企業の促進に向けて、公式パートナーシップを締結",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AI に「社内の常識」を渡す仕組み、Context Ontology Accelerator とは",
+          "title": "【検証】AWS Lambdaのセットアッププロンプトで出力はどう変わる?",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "基幹データをAI活用基盤へ。primeNumber「TROCCO」とウイングアーク「Dr.Sum」が連携を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Kiteworks、日本ワムネットの完全子会社化により日本のエンタープライズ向けセキュアデータ交換市場に参入",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Claude CodeでマルチアカウントTransit Gateway環境の構成図を自動生成する",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         }
       ]
     }
