@@ -1,165 +1,25 @@
 {
-  "generated_at": "2026-08-07T01:01:53.103550",
-  "total_episodes": 4,
+  "generated_at": "2026-08-07T02:33:47.502680",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ_20260807",
-      "theme": "占い おすすめ",
+      "name": "episode_skill おすすめ_20260807",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
-        {
-          "title": "ESAB、2026年第2四半期は売上高が予想超えもEPSは未達で株価下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "リアル・ブローカレッジ、2026年第2四半期の売上高が市場予想を上回る",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "スペインのレオノール王女、ウェービーヘアでイメージチェンジ ロイヤルファミリーが夏のバカンスに(ELLE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "良すぎてまた買った「ナイキ ACG」“ルーファス”。サボりオシャレがしやすい革靴のような黒い厚底サンダルスニーカー![編集者の愛用私物 #352](MEN’S NON-NO WEB)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【HKT48】8月11日(火・祝)開催「HKT48 15th Anniversary Live Tour」広島公演の昼夜2公演をニコニコ生放送にて独占生中継決定!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "<手越祐也>8度目の全国ソロツアー「SUPER STAR」から、9月12日(土)午後6:30に東京・Shibuya LOVEZで行なわれるファイナル公演の模様を独占生中継でお届け!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "急な頼みごとでも後回しにされない、人を動かす3つの習慣",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 方法_20260807",
-      "theme": "Claude Code 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "機能を絞ったAIコーディングツール「Pi」が高性能な理由とは?4つの基本機能でAIコストを抑える仕組み",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年8月6日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
         {
           "title": "【検証】AWS Lambdaのセットアッププロンプトで出力はどう変わる?",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "アイスマイリー、「Claude徹底解説」を公開!ChatGPT・Copilot・Gemini・Claudeを機能別/業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アイスマイリー、「Claude徹底解説」を公開!ChatGPT・Copilot・Gemini・Claudeを機能別/業務別に比較―自社に合う生成AIの選び方がわかる実践ガイド",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "株式会社KADODE、全エンジニアを対象とした「AI駆動開発研修」を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
           "title": "Claude CodeでマルチアカウントTransit Gateway環境の構成図を自動生成する",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ 理由_20260807",
-      "theme": "占い おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "大きいのに軽い! 軽くて疲れにくい「ラシットのトートバッグ」おすすめ3選【2026年8月版】(Fav-Log by ITmedia)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「広島大仏」前で戦没者慰霊 奈良・安堵町の極楽寺 原爆投下の法要で祈り 熊本の復興も(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【新品見え】お気に入りのTシャツが傷まない「プロが教える汚れの落とし方」(@BAILA)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260807",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "HashPort、ローソンと日本初となるコンビニでのステーブルコイン決済実証実験を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ミックウェア、クラウド/AIセキュリティプラットフォーム「Wiz」を活用したセキュリティソリューションの提供を開始",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
-        },
-        {
-          "title": "GMOペイメントゲートウェイ、「Universal Commerce Protocol(UCP)」の仕様を採用した独自の決済ソリューションを構築",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "GMOペイメントゲートウェイ、「Universal Commerce Protocol(UCP)」の仕様を採用した独自の決済ソリューションを構築",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ミックウェア、クラウド/AIセキュリティプラットフォーム「Wiz」を活用したセキュリティソリューションの提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "[ITmedia エンタープライズ] ドコモが選んだAPI保護の次の一手 AIエージェントを統制する「門番」とはは",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "freee、株式会社nojimokuのfreeeプロダクト活用事例を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
