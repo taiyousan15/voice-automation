@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-08-07T02:33:47.502680",
-  "total_episodes": 1,
+  "generated_at": "2026-08-08T01:23:34.984845",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260807",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【検証】AWS Lambdaのセットアッププロンプトで出力はどう変わる?",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude CodeでマルチアカウントTransit Gateway環境の構成図を自動生成する",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
