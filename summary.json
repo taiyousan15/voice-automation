@@ -1,6 +1,167 @@
 {
-  "generated_at": "2026-08-08T01:23:34.984845",
-  "total_episodes": 0,
+  "generated_at": "2026-08-08T21:35:55.005823",
+  "total_episodes": 4,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 方法_20260808",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "SNS200万回再生の「消えたドア」の謎が明かされる、建築面積9坪のシニア向けコンパクトバリアフリー住宅が誕生",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【NEWERA×COLLECTORS】150点限定生産 別注9TWENTYが8/8(土)全国のコレクターズ店舗にて発売",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "生成AIを活用した「弥生の記帳代行AI」β版を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「わからないから不安」を「わかるから動ける」へ。トーシンパートナーズ、不動産投資オウンドメディアを刷新し『LENZ Well(レンズウェル)』として提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "地方大学・地域産業創生交付金事業「山口県半導体マテリアルエコシステム形成計画」への当社参画について",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【9/3・4開催】法人向けメッセージ配信サービス KDDI Message Cast、「FIT大阪2026(金融国際情報技術展)」に出展・登壇",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 比較_20260808",
+      "theme": "占い 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "マハラシュトラ・シームレス、財務収益により2027年第1四半期の純利益が大幅増",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "沢のある土地だけを集めた専門ポータル「沢バンク」、全国47都道府県452件を公開。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "セラ・サニタリーウェア、2027年度第1四半期売上高19.5%増も利益率は低下",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "沢のある土地だけを集めた専門ポータル「沢バンク」、全国47都道府県452件を公開。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Pixel 10aが米Amazonで424ドルに値下げ―Google幹部は期限未定の値上げを予告",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "日本の7府省庁、SNS型投資詐欺の被害拡大でGoogle・Metaなど5社に広告主確認を要請",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "消費減税、インフレ下では「狂気の沙汰」 欧州では価格下がらぬ国も",
+          "source": "朝日新聞デジタル",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 比較_20260808",
+      "theme": "Claude Code 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Metaの基盤モデルMuse Spark 1.2が第三者機関の性能分析でハイスコアを記録、Museシリーズ登場から4カ月で急成長",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始 利用は申請制",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エンジニアリングタスクを自動化・調整するプラットフォーム「Kiro Crew」を EC2 で動かしてみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "採用のどこをAIに任せ、何を人に残すか~AI採用の最前線を走る2社、HERP×Offersの考えと実践~|8/21(金)・8/24(月)開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "グラインダー、Q2 2026年売上高が予測を上回るも株価下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260808",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「朝型がエライ」はもう古い!少しの工夫で、夜型さんは強みを活かしてこんなに輝ける!『「夜型さん」の無敵の仕事術』が8月20日発売!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "マクセルが、エネルギー教育に関する教育者の指導力向上をサポート",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "静岡県袋井市とみらいワークスが連携。副業マッチングで地場企業の人材不足を解消へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AI時代に必要なのはセンス」OpenAI社長も認める...シリコンバレーで沸騰する「taste論争」真の問題点",
+          "source": "現代ビジネス | 講談社",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
