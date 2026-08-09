@@ -1,50 +1,155 @@
 {
-  "generated_at": "2026-08-09T01:28:54.920065",
-  "total_episodes": 2,
+  "generated_at": "2026-08-09T21:38:38.616039",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260809",
-      "theme": "MCP 比較",
+      "name": "episode_MCP 方法_20260809",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "Adobe、ChatGPT向け無料プラグイン公開 Photoshopなど70超のツールを自動選択",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Claude Code更新 review統合・権限バイパス修正【7/31〜8/6】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "有料購読が必要な学術論文を見る際に自動的に合法的なオープンアクセス論文を収録したデータベースをチェックして無料で読めるかどうかがわかる「Unpaywall」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "SNS200万回再生の「消えたドア」の謎が明かされる、建築面積9坪のシニア向けコンパクトバリアフリー住宅が誕生",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【NEWERA×COLLECTORS】150点限定生産 別注9TWENTYが8/8(土)全国のコレクターズ店舗にて発売",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "生成AIを活用した「弥生の記帳代行AI」β版を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【賃貸か、購入か】家を買った・買うと決めたきっかけ、1位は結婚でも出産でもなく「家賃がもったいない」26.4%",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ニーズウェル、ソリューションプロバイダへの転換を加速",
+          "title": "「わからないから不安」を「わかるから動ける」へ。トーシンパートナーズ、不動産投資オウンドメディアを刷新し『LENZ Well(レンズウェル)』として提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "Microsoft、AIでWindowsの性能分析を支援する新ツールを公開",
-          "source": "Mynavi News",
-          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_skill 比較_20260809",
-      "theme": "skill 比較",
+      "name": "episode_Claude Code おすすめ_20260809",
+      "theme": "Claude Code おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
-          "source": "Atmarkit Itmedia",
+          "title": "新規事業の\"失敗の裏側\"まで公開 | ARCHECO、実践知メディア「AI・新規事業戦略大学」を開設。記事40本を無料公開中",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "猛暑でも大型犬と快適に遊べる。WHATAWONが室内イベント「ワン上等Fes Summer Party」を8月29日開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        },
+        {
+          "title": "令和8年熊本地震の影響により「湯の児温泉 海と夕やけ」の夕食提供を休止 営業内容を変更",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "MLB公式フォトエージェンシー「ゲッティイメージズ」五十嵐亮太氏YouTubeチャンネルとコラボレーション。写真で振り返るMLB開幕3ヶ月の名シーン「ベスト10」を発表!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "テックジム、法人向けにプログラミング講師を客先常駐派遣。Claude Code講座・Python講座を永田町にて毎週無料で対面開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "プレビューURL付きのセルフホスト型開発サンドボックス「sandboxd」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20260809",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「これがアシックス!?」国内初コラボで誕生 ”都会のクリエイター”をイメージした新作シューズ(MEN’S CLUB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "石川県関係の自民党国会議員 山野知事就任後初の懇談会",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新任PTA会長「無駄をなくします」→ベルマークやバザーを即廃止!?爆速で終わる会議に「有能すぎる」【作者に聞く】(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "新任PTA会長「無駄をなくします」→ベルマークやバザーを即廃止!?爆速で終わる会議に「有能すぎる」【作者に聞く】",
+          "source": "Walker Plus",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「誰かに見られてる?」一人暮らしの気配は危険...怖がり作者が描く“連鎖型ホラー”【作者に聞く】(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "フューチャーが表現する“痛み”の源泉とは 『The Real Me』に宿る本質、脱物語化の先にある徹底したリアル",
+          "source": "Real Sound｜リアルサウンド",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【BYD ラッコ 新型試乗】クルマとしての出来は「極めて高い」が、その真髄は別のところにあった...中村孝仁",
+          "source": "My Car Life",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260809",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "関西のITエンジニアのためのお祭り「Developers Summit 2026 KANSAI」8月21日(金)開催決定!参加登録を受付開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
