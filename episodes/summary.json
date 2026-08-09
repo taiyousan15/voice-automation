@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-08-08T01:23:34.984845",
-  "total_episodes": 0,
+  "generated_at": "2026-08-09T01:28:54.920065",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP 比較_20260809",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "生成AIを活用した「弥生の記帳代行AI」β版を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【賃貸か、購入か】家を買った・買うと決めたきっかけ、1位は結婚でも出産でもなく「家賃がもったいない」26.4%",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ニーズウェル、ソリューションプロバイダへの転換を加速",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Microsoft、AIでWindowsの性能分析を支援する新ツールを公開",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260809",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
