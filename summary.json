@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-08-10T01:38:46.586621",
-  "total_episodes": 0,
+  "generated_at": "2026-08-10T21:48:53.917510",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い 比較_20260810",
+      "theme": "占い 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "宿泊キャンセル20億円超、阿蘇・天草地域が6割 熊本知事「ある種の風評被害」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アウディのコンパクトカー「A2」が復活&今秋発表! アウディ史上最も効率性の高いEVモデルになる!?",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アウディのコンパクトカー「A2」が復活&今秋発表! アウディ史上最も効率性の高いEVモデルになる!?(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「ホロライブ・サマーを返せ!!」以降、ホロライブタレントのプライベート水着はどう変わったのか?...AIを活用して布面積がもっとも少ない水着を調べてみた【夏休み自由研究】",
+          "source": "インサイド",
+          "trust_score": 6.5
+        },
+        {
+          "title": "コカ・コーラHBC株が本日急落している理由とは",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "今年5月成立の医療保険ニュース!子育て支援拡大や高額療養費制度「年間上限」新設も!日本の医療制度「5つの保険者」を比較(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【調査結果】上半期データを集計!家庭用蓄電池人気メーカーランキング",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260810",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "アニメ『攻殻機動隊 THE GHOST IN THE SHELL』×『天幕のジャードゥーガル』コラボイラストが公開。フチコマがシタラに赤い花を差し出す姿が描かれる",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "心深くにメスを入れる緊迫の的中率【神谷充彦 ジオマンシー呪星術】が「本格占い|みのり」で提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "超ミドルシニアコンソーシアム、第9回勉強会を2026年9月30日(水)に開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "超ミドルシニアコンソーシアム、第9回勉強会を2026年9月30日(水)に開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【決算深読み】シャープ 今期最初の四半期決算、まずはメモリ高騰など波乱含み - 新規事業へ改革進める",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "北九州で行われる「希望のまち音楽祭」、第一次出演アーティスト14組を発表&8月12日チケット販売開始|Gotch(ASIAN KUNG-FU GENERATION)、寺尾紗穂 、生笑一座ら出演",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【参加無料】「寝不足」も「寝すぎ」も老化を加速? 最新研究から学ぶ「最高の睡眠」のつくり方|8/28大阪開催・オンライン配信あり",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
