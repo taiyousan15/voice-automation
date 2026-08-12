@@ -1,70 +1,75 @@
 {
-  "generated_at": "2026-08-11T21:55:44.499061",
+  "generated_at": "2026-08-12T01:46:15.879444",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 方法_20260811",
-      "theme": "占い 方法",
+      "name": "episode_MCP 比較_20260812",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「彼らは払いすぎた」現地識者が指摘するレイカーズの苦しい台所事情...不振ならリーブス放出の可能性も?<DUNKSHOOT>",
-          "source": "The Digest",
+          "title": "Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.0
         },
         {
-          "title": "岩手競馬クラスターカップ 力強く追い込んだアンズアメが首差の大接戦制し優勝 岩手勢はルコルセールが5着 盛岡市(IBC岩手放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "FiscalNote、2026年第2四半期に予想を大幅に下回る損失を計上",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "「純正ダンパーを車高調化!?」手軽なFK8型シビックタイプR用サスキット、爆誕!(MotorFan)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "Mintlify、技術情報検索「Mintlify Index」をベータ提供、公開MCPサーバーは無料",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
         },
         {
-          "title": "全国の鉄道・フライト 最新情報",
-          "source": "Yahoo Japan",
-          "trust_score": 8.2
+          "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "【新製品】デイトナの軽量コンパクトチェアがリニューアル! 「コンパクトチェアMIL2」登場(Webikeプラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "「AIバイト面接」、自社専用オリジナルのAI面接を無料で作成できる《無料トライアルキャンペーン》を実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "イオンモール熊本 避難後 個別に一時的な入館許可(テレビ朝日系(ANN))",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "駐日ジョージア大使「世界初の本格的な海上空港」で浮かんだ“素朴な疑問”がSNSで反響! 日本の「空の常識」とは(乗りものニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "「AIバイト面接」、自社専用オリジナルのAI面接を無料で作成できる《無料トライアルキャンペーン》を実施",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_skill おすすめ_20260811",
-      "theme": "skill おすすめ",
+      "name": "episode_MCP 方法_20260812",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Microcredential『AWS インシデント対応の実証』を受検してみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.0
+          "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "オープンワールド・アクションADV「Zhai」,ゲームシステムの詳細を公開。属性能力を組み合わせて戦うアクションや成長システムを紹介",
-          "source": "4gamer.net",
+          "title": "【DevOps Agent】カスタムエージェントで週次レポートを生成してみた",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
+        },
+        {
+          "title": "エルグラムのコメント自動返信でレシピ配布、約298万回再生の事例公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Cloudflare、設定一つでWebサイトにWebMCPインターフェースを追加できる機能を開発者プレビューとして公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
         }
       ]
     }
