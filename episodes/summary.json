@@ -1,75 +1,50 @@
 {
-  "generated_at": "2026-08-12T01:46:15.879444",
-  "total_episodes": 2,
+  "generated_at": "2026-08-13T01:48:34.751284",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260812",
-      "theme": "MCP 比較",
+      "name": "episode_MCP おすすめ 理由_20260813",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Meta、ローカルAIエージェント向け30Bオープンウェイトモデル「Muse Glimmer」を発表",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "FiscalNote、2026年第2四半期に予想を大幅に下回る損失を計上",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Mintlify、技術情報検索「Mintlify Index」をベータ提供、公開MCPサーバーは無料",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        },
-        {
-          "title": "CloudflareがAIエージェント向けブラウザ「Kitesurf」をリリース、ChromiumよりCPU・メモリ消費を大幅削減",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「AIバイト面接」、自社専用オリジナルのAI面接を無料で作成できる《無料トライアルキャンペーン》を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「AIバイト面接」、自社専用オリジナルのAI面接を無料で作成できる《無料トライアルキャンペーン》を実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260812",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "無料のVPSコントロールパネル「1Panel」、OpenClawなどのAIエージェントの複数一括管理も可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【DevOps Agent】カスタムエージェントで週次レポートを生成してみた",
+          "title": "Amazon Bedrock の OpenAI モデルで Web Search が GA — サーバーサイド Web 検索で何が変わるのか試してみた",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "エルグラムのコメント自動返信でレシピ配布、約298万回再生の事例公開",
+          "title": "Aurora Mobile の Modellix、PixVerse V6 を追加:1回のリクエストで完成度の高い動画生成を実現",
           "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Aurora Mobile の Modellix、PixVerse V6 を追加:1回のリクエストで完成度の高い動画生成を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "EC2 のステータスチェックにアプリ層が増えた「application status checks」を試す",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "Cloudflare、設定一つでWebサイトにWebMCPインターフェースを追加できる機能を開発者プレビューとして公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
+          "title": "『ConoHa VPS byGMO』、国内クラウド事業者で初めてAnthropic「Claude」のコネクタを提供開始【GMOインターネット】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「速くなった」では足りない。Cursor Meetup Sapporo で話した、弥生の Cursor 組織導入1年",
+          "source": "Yayoi Company Incorporated",
+          "trust_score": 7.5
         }
       ]
     }
