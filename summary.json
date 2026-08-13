@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-08-13T01:48:34.751284",
-  "total_episodes": 1,
+  "generated_at": "2026-08-13T21:52:57.913773",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ 理由_20260813",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Amazon Bedrock の OpenAI モデルで Web Search が GA — サーバーサイド Web 検索で何が変わるのか試してみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Aurora Mobile の Modellix、PixVerse V6 を追加:1回のリクエストで完成度の高い動画生成を実現",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Aurora Mobile の Modellix、PixVerse V6 を追加:1回のリクエストで完成度の高い動画生成を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "EC2 のステータスチェックにアプリ層が増えた「application status checks」を試す",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『ConoHa VPS byGMO』、国内クラウド事業者で初めてAnthropic「Claude」のコネクタを提供開始【GMOインターネット】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SpaceXAIが24時間働くAIエージェント「Grok Bot」をリリース、Windows・macOS・Linux・iOSに対応しエージェント1体ごとに専用クラウドPCを操作",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「速くなった」では足りない。Cursor Meetup Sapporo で話した、弥生の Cursor 組織導入1年",
-          "source": "Yayoi Company Incorporated",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
