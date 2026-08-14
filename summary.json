@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-08-13T21:52:57.913773",
-  "total_episodes": 0,
+  "generated_at": "2026-08-14T01:46:43.054845",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_MCP おすすめ_20260814",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AT-Crawlerで屋外資材の所在と変化を把握",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AT-Crawlerで屋外資材の所在と変化を把握",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AT-SYNAPSEとVLMで建設・プラント現場の「変化」を把握",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AT-SYNAPSEとVLMで建設・プラント現場の「変化」を把握",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "レールドローンで倉庫の在庫状況をタイムリーに把握",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "レールドローンで倉庫の在庫状況をタイムリーに把握",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「安全に関わる制御はAIに依存しない」 ― AT-SYNAPSEを支えるAT-ROSの安全設計AIによる柔軟な判断と、ROS 2ベースの確実なロボット制御を分離。",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20260814",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI agentを活用した開発プロセスと人間の認知限界",
+          "source": "Freee Developer Portal",
+          "trust_score": 7.5
+        },
+        {
+          "title": "米沢信用金庫とみらいワークスが業務提携。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "米沢信用金庫とみらいワークスが業務提携。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI Librarium 、知の継承・形式知化を支えるセキュリティ・ガバナンス基盤として国際規格「ISO/IEC 27001(ISMS)」認証を取得",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "コピペで使える!現役エンジニアが使っているAI活用スキル集",
+          "source": "Digital Media Market Inside",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
