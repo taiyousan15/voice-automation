@@ -1,85 +1,185 @@
 {
-  "generated_at": "2026-08-14T01:46:43.054845",
-  "total_episodes": 2,
+  "generated_at": "2026-08-14T21:30:13.730283",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20260814",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP おすすめ 理由_20260814",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AT-Crawlerで屋外資材の所在と変化を把握",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "KiroでCFnテンプレート作成からデプロイまでやってみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         },
         {
-          "title": "AT-Crawlerで屋外資材の所在と変化を把握",
+          "title": "AIエージェントと業務システムをつなぐアクセス基盤「GAIA Governed AI Access」の提供を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AT-SYNAPSEとVLMで建設・プラント現場の「変化」を把握",
+          "title": "AIエージェントと業務システムをつなぐアクセス基盤「GAIA Governed AI Access」の提供を開始",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "trust_score": 6.5
         },
         {
-          "title": "AT-SYNAPSEとVLMで建設・プラント現場の「変化」を把握",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "レールドローンで倉庫の在庫状況をタイムリーに把握",
+          "title": "8月15日「終戦の日」にあわせ、歴史の記録と記憶を紐解く特別企画を開催『なぜ?から始まる零戦開発史』を当日限定で全文無料公開! 戦史・ミリタリー書籍 15%ポイント還元フェアも同時開催",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "レールドローンで倉庫の在庫状況をタイムリーに把握",
+          "title": "NVIDIA DGX Spark上に「AT-SYNAPSE」のローカルLLM/VLM環境を構築",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「安全に関わる制御はAIに依存しない」 ― AT-SYNAPSEを支えるAT-ROSの安全設計AIによる柔軟な判断と、ROS 2ベースの確実なロボット制御を分離。",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "生成AIは「長く読ませる」「深く考えさせる」ほど賢くなるとは限らない! トークン節約のおすすめテクニック",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "1日1万行のコードを書くYCトップの「シンプルな秘密」 | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
         }
       ]
     },
     {
-      "name": "episode_skill 活用_20260814",
-      "theme": "skill 活用",
+      "name": "episode_思想 おすすめ_20260814",
+      "theme": "思想 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AI agentを活用した開発プロセスと人間の認知限界",
-          "source": "Freee Developer Portal",
-          "trust_score": 7.5
-        },
-        {
-          "title": "米沢信用金庫とみらいワークスが業務提携。",
+          "title": "【新ビジュアル公開】透明感と花々が彩る、幻想的なソロウエディング「Ethereal Bloom」|写真工房ぱれっと",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "米沢信用金庫とみらいワークスが業務提携。",
+          "title": "8月16日まで、『きれいなPythonプログラミング』が500円で買える72時間限定セール",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "車の暑さは対策必須!必要な理由と対策グッズを紹介",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "NHK朝ドラ「風、薫る」 直美(上坂樹里)&小川(甲斐翔真)、同級生たちにお披露目会 晴れ着に身を包んだ幸せオフショット",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【新ビジュアル公開】花々に包まれる、やさしく華やかなソロウエディング「Sunlit grace」|写真工房ぱれっと札幌中央店",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "上海から世界へ――COREBLAZER Game Festはいかに中国のインディーゲームと世界のパブリッシャーをつなぐのか【PR】",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【新ビジュアル公開】伝統を、私らしい「特別」へ。水色とオレンジが彩るソロウエディング「poppy」|写真工房ぱれっと帯広店",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260814",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "アーキテクチャの意思決定プロセスを AI で効率化する ― 思考の流れを分解してSkills化する",
+          "source": "Rakus Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Elith、ステッチの「C認証」先行取得を支援。取得までのプロセスを紹介する事例記事を公開",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "AI Librarium 、知の継承・形式知化を支えるセキュリティ・ガバナンス基盤として国際規格「ISO/IEC 27001(ISMS)」認証を取得",
+          "title": "積み上がった .rubocop_todo.yml の抑制を 2 ヶ月で 116 cops 分回収しました",
+          "source": "Crowdworks Engineering Blog",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【分析】OpenAIのAIエージェント群はなぜ暴走したのか、研究者が「サブエージェント訓練」の構造的リスクを指摘",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "米アンソロピック、IPOに向け医療AIをアピールもFable 5は創薬研究に利用不可",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "8月13日(木)放送『Why So Good?』のゲストは、株式会社グローバルホールディングス代表取締役・高基浩氏!「セールスを若者が目指さないのは社会問題だ」“ギバーセールス”で挑む三方よしの営業論",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "コピペで使える!現役エンジニアが使っているAI活用スキル集",
-          "source": "Digital Media Market Inside",
+          "title": "AI agentを活用した開発プロセスと人間の認知限界",
+          "source": "Freee Developer Portal",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 比較_20260814",
+      "theme": "占い 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "新作映画『バイオハザード』はなぜ医療品の配達員を描くのか? T-ウィルスの科学と物語構造を検証",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「NISA対象投信というだけで安心するな」インデックスに勝ったアクティブ投信27本だけリスト【10年検証】2026年春(AERA DIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "銭湯は600円の天国 第20回 三茶の激渋サウナ、下高井戸の天然冷泉&激アツ風呂も! 世田谷区の“愛され”銭湯3選",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "手軽なネットか地元のプロか!約半数が悩む「傾斜地の家」探し事情",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "手軽なネットか地元のプロか!約半数が悩む「傾斜地の家」探し事情",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エンデュランス・テクノロジーズ、Q1 FY2027決算発表後に2.8%下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "H.G. Infra、2026年第1四半期は利益率圧迫で予想を下回る",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
