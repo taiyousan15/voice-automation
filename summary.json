@@ -1,25 +1,35 @@
 {
-  "generated_at": "2026-08-16T01:10:15.267842",
+  "generated_at": "2026-08-16T21:26:10.964889",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260816",
-      "theme": "skill 方法",
+      "name": "episode_Claude Code 活用_20260816",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ソルビス税理士法人×M&A;ナビ、AI財務DDの実演ウェビナーをYoutubeで無料公開",
+          "title": "ラッダイト・フェスはZ世代のビッグテックへの抵抗運動だ",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【Claude Code】AIを仕事に活かしたい人のための超入門セミナー 9/10(木)「Claude Codeって、私にも使える?」(無料・オンライン)",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "あなたの「ものさし」を一旦置こう!相手の背景や価値観に目を向ける「1on1」とは?9/7(月)好評セミナー「タイプ別1on1の考え方と実践」のアーカイブ映像を無料配信!!",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "ソルビス税理士法人×M&Aナビ、AI財務DDの実演ウェビナーをYoutubeで無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "アイドル宮本佳林氏が「生配信システムをAIで開発」 プログラミング未経験からどうたどり着いた?",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
         }
       ]
     }
