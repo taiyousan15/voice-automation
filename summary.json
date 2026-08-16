@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T21:26:27.430873",
-  "total_episodes": 2,
+  "generated_at": "2026-08-16T01:10:15.267842",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20260815",
-      "theme": "skill おすすめ",
+      "name": "episode_skill 方法_20260816",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -20,51 +20,6 @@
           "title": "ソルビス税理士法人×M&Aナビ、AI財務DDの実演ウェビナーをYoutubeで無料公開",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 方法_20260815",
-      "theme": "思想 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "一度作れば,ゲーム開発はずっと続けていけるのか。創作,生存,持続をテーマにインディー開発者3名が本音で話すセッションをレポート[BIC2026]",
-          "source": "4gamer.net",
-          "trust_score": 7.5
-        },
-        {
-          "title": "軍事化される島々──周縁から国家の暴力と脱植民地化を考える(Hanae Iwasaki)",
-          "source": "Vogue",
-          "trust_score": 7.5
-        },
-        {
-          "title": "BLACKCHRISTMAS第9弾「ワッショイ!Xmas」 孤独な少女の“小さな勇気”が、Popなクリスマスソングに。クラクターが歌う「心の成長」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【ワカモノリサーチ調査】令和の現役高校生に聞いた!自分の理想の身長ランキング",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ネアンデルタール人の「脂肪工場」がドイツで発見される",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「これが150円とかヤバすぎるだろ...」「神の味」SNSも大騒ぎ!【すき家】ついに牛丼超えた!?ガチ勢も唸る“本気の一杯”がすごい!",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ワンマン2代目社長に意見したら「文句があるなら自分でやれw」と言われ...→僕「じゃあやります」その通りにした結果",
-          "source": "Yomuno",
-          "trust_score": 7.5
         }
       ]
     }
