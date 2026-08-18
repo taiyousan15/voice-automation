@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-08-17T01:07:50.481797",
-  "total_episodes": 1,
+  "generated_at": "2026-08-18T01:05:39.596109",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 比較_20260817",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "謎解き・脱出ゲーム等体験型コンテンツ統合プラットフォーム「ESCAPE.ID」が、API・Webhook・MCPを開放する「ESCAPE.ID Hub」を公開。外部システムやAIとの結合を容易に。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "謎解き・脱出ゲーム等体験型コンテンツ統合プラットフォーム「ESCAPE.ID」が、API・Webhook・MCPを開放する「ESCAPE.ID Hub」を公開。外部システムやAIとの結合を容易に。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
