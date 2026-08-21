@@ -1,93 +1,48 @@
 {
-  "generated_at": "2026-08-20T21:37:33.191473",
-  "total_episodes": 2,
+  "generated_at": "2026-08-21T01:09:54.477134",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 比較_20260820",
-      "theme": "思想 比較",
+      "name": "episode_MCP 方法_20260821",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "マツダ「ロータリースポーツ復活」なるか!? 370馬力の「美しすぎるクーペ」公開から3年...! 謎の特許で期待高まるマツダ「ICONIC SP」とは!",
-          "source": "Car News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "3代目へ世代交代した最大級の7シーターSUV アウディQ7 TDIクワトロ(1) ディーゼルのマイルドハイブリッドから投入開始(AUTOCAR JAPAN)",
+          "title": "「資産状況教えて」ChatGPTに話すだけ、マネックス証券「MONEX MCP Server」提供開始(マネーの達人)",
           "source": "Yahoo Japan",
           "trust_score": 9.7
         },
         {
-          "title": "【おうちにプロ】秋のエアコンクリーニングに関するアンケート調査",
+          "title": "文書管理システム「楽々Document Plus」にAIエージェント搭載。情報探しの新パートナーに",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【おうちにプロ】秋のエアコンクリーニングに関するアンケート調査",
+          "title": "文書管理システム「楽々Document Plus」にAIエージェント搭載。情報探しの新パートナーに",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "10年の記憶と感動を詰めた奇跡のステージ。初演から見届けた「『あんさんぶるスターズ!THE STAGE』-10th Anniversary LIVE-」1万字レポート",
-          "source": "4gamer.net",
+          "title": "セキュリティ・キャンプ2026全国大会 専門B1「プロダクトセキュリティの理想と現実」講義を担当しました。",
+          "source": "Freee Developer Portal",
           "trust_score": 7.5
         },
         {
-          "title": "妻が冷たくなった原因とは? 対処法や良好な夫婦関係を続けるポイント",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
+          "source": "Gigazine",
+          "trust_score": 7.0
         },
         {
-          "title": "【知識編】もっと自分と相手をよく知るための性愛コミュニケーション&テクニック",
-          "source": "Ananweb",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260820",
-      "theme": "哲学 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "約12,000社から選出『サステナグロースカンパニーアワード2026』授賞式を開催(大賞は井村屋グループ)",
+          "title": "【47都道府県・115地域DMO】162エリア別インバウンドレポートを無料公開:個票データ分析で見える地域ごとの旅行者行動",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "服装の相談、コンサートチケットを取るコツ、チャネリング......みなさん、生成AIをどう使っていますか?(クロワッサンオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "新日本プロレス社長・棚橋弘至が語る、テレ朝とサイバーエージェント「2つの巨大なエンジン」で世界へ挑む未来",
-          "source": "日刊spa! | 働く世代のホンネ情報",
-          "trust_score": 7.5
-        },
-        {
-          "title": "3季連続MVPのニュービルがA千葉への移籍理由を語る...「レマニスHCのバスケが好き」",
-          "source": "Basketball King",
-          "trust_score": 7.0
-        },
-        {
-          "title": "HOTEL THE MITSUI KYOTO - 新たに誕生した「MIKIMOTO BEAUTY」プロデュースによるオリジナルSPAトリートメントを10月1日より提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "藤井王位は「読み筋が深い」、伊藤二冠は「仕掛けられても苦にしない」 王位戦の大盤解説、250人が熱戦見守る(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "サカ美術館、バリ島のスバック制度の中心にある神聖なつながりを探る新作ドキュメンタリー『Pasihan』を公開",
+          "title": "パテント・インテグレーション、「2026知財・情報フェア&コンファレンス」に出展",
           "source": "Pr Times",
           "trust_score": 8.0
         }
