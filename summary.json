@@ -1,138 +1,23 @@
 {
-  "generated_at": "2026-08-21T21:30:09.670115",
-  "total_episodes": 3,
+  "generated_at": "2026-08-22T01:05:54.969160",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 方法_20260821",
-      "theme": "Claude Code 方法",
+      "name": "episode_skill おすすめ_20260822",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "社内業務をAIスキル資産に、ClaudeCode自社実践156スキルの定着支援を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ChatGPTとCanvaで広報物を作る「保護者向けAIセミナー」を開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Anthropic、AIの活用方法を学べる「Claude Academy」を公開",
+          "title": "NVIDIA、エージェントスキルの効果を測る「SkillEvaluator」をオープンソースで公開",
           "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claudeの使い方を学べる公式チュートリアル「Claude Academy」が登場、単純なチャットからエージェントまで網羅",
-          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "バイナンス、AIエージェント向け「Agent OS」発表。取引や市場データに接続",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「Claudeの使い方」を無料で学べる公式サイト登場 「Code」「Cowork」などサービスごとに解説(1/2 ページ) - ITmedia",
-          "source": "Google News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Claudeの「見えない透かし」、早くも回避策が登場",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ 理由_20260821",
-      "theme": "占い おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ユニコーン企業とは? 定義や条件、国内の代表例から投資機会までを解説",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        },
-        {
-          "title": "山形県内で過ごした人が9割近く アプリのアンケート結果から見る県民の夏休み(YBC山形放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "山形県内で過ごした人が9割近く アプリのアンケート結果から見る県民の夏休み",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.5
-        },
-        {
-          "title": "『旭ポンズ』が生産停止へ 猛暑や深刻化する担い手不足で収穫量減少...徳島のスダチ産地で課題浮き彫り(読売テレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "『旭ポンズ』が生産停止へ 猛暑や深刻化する担い手不足で収穫量減少...徳島のスダチ産地で課題浮き彫り",
-          "source": "日テレnews Nnn",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ピーター・ティール、セルゲイ・ブリン、ジェフ・ベゾス...世界クラスの起業家がすすめる必読書26冊",
-          "source": "Business Insider",
-          "trust_score": 7.0
-        },
-        {
-          "title": "1億円を超えると売れにくい? 首都圏中古マンションで進む価格帯別の二極化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260821",
-      "theme": "占い 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「今までと同じ運転」が違反に?9月から生活道路は時速30キロ 県内の約7割が対象【佐賀県】",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OrcaRouter、Z.aiのフラッグシップモデル「GLM-5.3」を10%割引で提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "マニパル・ヘルス、2026年度第1四半期に力強い成長を記録",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "“交際・同棲中のカップル”は「共同の財布」を持つのが新常識!? もう「エクセル・家計簿」は不要? 平均継続率は97%...一度ペアカードを使うと「手放せなくなる理由」(ファイナンシャルフィールド)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "SynsamのQ2 EBITDAが予測を上回る、購読販売の成長が加速",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "新米シーズン到来、おいしい新米も知らぬ間にパサパサに- 約7割の家庭でお米の保存方法に課題、“乾燥米”リスクが浮き彫りに",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【ラキャルプ】2018年から育む、ブランドとメディアの共創の場。「ラキャルプ合同展示会 2026」を10月に全2日開催決定",
+          "title": "VirtualHatch、AIエージェントの実行を統制する「OmniHatch」の提供を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
