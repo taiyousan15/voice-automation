@@ -1,48 +1,23 @@
 {
-  "generated_at": "2026-08-21T01:09:54.477134",
+  "generated_at": "2026-08-22T01:05:54.969160",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260821",
-      "theme": "MCP 方法",
+      "name": "episode_skill おすすめ_20260822",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「資産状況教えて」ChatGPTに話すだけ、マネックス証券「MONEX MCP Server」提供開始(マネーの達人)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "文書管理システム「楽々Document Plus」にAIエージェント搭載。情報探しの新パートナーに",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "文書管理システム「楽々Document Plus」にAIエージェント搭載。情報探しの新パートナーに",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "セキュリティ・キャンプ2026全国大会 専門B1「プロダクトセキュリティの理想と現実」講義を担当しました。",
-          "source": "Freee Developer Portal",
+          "title": "NVIDIA、エージェントスキルの効果を測る「SkillEvaluator」をオープンソースで公開",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.5
         },
         {
-          "title": "StripeがOpenRouterの買収を正式発表、AIのための経済インフラを構築へ",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【47都道府県・115地域DMO】162エリア別インバウンドレポートを無料公開:個票データ分析で見える地域ごとの旅行者行動",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "パテント・インテグレーション、「2026知財・情報フェア&コンファレンス」に出展",
+          "title": "VirtualHatch、AIエージェントの実行を統制する「OmniHatch」の提供を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
