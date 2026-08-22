@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-08-22T01:05:54.969160",
-  "total_episodes": 1,
+  "generated_at": "2026-08-22T21:27:30.315467",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260822",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "NVIDIA、エージェントスキルの効果を測る「SkillEvaluator」をオープンソースで公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        },
-        {
-          "title": "VirtualHatch、AIエージェントの実行を統制する「OmniHatch」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
