@@ -1,6 +1,97 @@
 {
-  "generated_at": "2026-08-24T01:09:04.897140",
-  "total_episodes": 0,
+  "generated_at": "2026-08-24T21:35:48.231999",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_哲学 比較_20260824",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Ayaseが語る初のソロEPへの思いと、YOASOBIとのシナジー",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIが生む新たな脅威「偽読書」...「問いを立てる読解力が必要な時代」(ハンギョレ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "新型シボレー「シルバラード」登場 新設計のエクステリア採用、自然吸気V8エンジン導入",
+          "source": "産経ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「残業の少なさ」アピールは逆効果?財務・会計プロが求めるのは安息ではなく「挑戦的な舞台」ランスタッド調査で判明した市場トレンドとの乖離",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIに「自分の運転」は採点させない!? Waymoの自動運転技術を支える“厳格な監視システム”と仮想空間テスト “3.2億km”超の走行データから得られた知見とは",
+          "source": "Car News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ロレックスやカルティエはなぜ「名品」と呼ばれるの?——時計の基本の「キ」第2回",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "2つの腕時計が映すAI時代のアテンションエコノミー | Forbes JAPAN 公式サイト(フォーブス ジャパン)",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260824",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "尾崎世界観、『ドラマなふたり』監督と対談“愛する人の過ちを許す”物語の力",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Spectrum Tokyo Festival 2027、スポンサー募集・登壇者公募・チケット販売を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Spectrum Tokyo Festival 2027、スポンサー募集・登壇者公募・チケット販売を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "JR東日本の運賃値上げでライバル企業の業績はどうなった?【坂本慎太郎の街歩き投資ラボ】(週プレNEWS)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「おはよう」「こんにちは」を言わなくなると人はどうなる?小津安二郎が出した意外な答え(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "核心直撃◆現実/運命が全露呈【魂の極限探求技法】アヴァロン魔呪占が「本格占い|みのり」で提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "核心直撃◆現実/運命が全露呈【魂の極限探求技法】アヴァロン魔呪占が「本格占い|みのり」で提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
