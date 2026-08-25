@@ -1,70 +1,85 @@
 {
-  "generated_at": "2026-08-25T01:07:47.246372",
+  "generated_at": "2026-08-25T21:35:41.585842",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260825",
-      "theme": "skill 比較",
+      "name": "episode_MCP おすすめ 理由_20260825",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "Salesforceが挑む「脱UI」 AIエージェント乱立に備える統制術",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
+          "title": "MCPが最新ロードマップを発表 エージェンティックAI、非同期通信、セキュリティなど5つの重点分野を定義",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Kiro Crew の Memory 機能を覗いてみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "中国製AIが上位を占有、米国製AIに3倍差 Mozillaレポートが明かす「オープンモデル」の現在地",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "株式会社Coadmap、ホワイトペーパー『AI駆動プロジェクトマネジメント実践ガイド 2026』を公開",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
+        },
+        {
+          "title": "【複数店舗MEOの実態調査】半数以上が手作業でのレポート地獄“可視化・分断・負荷”に課題",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ConoHa VPS MCPで色々なAIエージェントを構築してみた<Hermes Agent / OpenClaw / NanoClaw>",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260825",
-      "theme": "MCP おすすめ",
+      "name": "episode_Claude Code おすすめ 理由_20260825",
+      "theme": "Claude Code おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る|AIアポろうくん",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る|AIアポろうくん",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「mitoco 会計」Ver.5.5をリリース",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
+          "title": "2026年8月25日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "【事例紹介】atama plus株式会社の開発組織におけるAI投資対効果を可視化。AI駆動開発プラットフォーム「supateam」導入事例",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇",
-          "source": "Pr Times",
+          "title": "Claude「不可視のウオーターマーク」に利用者反発、解約報告も - Anthropicは影響否定",
+          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "Workato、国際的なサステナビリティ評価「EcoVadis」で同業界上位22%に",
+          "title": "「100万行コード移行は4年がかり」はもう昔話 Claude Codeで「2週間」に縮める6ステップ/ベストプラクティス",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIで、人は学ばなくなるのか--答えは「AI勉強力」。AI時代の勉強法を39のメソッドに体系化した『AI勉強法大全』、9月7日発売",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "Anthropic Python SDK が v1.0 に!知らずに上げると壊れるとは?の検証",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         }
       ]
     }
