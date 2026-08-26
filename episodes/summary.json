@@ -1,70 +1,50 @@
 {
-  "generated_at": "2026-08-25T01:07:47.246372",
-  "total_episodes": 2,
+  "generated_at": "2026-08-26T01:10:22.902659",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260825",
-      "theme": "skill 比較",
+      "name": "episode_skill おすすめ_20260826",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260825",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る|AIアポろうくん",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "営業職求人28,704件を調査、東京都12,741件が件数上位3都府県を除く44県の合計10,979件を上回る|AIアポろうくん",
+          "title": "「oyakata」を展開するアイティップス、インドの若者を対象とした「エレベーター据付技能研修」を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「mitoco 会計」Ver.5.5をリリース",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCPが新ロードマップを公開、長時間処理やAIエージェント認証など5分野を重点化",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【事例紹介】atama plus株式会社の開発組織におけるAI投資対効果を可視化。AI駆動開発プラットフォーム「supateam」導入事例",
+          "title": "学習塾「ミライ式」、大阪・高槻駅前に新校舎「高槻駅前校」を開校--全国20校目、北摂の中核・高槻に好立地で進出",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "日立の社員が、初代Agentic AI Foundationアンバサダーに就任し、日本初開催「AGNTCon + MCPCon Japan 2026」でキーノート登壇",
-          "source": "Pr Times",
+          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
+          "source": "Atpress",
           "trust_score": 8.5
         },
         {
-          "title": "Workato、国際的なサステナビリティ評価「EcoVadis」で同業界上位22%に",
+          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIとの協働の質を測る指標「AI協働力」の評価設計を無償公開 - 116万件の評価データをもとに、5領域・13観点で標準化",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "Flova、AI動画がプロンプトの枠を超えつつあるなか、エージェントネイティブの動画制作に「オールインワン」 ソリューションをもたらす",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
