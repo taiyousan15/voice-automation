@@ -1,84 +1,49 @@
 {
-  "generated_at": "2026-08-25T21:35:41.585842",
-  "total_episodes": 2,
+  "generated_at": "2026-08-26T01:10:22.902659",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260825",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill おすすめ_20260826",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Salesforceが挑む「脱UI」 AIエージェント乱立に備える統制術",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MCPが最新ロードマップを発表 エージェンティックAI、非同期通信、セキュリティなど5つの重点分野を定義",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Kiro Crew の Memory 機能を覗いてみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "中国製AIが上位を占有、米国製AIに3倍差 Mozillaレポートが明かす「オープンモデル」の現在地",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "株式会社Coadmap、ホワイトペーパー『AI駆動プロジェクトマネジメント実践ガイド 2026』を公開",
+          "title": "「oyakata」を展開するアイティップス、インドの若者を対象とした「エレベーター据付技能研修」を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【複数店舗MEOの実態調査】半数以上が手作業でのレポート地獄“可視化・分断・負荷”に課題",
+          "title": "学習塾「ミライ式」、大阪・高槻駅前に新校舎「高槻駅前校」を開校--全国20校目、北摂の中核・高槻に好立地で進出",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ConoHa VPS MCPで色々なAIエージェントを構築してみた<Hermes Agent / OpenClaw / NanoClaw>",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20260825",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年8月25日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude「不可視のウオーターマーク」に利用者反発、解約報告も - Anthropicは影響否定",
-          "source": "Mynavi News",
+          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
+          "source": "Atpress",
           "trust_score": 8.5
         },
         {
-          "title": "「100万行コード移行は4年がかり」はもう昔話 Claude Codeで「2週間」に縮める6ステップ/ベストプラクティス",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
+          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "AIで、人は学ばなくなるのか--答えは「AI勉強力」。AI時代の勉強法を39のメソッドに体系化した『AI勉強法大全』、9月7日発売",
+          "title": "AIとの協働の質を測る指標「AI協働力」の評価設計を無償公開 - 116万件の評価データをもとに、5領域・13観点で標準化",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Anthropic Python SDK が v1.0 に!知らずに上げると壊れるとは?の検証",
-          "source": "Serverworks Corporation",
+          "title": "Flova、AI動画がプロンプトの枠を超えつつあるなか、エージェントネイティブの動画制作に「オールインワン」 ソリューションをもたらす",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         }
       ]
