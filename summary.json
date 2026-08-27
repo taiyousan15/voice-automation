@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-08-26T01:10:22.902659",
-  "total_episodes": 1,
+  "generated_at": "2026-08-27T00:36:54.618469",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_skill おすすめ_20260826",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「oyakata」を展開するアイティップス、インドの若者を対象とした「エレベーター据付技能研修」を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "学習塾「ミライ式」、大阪・高槻駅前に新校舎「高槻駅前校」を開校--全国20校目、北摂の中核・高槻に好立地で進出",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Flova、オールインワンAI動画エージェントにByteDance「Seedance 2.5」統合を発表 最大30万文字のプロジェクト記憶、100種超の制作スキルに対応",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIとの協働の質を測る指標「AI協働力」の評価設計を無償公開 - 116万件の評価データをもとに、5領域・13観点で標準化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Flova、AI動画がプロンプトの枠を超えつつあるなか、エージェントネイティブの動画制作に「オールインワン」 ソリューションをもたらす",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ClaudeとGeminiで、採用レポート・求人票作成を内製するまで~失敗例から学ぶAIネイティブな採用組織への第一歩~|9/11(金)・9/18(金)開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
