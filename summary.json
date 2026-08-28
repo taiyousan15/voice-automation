@@ -1,35 +1,50 @@
 {
-  "generated_at": "2026-08-27T07:20:10.227260",
+  "generated_at": "2026-08-28T05:11:32.104150",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260827",
-      "theme": "skill 活用",
+      "name": "episode_哲学 方法_20260828",
+      "theme": "哲学 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AI Librariumブランドデザインを開始、新ブランドコンセプトとロゴを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "KRAFTON,新作5タイトルの最新映像をgamescom 2026で公開",
+          "source": "4gamer.net",
+          "trust_score": 7.5
         },
         {
-          "title": "AI Librarium 、新ブランドコンセプトとロゴを発表。ブランディングパートナーに氏家物産株式会社を迎え、ブランド構築をスタート。",
-          "source": "Pr Times",
+          "title": "中部電力で“また不正” 報告書改ざん提出 約8億円受領(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "15年越しの悲願作「1666: Amsterdam」,“アサクリ”生みの親デジーレ氏が語る復活の経緯と1年間の計画[gamescom]",
+          "source": "4gamer.net",
+          "trust_score": 7.5
+        },
+        {
+          "title": "提供開始1ケ月で400事務所・850IDを突破!社労士事務所向けAI業務基盤「SRAISE(スレイズ)」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【アマン東京】エルボリステリア - 地中海とハーブの風 植物がもたらす癒しを、ガストロノミー体験へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「廃炉計画通り進めたかった」 中部電、地元市議に不正を陳謝(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "EXILE・AKIRA、“3児の父”HIROの変化明かす「9時には電話がつながらない」",
+          "source": "Model Press",
           "trust_score": 8.5
-        },
-        {
-          "title": "「録画でAIに仕事を教える」時代へ──OpenAI・Anthropic・Microsoftの3機能を徹底解説。Renewer、『録画でAIに仕事を教える 3社徹底比較ガイド』(全62ページ)を無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "学習塾「ミライ式」、東京・荒川区に新校舎「荒川三河島校」を開校--全国21校目、首都圏の展開を加速",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
