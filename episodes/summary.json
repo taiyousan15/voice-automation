@@ -1,35 +1,25 @@
 {
-  "generated_at": "2026-08-27T07:20:10.227260",
+  "generated_at": "2026-08-28T09:34:32.870274",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260827",
-      "theme": "skill 活用",
+      "name": "episode_skill 方法_20260828",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AI Librariumブランドデザインを開始、新ブランドコンセプトとロゴを発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "『原神』スタイルで描くソウルライク——HoYoverseが放つ期待作『ノーダスフォール』ハンズオンプレビュー【gamescom 2026】",
+          "source": "Ign Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "AI Librarium 、新ブランドコンセプトとロゴを発表。ブランディングパートナーに氏家物産株式会社を迎え、ブランド構築をスタート。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「録画でAIに仕事を教える」時代へ──OpenAI・Anthropic・Microsoftの3機能を徹底解説。Renewer、『録画でAIに仕事を教える 3社徹底比較ガイド』(全62ページ)を無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "学習塾「ミライ式」、東京・荒川区に新校舎「荒川三河島校」を開校--全国21校目、首都圏の展開を加速",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Working Backwardsを給与計算オプションの開発に取り入れ、AIで上流工程を効率化した話",
+          "source": "Rakus Company",
+          "trust_score": 7.5
         }
       ]
     }
