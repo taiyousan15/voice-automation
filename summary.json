@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-08-28T05:11:32.104150",
+  "generated_at": "2026-08-28T09:34:32.870274",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 方法_20260828",
-      "theme": "哲学 方法",
+      "name": "episode_skill 方法_20260828",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "KRAFTON,新作5タイトルの最新映像をgamescom 2026で公開",
-          "source": "4gamer.net",
-          "trust_score": 7.5
-        },
-        {
-          "title": "中部電力で“また不正” 報告書改ざん提出 約8億円受領(テレビ朝日系(ANN))",
-          "source": "Yahoo Japan",
+          "title": "『原神』スタイルで描くソウルライク——HoYoverseが放つ期待作『ノーダスフォール』ハンズオンプレビュー【gamescom 2026】",
+          "source": "Ign Japan",
           "trust_score": 9.7
         },
         {
-          "title": "15年越しの悲願作「1666: Amsterdam」,“アサクリ”生みの親デジーレ氏が語る復活の経緯と1年間の計画[gamescom]",
-          "source": "4gamer.net",
+          "title": "Working Backwardsを給与計算オプションの開発に取り入れ、AIで上流工程を効率化した話",
+          "source": "Rakus Company",
           "trust_score": 7.5
-        },
-        {
-          "title": "提供開始1ケ月で400事務所・850IDを突破!社労士事務所向けAI業務基盤「SRAISE(スレイズ)」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【アマン東京】エルボリステリア - 地中海とハーブの風 植物がもたらす癒しを、ガストロノミー体験へ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「廃炉計画通り進めたかった」 中部電、地元市議に不正を陳謝(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "EXILE・AKIRA、“3児の父”HIROの変化明かす「9時には電話がつながらない」",
-          "source": "Model Press",
-          "trust_score": 8.5
         }
       ]
     }
