@@ -1,25 +1,165 @@
 {
-  "generated_at": "2026-08-28T09:34:32.870274",
-  "total_episodes": 1,
+  "generated_at": "2026-08-29T03:08:06.514267",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260828",
-      "theme": "skill 方法",
+      "name": "episode_占い 活用_20260829",
+      "theme": "占い 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『原神』スタイルで描くソウルライク——HoYoverseが放つ期待作『ノーダスフォール』ハンズオンプレビュー【gamescom 2026】",
-          "source": "Ign Japan",
+          "title": "【2026年8月29日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【2026年8月29日の運勢】九星気学占い(総合運・恋愛運・金運・仕事運)",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "DAダビッドソン、AIの勢いを受けワークデイの目標株価を引き上げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "パロアルトネットワークス株が本日急落している理由",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "開幕節快勝のブレントフォード、21歳セネガル代表DFを移籍金総額86億円で獲得! 延長OP付きの5年契約締結",
+          "source": "サッカーキング",
+          "trust_score": 7.0
+        },
+        {
+          "title": "NTG Clarityの2026年第2四半期決算、売上高が予想を下回り株価急落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "JULIEN'S AUCTIONS、「KAIJU KING: THE SOMPOTE SANDS LEGACY COLLECTION(怪獣キング:SOMPOTE SANDSレガシーコレクション)」を発表",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260829",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "人間中心のインターネットは終わる? - Cloudflareが描く、AIエージェント時代の新基盤",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "GA4は「見る」から「聞く」へ。MCPでClaude・ChatGPTにつなぐ『Synapse MCP』をリリース|Web広告やECにも対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "キーワード調査ツール「ラッコキーワード」がChatGPTで利用可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20260829",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "eSIM内蔵イヤホンで会話を録音・文字起こし・要約してAIエージェントにプレゼン資料作成などをお願いできるウェアラブルAI「Plaud One」が登場",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "国産オープンソースCMS「baserCMS」、AIエージェントから直接操作できる機能を搭載",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「マトリックスのデモ」で注目集めた、Unreal Engine 5の公式“超リアル街”サンプルが4年越しに大刷新。最新UE対応で街ごと自動生成、“LLM制御”もできる",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20260829",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "サスメドの株価に思う、治療用アプリと医師による指導の費用対効果",
+          "source": "Nikkei Medical",
           "trust_score": 9.7
         },
         {
-          "title": "Working Backwardsを給与計算オプションの開発に取り入れ、AIで上流工程を効率化した話",
-          "source": "Rakus Company",
+          "title": "ミズホ、9月2日決算前にブロードコムに強気姿勢",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "手のひらサイズ・防水・24時間再生。音質も妥協しないポータブルスピーカー",
+          "source": "Lifehacker",
           "trust_score": 7.5
+        },
+        {
+          "title": "50〜60歳代の貯蓄額、平均と中央値をあわせて確認しておきたい理由とは(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【8月~9月のおすすめヘア】夏ダメージ髪をまとまりやすくツヤ感のある印象に(MAQUIA)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "「飽きが来なくて家族も友人もよろこんでくれる」 “京都銘菓”に「素朴でおいしい」「コーヒーにも合う」「カリッとサラッと味わえる」の声(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
