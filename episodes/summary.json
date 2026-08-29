@@ -1,25 +1,40 @@
 {
-  "generated_at": "2026-08-28T09:34:32.870274",
+  "generated_at": "2026-08-29T05:40:21.490492",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260828",
-      "theme": "skill 方法",
+      "name": "episode_skill おすすめ 理由_20260829",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "アリババのAIエージェント「QwenWork」、米ジェフリーズ評価で首位も法務確認が不可欠",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年こそ、わたしをアップデートする。Xで宣言した人に総額20万円分のAmazonギフトが当たるキャンペーン開催!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年こそ、わたしをアップデートする。Xで宣言した人に総額20万円分のAmazonギフトが当たるキャンペーン開催!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「Fable」プレゼン&ハンズオンでアクションとバトルを初体験。パリィから映画のような連携へ,近接・遠距離・魔法をつなぐ“スタイル・ウィービング”[gamescom]",
+          "source": "4gamer.net",
+          "trust_score": 7.5
+        },
+        {
           "title": "『原神』スタイルで描くソウルライク——HoYoverseが放つ期待作『ノーダスフォール』ハンズオンプレビュー【gamescom 2026】",
           "source": "Ign Japan",
           "trust_score": 9.7
-        },
-        {
-          "title": "Working Backwardsを給与計算オプションの開発に取り入れ、AIで上流工程を効率化した話",
-          "source": "Rakus Company",
-          "trust_score": 7.5
         }
       ]
     }
