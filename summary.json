@@ -1,16 +1,21 @@
 {
-  "generated_at": "2026-08-29T23:10:53.181566",
-  "total_episodes": 4,
+  "generated_at": "2026-08-30T03:40:42.041373",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260829",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ 理由_20260830",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "SentryアラートをAIで自動調査するSlack Botを作った話",
+          "source": "Base Developer Blog",
+          "trust_score": 7.0
+        },
         {
           "title": "人間中心のインターネットは終わる? - Cloudflareが描く、AIエージェント時代の新基盤",
           "source": "Mynavi News",
@@ -22,164 +27,24 @@
           "trust_score": 8.0
         },
         {
-          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「筋斗雲って、ラーメン屋ですか?」 60歳以上が44%を締めるビルメンテナンス企業が挑んだ土台作り",
-          "source": "Ascii",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Salesforce、「Claudeforce」でClaudeからCRM操作へ Agentforce ARRは15億ドル突破",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "「マトリックスのデモ」で注目集めた、Unreal Engine 5の公式“超リアル街”サンプルが4年越しに大刷新。最新UE対応で街ごと自動生成、“LLM制御”もできる",
+          "source": "Automaton",
           "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260829",
-      "theme": "占い 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "7月登録1883台の新型「エルグランド」が「アルファード/ヴェルファイア」1万2079台の独裁市場に必要な理由(carview!)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         },
         {
-          "title": "『ゴジラ-0.0』を科学と歴史から考察、再生能力・放射熱線・IMAX映像の共通点",
+          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "国内外の注目経済指標:米雇用情勢の改善が示されれば、9月利上げ観測からドル買い継続",
-          "source": "Money Post",
-          "trust_score": 7.5
-        },
-        {
-          "title": "国内外の注目経済指標:米雇用情勢の改善が示されれば、9月利上げ観測からドル買い継続",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ネットでお米を購入したことがある人は32.5%購入経験者・未経験者ともに「価格」が決断を左右する結果に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ネットでお米を購入したことがある人は32.5%購入経験者・未経験者ともに「価格」が決断を左右する結果に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ベトナム産ドリアンの対中輸出、今年は40億ドル超へ 中越貿易深化の象徴に",
-          "source": "Afpbb News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 方法_20260829",
-      "theme": "Claude Code 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Claude Code更新 restrictedモード追加・feedback自動下書き【8/21〜27】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「メルカリのClaude Code全社展開」と「学んで損しない言語」から読み解く、生成AI時代のエンジニア生存戦略",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "毎朝のメール返信が「30分→5分」に...仕事ができる人が下書き保存まで任せている「爆速AI」の名前(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "2026年8月28日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "住宅業界1,000社をAI支援したSHO-SAN、経営者向け無料ウェビナー「『AI社員』が住宅会社を変える--経営者のためのClaude Code徹底解説」を9月7日(月)開催",
+          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "企業向けGitHub Copilotのモデル管理が変更 未設定モデルはデフォルトポリシーを継承",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "マイクロソフトが見送った1.35GW計画、アンソロピックが一部を引き継ぐ可能性 Nscaleと6年契約",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260829",
-      "theme": "哲学 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『黄泉のツガイ』“ユル”小野賢章×『鋼の錬金術師』“エド”朴璐美、主人公声優が語る“荒川弘ワールド”の真髄",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "小野賢章と朴璐美が語る荒川弘作品の魅力、エドとユルに込めた思い",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "立派なことを言ってるのに「なぜか薄っぺらい人」と「心に刺さる人」の決定的な違い(ダイヤモンド・オンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【先人に学ぶ人生の仕舞い方】尾崎放哉・41歳没「春の山のうしろから烟が出だした」",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「顔を覚えてもらえない」を脱却 TBSテレビがオフィスを“稼ぐ武器”に変えた理由(ITmedia ビジネスオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「セイレーンの去り際、怖」ちいかわのセイレーンの去り際の仕草がプロの仕業過ぎる、目で覗き込む位置取りが上手",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "虫とりテクニックがまるわかり!昆虫ハンターがガイドする昆虫採集の攻略本",
-          "source": "@dime アットダイム",
-          "trust_score": 7.5
+          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
