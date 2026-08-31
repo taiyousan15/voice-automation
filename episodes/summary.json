@@ -1,50 +1,20 @@
 {
-  "generated_at": "2026-08-30T03:40:42.041373",
+  "generated_at": "2026-08-31T03:41:06.738668",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260830",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill おすすめ_20260831",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "SentryアラートをAIで自動調査するSlack Botを作った話",
+          "title": "会社のはてなブログ運用をHatenaBlog WorkflowsとAIで効率化する",
           "source": "Base Developer Blog",
           "trust_score": 7.0
-        },
-        {
-          "title": "人間中心のインターネットは終わる? - Cloudflareが描く、AIエージェント時代の新基盤",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "国産オープンソースCMS「baserCMS」、AIエージェントから直接操作できる機能を搭載",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「マトリックスのデモ」で注目集めた、Unreal Engine 5の公式“超リアル街”サンプルが4年越しに大刷新。最新UE対応で街ごと自動生成、“LLM制御”もできる",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIO(LLMO/GEO)対策ツール「DolphinX AIO」がMCPに対応|初心者でも簡単にChatGPT・Claude連携でAI検索分析データの詳細分析や施策設計が可能に",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "freee、「freee申告 法人税」と「freee固定資産」のPublic API一般公開とMCPサーバー「freee-mcp」に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
