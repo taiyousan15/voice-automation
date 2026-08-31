@@ -1,110 +1,20 @@
 {
-  "generated_at": "2026-08-30T23:19:59.162114",
-  "total_episodes": 3,
+  "generated_at": "2026-08-31T03:41:06.738668",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20260830",
-      "theme": "占い 活用",
+      "name": "episode_skill おすすめ_20260831",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「免許返納」で気になる後期高齢者の通院。各自治体で交通費補助制度など...どんなサポートがあるのか(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "バングラデシュで深刻化する電力不足と大気汚染 SDSホールディングスが挑む「太陽光発電」100メガワット級開発",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【60歳代おひとりさま】貯蓄は平均1364万円に対して中央値300万円。貯蓄なしが30.4%、年金は年18万円以上で天引きの対象に(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【ザクロ由来成分で心機能が最大80%改善?】最新研究が示す新たな心不全治療の可能性(ヨガジャーナルオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "今週の注目アナリスト評価まとめ",
-          "source": "Investing- Fx",
-          "trust_score": 6.0
-        },
-        {
-          "title": "「筋トレ採用」で若手人材を確保、京都の警備会社に就職した新入社員の日常(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "ロシア占拠のザポリージャ原発で電源喪失の恐れ 代替のディーゼル燃料「10日分」",
-          "source": "テレビ東京",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260830",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "無料でAIチャットを編集可能なノードのつながりに変えてくれる「ThoughtDAG」",
-          "source": "Gigazine",
+          "title": "会社のはてなブログ運用をHatenaBlog WorkflowsとAIで効率化する",
+          "source": "Base Developer Blog",
           "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 方法_20260830",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "劇場アニメ『SEKIRO: NO DEFEAT』「葦名の水」が貰えるイベントの実施が決定。会場では「迷えば、敗れる」ステッカーが貰えるキャンペーンも",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.5
-        },
-        {
-          "title": "不二家のペコちゃんがゴールドリボンを身につけ小児がん啓発",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "次なるイットバッグはキャスター付き! ニューヨークを席巻する「ハルケン」とは?",
-          "source": "Vogue",
-          "trust_score": 7.5
-        },
-        {
-          "title": "405日で生まれた“機能美”──アウディ『ヌヴォラーリ』が示す次世代デザインとは?",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【英語×人生哲学】ネイティブキャンプ、人気教材「デイリートピック」に“今を生き切る力”を考える新教材を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【英語×人生哲学】ネイティブキャンプ、人気教材「デイリートピック」に“今を生き切る力”を考える新教材を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "写真で「強く生きる能登感じて」 被災や復興の歩み、大阪で展示(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
         }
       ]
     }
