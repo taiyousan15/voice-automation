@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-09-01T00:31:21.651750",
-  "total_episodes": 1,
+  "generated_at": "2026-09-01T03:36:37.575656",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_哲学 方法_20260901",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年8月31日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "伊勢神宮近くの商店街火災 近隣住民「古い建物が密集する場所」 周辺には避難指示も 三重・伊勢市の明倫商店街 近鉄宇治山田駅前(CBCテレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "9月1日「防災の日」 子どもと一緒に大人も避難行動のスイッチを・命守る方法学ぶ 山形・大石田町",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "あす9月1日から生活道路が時速30kmに引き下げ 園児が呼びかけ「スピード気を付けて」",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "高市首相の「0時間~3時間睡眠」、30分睡眠を自称するショートスリーパー...本当に可能? 睡眠の専門家は「仕事を続けるのはほぼ不可能」と断言(AERA DIGITAL)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "愛荘町で「滋賀こども福祉機器展」 子ども用福祉機器の展示や体験も(みんなの経済新聞ネットワーク)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【#職コス × SUKUUS】アゼライン酸どこまで語れる?! 作用から効果までオタクが語るマニアックな”アゼライン酸”セミナー",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
