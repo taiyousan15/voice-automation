@@ -1,135 +1,10 @@
 {
-  "generated_at": "2026-09-01T23:12:39.101773",
-  "total_episodes": 4,
+  "generated_at": "2026-09-02T02:54:35.643209",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260901",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【国内初】ConoHa VPS byGMOが「ChatGPT」対応プラグイン提供開始【GMOインターネット】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "サードリー、仕事の実態を可視化する経営支援プラットフォーム「Profiit(プロフィート)」を9月1日より正式提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SalesforceとAnthropic、Claudeforceを発表:「世界No.1のAI」と「世界No.1のAI CRM」が融合",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Chatから自律実行へ Microsoft IQとCopilot Cowork/Scoutが示すAIエージェントの近未来",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "LAWGUE MCPサーバー提供開始、 リーガルテックSaaSと汎用AIの共存モデルを提示",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "株式会社homula、エージェンティック・ハーネスの設計・構築支援を開始。既存製品「agens」とあわせ、製品導入から内製まで対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AAIF、MCPのガバナンスとA2Aの現状、AIエージェントにオープン標準が必要な理由を説明 ——9月10・11日に「AGNTCon + MCPCon Japan 2026」を渋谷で開催",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260901",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "生成AI連携機能「NIKKEI KAI MCP」提供開始、企業の調査業務や事業企画を支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「嬉しいけど少し寂しい」で音楽を探せる。Amadeus Code、感情のニュアンスを自然言語で検索するAI音楽検索「Emotion Search」を開発",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "統合ID管理の「YESOD」がリブランディング、企業活動の根幹となる“人・組織データOS”へ。追加調達により累計調達額10億円を突破、新機能も発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "GMO TECH、店舗運営をAIとの会話で支援する「GMO店舗AIエージェント」β版を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "パーフェクト株式会社、「Zennfes Spring2026」の投稿コンテスト受賞者を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 比較_20260901",
-      "theme": "哲学 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ハリー・ウィンストンの「HWモーメント・コレクション」に、新作タイムピース「HW モーメント・ブリング ボール」が登場",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ハリー・ウィンストンの「HWモーメント・コレクション」に、新作タイムピース「HW モーメント・ブリング ボール」が登場",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "新型Hypermotard V2 SP、新型DesertX、2026年9月12日(土)日本発売開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【10/29開催】顧客のアウトカム(成果)をテーマとした国内初※のB2Bカンファレンス「OUTCOME 2026」、全プログラム・タイムテーブルを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ゴールベースアプローチのロボアド「ON COMPASS」が10周年",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "生活道路の法定速度“30km/h”への引き下げ、内容を十分に知らない人が約6割",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "石田ゆり子やジェーン・スー&堀井美香ら豪華著名人が読者のお悩みに回答。『CREA』2026年秋号は「1冊まるごと人生相談」特集!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20260901",
+      "name": "episode_skill おすすめ 理由_20260902",
       "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
@@ -142,19 +17,19 @@
           "trust_score": 8.0
         },
         {
-          "title": "Claude CodeのSkill frontmatterガイド—全20項目とベストプラクティス",
-          "source": "Serverworks Corporation",
+          "title": "AIに奪われるのは「仕事」ではなかった 人間のスキル劣化、密かに進行",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         },
         {
-          "title": "満足度98.6%!「拍手が、握手に変わる。」──称賛が組織を動かす、リクルート流カルチャーの正体 「カルチャーデザイナーシンポジウム2026」を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "増殖する「野良Skills」が新たな技術的負債になる",
+          "source": "Itmedia",
+          "trust_score": 7.5
         },
         {
-          "title": "社内エンジニアAI活用の「質」を定量評価する「Skill Assessment」β版をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Claude CodeのSkill frontmatterガイド—全20項目とベストプラクティス",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         }
       ]
     }
