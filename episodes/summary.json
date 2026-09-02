@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-09-01T03:36:37.575656",
-  "total_episodes": 0,
+  "generated_at": "2026-09-02T02:54:35.643209",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ 理由_20260902",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「oyakata」を展開するアイティップス、エフワンエヌとAXSP防水工法の事業化に向けた協業をインドで開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIに奪われるのは「仕事」ではなかった 人間のスキル劣化、密かに進行",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "増殖する「野良Skills」が新たな技術的負債になる",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude CodeのSkill frontmatterガイド—全20項目とベストプラクティス",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
