@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T02:54:35.643209",
-  "total_episodes": 1,
+  "generated_at": "2026-09-03T02:58:15.473654",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ 理由_20260902",
+      "name": "episode_skill おすすめ 理由_20260903",
       "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
@@ -15,21 +15,81 @@
           "title": "「oyakata」を展開するアイティップス、エフワンエヌとAXSP防水工法の事業化に向けた協業をインドで開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260903",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "AIに奪われるのは「仕事」ではなかった 人間のスキル劣化、密かに進行",
-          "source": "ライブドアニュース",
+          "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「freee-mcp」、「freeeサーベイ」に対応し、サーベイプロダクトとして国内初のMCP連携を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "国産AIO(LLMO/GEO)分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減。生成AIでの分析・施策設計がスムーズに",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "第925回 UbuntuでセルフホストFaaS「Orva」を使ってみよう",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.5
         },
         {
-          "title": "増殖する「野良Skills」が新たな技術的負債になる",
-          "source": "Itmedia",
-          "trust_score": 7.5
+          "title": "「嬉しいけど少し寂しい」で音楽を探せる。Amadeus Code、感情のニュアンスを自然言語で検索するAI音楽検索「Emotion Search」を開発",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260903",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude Code・AI駆動開発研修」を実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Claude CodeのSkill frontmatterガイド—全20項目とベストプラクティス",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
+          "title": "設立1年、AI Librarium がブランドムービーを公開。「Lead Always.」を、言葉から体験へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アクシスコンサルティングとAI Librarium、コンサルタントを「FDE」へ育成する新プログラムを開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI Librarium、アクシスコンサルティングとAI案件を推進するFDE人材の育成に向け業務提携を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
