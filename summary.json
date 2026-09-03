@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-09-03T02:58:15.473654",
+  "generated_at": "2026-09-03T23:09:21.289931",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
+    {
+      "name": "episode_MCP おすすめ 理由_20260903",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "対話でベテランの判断基準を残す「Chizel」、先行導入企業2社の募集を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Alibaba、AIエージェントも利用できるローカル検索ツール「zg」をオープンソースとして公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "BacklogをCLIから操作 ヌーラボ開発者が「bee」をOSSで公開",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Code スラッシュコマンド早見表 2026 年 9 月版",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "タレントパレット、MCP対応で各種生成AIから人材データの活用を可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude Codeでトークンを消費する4つの設定と対処法",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Jizai、AIエージェントに身体を与える卓上型AIロボット「Palmimo DevKit(パルミーモ デブキット)」の先行販売を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20260903",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Herdr × Ghosttyで始める「マネージャー」のAI駆動を加速させるターミナルマルチプレクサのすゝめ",
+          "source": "Digital Media Market Inside",
+          "trust_score": 7.5
+        }
+      ]
+    },
     {
       "name": "episode_skill おすすめ 理由_20260903",
       "theme": "skill おすすめ 理由",
@@ -12,84 +72,9 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "「oyakata」を展開するアイティップス、エフワンエヌとAXSP防水工法の事業化に向けた協業をインドで開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260903",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "OrcaRouter、AIエージェントの実行を記録・再生・分岐できるOSSツール「OrcaReplay」を公開サブタイトル",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「freee-mcp」、「freeeサーベイ」に対応し、サーベイプロダクトとして国内初のMCP連携を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "国産AIO(LLMO/GEO)分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減。生成AIでの分析・施策設計がスムーズに",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "第925回 UbuntuでセルフホストFaaS「Orva」を使ってみよう",
-          "source": "Gijutsu Hyohron Company",
+          "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
+          "source": "Rakus Company",
           "trust_score": 7.5
-        },
-        {
-          "title": "「嬉しいけど少し寂しい」で音楽を探せる。Amadeus Code、感情のニュアンスを自然言語で検索するAI音楽検索「Emotion Search」を開発",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260903",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude Code・AI駆動開発研修」を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "設立1年、AI Librarium がブランドムービーを公開。「Lead Always.」を、言葉から体験へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "アクシスコンサルティングとAI Librarium、コンサルタントを「FDE」へ育成する新プログラムを開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI Librarium、アクシスコンサルティングとAI案件を推進するFDE人材の育成に向け業務提携を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
