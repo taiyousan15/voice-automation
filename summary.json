@@ -1,56 +1,26 @@
 {
-  "generated_at": "2026-09-02T23:12:44.937834",
+  "generated_at": "2026-09-03T02:58:15.473654",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 おすすめ 理由_20260902",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_skill おすすめ 理由_20260903",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "子どもたちのアイデア光る夏休み工作「ノーベルのたまご展」【岩手・滝沢市】(IAT岩手朝日テレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "1本50万円超えで寿命は10年かつ空気圧は100kPa以下。知られざる「トラクター用タイヤ」の特殊すぎる構造(WEB CARTOP)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "日向坂46『ひなたフェス2026』開催中止 宮崎県知事がコメント発表「私自身も大変無念であり、言葉に尽くせない思いです」台風接近、警報級の雨予報踏まえ判断",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "40代ふたり暮らし、暮らし方の違う夫と心地よく過ごすコツ。「1か所だけミニマリスト」がちょうどよい(ESSE-online)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【歌詞全文あり】2026年夏ドラマがクライマックスへ!ストーリーの展開とともに深みを増すドラマ主題歌を厳選",
-          "source": "The First Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年9月2日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026 JAPAN IDPA AWARD|「日本国際パイオニアデザイン賞」授賞式・国際デザインフォーラム、東京で盛況のうちに閉幕",
+          "title": "「oyakata」を展開するアイティップス、エフワンエヌとAXSP防水工法の事業化に向けた協業をインドで開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260902",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 比較_20260903",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -62,22 +32,7 @@
           "trust_score": 8.0
         },
         {
-          "title": "VMware Cloud Foundation、Private AI Cloud上での最先端のAIモデルの活用を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "バイナンス、米国株・ETFオプション取引を追加。1000超の銘柄に対応",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
           "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「士業×AI」の実務活用に特化した専門メディア「士業のチカラ」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -87,54 +42,54 @@
           "trust_score": 8.0
         },
         {
-          "title": "企業資産/IPとAIを繋ぐプラットフォームサービス「KORE。」をリリースいたします。",
+          "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "国産AIO(LLMO/GEO)分析ツール「DolphinX AIO」が、MCP連携の応答データを最大89%削減。生成AIでの分析・施策設計がスムーズに",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "第925回 UbuntuでセルフホストFaaS「Orva」を使ってみよう",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「嬉しいけど少し寂しい」で音楽を探せる。Amadeus Code、感情のニュアンスを自然言語で検索するAI音楽検索「Emotion Search」を開発",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_Claude Code おすすめ 理由_20260902",
-      "theme": "Claude Code おすすめ 理由",
+      "name": "episode_skill おすすめ_20260903",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "イード、「言葉だけで、安全に業務アプリを作成」できる法人向けAIプラットフォーム「AI:QLUE / ccbox」の無償トライアルを提供開始",
+          "title": "非エンジニア組織が3日間で8つの実務アプリを開発アウトバーン、株式会社レニクスにて「Claude Code・AI駆動開発研修」を実施",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Anthropic、Claude Fable 5.1とMythos 5.1を発表",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
+          "title": "設立1年、AI Librarium がブランドムービーを公開。「Lead Always.」を、言葉から体験へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "【協賛レポート】Yoitoi Summit 2026|良い問いから探る、これからのクリエイターのあり方と価値",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
+          "title": "アクシスコンサルティングとAI Librarium、コンサルタントを「FDE」へ育成する新プログラムを開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "AIはもう「下書きと調べ物」の道具ではない、想像以上に重い仕事も、25万件の会話が示した仕事の任せ方 【生成AI事件簿】Claude利用の56%が重大タスク、12%は法務・金融など高リスク領域での利用",
-          "source": "Jbpress (ジェイビープレス) ｜ リアルな知性で世界に勝つ",
-          "trust_score": 8.5
-        },
-        {
-          "title": "2026年9月1日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "SalesforceとAnthropicが「Claudeforce」、ClaudeをSlackのデフォルトモデルに",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "SalesforceとAnthropic、戦略提携「Claudeforce」発表 AI推論とCRMデータを融合(日本ネット経済新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
+          "title": "AI Librarium、アクシスコンサルティングとAI案件を推進するFDE人材の育成に向け業務提携を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
