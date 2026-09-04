@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-03T23:09:21.289931",
-  "total_episodes": 3,
+  "generated_at": "2026-09-04T02:57:15.550991",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260903",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_MCP 方法_20260904",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -17,8 +17,23 @@
           "trust_score": 8.0
         },
         {
-          "title": "Alibaba、AIエージェントも利用できるローカル検索ツール「zg」をオープンソースとして公開",
-          "source": "Gijutsu Hyohron Company",
+          "title": "AI駆動開発で見えたリードタイム短縮の課題",
+          "source": "Askul Corporation Engineering Blog",
+          "trust_score": 7.0
+        },
+        {
+          "title": "非エンジニア中心の6名チームが「AIへの指示」でAIスクールそのものを構築。生成AI人材育成オンラインスクール「THE MONOLITH」9月3日提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Optimize NextがMCPを提供開始。ABテストの立案から実装、公開、分析まで、すべてAIとの対話だけで実現可能に。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Optimize NextがMCPを提供開始。ABテストの立案から実装、公開、分析まで、すべてAIとの対話だけで実現可能に。",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
@@ -27,30 +42,15 @@
           "trust_score": 7.5
         },
         {
-          "title": "Claude Code スラッシュコマンド早見表 2026 年 9 月版",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "タレントパレット、MCP対応で各種生成AIから人材データの活用を可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Claude Codeでトークンを消費する4つの設定と対処法",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Jizai、AIエージェントに身体を与える卓上型AIロボット「Palmimo DevKit(パルミーモ デブキット)」の先行販売を開始",
+          "title": "インサイトテクノロジーの製品戦略本部 本部長 児玉崇が3年連続で「Qlik Partner Ambassador」に選出",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_skill 比較_20260903",
-      "theme": "skill 比較",
+      "name": "episode_skill 方法_20260904",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -59,21 +59,6 @@
         {
           "title": "Herdr × Ghosttyで始める「マネージャー」のAI駆動を加速させるターミナルマルチプレクサのすゝめ",
           "source": "Digital Media Market Inside",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20260903",
-      "theme": "skill おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
-          "source": "Rakus Company",
           "trust_score": 7.5
         }
       ]
