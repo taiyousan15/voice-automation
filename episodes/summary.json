@@ -1,55 +1,25 @@
 {
-  "generated_at": "2026-09-04T02:57:15.550991",
+  "generated_at": "2026-09-05T02:58:50.069824",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260904",
-      "theme": "MCP 方法",
+      "name": "episode_skill おすすめ 理由_20260905",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "対話でベテランの判断基準を残す「Chizel」、先行導入企業2社の募集を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI駆動開発で見えたリードタイム短縮の課題",
-          "source": "Askul Corporation Engineering Blog",
-          "trust_score": 7.0
-        },
-        {
-          "title": "非エンジニア中心の6名チームが「AIへの指示」でAIスクールそのものを構築。生成AI人材育成オンラインスクール「THE MONOLITH」9月3日提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Optimize NextがMCPを提供開始。ABテストの立案から実装、公開、分析まで、すべてAIとの対話だけで実現可能に。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Optimize NextがMCPを提供開始。ABテストの立案から実装、公開、分析まで、すべてAIとの対話だけで実現可能に。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "BacklogをCLIから操作 ヌーラボ開発者が「bee」をOSSで公開",
-          "source": "Atmarkit Itmedia",
+          "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
+          "source": "Rakus Company",
           "trust_score": 7.5
-        },
-        {
-          "title": "インサイトテクノロジーの製品戦略本部 本部長 児玉崇が3年連続で「Qlik Partner Ambassador」に選出",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_skill 方法_20260904",
+      "name": "episode_skill 方法_20260905",
       "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
@@ -57,9 +27,9 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "Herdr × Ghosttyで始める「マネージャー」のAI駆動を加速させるターミナルマルチプレクサのすゝめ",
-          "source": "Digital Media Market Inside",
-          "trust_score": 7.5
+          "title": "Zenken、「第2回インド人材交流会」を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
