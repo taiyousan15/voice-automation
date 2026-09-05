@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-09-04T22:56:11.545724",
-  "total_episodes": 0,
+  "generated_at": "2026-09-05T02:58:50.069824",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ 理由_20260905",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
+          "source": "Rakus Company",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20260905",
+      "theme": "skill 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Zenken、「第2回インド人材交流会」を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
