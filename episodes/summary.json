@@ -1,35 +1,45 @@
 {
-  "generated_at": "2026-09-05T02:58:50.069824",
-  "total_episodes": 2,
+  "generated_at": "2026-09-06T02:58:09.267845",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ 理由_20260905",
-      "theme": "skill おすすめ 理由",
+      "name": "episode_MCP 方法_20260906",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "スキルを43個作っても越えられない、仕様駆動開発の4つの壁",
-          "source": "Rakus Company",
+          "title": "Adobe、新CEOにチャクラヴァーシー Creative Cloudとエージェント型AIの次戦略に注目",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Claude Code更新 モデル切替フック・キャッシュ可視化【8/28〜9/3】",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20260905",
-      "theme": "skill 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "Zenken、「第2回インド人材交流会」を開催",
+          "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索&要約ができる「DocuBrowser」、個人情報の認識も可能",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "x402株式会社、一般社団法人日本暗号資産ビジネス協会(JCBA)に準会員として入会",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "x402株式会社、一般社団法人日本暗号資産ビジネス協会(JCBA)に準会員として入会",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "デンソークリエイト、「DC Agentiqs」V1.2を提供開始 組織の知識と設計資産を活用し、開発タスクを主体的に遂行するAIエージェント基盤へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
