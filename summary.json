@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-09-07T02:55:58.444377",
-  "total_episodes": 0,
+  "generated_at": "2026-09-07T23:22:44.028725",
+  "total_episodes": 2,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ_20260907",
+      "theme": "占い おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【ポイントランキング】2026年WEC第5戦オースティン終了後",
+          "source": "Auto Sport",
+          "trust_score": 7.5
+        },
+        {
+          "title": "J.P. モルガン、BytesとBechtleのカバレッジを開始——AI上昇余地は限定的",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "的中率わずか15%...「線状降水帯」予測の難しさ 氷見市に観測史上最大雨量をもたらした”夜の脅威”",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【画像】横浜のJKさん、県庁への表敬訪問でとんでもないスカート丈を披露してしまうwww",
+          "source": "Vipper速報",
+          "trust_score": 7.5
+        },
+        {
+          "title": "的中率わずか15%...「線状降水帯」予測の難しさ 氷見市に史上最大479ミリの雨をもたらした\"夜の脅威\"",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        },
+        {
+          "title": "MNOシェア90.7%、povoが総合満足度・NPSで首位 - MMD研究所調査",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "焼酎だけじゃない!鹿児島の誇り「コガネセンガン」が口どけスイーツ「ほろ雪」に 60周年記念で本格販売(FNNプライムオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20260907",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ビープラッツ、クウジット、AI駆動開発に関連する「AI駆動開発ガイドライン」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ビープラッツ、クウジット、AI駆動開発に関連する「AI駆動開発ガイドライン」を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "DEF CON 34参加記(2026/8/6 – 8/9)",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "複数のAIエージェントを1つのターミナルから統括できる「Herdr」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "富士通の人事部門で実施した「伴走型AI研修」、満足度9.57。AIへの抵抗感は43%低下",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
