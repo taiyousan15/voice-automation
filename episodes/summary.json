@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-09-08T03:05:30.963008",
-  "total_episodes": 1,
+  "generated_at": "2026-09-09T03:06:52.501599",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP 活用_20260908",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Agora、Conversational AIを現実世界へ拡張、認識・対話・アクションを実現する次世代デバイスを支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2週間の侵入作業を10時間未満に圧縮 AIエージェント“フル活用”の攻撃の全貌",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "クラウドERP『ZAC』、日本最大のバックオフィス総合展「総務・人事・経理Week」に出展",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "DEF CON 34参加記(2026/8/6 – 8/9)",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "UnivaPay、越境EC向け多通貨決済「MCP」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "土地を買う前・家を建てる前の下調べを、住所ひとつで。「国土DB」を公開(β版)",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "土地を買う前・家を建てる前の下調べを、住所ひとつで。「国土DB」を公開(β版)",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
