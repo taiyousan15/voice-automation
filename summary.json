@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-09-09T03:06:52.501599",
-  "total_episodes": 0,
+  "generated_at": "2026-09-09T23:07:01.970600",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill おすすめ_20260909",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "イーサスキャン、オンチェーンの資金移動可視化機能を公開",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "柳谷智宣のAIトレンドインサイト 第35回 生成AIで仕事は速くなるが能力は落ちる?4つの最新研究が示す「AIデスキリング」の実態",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【株式会社PASET】マーケティング・AI/DX・採用組織を仕事単位で任せられる「PASET WORKS」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "生成AIへの情報漏えいを止める。AI Librarium、AIガバナンス・セキュリティ統合オファリング「AIL Governance X」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
