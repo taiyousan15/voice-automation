@@ -1,75 +1,75 @@
 {
-  "generated_at": "2026-09-10T03:07:24.808598",
+  "generated_at": "2026-09-11T03:02:18.185141",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260910",
-      "theme": "skill 方法",
+      "name": "episode_MCP おすすめ 理由_20260911",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ChatGPTのデスクトップアプリにはLibreOfficeの完全版が同梱されている",
-          "source": "Gigazine",
+          "title": "最新版はどれだ!?が日常的だった業務をkintoneに置き換え、ヒーローになった情シスが陥った落とし穴",
+          "source": "Ascii",
           "trust_score": 7.5
         },
         {
-          "title": "柳谷智宣のAIトレンドインサイト 第35回 生成AIで仕事は速くなるが能力は落ちる?4つの最新研究が示す「AIデスキリング」の実態",
-          "source": "Mynavi News",
+          "title": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーション基盤の提供を開始",
+          "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "上司が陥る「虻蜂取らず」元グーグル人材育成統括部長が部下に任せて得た「2つの成果」",
-          "source": "Jbpress (ジェイビープレス) ｜ リアルな知性で世界に勝つ",
-          "trust_score": 8.5
+          "title": "Claude・ChatGPT・Kimiを“工程ごと”に横断 既存のAIを操るMac用AIワークスペース「WorkPilot」を無料公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20260910",
-      "theme": "MCP 活用",
+      "name": "episode_MCP 比較_20260911",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "title": "Yelpがゴールドマン・サックスのテクノロジー会議でAI戦略を発表",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "アトラシアン、シティ2026年グローバルTMT会議でAIを追い風と主張",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
+          "source": "Gigazine",
           "trust_score": 7.5
-        },
-        {
-          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「TerraSkyDay 2026」 Keynote登壇者を一挙公開!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【提供体制を拡大】Claude Code法人研修、講師の採用を本格開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Sonos 27、AIによる操作から新たなサウンド体験",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
