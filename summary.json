@@ -1,75 +1,140 @@
 {
-  "generated_at": "2026-09-11T03:02:18.185141",
-  "total_episodes": 2,
+  "generated_at": "2026-09-11T23:08:05.016212",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260911",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_skill 方法_20260911",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "最新版はどれだ!?が日常的だった業務をkintoneに置き換え、ヒーローになった情シスが陥った落とし穴",
-          "source": "Ascii",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーション基盤の提供を開始",
+          "title": "NTTデータ先端技術、YCP・ABPと共同でホワイトペーパー『生成AI時代のシステムインテグレーション』を発行",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Claude・ChatGPT・Kimiを“工程ごと”に横断 既存のAIを操るMac用AIワークスペース「WorkPilot」を無料公開",
+          "title": "NTTデータ先端技術、YCP・ABPと共同でホワイトペーパー『生成AI時代のシステムインテグレーション』を発行",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "パークホテル東京、月替わり現代アート展「J-ART Project」始動",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "title": "AIエージェントはどう作る? まず押さえておきたい重要技術",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Codeの作業、円換算するといくら? ccusageでトークン消費量を測ってみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260911",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Salesforce、「Slackforce Surfaces」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "MCPは「AIとツールをつなぐ」で止まらない 共同開発者が語ったこれまでとこれから",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Salesforce、信頼できるエンタープライズAI実行基盤「Enterprise AI Harness」を発表",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "title": "Salesforce、信頼できるエンタープライズAI実行基盤「Enterprise AI Harness」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "GMOペパボ、EC向けトークイベント「COLOR ME SHOP DAY 2026」を10月8日開催 AI活用の動向・事例を紹介(日本ネット経済新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "オントロジーって何?というところから、AWS Context と Databricks Genie Ontology を比べてみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ナウキャスト、大和リアル・エステート・アセット・マネジメントに法人営業AXツール「DataLens法人営業」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 比較_20260911",
-      "theme": "MCP 比較",
+      "name": "episode_占い 方法_20260911",
+      "theme": "占い 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Yelpがゴールドマン・サックスのテクノロジー会議でAI戦略を発表",
+          "title": "プーチン露大統領、択捉島訪問1カ月 対抗措置とられず茂木外相は駐露大使の召還を「考えていない」と明言(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "プーチン露大統領、択捉島訪問1カ月 対抗措置とられず茂木外相は駐露大使の召還を「考えていない」と明言",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "TSK、2026年上半期の利益が大幅改善も株価は6.7%下落",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "アトラシアン、シティ2026年グローバルTMT会議でAIを追い風と主張",
+          "title": "ロシア、北方領土問題は「決着済み」 支配の既成事実化図る プーチン氏訪問1カ月(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ジョビー・アビエーション、240万株の再販売に関する目論見書補足を提出",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "ロシア、北方領土問題は「決着済み」 支配の既成事実化図る プーチン氏訪問1カ月",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "斎藤知事「使いやすさや事務コスト、迅速な支給を考慮し、現行制度を継続」 兵庫県が補正予算計上 約7割が「はばタンPAY+」第6弾に 「県民以外でも申し込みできる」と問題視されていたシステムは変更なし(関西テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
