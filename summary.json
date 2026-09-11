@@ -1,50 +1,75 @@
 {
-  "generated_at": "2026-09-10T23:02:43.092676",
-  "total_episodes": 1,
+  "generated_at": "2026-09-11T03:02:18.185141",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ_20260910",
-      "theme": "占い おすすめ",
+      "name": "episode_MCP おすすめ 理由_20260911",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "トフッティ・ブランズの10%株主A-6684社が4,000ドル相当の株式を取得",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【朗報】『GTA6』予約開始から約2ヶ月半で予約売上約800億円を記録wwwww",
-          "source": "Esuteru Japanese Gaming Blog",
-          "trust_score": 8.7
-        },
-        {
-          "title": "OrcaRouter、フロンティア規模のAIモデルで安全性アラインメントの脆弱性を示す研究論文を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "4万5000円引き! 約1.95kgの16型ゲーミングノート「ASUS Gaming V16」が19万4800円",
+          "title": "最新版はどれだ!?が日常的だった業務をkintoneに置き換え、ヒーローになった情シスが陥った落とし穴",
           "source": "Ascii",
           "trust_score": 7.5
         },
         {
-          "title": "BLUE ENCOUNT、新曲「未完成」のMV公開。映像の88.4%がワンカットで構成される拙くも真っ直ぐな映像に",
-          "source": "Barks",
+          "title": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーション基盤の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude・ChatGPT・Kimiを“工程ごと”に横断 既存のAIを操るMac用AIワークスペース「WorkPilot」を無料公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "驚異の後半6発で“乱打戦”制すも...X・アロンソ監督は改善点を指摘「より堅実なチームに」",
-          "source": "サッカーキング",
-          "trust_score": 7.0
+          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "BofAがジャージー・マイクス・サブスの目標株価を引き上げ、客数増加が追い風に",
+          "title": "エモーショナル・テクノロジーズの感情解析AI「KDE」、米Robutlerにエージェント搭載",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260911",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Yelpがゴールドマン・サックスのテクノロジー会議でAI戦略を発表",
           "source": "Investing- Fx",
           "trust_score": 6.5
+        },
+        {
+          "title": "アトラシアン、シティ2026年グローバルTMT会議でAIを追い風と主張",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026知財‧情報フェア&コンファレンスに出展します!知財AIエージェント「MCPサーバー」およびAI Samurai ONEの新機能を紹介!",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "DaVinci Resolve 21.1がClaudeやChatGPTなどのAIアシスタントとの連携をサポート",
+          "source": "Gigazine",
+          "trust_score": 7.5
         }
       ]
     }
