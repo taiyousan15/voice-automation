@@ -1,6 +1,122 @@
 {
-  "generated_at": "2026-09-12T03:09:21.272802",
-  "total_episodes": 0,
+  "generated_at": "2026-09-12T22:55:57.215050",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_占い おすすめ_20260912",
+      "theme": "占い おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "比 残留2世(95) 日本国籍回復認められず 最高裁へ(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "京都 陸上競技場で食中毒か 20人以上病院搬送(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【ダブル台風のたまご】「熱帯低気圧」発生へ シルバーウイークに近づくのか【雨風シミュレーション23日(水)/シルバーウイーク天気予報】今後の「台風情報」に注意 気象庁予想天気図(MBC南日本放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "岐阜で6歳未満の子どもが脳死 心臓、肝臓、腎臓を移植(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "速報バレー男子準決勝 日本vs韓国",
+          "source": "Yahoo Japan",
+          "trust_score": 8.2
+        },
+        {
+          "title": "立川市は交通事故が都内最多 書道・ダンス...様々パフォーマンスで防止訴え(テレビ朝日系(ANN))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "京都の陸上選手権会場で食中毒か、23人搬送(共同通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ 理由_20260912",
+      "theme": "思想 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "レーシングブルズF1代表 角田裕毅の初日を評価「難しい走行でもライバル勢の前」",
+          "source": "F1-gate",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アラ還・海外ひとり旅で、泥まみれの「ひとり転倒」...それでも意外に大丈夫だった理由【50代イギリス旅】(webマガジン mi-mollet)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "『まどか☆マギカ』最新作の新デザインができるまで。 総監督・新房昭之×キャラクター原案・蒼樹うめ 対談",
+          "source": "Ananweb",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「進撃の巨人」&今敏監督から影響を受けた“若き天才” 21歳の俊英が『バックルームズ』を監督するまで【インタビュー】",
+          "source": "Cinema Today: Movie Information Updated Daily!",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「自治会は面倒くさい」つきまとう負のイメージを覆せ!担い手不足解消へ進化する新潟市の自治会",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "塚本晋也監督が語る、戦争を描き続ける理由。『ネルソンさん、あなたは人を殺しましたか?』",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "映画「九条の大罪」、悪の生態系に関わるキャストを一挙公開",
+          "source": "Music Voice",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20260912",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90%削減した方法とは?",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
