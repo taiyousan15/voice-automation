@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-09-12T03:09:21.272802",
-  "total_episodes": 0,
+  "generated_at": "2026-09-13T03:11:56.833495",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 比較_20260913",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90%削減した方法とは?",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
