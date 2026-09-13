@@ -1,30 +1,95 @@
 {
-  "generated_at": "2026-09-13T03:11:56.833495",
-  "total_episodes": 1,
+  "generated_at": "2026-09-13T23:03:29.409820",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260913",
-      "theme": "skill 比較",
+      "name": "episode_Claude Code 方法_20260913",
+      "theme": "Claude Code 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
           "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90%削減した方法とは?",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
-          "source": "Pr Times",
+          "title": "Anthropic、Claudeの実システム侵入で7月の評価を修正 「偏った推論」と「無謀さ」を認定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Anthropic、Claudeの悪用実態を報告―生物研究や自律型兵器、サイバー攻撃に利用",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "すべての人に創作の喜びを AIが台頭しても変わらない人間の根源的欲求 note株式会社代表取締役CEO・加藤貞顕(AERA DIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "マイナビ出版の9月新刊含む15タイトルが20%OFF、「Tech Book Zone Manatee」で「技書博」記念キャンペーン中",
+          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "マイナビ出版の9月新刊含む15タイトルが20%OFF、「Tech Book Zone Manatee」で「技書博」記念キャンペーン中",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20260913",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "秋篠宮さまが語られた「次世代の国際親善」への期待...愛子さまのシンガポール訪問と佳子さまの精力的なご公務へ高まる関心(週刊女性PRIME)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "元銀行員は見た!お金が貯まる人の何気ない習慣3つ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "トイレに駆け込んだら......「怖くて押せない」 まさかのボタンに「二度見したんだけどw」「病院送りにされそうですね」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "名車「スバル360“復刻版”」に反響殺到!「これ絶対売れる!」「スバルの技術すごい...」の声! さらに「ホンダ『スーパーワン』に続けぇぇ」との熱い期待も!? “旧車デザイン”採用した斬新「エルテン」に大注目!",
+          "source": "Car News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "普段立ち入ることのできない駐機場や管制塔の見学も 山口宇部空港で「空の日」記念フェスティバル(KRY山口放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "普段立ち入ることのできない駐機場や管制塔の見学も 山口宇部空港で「空の日」記念フェスティバル",
+          "source": "日テレnews Nnn",
           "trust_score": 7.5
+        },
+        {
+          "title": "元商社マンがドイツ6部リーグの経営幹部へ 挫折の先に見つけた没入できる仕事(後編)",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
         }
       ]
     }
