@@ -1,50 +1,95 @@
 {
-  "generated_at": "2026-09-14T03:24:59.175593",
+  "generated_at": "2026-09-14T23:47:51.157491",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20260914",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_Claude Code 活用_20260914",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
-          "source": "Gigazine",
+          "title": "ソニー銀行と富士通、勘定系システムの実開発に生成AIを本格適用",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90%削減した方法とは?",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "ガードレールだけでは防げない、AIエージェント時代の独立したポリシー実行層",
+          "title": "Uravation、研修会社・士業事務所向けに「研修支援事業」を提供開始。AI研修の商品設計・営業キット・講師育成から初回案件の受注まで、事業者自身のブランドで伴走",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "AIエージェント「Devin」向けコーディングモデル「SWE-2」、Fable 5.1に1ポイント差でコスト64%減と報告",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "Local LLMを社内に提供! Local LLM Model as a Serviceとその取り組みについて",
+          "source": "Nippon Telegraph And Telephone Developer Portal",
+          "trust_score": 9.7
+        },
+        {
+          "title": "事業責任者・CTO向けの無料セミナー「DeNAデータアナリストが語る『ハーネスエンジニアリング』と『AI導入』」を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "GPT-6 AstraとClaude Fableの性能を引き出すハーネス「Fusion」が登場、Claude CodeやCodexで使う場合と同等の性能を示しつつコストを最大39%削減",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "日本AI開発センター、企業の現場に入り込みAI活用を構想から実装・定着まで担う「現場FDE支援」を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 方法_20260914",
-      "theme": "MCP 方法",
+      "name": "episode_思想 おすすめ_20260914",
+      "theme": "思想 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Uravation、非エンジニア向け「Codex実務ガイド」を拡充。使い方・VS Code・MCPなど入門5本を追加し、Codex記事は47本に",
-          "source": "Infoseek Japan",
+          "title": "浜町に長~い列「油そば専門店」全国に100店舗以上の人気店が長崎初上陸《長崎》(長崎国際テレビ)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
+        },
+        {
+          "title": "「いつまでもゴタゴタやってられたら...」 来年の県知事選 長崎幸太郎知事を党本部に推薦へ 一方で異例の注文も 自民党山梨県連(UTYテレビ山梨)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【不登校離職】仕事を辞める前に知っておきたい3つのポイントと支援制度(ベネッセ教育情報)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【フカボリ天気】新たな台風発生へ...今後の進路は? 15日(火)は広く本降りの雨 激しく降るところも",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.5
+        },
+        {
+          "title": "嶋本悠大、清水を今季ホーム初勝利に導く決勝弾! 弾みをつけてU-21日本代表へ「アジア大会でも点を取りたい」",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "嶋本悠大、清水を今季ホーム初勝利に導く決勝弾! 弾みをつけてU-21日本代表へ「アジア大会でも点を取りたい」",
+          "source": "サッカーキング",
+          "trust_score": 7.0
+        },
+        {
+          "title": "突然の“パニック障害”で寝たきりに...重度障害児を育てるシングルマザーのメンタルは、なぜ崩れたのか?(webマガジン mi-mollet)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
         }
       ]
     }
