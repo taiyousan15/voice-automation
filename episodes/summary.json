@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-09-13T03:11:56.833495",
-  "total_episodes": 1,
+  "generated_at": "2026-09-14T03:24:59.175593",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260913",
-      "theme": "skill 比較",
+      "name": "episode_MCP おすすめ 理由_20260914",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
           "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90%削減した方法とは?",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "ガードレールだけでは防げない、AIエージェント時代の独立したポリシー実行層",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "「Bibbidi」の利用公開から1年でパートナー企業数が100社を突破!AIエージェント「Bibbidi」を先端技術の研究開発に活用する企業の取り組みを無料セミナーでご紹介",
+          "title": "AIエージェント「Devin」向けコーディングモデル「SWE-2」、Fable 5.1に1ポイント差でコスト64%減と報告",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20260914",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Uravation、非エンジニア向け「Codex実務ガイド」を拡充。使い方・VS Code・MCPなど入門5本を追加し、Codex記事は47本に",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
