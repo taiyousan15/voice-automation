@@ -1,20 +1,95 @@
 {
-  "generated_at": "2026-09-15T03:26:20.487911",
-  "total_episodes": 1,
+  "generated_at": "2026-09-15T23:29:19.309754",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260915",
-      "theme": "skill 比較",
+      "name": "episode_哲学 方法_20260915",
+      "theme": "哲学 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Skillの成果物に「作者名」を! フロントマターに生成元を残すという運用",
-          "source": "Serverworks Corporation",
+          "title": "2026年9月15日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
+        },
+        {
+          "title": "株式会社逆旅、逆旅出版に続くレーベル「GEKIRYO BOOKS ALTERNATIVE」を始動。第1作目は体験作家アメミヤユウ著『ワールドラインズ』書店で\"踊れる読書イベント\"も開催し話題に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "英紙の指摘「米国はAI受容の作法を『鉄腕アトム』から学ぶべきだ」(クーリエ・ジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【Bプレミアクラブ展望】東京サンロッカーズ「新章の幕開け...攻撃改革でPO争いなるか」",
+          "source": "Basketball King",
+          "trust_score": 7.0
+        },
+        {
+          "title": "シャープ、AIサーバー受注開始 27年度から販売 鴻海から調達、企業や自治体など向け(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "『ランタンズ』第5話をAIアライメントから読み解く マンハンターの使命が招いた破局",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "名勝負映像と本人トークであの熱狂と感動が蘇る! 食事付き&記念品付き『初代タイガーマスク トーク&特別上映会』が9/19・26開催",
+          "source": "Spice Entertainment Information",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ 理由_20260915",
+      "theme": "思想 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【台風情報】16日に台風になる見通し シルバーウィーク直撃の恐れ、秋雨前線との重なりで「台風圏外でも大雨」か 今後の進路予想と各国のシュミレーション(FNNプライムオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "日本XboxユーザーのBAN祭り、不正◯◯が原因だと判明!Xbox最高技術責任者が報告",
+          "source": "Esuteru Japanese Gaming Blog",
+          "trust_score": 8.7
+        },
+        {
+          "title": "わずか10分で4,000部が完売!「学研の図鑑LIVE」38歳編集長が語る、子どもの“好き”を掘り下げる図鑑づくり",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「AI検出ツール」って信じていいの?ディープフェイクの専門家に聞いてみた",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【「今日好き」けいひなカップルインタビュー】半年前の不成立から交際に至るまで 空白期間の想い・付き合ってから感じたギャップ「クールなタイプだと思っていたのですが」",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ピースのお母さん・世界最高齢のホッキョクグマ「バリーバ」が約2カ月ぶり一般公開再開【愛媛】(eat愛媛朝日テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "19万9980円になっちゃった。ゲーム向けVRマシン「Steam Frame」発売開始",
+          "source": "Gizmodo",
+          "trust_score": 7.0
         }
       ]
     }
