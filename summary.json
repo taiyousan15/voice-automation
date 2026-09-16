@@ -1,20 +1,90 @@
 {
-  "generated_at": "2026-09-16T03:22:09.640205",
-  "total_episodes": 1,
+  "generated_at": "2026-09-16T23:36:40.530457",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20260916",
-      "theme": "skill 方法",
+      "name": "episode_MCP おすすめ 理由_20260916",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "人口減少下の地域課題に対し「身近な関わり方」を提示。みらいワークス、内閣府「地方創生2.0」関係人口理解促進業務を受託",
+          "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
+          "source": "Atpress",
+          "trust_score": 8.5
+        },
+        {
+          "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "チェンジホールディングス、AI開発会社「アウターク」をグループ会社化",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "開くだけで5分かかるExcelからの脱却 社長に直談判したパートスタッフがチャレンジしたアプリ開発",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "生成AIの社内ルール、“チャットAI前提”のままになっていませんか - AIエージェントの特則まで収録した「生成AI利用ガイドライン ジェネレーター」を無料公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【福岡開催レポート】Claude Desktop × Amazon Bedrock で挑むAIエージェント活用セミナー",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「LLMOチェキ」、代理店が自社ダッシュボードにAI検索計測を組み込める公開APIを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 比較_20260916",
+      "theme": "Claude Code 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ミノ駆動氏が登壇 ── Offers、「AIでコード書く前に、要求・要件定義足りてる?ミノ駆動さんと改めて考える ドメイン駆動設計」ウェビナーを10月6日開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIに夫を奪われた悲しき妻たちの物語",
+          "source": "Wired.jp",
+          "trust_score": 6.5
+        },
+        {
+          "title": "オープンソースのコーディングエージェントClineのデスクトップアプリ「Cline Desktop」が登場",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Uravation、生成AI検索5サービスでの自社サイト引用率を実測。41問・延べ529回の観測で引用率は13.0%~63.4%、講師を探す8問では25.0%~75.0%",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "awoo GEO Suite、MCPに正式対応。ChatGPTやClaudeなどからGEOデータを自然言語で分析可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "なかむら まこと氏・飯沼 広基氏が登壇 ── Offers、「AI時代、プロダクトを広めるためにエンジニアは何ができる? GTMエンジニアリングの基礎と実践」ウェビナーを9月29日開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
