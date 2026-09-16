@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-09-15T03:26:20.487911",
+  "generated_at": "2026-09-16T03:22:09.640205",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 比較_20260915",
-      "theme": "skill 比較",
+      "name": "episode_skill 方法_20260916",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Skillの成果物に「作者名」を! フロントマターに生成元を残すという運用",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
+          "title": "人口減少下の地域課題に対し「身近な関わり方」を提示。みらいワークス、内閣府「地方創生2.0」関係人口理解促進業務を受託",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
