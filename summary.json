@@ -1,65 +1,50 @@
 {
-  "generated_at": "2026-09-18T03:13:59.989631",
-  "total_episodes": 2,
+  "generated_at": "2026-09-18T23:09:41.524827",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20260918",
-      "theme": "skill 活用",
+      "name": "episode_占い おすすめ_20260918",
+      "theme": "占い おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "日本初※「自分自身がトレーディングカードになる」アプリ誕生。HERO、世界の“孤独化”に挑む",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20260918",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Amazon Bedrock AgentCoreでAIエージェント「minneコンシェルジュ」を開発しました",
-          "source": "Gmo Pepabo Tech Blog",
-          "trust_score": 7.0
+          "title": "go!go!vanillas、ニューシングル「トリックスター」映像特典より「ダンデライオン」のライブ映像公開。タワレコ特別コラボ企画の実施発表も",
+          "source": "Barks",
+          "trust_score": 7.5
         },
         {
-          "title": "ELSOUL LABO、10 月 1 日に東京で「AIエージェント決済 × ステーブルコイン実用セミナー」を開催 - ライブデモ・ハンズオン・本番運用事例の 80 分で企業導入の道筋を示す",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "原作・ヨコオタロウ!舞台「爆剣-本能寺消滅記-」キャスト全員一挙解禁&メインビジュアル公開!9月18日よりチケット販売開始!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "Lattice、ポスト量子暗号対応のセキュア制御FPGA「Mach-N2」とAI駆動型開発ツールを発表",
+          "title": "読者が語り継ぎたい思いとは。集まった7000件超の声──VOGUE読者と考える戦争と平和",
+          "source": "Vogue",
+          "trust_score": 7.5
+        },
+        {
+          "title": "米サークルのL1「Arc」、メインネット初日のDEX取引高4.1億ドル。82%がミームコイン関連",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "アイ工務店、250名規模の新卒採用を継続 - 希望職種と勤務地を100%実現",
           "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "AIO(LLMO/GEO)計測・分析ツール「DolphinX AIO」、ChatGPTの公式プラグイン(MCP)を公開|ChatGPTとの対話から、自社のAI検索での露出・引用データを分析可能に",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "アビームコンサルティングとNotion、AIを前提とした業務・組織運営への転換を支援する新サービスを提供開始",
+          "title": "シルバーウィークはどう過ごす?水晶玉子が伝える、中秋の名月に向けた「シルバーウィーク開運特集」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "企業情報データベース「Compalyze」、月間アクティブユーザー数150万人を突破 公開から約4ヶ月で",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI時代、人の心はどこで動くのか?GMO DESIGN AWARD 2026 審査員有馬トモユキ・清水勝太・広野萌が語る、作品に宿る 「作り手の理由」",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
+          "title": "【赤い羽根募金不正】使途不明金が新たに7000万円発覚_元事務局長の着服疑いと合わせ2億5000万円に...「改善策が明らかになるまで」寄付を見送る町内会も<北海道>(北海道ニュースUHB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
