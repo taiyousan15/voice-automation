@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-17T03:28:09.886710",
+  "generated_at": "2026-09-18T03:13:59.989631",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20260917",
-      "theme": "MCP 方法",
+      "name": "episode_skill 活用_20260918",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AIエージェントの侵害、最終出力の監視だけでは見逃す恐れ 新研究が中間処理のリスクを整理",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Anthropic、資産運用アドバイザー向けClaudeを提供 SchwabやBlackRockなどと連携",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIエージェントの誤った記憶を抑制、Microsoft Researchが読み取り専用の検証手法",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Redmineベースのプロジェクト管理ツール「Planio」日本展開10周年!記念Tシャツプレゼントキャンペーンを実施",
+          "title": "日本初※「自分自身がトレーディングカードになる」アプリ誕生。HERO、世界の“孤独化”に挑む",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Claude向けMCPコネクタを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "内部統制業務SaaS「smoove J-SOX」はヒトとAIが手を取る内部統制プラットフォームへ。",
-          "source": "Atpress",
-          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20260917",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP おすすめ 理由_20260918",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「mitoco」Ver.24.0、「mitoco 申請」Ver.1.5をリリース",
+          "title": "Amazon Bedrock AgentCoreでAIエージェント「minneコンシェルジュ」を開発しました",
+          "source": "Gmo Pepabo Tech Blog",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ELSOUL LABO、10 月 1 日に東京で「AIエージェント決済 × ステーブルコイン実用セミナー」を開催 - ライブデモ・ハンズオン・本番運用事例の 80 分で企業導入の道筋を示す",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Lattice、ポスト量子暗号対応のセキュア制御FPGA「Mach-N2」とAI駆動型開発ツールを発表",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIO(LLMO/GEO)計測・分析ツール「DolphinX AIO」、ChatGPTの公式プラグイン(MCP)を公開|ChatGPTとの対話から、自社のAI検索での露出・引用データを分析可能に",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アビームコンサルティングとNotion、AIを前提とした業務・組織運営への転換を支援する新サービスを提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "企業情報データベース「Compalyze」、月間アクティブユーザー数150万人を突破 公開から約4ヶ月で",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI時代、人の心はどこで動くのか?GMO DESIGN AWARD 2026 審査員有馬トモユキ・清水勝太・広野萌が語る、作品に宿る 「作り手の理由」",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     }
