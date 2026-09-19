@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-09-18T23:09:41.524827",
-  "total_episodes": 1,
+  "generated_at": "2026-09-19T03:10:17.044791",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_占い おすすめ_20260918",
-      "theme": "占い おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "go!go!vanillas、ニューシングル「トリックスター」映像特典より「ダンデライオン」のライブ映像公開。タワレコ特別コラボ企画の実施発表も",
-          "source": "Barks",
-          "trust_score": 7.5
-        },
-        {
-          "title": "原作・ヨコオタロウ!舞台「爆剣-本能寺消滅記-」キャスト全員一挙解禁&メインビジュアル公開!9月18日よりチケット販売開始!",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "読者が語り継ぎたい思いとは。集まった7000件超の声──VOGUE読者と考える戦争と平和",
-          "source": "Vogue",
-          "trust_score": 7.5
-        },
-        {
-          "title": "米サークルのL1「Arc」、メインネット初日のDEX取引高4.1億ドル。82%がミームコイン関連",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "アイ工務店、250名規模の新卒採用を継続 - 希望職種と勤務地を100%実現",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "シルバーウィークはどう過ごす?水晶玉子が伝える、中秋の名月に向けた「シルバーウィーク開運特集」を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【赤い羽根募金不正】使途不明金が新たに7000万円発覚_元事務局長の着服疑いと合わせ2億5000万円に...「改善策が明らかになるまで」寄付を見送る町内会も<北海道>(北海道ニュースUHB)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
