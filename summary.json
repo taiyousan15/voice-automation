@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-09-19T03:10:17.044791",
-  "total_episodes": 0,
+  "generated_at": "2026-09-19T22:49:14.987088",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_思想 方法_20260919",
+      "theme": "思想 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【恐怖】65歳女、サッカー中村敬斗選手へのストーカー容疑でまた逮捕!手紙で結婚を迫る",
+          "source": "Esuteru Japanese Gaming Blog",
+          "trust_score": 8.7
+        },
+        {
+          "title": "【Bプレミアクラブ展望】琉球ゴールデンキングス「大改革で生まれ変わる常勝軍団...“超高速バスケ”で新時代へ」",
+          "source": "Basketball King",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ゲーム開発に「ローカルLLM」を取り込む必然性とは? メインメモリーの96GBをVRAM化するAI特化「DAIV」が示すPCの変革【TGS2026特集】",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2歳から101歳までランウェイ登場 越前市役所前の県道でファッショショー 地元のアパレル企業が企画(福井テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "天皇皇后両陛下がアジア大会開会式のため愛知に 栄の久屋大通公園には交流拠点オープン INIらが出席(メ〜テレ(名古屋テレビ))",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【超速報】しぐれうい、配信開始wwwwwwwwwwwwww",
+          "source": "Vipper速報",
+          "trust_score": 7.5
+        },
+        {
+          "title": "バイク好き芸人が参加 伊豆でバイクツーリズムを堪能「バイク乗りが集まる静岡に」(テレビ静岡NEWS)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.7
+        }
+      ]
+    }
+  ]
 }
