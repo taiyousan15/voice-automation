@@ -1,52 +1,6 @@
 {
-  "generated_at": "2026-09-20T03:26:58.555664",
-  "total_episodes": 1,
+  "generated_at": "2026-09-21T03:21:58.737535",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ_20260920",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Claude Code更新 Mods・Slides【9/11〜17】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "文字起こし字幕編集ソフト「Zimaku」を公開。話者ごとの自動分離とAIチャット修正で、文字起こしから字幕修正を簡単に。ローカルでの文字起こしは無料。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "OrcaRouter、Linuxディストリビューション「Omarchy」の非営利財団に特別法人パトロンとして参加",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "生成AIで、アニメ制作を効率化。プエンテ「AI Anime Factory」、企画から映像化まで最短1週間・従来コストの1/3~1/2以下で提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "国連が「UN System Data Commons」を公開、約4400万件の統計データをAIから利用可能に",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "未経験からでも“AIを使いこなす人材”に。RUNTEQ、AI駆動開発カリキュラムを拡充。AI時代のキャリアセミナーも開催。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
