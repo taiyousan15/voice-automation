@@ -1,85 +1,50 @@
 {
-  "generated_at": "2026-09-21T23:59:03.253128",
+  "generated_at": "2026-09-22T03:20:58.094922",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20260921",
-      "theme": "MCP 活用",
+      "name": "episode_MCP 比較_20260922",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
+          "title": "論文を実行可能なAIへ変える「Paper2Agent」、ADHD関連変異の候補も抽出",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
-        {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
-          "source": "Pr Times",
-          "trust_score": 8.0
         },
         {
           "title": "「おためし転職」、求人ページのシェア機能とOGP表示に対応",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claude・ChatGPTのサブスクで使えるデスクトップAIエージェントアプリ「Kari」をGotoAIが無償公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_思想 比較_20260921",
-      "theme": "思想 比較",
+      "name": "episode_MCP おすすめ_20260922",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「みんなに元気と勇気を」大雨被災地に勇壮な獅子舞 氷見は「獅子舞の里」",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「みんなに元気と勇気を」大雨被災地に勇壮な獅子舞 氷見は「獅子舞の里」(北日本放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "色にこだわるゲーミングモニター「BenQ MOBIUZ」には“ゲームアートにあわせたカラーモード”あり。SFは金属のツヤ感アップなど、TGS2026で実物を見ると違いがくっきり",
-          "source": "Automaton",
+          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "ロシア制裁の代償、ドイツのガス備蓄率が過去最低水準に",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
+          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "「雨の日ってぶっちゃけどれだけ止まらない?」JAFがPCX125・レブル250・Z900RSで制動距離を実測【バイクQ & A】",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【特集】男鹿市の本山に墜落したB29 副機長の遺族が秋田へ B29の爆撃を受けた土崎空襲経験者と交流 乗組員の慰霊祭に参列 秋田(ABS秋田放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【特集】男鹿市の本山に墜落したB29 副機長の遺族が秋田へ B29の爆撃を受けた土崎空襲経験者と交流 乗組員の慰霊祭に参列 秋田",
-          "source": "日テレnews Nnn",
-          "trust_score": 7.5
+          "title": "AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く",
+          "source": "Ascii",
+          "trust_score": 7.0
         }
       ]
     }
