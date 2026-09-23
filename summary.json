@@ -1,101 +1,11 @@
 {
-  "generated_at": "2026-09-22T23:33:51.066509",
-  "total_episodes": 5,
+  "generated_at": "2026-09-23T03:22:11.617000",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20260922",
-      "theme": "思想 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『フォルツァ ホライゾン6』、痛車ユーザーが一斉に永久BANされ大炎上!集団で通報しBANに追い込むケース多発、PS5版発売前に日本ユーザー絶滅へ",
-          "source": "Esuteru Japanese Gaming Blog",
-          "trust_score": 9.2
-        },
-        {
-          "title": "責任取る覚悟も...底上求められる広島新井監督の5年目 現場以外の改善点も山積み/記者の目",
-          "source": "Nikkan Sports",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「もはや栗」無印良品の“190円マロンバウム”に「凄く秋、美味しい」「栗の風味が良い、しっとりしたバウム」の声(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "川に“まさかの生き物”が大繁殖→水槽に入れたら...... 驚きの光景に「マジでやばい」「めっちゃわくわくする」(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【岡山大学】雌のみで繁殖する外来ザリガニ「ミステリークレイフィッシュ」から外来共生貝形虫を世界初確認!~アメリカザリガニからの宿主転換の可能性と沖縄での定着・分布拡大を明らかに~",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "仕事の多彩な魅力実感/青森で初開催、「こどもシゴト博」(Web東奥)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「節約になる!」無印の“ペーパーケース”はティッシュの使い過ぎがもったいない人におすすめ! 実際に使ってみた(Fav-Log by ITmedia)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260922",
-      "theme": "哲学 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "台湾高速鉄道が10億人を運び、新型車両も再び日本製を選んだ理由",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "肝臓を守るために避けるべきアルコール飲料 肝臓外科医が警鐘",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ネグレクトの記事一覧",
-          "source": "News Post Seven",
-          "trust_score": 7.0
-        },
-        {
-          "title": "国民を置き去りにした「皇室典範改正」で浮き彫りになった「なぜ天皇制を残すのか」という問い",
-          "source": "現代ビジネス | 講談社",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【マルクスが教える】働くのがしんどい本当の理由・ワースト1(ダイヤモンド・オンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【憂いを帯びた表情にひかれる...】興福寺 阿修羅像:六田知弘の古仏巡礼(nippon.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 8.7
-        },
-        {
-          "title": "高市政権が皇族の意向も国民の声も置き去りにした典範改正の問題点",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20260922",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ 理由_20260923",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -107,99 +17,9 @@
           "trust_score": 7.5
         },
         {
-          "title": "AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く",
-          "source": "Ascii",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ライトアップ、米TypeSafe AIの新型AIモデル「Jev」の導入支援を開始。自社サービス第一弾として、会議中に業務フロー図をリアルタイム生成する「その場フロー」を提供開始",
+          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Claude向けMCPコネクタを提供開始",
           "source": "Infoseek Japan",
           "trust_score": 9.2
-        },
-        {
-          "title": "「おためし転職」、求人ページのシェア機能とOGP表示に対応",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Uravation、Claude Code法人研修の4つの形式(公開講座・社内研修・個別指導・導入支援)を比較できるページを公開。受講者の約7割がプログラミング未経験",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "論文を実行可能なAIへ変える「Paper2Agent」、ADHD関連変異の候補も抽出",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 比較_20260922",
-      "theme": "占い 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "STARTRADER、CXMTとUnitree Roboticsを追加し中国株CFDラインアップを拡充",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OrcaRouter、AIエージェントの実行記録をローカルとクラウドで相互に持ち運べる機能を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「事故の多い交差点ランキング」比較的スピードが出しづらい仙台市の街中でなぜ?(khb東日本放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 8.7
-        },
-        {
-          "title": "SThreeが通期利益予想を上方修正、米国の採用増加が欧州の低迷を補う",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "「男性の身体の悩み」年代で差、20~79歳3000人に聞いたリアルな本音",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "M&C Saatchiの2026年上半期利益が改善、株価は6%下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Teva Pharm、米国オールスターズ会議で成長計画の進展を強調",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260922",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「おためし転職」、就活・転職・採用を支援するAIスキル16種をオープンソースで公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
