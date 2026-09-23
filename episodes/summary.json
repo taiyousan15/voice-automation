@@ -1,50 +1,25 @@
 {
-  "generated_at": "2026-09-22T03:20:58.094922",
-  "total_episodes": 2,
+  "generated_at": "2026-09-23T03:22:11.617000",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20260922",
-      "theme": "MCP 比較",
+      "name": "episode_MCP おすすめ 理由_20260923",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "論文を実行可能なAIへ変える「Paper2Agent」、ADHD関連変異の候補も抽出",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「おためし転職」、求人ページのシェア機能とOGP表示に対応",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "[ITmedia ビジネスオンライン] Salesforce好決算が証明した「SaaSは死なない」 画面を手放し裏側を握る生存戦略",
+          "source": "Itmedia",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20260922",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
         },
         {
-          "title": "「Pro ai」に絵コンテからの動画生成機能を追加。URLと参考画像から30秒動画まで制作",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AMD「Ryzen AI Embedded X100」のリアルタイムAI制御が、Jetsonの弱点であるCPU性能を突く",
-          "source": "Ascii",
-          "trust_score": 7.0
+          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Claude向けMCPコネクタを提供開始",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
