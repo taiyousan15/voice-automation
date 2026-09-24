@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-09-23T03:22:11.617000",
-  "total_episodes": 1,
+  "generated_at": "2026-09-24T03:11:19.253863",
+  "total_episodes": 0,
   "audio_enabled": true,
-  "episodes": [
-    {
-      "name": "episode_MCP おすすめ 理由_20260923",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "[ITmedia ビジネスオンライン] Salesforce好決算が証明した「SaaSは死なない」 画面を手放し裏側を握る生存戦略",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Claude向けMCPコネクタを提供開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    }
-  ]
+  "episodes": []
 }
