@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-09-24T03:11:19.253863",
-  "total_episodes": 0,
+  "generated_at": "2026-09-25T03:28:16.425482",
+  "total_episodes": 1,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_エージェント 比較_20260925",
+      "theme": "エージェント 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "OrcaRouter、OpenAI・Anthropic・SpaceXAIのフロンティアモデル4種を一斉提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アパレルES（エントリーシート）の書き方をキャリアアドバイザーが解説｜評価されるポイントや例文を解説",
+          "source": "Ready To Fashion",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【年収1,008万円】Go言語エンジニア案件2026年9月最新｜フリーランス調査【フリーランスボード調べ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "内定式直前、27卒の4割超が「内定ブルー」複数社の内定式参加を予定する声も",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    }
+  ]
 }
