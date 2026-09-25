@@ -1,34 +1,29 @@
 {
-  "generated_at": "2026-09-24T23:49:48.578384",
-  "total_episodes": 3,
+  "generated_at": "2026-09-25T03:28:16.425482",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い ランキング_20260924",
-      "theme": "占い ランキング",
+      "name": "episode_エージェント 比較_20260925",
+      "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『オデュッセイア』早くも興収15億突破！IMAX版、日本語吹替版も好調",
-          "source": "Cinema Today: Movie Information Updated Daily!",
+          "title": "OrcaRouter、OpenAI・Anthropic・SpaceXAIのフロンティアモデル4種を一斉提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "ノーラン監督『オデュッセイア』IMAX上映が好調をけん引 動員数＆興行収入が“異例”の前週比116％超え 国内興行収入が15億円を突破",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Netflix「ダウンタイム」松岡茉優、脂肪吸引シーンで“使用したもの”告白 仲里依紗・間宮祥太朗・田中みな実とともに撮影秘話語る",
-          "source": "Model Press",
-          "trust_score": 8.5
-        },
-        {
-          "title": "アストンマーティンDBX、Paramount+オリジナルドラマ『モブランド』新シーズンでハリー・ダ・スーザの愛車に",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "アパレルES（エントリーシート）の書き方をキャリアアドバイザーが解説｜評価されるポイントや例文を解説",
+          "source": "Ready To Fashion",
           "trust_score": 7.5
         },
         {
@@ -37,84 +32,19 @@
           "trust_score": 8.0
         },
         {
-          "title": "2026年9月25日の運勢ランキング「おひつじ座～うお座」 マリィ・プリマヴェラの【毎日ひとこと占い】",
-          "source": "All Abou",
-          "trust_score": 6.5
-        },
-        {
-          "title": "今日の運勢 9月25日（金）「12星座占いランキング」第1位は蠍座（さそり座）！ あなたの星座は何位？",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 活用_20260924",
-      "theme": "占い 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "菊池市中央図書館で「図書館マーケット」初開催 新刊本販売に小物展示、占いコーナーも",
-          "source": "熊日",
-          "trust_score": 7.0
-        },
-        {
-          "title": "女子MTB XCO川口うらら4位、石田唯5位で入賞 中国勢がワンツー達成｜愛知・名古屋アジア競技大会(FUNQ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "沖縄最大級“726平米”を独占！恩納村に誕生した“誰とも会わない”ラグジュアリーヴィラとは？",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "＜社説＞ネット通販規制 抜け道許さぬ法整備を",
-          "source": "北海道新聞デジタル",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ブリヂストン「BATTLAX」装着チームがEWCシリーズ上位5位を独占、全戦表彰台も史上初",
-          "source": "Response",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OrcaRouter、OpenAI・Anthropic・SpaceXAIのフロンティアモデル4種を一斉提供開始",
+          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "若手社員研修アンケートからみる若手社員の傾向に関する調査結果を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+          "source": "Gigazine",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント ランキング_20260924",
-      "theme": "エージェント ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【自社に最適なデータ基盤がわかる】“ツールが多すぎて選べない”を終わらせる実践ガイド『【データマネジメントツール大全2026】ETLからデータカタログまで自社に最適な基盤を選ぶ方法』を無料公開",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
         },
         {
-          "title": "〈20歳下女性と76歳で熟年再婚〉「財産目当て」とヤフコメで誹謗中傷→その後、批判が“ゼロになった”理由は…ヨネスケ（78）と妻が明かした“夫婦の覚悟”",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "内定式直前、27卒の4割超が「内定ブルー」複数社の内定式参加を予定する声も",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
