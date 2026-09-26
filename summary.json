@@ -1,175 +1,120 @@
 {
-  "generated_at": "2026-09-25T23:55:51.450033",
-  "total_episodes": 4,
+  "generated_at": "2026-09-26T03:33:58.642638",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_マーケティング戦略 比較_20260925",
-      "theme": "マーケティング戦略 比較",
+      "name": "episode_エージェント 比較_20260926",
+      "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "11月25日（水）開催「Performance Learning Award 2026」の審査員が決定！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "11月25日（水）開催「Performance Learning Award 2026」の審査員が決定！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "No.1*の広告業界向けプラットフォーム「メディアレーダー」が全面リニューアル UI・UXを大幅に刷新し、AI検索や資料管理機能も拡充",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ハッチ・ワーク Research Memo（8）：月極駐車場を拠点とした「ファーストワンマイルステーション構想」実現へ",
-          "source": "Money Post",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIを導入したのになぜ、企業は変われないのか？ 東大発AIベンチャーの経営者兼トップエンジニアが、組織の成果を最大化するAI活用法をまとめた書籍『AIエージェント組織実装の最適解』が本日発売！",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ 理由_20260925",
-      "theme": "哲学 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「Ferrari Festival Tokyo 2026」開催！ 新型ルーチェからF40まで、“跳ね馬”がより身近に!?(GQ JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "ハプニングバーに行ったら飲んでいるだけの人ばかりなので「意外と普通のバーなんですね」と言ったら常連たちが義務ハプニングを起こしてくれた話",
-          "source": "Togetter [トゥギャッター]",
-          "trust_score": 7.0
-        },
-        {
-          "title": "菊池桃子、ラ・ムー時代の名曲や新曲披露で“素敵な瞬間”を記憶に刻んだ夜 時代を超える歌声で魅了した『Moments』レポ",
-          "source": "Real Sound｜リアルサウンド",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年9月25日のヘッドラインニュース",
+          "title": "AIに「StarCraft」をリアルタイムで戦わせる「Brood War Bench」が登場、全モデルが初心者レベルながらCodex Astraは18戦全勝",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "西川のりお×ジャーナリスト鈴木哲夫が時事ネタをしゃべり倒す、30分の新番組！！『のりおくんチャンネル～俺にも言わせろ！～』9月27日（日）17:00～17:30放送",
+          "title": "x402株式会社、一般社団法人日本ブロックチェーン協会（JBA）にシルバー会員として入会",
           "source": "Pr Times",
           "trust_score": 8.0
         },
-        {
-          "title": "《グーナー小説家対談》直木賞作家・万城目学と小川哲が語り尽くす“アーセナルを偏愛する理由”「日韓W杯でアンリの泣きそうな顔が…」",
-          "source": "Number Web",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【映画『GROTESQQQUE-グロテスク-』】『エリィアンズ』市ノ瀬加那＆星野源が声優を担当！ポップなスラップスティック・コメディに心踊る音楽がクセになる楽曲一覧",
-          "source": "The First Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 比較_20260925",
-      "theme": "Claude Code 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "Claude Opus 5.5 リリース！Fable 5.1級の性能でコスト40%減",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "OrcaRouter、27Bのエージェント向けAIモデルを4分の1以下に圧縮した「OrcaSAQ-2 27B」を公開",
+          "title": "Vocci ― 「記録する」を、もっと身近に、もっと自然に。 | 2026年9月30日（水）午前11:00よりクラウドファンディング開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "そりゃ成果物に差が出るわ…「AIの資料は中身がスカスカと嘆く人」と「一発で80点の品質で返ってくる人」の“決定的な違い”(東洋経済オンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
+          "source": "Wired.jp",
+          "trust_score": 7.5
         },
         {
-          "title": "株式会社Saix、経営層がClaude Code・Codexで業務自動化を組む内製化支援を開始",
+          "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【関西外国語大学】文系学生が「語学×テクノロジー」に挑戦し、約4年間で4学会・19件の成果を発表しました 「ラーニングイノベーショングランプリ」での受賞も続いています",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "投稿 1 本が会社を揺るがす前に ── 投稿前に炎上リスクを判定する SendSignal を β 公開、判断特化モデル Jev(TypeSafe AI)を炎上リスク判定に採用した国内初のサービス",
-          "source": "Pr Times",
-          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_哲学 活用_20260925",
-      "theme": "哲学 活用",
+      "name": "episode_skill おすすめ_20260926",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "船井総合研究所、公式YouTubeチャンネルを全面リニューアル",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "ターキッシュ エアラインズ、ボーイング737 MAXを最大150機発注",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "跡見学園女子大「版画で楽しむ現代アート」12/8まで",
-          "source": "リセマム",
+          "title": "フォーデジット、タイのデジタル経済振興庁（depa）とMOUを締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【aucfan AI】いつものAIに、「プロの知恵」を。EC実務Skill・MDテンプレートの販売を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20260926",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AWS のオープンソースソリューション \"AWS Service End-of-Life Data\" のご紹介",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "職場の“苦手な人”と付き合うには？無理なく働くためのヒントをお伝えします！ 10/16（金）「名言と心理学から学ぶ 職場の“苦手な人”との付き合い方」のアーカイブを無料配信",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "CDT エクイティ、1対25の株式併合を取締役会が承認",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "「エンタメで外貨を稼ぐ」エンタメ総合商社スターベース社長が説く感性より大事なもの",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「9条守る」の中身はバラバラ...「解釈改憲」に異議 市民の熟議で2つの改憲案、模擬国民投票目指す(J-CASTニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "NHK交響楽団100年、サヴァリッシュとの名演をSACDでいま聴くべき理由――メンデルスゾーンやベートーヴェンなどを奏でた輝かしい遺産ヴォルフガング・サヴァリッシュ & NHK交響楽団『メンデルスゾーン：オラトリオ「エリア」1986年N響創立60周年第1000回定期ライヴ』『ベートーヴェン：交響曲第5番・第8番、ブラームス：交響曲第1番、R.シュトラウス：死と変容』 - コラム",
-          "source": "Mikiki",
+          "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
+          "source": "Ascii",
           "trust_score": 7.0
         },
         {
-          "title": "船井総合研究所、公式YouTubeチャンネルを全面リニューアル",
+          "title": "AIが半導体の回路を自動設計、本田技術研究所も評価するケイデンスの新技術",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "法人向け「Notebook AI」、Webで資料を探して、そのまま質問に活用",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "金利上昇と原油100ドルでも株価が持ちこたえた理由：2つのキーワード",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Twilioの株価が本日下落している理由",
+          "source": "Investing- Fx",
+          "trust_score": 6.0
         }
       ]
     }
