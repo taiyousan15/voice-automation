@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-25T03:28:16.425482",
-  "total_episodes": 1,
+  "generated_at": "2026-09-26T03:33:58.642638",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 比較_20260925",
+      "name": "episode_エージェント 比較_20260926",
       "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
@@ -12,39 +12,109 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "OrcaRouter、OpenAI・Anthropic・SpaceXAIのフロンティアモデル4種を一斉提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "アパレルES（エントリーシート）の書き方をキャリアアドバイザーが解説｜評価されるポイントや例文を解説",
-          "source": "Ready To Fashion",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【年収1,008万円】Go言語エンジニア案件2026年9月最新｜フリーランス調査【フリーランスボード調べ】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ケイデンス、RTL生成と早期PPA最適化のための新たなエージェントによりChipStack AI Super Agentを拡張",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+          "title": "AIに「StarCraft」をリアルタイムで戦わせる「Brood War Bench」が登場、全モデルが初心者レベルながらCodex Astraは18戦全勝",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "内定式直前、27卒の4割超が「内定ブルー」複数社の内定式参加を予定する声も",
+          "title": "x402株式会社、一般社団法人日本ブロックチェーン協会（JBA）にシルバー会員として入会",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "Claude Opus 5.5 リリース！Fable 5.1級の性能でコスト40%減",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Vocci ― 「記録する」を、もっと身近に、もっと自然に。 | 2026年9月30日（水）午前11:00よりクラウドファンディング開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI-SQLエンジン「Quail」公開 ——LLMによるデータの絞り込み・結合を効率化",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【関西外国語大学】文系学生が「語学×テクノロジー」に挑戦し、約4年間で4学会・19件の成果を発表しました 「ラーニングイノベーショングランプリ」での受賞も続いています",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260926",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ターキッシュ エアラインズ、ボーイング737 MAXを最大150機発注",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "フォーデジット、タイのデジタル経済振興庁（depa）とMOUを締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【aucfan AI】いつものAIに、「プロの知恵」を。EC実務Skill・MDテンプレートの販売を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20260926",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AWS のオープンソースソリューション \"AWS Service End-of-Life Data\" のご紹介",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "CDT エクイティ、1対25の株式併合を取締役会が承認",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIが半導体の回路を自動設計、本田技術研究所も評価するケイデンスの新技術",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "法人向け「Notebook AI」、Webで資料を探して、そのまま質問に活用",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "金利上昇と原油100ドルでも株価が持ちこたえた理由：2つのキーワード",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Twilioの株価が本日下落している理由",
+          "source": "Investing- Fx",
+          "trust_score": 6.0
         }
       ]
     }
