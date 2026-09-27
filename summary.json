@@ -1,20 +1,120 @@
 {
-  "generated_at": "2026-09-27T03:43:00.043012",
-  "total_episodes": 1,
+  "generated_at": "2026-09-27T23:44:25.151306",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング 活用_20260927",
-      "theme": "バイブコーディング 活用",
+      "name": "episode_思想 ランキング_20260927",
+      "theme": "思想 ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【関西外国語大学】文系学生が「語学×テクノロジー」に挑戦し、約4年間で4学会・19件の成果を発表しました 「ラーニングイノベーショングランプリ」での受賞も続いています",
+          "title": "出利葉太一郎は1打差で初V逃すも「優勝に近づいている」と力強く",
+          "source": "Golf Digest",
+          "trust_score": 7.5
+        },
+        {
+          "title": "オンがサッカー界に進出、グレンのディーゼルラストショー…【5分でわかる主要ニュース 9/20〜9/26】",
+          "source": "Fashion Snap",
+          "trust_score": 9.2
+        },
+        {
+          "title": "最高視聴率3.8％！韓国ドラマおすすめヒューマンドラマ！全10話あらすじからネタバレ注意な見どころまで",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【卵２個とレタスあったら迷わずコレ作って！！】「本当は教えたくない」最高の食べ方！どこから食べようか悩む",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【タサン志麻さん】豚こま肉とナス3本あったら…「すごく美味しい！」友人大興奮「粗挽きステーキ？」香ばしにんにくも大暴れ",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "今日の運勢 9月27日（日）「12星座占いランキング」第1位は牡羊座（おひつじ座）！ あなたの星座は何位？",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "かわいい顔にだまされないで。Metaの「AI版たまごっち」は持ち歩くスパイウェアかも",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル 活用_20260927",
+      "theme": "スピリチュアル 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "博報堂が「新富裕層」を世帯年収3000万円以上と定義 共通する10大価値観と消費実態とは",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【10月23日(金)19:30～】AI時代の開発・DXを語る！エンジニア出身経営者・CTOが集う技術系交流会を渋谷で開催！！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【10月23日(金)19:30～】AI時代の開発・DXを語る！エンジニア出身経営者・CTOが集う技術系交流会を渋谷で開催！！",
           "source": "Pr Times",
           "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20260927",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「Stuart Fails to Save the Universe」最終回、シットコム世界へ シミュレーション仮説との共通点",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "藍色文字盤にアラビア数字が清楚な印象｜グランドセイコー「キャリバー9S」手巻き誕生25周年を祝う限定モデル",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "トルコの巨大植毛産業を支える、イノベーションと職人技",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「慢性腎臓病」危険度チェック！…新常識「腎臓と運動の関係」とは？腎臓が衰える原因と慢性腎臓病対策(CBCテレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【フッサールが教える】思い込みの外し方・ベスト1 - 哲学と宗教全史",
+          "source": "ダイヤモンド・オンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【哲学】「無理しない」が正解に思える時代に巨人ニーチェが教えてくれること・ナンバー1(ダイヤモンド・オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「老いと死をファクトで考えてみた」出口治朗著／扶桑社新書（選者：中川淳一郎）",
+          "source": "Nikkan Gendai Digital",
+          "trust_score": 7.5
         }
       ]
     }
