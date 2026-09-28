@@ -1,119 +1,94 @@
 {
-  "generated_at": "2026-09-27T23:44:25.151306",
-  "total_episodes": 3,
+  "generated_at": "2026-09-28T03:41:45.905173",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 ランキング_20260927",
-      "theme": "思想 ランキング",
+      "name": "episode_エージェント おすすめ_20260928",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "出利葉太一郎は1打差で初V逃すも「優勝に近づいている」と力強く",
-          "source": "Golf Digest",
-          "trust_score": 7.5
+          "title": "スカラタaiのスカラタaiチャットおよびスカラタエンタープライズの新規ご案内",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "オンがサッカー界に進出、グレンのディーゼルラストショー…【5分でわかる主要ニュース 9/20〜9/26】",
-          "source": "Fashion Snap",
-          "trust_score": 9.2
+          "title": "『仮面ライダーゼッツFS』ステージフォトが解禁 夢の世界に生きる莫の運命は？ ノクスとジークは最大の脅威を察知",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "最高視聴率3.8％！韓国ドラマおすすめヒューマンドラマ！全10話あらすじからネタバレ注意な見どころまで",
-          "source": "Yomuno",
-          "trust_score": 7.5
+          "title": "神谷浩史、『仮面ライダーゼッツFS』永遠の悪夢・エンドレスゴアナイトメア役「一ファンにすぎなかった僕が」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "【卵２個とレタスあったら迷わずコレ作って！！】「本当は教えたくない」最高の食べ方！どこから食べようか悩む",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【タサン志麻さん】豚こま肉とナス3本あったら…「すごく美味しい！」友人大興奮「粗挽きステーキ？」香ばしにんにくも大暴れ",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "今日の運勢 9月27日（日）「12星座占いランキング」第1位は牡羊座（おひつじ座）！ あなたの星座は何位？",
-          "source": "Mynavi News",
+          "title": "スウォームAI「Fuga v2」、1/10のコストでClaude Fable 5級のTerminal-Bench 2.1、82.0%を記録。800体の一括処理でも品質を維持し安定協調。",
+          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "かわいい顔にだまされないで。Metaの「AI版たまごっち」は持ち歩くスパイウェアかも",
-          "source": "Gizmodo",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_スピリチュアル 活用_20260927",
-      "theme": "スピリチュアル 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "博報堂が「新富裕層」を世帯年収3000万円以上と定義 共通する10大価値観と消費実態とは",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "【10月23日(金)19:30～】AI時代の開発・DXを語る！エンジニア出身経営者・CTOが集う技術系交流会を渋谷で開催！！",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "「仮面ライダーゼッツFS」神谷浩史が声で参戦 莫たちの前に“最大の脅威”出現【一部ネタバレ】",
+          "source": "Cinema Today: Movie Information Updated Daily!",
           "trust_score": 7.5
         },
         {
-          "title": "【10月23日(金)19:30～】AI時代の開発・DXを語る！エンジニア出身経営者・CTOが集う技術系交流会を渋谷で開催！！",
+          "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【英会話レッスン回数無制限】「英語を話す」をもっと日常に。オンライン英会話「ネイティブキャンプ」、ユーザー数420万人を突破",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_哲学 方法_20260927",
-      "theme": "哲学 方法",
+      "name": "episode_バイブコーディング おすすめ_20260928",
+      "theme": "バイブコーディング おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「Stuart Fails to Save the Universe」最終回、シットコム世界へ シミュレーション仮説との共通点",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "ChatGPTをコーチに、身に付けたスキルで「稼げる実績を作る」3つの方法(Forbes JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20260928",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.0
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20260928",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "藍色文字盤にアラビア数字が清楚な印象｜グランドセイコー「キャリバー9S」手巻き誕生25周年を祝う限定モデル",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "トルコの巨大植毛産業を支える、イノベーションと職人技",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「慢性腎臓病」危険度チェック！…新常識「腎臓と運動の関係」とは？腎臓が衰える原因と慢性腎臓病対策(CBCテレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【フッサールが教える】思い込みの外し方・ベスト1 - 哲学と宗教全史",
-          "source": "ダイヤモンド・オンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【哲学】「無理しない」が正解に思える時代に巨人ニーチェが教えてくれること・ナンバー1(ダイヤモンド・オンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「老いと死をファクトで考えてみた」出口治朗著／扶桑社新書（選者：中川淳一郎）",
-          "source": "Nikkan Gendai Digital",
+          "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.5
         }
       ]
