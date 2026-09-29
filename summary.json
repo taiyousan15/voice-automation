@@ -1,70 +1,75 @@
 {
-  "generated_at": "2026-09-28T03:41:45.905173",
+  "generated_at": "2026-09-29T00:54:29.133682",
   "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント おすすめ_20260928",
-      "theme": "エージェント おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20260929",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "スカラタaiのスカラタaiチャットおよびスカラタエンタープライズの新規ご案内",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『仮面ライダーゼッツFS』ステージフォトが解禁 夢の世界に生きる莫の運命は？ ノクスとジークは最大の脅威を察知",
-          "source": "産経ニュース",
+          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
+          "source": "テレ朝new",
           "trust_score": 7.0
         },
         {
-          "title": "神谷浩史、『仮面ライダーゼッツFS』永遠の悪夢・エンドレスゴアナイトメア役「一ファンにすぎなかった僕が」",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
+          "title": "【無料あり】転職支援・保証型プログラミングスクール比較17選！社会人・学生さんの就職に強い！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20260929",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "スウォームAI「Fuga v2」、1/10のコストでClaude Fable 5級のTerminal-Bench 2.1、82.0%を記録。800体の一括処理でも品質を維持し安定協調。",
-          "source": "Pr Times",
+          "title": "暴走するAIエージェントをミリ秒で隔離、NVIDIAが新たな安全基盤を発表",
+          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "「仮面ライダーゼッツFS」神谷浩史が声で参戦 莫たちの前に“最大の脅威”出現【一部ネタバレ】",
-          "source": "Cinema Today: Movie Information Updated Daily!",
+          "title": "法人向けAI「ChatSense」、NotebookにWeb検索・追加機能を9月より新たに搭載",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "金融業界特化カンファレンス「GenerativeX Finance Summit 2026」を10月27日に開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
-          "source": "Gigazine",
+          "title": "[ITmedia PC USER] AIエージェントの暴走をハードとソフトで防ぐ──NVIDIAが「Open Agent Safety Platform」を発表、Anthropicらとも連携",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "【英会話レッスン回数無制限】「英語を話す」をもっと日常に。オンライン英会話「ネイティブキャンプ」、ユーザー数420万人を突破",
+          "title": "金融業界特化カンファレンス「GenerativeX Finance Summit 2026」を10月27日に開催",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング おすすめ_20260928",
-      "theme": "バイブコーディング おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "ChatGPTをコーチに、身に付けたスキルで「稼げる実績を作る」3つの方法(Forbes JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "【10/19開催・3社共催ウェビナー】来てほしい人に、ちゃんと届く採用へ。～出会う・見極める・つなぎとめる、3つの視点で考える採用設計～",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "NTTデータ ウェーブ、「intra-mart LIVE 2026 Realize」に出展。初の会場講演とオンライン講演の2本立てでAI時代の業務改革を紹介",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_MCP 比較_20260928",
+      "name": "episode_MCP 比較_20260929",
       "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
@@ -72,24 +77,59 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用",
+          "title": "GitLab 19.4リリース ―目標指示でエージェントを自動実行させる「/goal」コマンドやGitLab運用のオープンウェイトモデルを提供開始",
           "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
+          "trust_score": 6.5
+        },
+        {
+          "title": "いつもの文章を、自分の声のPodcastに。AIポッドキャスト制作・配信サービス「Podorica」を正式リリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "どのAIを使うかをJevで自動選択する「Jev Router」が登場、タスク難易度から適切なAIモデルを瞬時に判断可能でOpenRouterの既存ルーターより高精度",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "FastMetal、Anthropic社の最新モデル「Claude Opus 5.5」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ナラリス、報告書が認定した品質不正の継続期間は中央値25年 ― 公表資料に基づく企業不祥事767件を横断分析",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Ahrefs（エイチレフス）、GMO TECH による AI 検索可視化ツール「ブランドレーダー」の活用事例を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "複数のAI社員が「チーム」で業務を丸ごと担うAI社員プラットフォーム「MIERU CREW」提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_skill おすすめ_20260928",
-      "theme": "skill おすすめ",
+      "name": "episode_skill おすすめ 理由_20260929",
+      "theme": "skill おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
+          "title": "シェアサロンは、ブランド体験の場になる ── 「サンペレグリノ」を都内直営21店舗で提供、コラボ第2弾を実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude CodeのSkillで複数案件を回すために出力先を固定するディレクトリ標準化をやってみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.0
         }
       ]
     }
