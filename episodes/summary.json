@@ -1,94 +1,24 @@
 {
-  "generated_at": "2026-09-28T03:41:45.905173",
-  "total_episodes": 4,
+  "generated_at": "2026-09-29T04:16:58.706400",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント おすすめ_20260928",
-      "theme": "エージェント おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 実際に_20260929",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 実際に",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "スカラタaiのスカラタaiチャットおよびスカラタエンタープライズの新規ご案内",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『仮面ライダーゼッツFS』ステージフォトが解禁 夢の世界に生きる莫の運命は？ ノクスとジークは最大の脅威を察知",
-          "source": "産経ニュース",
+          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
+          "source": "テレ朝new",
           "trust_score": 7.0
         },
         {
-          "title": "神谷浩史、『仮面ライダーゼッツFS』永遠の悪夢・エンドレスゴアナイトメア役「一ファンにすぎなかった僕が」",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "スウォームAI「Fuga v2」、1/10のコストでClaude Fable 5級のTerminal-Bench 2.1、82.0%を記録。800体の一括処理でも品質を維持し安定協調。",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「仮面ライダーゼッツFS」神谷浩史が声で参戦 莫たちの前に“最大の脅威”出現【一部ネタバレ】",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.5
-        },
-        {
-          "title": "画像・動画生成AIのAPIを安さや制限の緩さで選んで簡単に使えるようにする「Comfy Router」が登場、OpenRouterのコンテンツ生成版",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【英会話レッスン回数無制限】「英語を話す」をもっと日常に。オンライン英会話「ネイティブキャンプ」、ユーザー数420万人を突破",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング おすすめ_20260928",
-      "theme": "バイブコーディング おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ChatGPTをコーチに、身に付けたスキルで「稼げる実績を作る」3つの方法(Forbes JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20260928",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Claude Code、/usageによる推定費用の確認とエフォートの使い分けを解説 ——Opus 5.5の料金とキャッシュの利用",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20260928",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Docker、AIコーディングエージェント向けの公式スキル「Docker Skills」を公開",
-          "source": "Gijutsu Hyohron Company",
+          "title": "【無料あり】転職支援・保証型プログラミングスクール比較17選！社会人・学生さんの就職に強い！",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
         }
       ]
