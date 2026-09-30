@@ -1,145 +1,30 @@
 {
-  "generated_at": "2026-09-30T00:14:28.292570",
-  "total_episodes": 6,
+  "generated_at": "2026-09-30T04:01:06.059391",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_マーケティング戦略 方法_20260930",
-      "theme": "マーケティング戦略 方法",
+      "name": "episode_エージェント 方法_20260930",
+      "theme": "エージェント 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【美を伝える人-企業編-】韓国財閥の娘が切り拓いたキャリア タリダクム チェ・ムンソン代表の場合",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「TikTok Ad Awards 2026 Japan」グランプリおよび全5部門の受賞作品を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ゼロ高等学院】堀江貴文主宰のゼロ高、溝口勇児氏が代表を務める株式会社YOAKEと新体制へ。進学・就職・起業を自ら選ぶための教育モデルを発表",
+          "title": "2026年のテック業界人員削減、集計で22万5000人超 OracleのAI投資と雇用減を検証",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "【ゼロ高等学院】堀江貴文主宰のゼロ高、溝口勇児氏が代表を務める株式会社YOAKEと新体制へ。進学・就職・起業を自ら選ぶための教育モデルを発表",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "書籍『教えて！幸せのUターン・Iターン転職』発売 “どこで働くか”は自分で選べる時代へ。地方転職支援16年・3,000人以上の支援実績のプロが説く、暮らしたい場所で思いきり働くためのキャリアデザイン",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "更年期課題に寄り添うTRULY、男性管理職の「見えない経営損失」を防ぐ「TRULY for Business-Leaders」を始動",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ワンキャリア主催「採用ウルトラキャンプ2026 in 京都」参加者間の交流を深めるサイドイベント全11プログラムを公開！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_スピリチュアル おすすめ_20260930",
-      "theme": "スピリチュアル おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【10月30日(金)19:30～開催】ウィルゲート吉岡専務取締役・共同創業者とWebマーケ経営者が集結！年末商戦に向けたマーケ戦略を渋谷で共有！！",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "睡眠から宇宙まで、現代旅行者を動かす60超の観光カテゴリー | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "“信頼度No.1級”政財界でも常連多数【星と暦の解読者 美園環希】のコンテンツが「本格占い｜みのり」で提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "“信頼度No.1級”政財界でも常連多数【星と暦の解読者 美園環希】のコンテンツが「本格占い｜みのり」で提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日高郁人「遠くても見に行きたいと思ってもらえるカードを組む！」、青木いつ希「島根まで来ても絶対に損させない自信ある！」～10/4開催『ご縁の国しまねプロレス』松江市大会直前インタビュー",
-          "source": "Spice Entertainment Information",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【書評】『日本人とは何か 私たちのルーツを巡る700万年の物語』現代日本人のゲノムに「共存」する「三つの時間」(NEWSポストセブン)",
-          "source": "Yahoo Japan",
-          "trust_score": 8.7
-        },
-        {
-          "title": "【書評】『日本人とは何か 私たちのルーツを巡る700万年の物語』現代日本人のゲノムに「共存」する「三つの時間」",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 比較_20260930",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【無料あり】転職支援・保証型プログラミングスクール比較17選！社会人・学生さんの就職に強い！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 競合_20260930",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 競合",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
-          "source": "テレ朝new",
+          "title": "【後編】GMOペパボの「集合知」でよりよいプロダクトへ ― エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話",
+          "source": "Gmo Pepabo Tech Blog",
           "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント おすすめ_20260930",
-      "theme": "エージェント おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "fonfun＜2323＞、SES・派遣事業のICSを子会社化",
-          "source": "M＆a Online",
-          "trust_score": 7.5
         },
         {
-          "title": "CASは、AI対応の反応インフォマティクスを推進するため、Novartisとの提携を発表",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "OpenAIのAIエージェント、ChatGPT利用者の画像53件を外部サイトに投稿 本人への通知は困難",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
           "title": "MicrosoftがCopilotを刷新、常時稼働のAutopilotを発表 OpenClawの修正状況も導入時の確認点に",
@@ -150,11 +35,6 @@
           "title": "Claude Code、同梱のclaude-apiスキルに新コマンド「build-eval」と「hillclimb」を追加 ——評価の作成からプロンプト・モデル設定の調整まで",
           "source": "Gijutsu Hyohron Company",
           "trust_score": 7.0
-        },
-        {
-          "title": "Meta Platforms、中小企業向けにAIエージェント「Muse」を拡張",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
         },
         {
           "title": "Amazon InspectorとAWS Security Agent（AWS Continuum）、何が違うのか整理してみました",
@@ -169,32 +49,62 @@
       ]
     },
     {
-      "name": "episode_skill 活用_20260930",
-      "theme": "skill 活用",
+      "name": "episode_MCP 活用_20260930",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ヘッドウォータース、企業内の多様な業務ファイルを共通データ資産化し、AIエージェントの全社展開を支える「SyncLect Silver Data Coordinator」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AI Creative OS「TOPVIEW」、Visual EXPO by BRANDED SHORTS 2026に出展",
+          "title": "株式会社SEVENRICH Accounting、マネーフォワード主催「士業サミット2026」に登壇・出展",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ネパール発、現場と経営を知る当事者ケーシー・アミトが株式会社SKILL BATON 代表取締役社長に就任",
+          "title": "IBM i 資産と多様なデータを繋ぐ『生成AI連携サービス for i』が大規模アップデート",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "シェアサロンは、ブランド体験の場になる ── 「サンペレグリノ」を都内直営21店舗で提供、コラボ第2弾を実施",
+          "title": "『CData Connect AI』、ベル・データのIBM i ユーザー向けAIサービス『生成AI連携サービス for i』に採用",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "NVIDIA、AIエージェントを監視・制御する「Open Agent Safety Platform」を発表 ——OpenShellで実行環境を制御、NVIDIA BlueField-4上で動作するSentryでエージェントの行動を監視",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "『GMOペパボ AIエージェントカンファレンス 2026』10月29日（木）オンライン開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "クリーニング屋が人手不足を“人手以外で”解決 一度は手放したkintoneを復活させ、AIで販管費を半減するまで",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」がSaaS内で分析・施策設計を支援するAIエージェント機能「AIインテリジェンス」提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格_20260930",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
+          "source": "テレ朝new",
+          "trust_score": 7.0
         }
       ]
     }
