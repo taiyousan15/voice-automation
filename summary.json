@@ -1,151 +1,86 @@
 {
-  "generated_at": "2026-10-01T00:27:29.177134",
+  "generated_at": "2026-10-01T04:12:35.926970",
   "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 比較_20261001",
-      "theme": "占い 比較",
+      "name": "episode_MCP 方法_20261001",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【グロウナビ】【シミ取りに関する実態調査】経験者の83%が施術に「満足」と回答！費用や施術プランを100人に調査",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AI強気派の「教科書」と照らしてわかったクセは？──フィデリティの看板ファンドの1つ、「グロース・オポチュニティーズ・ファンド」を分析する【後編】(ダイヤモンド・ザイ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "青森市は3000万円影響か 10月1日～ふるさと納税基準厳格化 一部返礼品受け付け停止",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.0
-        },
-        {
-          "title": "青森市は3000万円影響か 10月1日～ふるさと納税基準厳格化 一部返礼品受け付け停止(青森放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "LONGi、2026年上半期の太陽光パネル出荷量29.93GWで世界1位に",
+          "title": "AIが「どう見るか」をAIが選ぶ。業務可視化SaaS「WorkLens AI」、判断特化型AIモデル「Jev」を搭載した業務分析を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "北海道電力、銀行サービスに参入 東京きらぼしFG系と連携",
-          "source": "Nikkei Shimbun",
-          "trust_score": 9.7
+          "title": "AIコラボレーションでキャンバスの活用が広がり、「Miro MCP」が勢いを増す",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "BYD、新型「ATTO 3 EX」解説とともにコンパクトクラスの新PHEV「ATTO 2」導入を予告(Car Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20261001",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "ネットアップ、SAP Cloud Infrastructureの支援に向けSAPとのパートナーシップを拡大へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Create Apps Championship」の受賞者たちが、デジタルビジネスを拡大するための拠点としてのドバイの強みを強調",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
         {
           "title": "こぎそ氏が登壇 ── Offers、「人間のレビューなしで\"そのまま出せる\"デザインは作れるか こぎそさんに聞く デザインハーネスの現在地」ウェビナーを10月15日開催",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "試用版J-LENS Premiumの機能追加および今後の提供予定について",
+          "title": "AIの脆弱性を「見つける」から「直す」へ。『AIセキュリティ改善・実装支援サービス』を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "Vocci ― あなたの世界をAIに伝えて、明日につなげる | クラウドファンディング、開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "W２、「W2 Commerce」がMCP連携に対応へ。AIアシスタントに話しかけるだけでEC運用データを確認可能に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "人間のせいでAIエージェントの生産性が上がらない",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Claude Code」の真価は併用にあり 4つのインターフェース使い分けとハイブリッド運用",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
-          "source": "Itmedia",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_思想 方法_20261001",
-      "theme": "思想 方法",
+      "name": "episode_エージェント おすすめ 理由_20261001",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「好かれていると思い込み、嫌われるために身体接触を行った」放課後に女子生徒の肩を抱き寄せ…セクハラ行為で中学校の男性講師を懲戒処分 宮城(tbc東北放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「一問一答」対策は通用しない。慶應SFC 28期連続合格実績を持つ講師が開業したAlternative Academy(R)︎、面接言語化講座「Verbal Training Gym」を大幅アップデート",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【ロンハーマン】Ron Herman TAKASHIMAYA GATE TOWER MALL Grand Open 11.13 (FRI)",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【キケンな縁結び相談所】「女性との交際をあっせんする」20代男性がSNSで恋愛コンサルタント詐欺被害…結局女性とは一度も会えず電話もできないまま約160万円だまし取られる…警察が注呼びかけ〈北海道〉(北海道ニュースUHB)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「良い酔い」を記録するメディアbacchante、焼酎文化を巡る取材連載「酎酎トレイン」を始動。",
+          "title": "AI翻訳「Blue One」のイエローブルー、設立1年でISMS（ISO/IEC 27001:2022）認証を取得",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "＜OPEN＞成長を加速させる、究極の生産性デバイス「Samsung Galaxy Tab S12シリーズ」10月7日（水）発売",
+          "title": "【日本初】日本発の「次世代オンチェーン金融マーケットプレイス」を世界標準へ。国際標準規格「ISO 26345」×「特許群（40件超）」の「オープンクローズ戦略」で実装が完了、商用サービスを開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "メーカー特化型転職エージェント【Way Mark】┃HPに「求人検索機能」を追加",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「遊佐まちなかビジネスチャレンジ」昨年参加者が登壇。若者の挑戦を応援する『遊佐チャレンジトーク＆アイデア作戦会議』を2026年10月24日(土)に開催。午前はまちなか探検 夜は昨年挑戦者の喫茶店で交流",
+          "title": "OpenAI開発者会議場で抗議デモ トランプ政権との｢関係切断｣要求(AP通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【日本初】ステーブルコイン、トークン化預金、暗号資産、およびセキュリティトークン対応「オンチェーン金融マーケットプレイス」をサービスローンチ。全商品「真贋鑑定」と「100％返金保証」で安心安全をご提供",
           "source": "Pr Times",
           "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20261001",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
           "title": "2026年9月30日のヘッドラインニュース",
           "source": "Gigazine",
@@ -155,31 +90,56 @@
           "title": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261001",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "Uravation、Claude Codeの業務自動化を「動いた」で終わらせない「PoCチェックリスト」を無料公開。PoC前・実行中・判定の3区分と、本物のClaude Codeの実画面6ページを掲載",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "もうMCPサーバは不要なのか？ 代わりになる技術を開発者が提唱",
-          "source": "Atmarkit Itmedia",
+          "title": "創業300余年、福一漁業が挑む「未来の水産業」のデザイン――45億円の大型投資と世界市場への展望",
+          "source": "Zuu Online",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261001",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "[ITmedia エンタープライズ] 大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」 全社に行き渡ったコード、検証できているのか？【調査】",
+          "source": "Itmedia",
+          "trust_score": 7.0
         },
         {
-          "title": "ベースマキナ、AIエージェントのデータアクセスに権限・承認・監査ログをあとづけする「AI Secure Gateway」を提供開始",
+          "title": "高度AI人材育成に向けた社員研修の第3弾、AI駆動開発の品質保証を学ぶ研修を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Plainbrew、エンタープライズ向けヘッドレスCMS「Kuroco」のパートナープログラムに参加",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AI導入の要となる「フォワードデプロイ型エンジニア」、その急拡大の理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
         },
         {
-          "title": "AIと作ったWebアプリをすぐに公開 エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話・前編",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
+          "title": "バイブコーディング製アプリが拡大 使用前に情シスが確認したい5つのポイント",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "生成AIを活用した組織変革（AX）を加速する「AXマネジメント レディネス研修」「AXレディネス研修」同時提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
