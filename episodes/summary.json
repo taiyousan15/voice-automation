@@ -1,110 +1,145 @@
 {
-  "generated_at": "2026-09-30T04:01:06.059391",
-  "total_episodes": 3,
+  "generated_at": "2026-10-01T04:12:35.926970",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 方法_20260930",
-      "theme": "エージェント 方法",
+      "name": "episode_MCP 方法_20261001",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年のテック業界人員削減、集計で22万5000人超 OracleのAI投資と雇用減を検証",
+          "title": "AIが「どう見るか」をAIが選ぶ。業務可視化SaaS「WorkLens AI」、判断特化型AIモデル「Jev」を搭載した業務分析を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIコラボレーションでキャンバスの活用が広がり、「Miro MCP」が勢いを増す",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "【後編】GMOペパボの「集合知」でよりよいプロダクトへ ― エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話",
-          "source": "Gmo Pepabo Tech Blog",
-          "trust_score": 7.0
-        },
-        {
-          "title": "OpenAIのAIエージェント、ChatGPT利用者の画像53件を外部サイトに投稿 本人への通知は困難",
+          "title": "ネットアップ、SAP Cloud Infrastructureの支援に向けSAPとのパートナーシップを拡大へ",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "MicrosoftがCopilotを刷新、常時稼働のAutopilotを発表 OpenClawの修正状況も導入時の確認点に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claude Code、同梱のclaude-apiスキルに新コマンド「build-eval」と「hillclimb」を追加 ——評価の作成からプロンプト・モデル設定の調整まで",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Amazon InspectorとAWS Security Agent（AWS Continuum）、何が違うのか整理してみました",
-          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "「GPT-6 Astraは旧世代モデルよりサイバー攻撃を実行しやすい傾向にある」というイギリス政府機関の分析結果が公開される",
+          "title": "「Create Apps Championship」の受賞者たちが、デジタルビジネスを拡大するための拠点としてのドバイの強みを強調",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは",
           "source": "Gigazine",
           "trust_score": 7.5
+        },
+        {
+          "title": "こぎそ氏が登壇 ── Offers、「人間のレビューなしで\"そのまま出せる\"デザインは作れるか こぎそさんに聞く デザインハーネスの現在地」ウェビナーを10月15日開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIの脆弱性を「見つける」から「直す」へ。『AIセキュリティ改善・実装支援サービス』を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20260930",
-      "theme": "MCP 活用",
+      "name": "episode_エージェント おすすめ 理由_20261001",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "株式会社SEVENRICH Accounting、マネーフォワード主催「士業サミット2026」に登壇・出展",
+          "title": "AI翻訳「Blue One」のイエローブルー、設立1年でISMS（ISO/IEC 27001:2022）認証を取得",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "IBM i 資産と多様なデータを繋ぐ『生成AI連携サービス for i』が大規模アップデート",
+          "title": "【日本初】日本発の「次世代オンチェーン金融マーケットプレイス」を世界標準へ。国際標準規格「ISO 26345」×「特許群（40件超）」の「オープンクローズ戦略」で実装が完了、商用サービスを開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "メーカー特化型転職エージェント【Way Mark】┃HPに「求人検索機能」を追加",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "『CData Connect AI』、ベル・データのIBM i ユーザー向けAIサービス『生成AI連携サービス for i』に採用",
+          "title": "OpenAI開発者会議場で抗議デモ トランプ政権との｢関係切断｣要求(AP通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【日本初】ステーブルコイン、トークン化預金、暗号資産、およびセキュリティトークン対応「オンチェーン金融マーケットプレイス」をサービスローンチ。全商品「真贋鑑定」と「100％返金保証」で安心安全をご提供",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
-          "title": "NVIDIA、AIエージェントを監視・制御する「Open Agent Safety Platform」を発表 ——OpenShellで実行環境を制御、NVIDIA BlueField-4上で動作するSentryでエージェントの行動を監視",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『GMOペパボ AIエージェントカンファレンス 2026』10月29日（木）オンライン開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "クリーニング屋が人手不足を“人手以外で”解決 一度は手放したkintoneを復活させ、AIで販管費を半減するまで",
-          "source": "Ascii",
+          "title": "2026年9月30日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」がSaaS内で分析・施策設計を支援するAIエージェント機能「AIインテリジェンス」提供開始",
+          "title": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格_20260930",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261001",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
-          "source": "テレ朝new",
+          "title": "創業300余年、福一漁業が挑む「未来の水産業」のデザイン――45億円の大型投資と世界市場への展望",
+          "source": "Zuu Online",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261001",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "[ITmedia エンタープライズ] 大企業に勤める回答者の過半数が「非エンジニアによる開発を実施」 全社に行き渡ったコード、検証できているのか？【調査】",
+          "source": "Itmedia",
           "trust_score": 7.0
+        },
+        {
+          "title": "高度AI人材育成に向けた社員研修の第3弾、AI駆動開発の品質保証を学ぶ研修を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI導入の要となる「フォワードデプロイ型エンジニア」、その急拡大の理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "バイブコーディング製アプリが拡大 使用前に情シスが確認したい5つのポイント",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "生成AIを活用した組織変革（AX）を加速する「AXマネジメント レディネス研修」「AXレディネス研修」同時提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
