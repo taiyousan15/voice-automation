@@ -1,110 +1,185 @@
 {
-  "generated_at": "2026-09-30T04:01:06.059391",
-  "total_episodes": 3,
+  "generated_at": "2026-10-01T00:27:29.177134",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 方法_20260930",
-      "theme": "エージェント 方法",
+      "name": "episode_占い 比較_20261001",
+      "theme": "占い 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年のテック業界人員削減、集計で22万5000人超 OracleのAI投資と雇用減を検証",
+          "title": "【グロウナビ】【シミ取りに関する実態調査】経験者の83%が施術に「満足」と回答！費用や施術プランを100人に調査",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "【後編】GMOペパボの「集合知」でよりよいプロダクトへ ― エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話",
-          "source": "Gmo Pepabo Tech Blog",
+          "title": "AI強気派の「教科書」と照らしてわかったクセは？──フィデリティの看板ファンドの1つ、「グロース・オポチュニティーズ・ファンド」を分析する【後編】(ダイヤモンド・ザイ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "青森市は3000万円影響か 10月1日～ふるさと納税基準厳格化 一部返礼品受け付け停止",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.0
+        },
+        {
+          "title": "青森市は3000万円影響か 10月1日～ふるさと納税基準厳格化 一部返礼品受け付け停止(青森放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "LONGi、2026年上半期の太陽光パネル出荷量29.93GWで世界1位に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "北海道電力、銀行サービスに参入 東京きらぼしFG系と連携",
+          "source": "Nikkei Shimbun",
+          "trust_score": 9.7
+        },
+        {
+          "title": "BYD、新型「ATTO 3 EX」解説とともにコンパクトクラスの新PHEV「ATTO 2」導入を予告(Car Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20261001",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "こぎそ氏が登壇 ── Offers、「人間のレビューなしで\"そのまま出せる\"デザインは作れるか こぎそさんに聞く デザインハーネスの現在地」ウェビナーを10月15日開催",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "試用版J-LENS Premiumの機能追加および今後の提供予定について",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Vocci ― あなたの世界をAIに伝えて、明日につなげる | クラウドファンディング、開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "W２、「W2 Commerce」がMCP連携に対応へ。AIアシスタントに話しかけるだけでEC運用データを確認可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "人間のせいでAIエージェントの生産性が上がらない",
+          "source": "Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "OpenAIのAIエージェント、ChatGPT利用者の画像53件を外部サイトに投稿 本人への通知は困難",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "MicrosoftがCopilotを刷新、常時稼働のAutopilotを発表 OpenClawの修正状況も導入時の確認点に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claude Code、同梱のclaude-apiスキルに新コマンド「build-eval」と「hillclimb」を追加 ——評価の作成からプロンプト・モデル設定の調整まで",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Amazon InspectorとAWS Security Agent（AWS Continuum）、何が違うのか整理してみました",
-          "source": "Serverworks Corporation",
+          "title": "「Claude Code」の真価は併用にあり 4つのインターフェース使い分けとハイブリッド運用",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "「GPT-6 Astraは旧世代モデルよりサイバー攻撃を実行しやすい傾向にある」というイギリス政府機関の分析結果が公開される",
+          "title": "AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開 特定のLLMに依存せず入れ替え可能",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 方法_20261001",
+      "theme": "思想 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「好かれていると思い込み、嫌われるために身体接触を行った」放課後に女子生徒の肩を抱き寄せ…セクハラ行為で中学校の男性講師を懲戒処分 宮城(tbc東北放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「一問一答」対策は通用しない。慶應SFC 28期連続合格実績を持つ講師が開業したAlternative Academy(R)︎、面接言語化講座「Verbal Training Gym」を大幅アップデート",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【ロンハーマン】Ron Herman TAKASHIMAYA GATE TOWER MALL Grand Open 11.13 (FRI)",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【キケンな縁結び相談所】「女性との交際をあっせんする」20代男性がSNSで恋愛コンサルタント詐欺被害…結局女性とは一度も会えず電話もできないまま約160万円だまし取られる…警察が注呼びかけ〈北海道〉(北海道ニュースUHB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「良い酔い」を記録するメディアbacchante、焼酎文化を巡る取材連載「酎酎トレイン」を始動。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "＜OPEN＞成長を加速させる、究極の生産性デバイス「Samsung Galaxy Tab S12シリーズ」10月7日（水）発売",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「遊佐まちなかビジネスチャレンジ」昨年参加者が登壇。若者の挑戦を応援する『遊佐チャレンジトーク＆アイデア作戦会議』を2026年10月24日(土)に開催。午前はまちなか探検 夜は昨年挑戦者の喫茶店で交流",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ 理由_20261001",
+      "theme": "Claude Code おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "2026年9月30日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20260930",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "株式会社SEVENRICH Accounting、マネーフォワード主催「士業サミット2026」に登壇・出展",
+          "title": "広島のAI研修会社WEAVE、90分・1講座から選べるオンラインの「スポットAI研修」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "IBM i 資産と多様なデータを繋ぐ『生成AI連携サービス for i』が大規模アップデート",
+          "title": "Uravation、Claude Codeの業務自動化を「動いた」で終わらせない「PoCチェックリスト」を無料公開。PoC前・実行中・判定の3区分と、本物のClaude Codeの実画面6ページを掲載",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
         },
         {
-          "title": "『CData Connect AI』、ベル・データのIBM i ユーザー向けAIサービス『生成AI連携サービス for i』に採用",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "NVIDIA、AIエージェントを監視・制御する「Open Agent Safety Platform」を発表 ——OpenShellで実行環境を制御、NVIDIA BlueField-4上で動作するSentryでエージェントの行動を監視",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『GMOペパボ AIエージェントカンファレンス 2026』10月29日（木）オンライン開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "クリーニング屋が人手不足を“人手以外で”解決 一度は手放したkintoneを復活させ、AIで販管費を半減するまで",
-          "source": "Ascii",
+          "title": "もうMCPサーバは不要なのか？ 代わりになる技術を開発者が提唱",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "AIO（LLMO/GEO）ツール「DolphinX AIO」がSaaS内で分析・施策設計を支援するAIエージェント機能「AIインテリジェンス」提供開始",
+          "title": "ベースマキナ、AIエージェントのデータアクセスに権限・承認・監査ログをあとづけする「AI Secure Gateway」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格_20260930",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 価格",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "【フィジカルAI】米中主導の開発…日本の“勝ち筋”カギ握る大規模ロボットセンター",
-          "source": "テレ朝new",
-          "trust_score": 7.0
+          "title": "Plainbrew、エンタープライズ向けヘッドレスCMS「Kuroco」のパートナープログラムに参加",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIと作ったWebアプリをすぐに公開 エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話・前編",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     }
