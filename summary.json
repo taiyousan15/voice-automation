@@ -1,181 +1,11 @@
 {
-  "generated_at": "2026-10-02T00:38:03.506240",
-  "total_episodes": 9,
+  "generated_at": "2026-10-02T04:05:49.811434",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_スピリチュアル おすすめ 理由_20261002",
-      "theme": "スピリチュアル おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ヒーリング｜心の鎖/闇解き放ち魂願成就【稀代のヒーラー】月野めいのコンテンツが「本格占い｜みのり」で提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_マーケティング戦略 方法_20261002",
-      "theme": "マーケティング戦略 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「ビール新時代へ。おいしさ一新・新『一番搾り』発表会」を開催 堤真一さん、賀来賢人さん、小芝風花さんに加え、ビールCM初出演の有村架純さんも登場！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【調査レポート】既存クライアントの50％が「内製化後に再度外注へ依頼した」と回答",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『ヒットマン』の開発元なのに、ステルスゲームではない？ 「チケットなしで東京ゲームショウに入るなら、受付に嘘をつけばいい」──『007 ファースト・ライト』開発陣が語る”ブラフ”の遊びを聞いて、これぞボンドだと膝を打った",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
-        },
-        {
-          "title": "TikTokで共感はどう生まれるのか？ 「IHADA」のPRマーケティング成功事例",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "デジタルで生まれた「創りたい」を、リアルなものづくりへ モンドリアン、学びラボの「MCA for Kids 2026」を共催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ジョーブログ＆YOSHIKI共演】登録者240万人超の大人気YouTuberが司会を務めるFM FUJIラジオ『俺たちの人生旅行記』に、株式会社EMOLVA代表・榊󠄀原清一がゲスト出演！",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【EBISUMARTとRUBY対談】自社に合うECプラットフォームの見つけ方「唯一の正解はない」(日本ネット経済新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 方法_20261002",
-      "theme": "エージェント 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Tech Lab、第4期よりFDEを事業・組織の中核へ。日本一のFDE組織を目指し、AI時代のエンジニアリングを再定義",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "営業AIエージェント「Aitane」、10月1日よりβ版を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "おすすめ韓国ドラマランキング【Netflix独占配信限定】2026年版",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「ERPは、もっとシンプルでいい」コマースロボティクスが中小企業向けクラウドERP「eerp」の開発コンセプトを公開 「業務をシステムに合わせる」EC業界の標準を、中小企業の基幹業務へ",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "Animoca Brands Japan、プログラミング不要の学生向けAIエージェントアイデアソン「Minds Japan Student AI Agent Ideathon」を開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Service eVisa Indexの調査で判明：旅行者の4人に3人がESTA、英国ETA、eTAを初回申請で正しく完了",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.0
-        },
-        {
-          "title": "営業AIエージェント「Aitane」、10月1日よりβ版を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261002",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "SEOと生成AI検索（LLMO／GEO）の両方に対応した記事をキーワードから自動生成するAIライティングサービス「AI Writer Beans」を正式リリース",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "エクセルソフト、「LocalStack ミートアップ東京 2026」を 10月 8日 (木) に LocalStack 社と共同開催",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 活用_20261002",
-      "theme": "思想 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "読書効率を上げる「非Amazon系」電子書籍リーダー5選(ライフハッカー・ジャパン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "アンリ・シャルパンティエ「フィナンシェ」年間販売実績で9度目のギネス世界記録(TM)認定！半世紀以上愛され続ける代表作。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "アンリ・シャルパンティエ「フィナンシェ」年間販売実績で9度目のギネス世界記録TM認定！ギネス世界記録認定記念商品の第1弾として限定アソート「ザ・フィナンシェ＜キャトル・セゾン＞」を10月1日より1カ月限定販売",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アンリ・シャルパンティエ「フィナンシェ」年間販売実績で9度目のギネス世界記録TM認定！ギネス世界記録認定記念商品の第1弾として限定アソート「ザ・フィナンシェ＜キャトル・セゾン＞」を10月1日より1カ月限定販売",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「ミスチ クルミッ子」待望の再販！ 2026年の鎌倉紅谷×Mr. CHEESECAKEコラボはグッズにも注目(All About)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "胸の痛みや動悸のほか、抑うつ状態や気分の落ち込みにも作用する「極泉」(家庭画報.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "膝の裏側のくぼみにある「曲泉」のツボは月経不順や月経痛、陰部のかゆみに作用(家庭画報.com)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 まとめ_20261002",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 まとめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門_20261002",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -189,97 +19,62 @@
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20261002",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_バイブコーディング 比較_20261002",
+      "theme": "バイブコーディング 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "その「HIIT動画」、本来のHIITとは別物です。脂肪燃焼・筋肉・体力、目的別に選び直すヒント",
-          "source": "Lifehacker",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「繁栄だけでは未来に何も残らない」直木賞作家・米澤穂信が語る歴史とAI",
-          "source": "Business Insider",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【タレント議員批判】元アイドル・元アスリートに「知名度だけ」の声…偏見跳ね返し、実績伝える方法を議論",
-          "source": "テレ朝new",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【シトロエン C3エアクロス 新型試乗】3列目シートは座布団2つ分!?「割り切れるか否か」が評価の分かれ目だ",
-          "source": "Response",
-          "trust_score": 7.5
+          "title": "『ConoHa VPS byGMO』、AIエージェント開発環境に悪意あるプログラム部品の侵入を防ぐ機能を無料で同梱【GMOインターネット】",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_思想 方法_20261002",
-      "theme": "思想 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261002",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "50代「定番服＝いつも同じ」を変える！ユニクロ・GU秋の5日間着回しコーデ(HALMEK up)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "秋に「抜け毛」が激増するのはなぜ？ 自宅でやってはいけないNGケアと対策【美容師解説】(オトナンサー)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "NEC、「CEATEC 2026」に出展し、「AX」「セキュリティ」の最新の取り組みを披露",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20261002",
-      "theme": "MCP 活用",
+      "name": "episode_skill 比較_20261002",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "サードリー、「Profiit（プロフィート）」を“入力する社員”目線でアップデート 日報・Outlook連携・AI入力支援に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "インフラエンジニアから社内SEへの転職は難しい？違い・手順・相談先までプロが徹底解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
         },
         {
-          "title": "2026年11月、社労士業務のAI活用が「答える」から「動かす」へ社労士事務所向けクラウドソフト「オフィスステーション Pro」～AIが業務システムを直接操作する「MCPサーバー」を提供開始～",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "AWS Certified AI Business Strategist（AIB-C01）― 受験前に知っておきたい要点と受験談",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         },
         {
-          "title": "CData、AIと業務システムをつなぐ単一の統制基盤『Connect AI Gateway』をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AMD、組み込み開発向けエージェンティックAIアシスタント「AMD Ross」を発表",
-          "source": "Ascii",
+          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "補助金・判例・法令を引けるMCPサービス「EI MCP」提供開始",
+          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "AI時代の新しいリーガルテック！Legal Node、アスクプロと業務提携契約を締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日本情報Ｃ Research Memo（3）：DXを支援する仲介ソリューションと管理ソリューションを一気通貫で提供（1）",
-          "source": "Money Post",
-          "trust_score": 7.5
         }
       ]
     }
