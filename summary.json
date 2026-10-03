@@ -1,41 +1,251 @@
 {
-  "generated_at": "2026-10-02T04:05:49.811434",
-  "total_episodes": 4,
+  "generated_at": "2026-10-03T00:19:54.030347",
+  "total_episodes": 7,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門_20261002",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門",
+      "name": "episode_哲学 おすすめ 理由_20261003",
+      "theme": "哲学 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "創業300余年、福一漁業が挑む「未来の水産業」のデザイン――45億円の大型投資と世界市場への展望",
-          "source": "Zuu Online",
+          "title": "関暁夫が語る忍者×防犯・防災の融合 甲賀の地で開催『情熱防災・防犯フェス』で魅せた“新たな命のつなげ方”",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "関暁夫が語る忍者×防犯・防災の融合 甲賀の地で開催『情熱防災・防犯フェス』で魅せた“新たな命のつなげ方”(オリコン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "香田悠真が語る「間にいる音楽家」の半生──映画・ジャズ・電子音楽を横断、岡田拓郎や安部勇磨らと描いた「架空の故郷」",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "2026年10月2日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
+        },
+        {
+          "title": "浜岡原発のデータ改ざん問題で、研究者らが中部電力前社長を刑事告発",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【〈SSR2026〉開催記念】österreich × Blume popo、異なる感性がひらく音楽の可能性",
+          "source": "Ototoy",
+          "trust_score": 7.5
+        },
+        {
+          "title": "なぜ「シャンパン」は高級品であり続けるのか？ 世界最高峰の価値を守る“厳格すぎるルール”",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_バイブコーディング 比較_20261002",
-      "theme": "バイブコーディング 比較",
+      "name": "episode_哲学 ランキング_20261003",
+      "theme": "哲学 ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『ConoHa VPS byGMO』、AIエージェント開発環境に悪意あるプログラム部品の侵入を防ぐ機能を無料で同梱【GMOインターネット】",
+          "title": "ブルステ最終章突入 世界級の選手に挑む、舞台『ブルーロック』5th STAGE ―新英雄大戦（ネオ・エゴイストリーグ）開幕―ゲネプロ＆取材会レポート",
+          "source": "Spice Entertainment Information",
+          "trust_score": 7.5
+        },
+        {
+          "title": "＜スターダスト☆レビュー×杉山清貴＆オメガトライブ連続特集＞11月は、杉山清貴ソロデビュー40周年の記念すべきツアーからファイナル公演の模様をWOWOWにて11/28（土）午後4：30から独占生中継！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIが「覚える」時代、人は「関係を育てる」へ。AI時代に問われる「人間にしか出せない価値」から生まれた、人脈管理サービス「Go縁」",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【売れすぎてテレビCMを止めた!? 沖縄の小さなぜんざい屋に学ぶ経営哲学】『変わらないために変わり続ける』2026年10月14日発売",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2発で今季リーグ戦13得点。C大阪U-18の10番FW塩尻哲平が誓うプリンス関西得点王とプレミア昇格、セレッソへの恩返し",
+          "source": "Gexaka",
+          "trust_score": 7.5
+        },
+        {
+          "title": "知るとニュースの見方が変わる！アニメーションが楽しめる世界の映画祭11選",
+          "source": "Buzzfeed",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【大丸札幌店】「ブルーポンド」誕生1周年記念。期間限定でオリジナル巾着をプレゼント",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261002",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
+      "name": "episode_思想 おすすめ 理由_20261003",
+      "theme": "思想 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「まさかヤッてんの？」60代両親の最中を目撃した36歳実家暮らし娘。「手取り18万で自立は無理」と訴える娘を待っていたまさかの人物からの反撃【専門家助言】(FORZA STYLE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "子育て世代の家づくりにリアルな助言「目が離せず、生活音にも気を使う…」【建築家の自邸の失敗談】(モダンリビング)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "TALTOの新星・She Side Shipが遠い距離を歌う意味――「私の衝動性は、寂しさや孤独感から来ている」",
+          "source": "Spice Entertainment Information",
+          "trust_score": 7.5
+        },
+        {
+          "title": "川口春奈×高杉真宙 映画『ママがもうこの世界にいなくても 私の命の日記』で紡がれる、幸せの記憶",
+          "source": "Ananweb",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「ハラスメント被害者にも原因がある」はなぜ生まれる？ 私たちの中にある“加害性”を描く『ファーストボイス』【映画レビュー】(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「人に迷惑をかけない老後」は本当に美徳といえる？ 誰にも頼らず強がる人ほど「損をする」理由(All About)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "元NHK中川安奈アナ、美ボディ際立つピッタリワンピ姿 妹との2ショット公開に「爆美女姉妹」「ディズニープリンセスみたい」の声",
+          "source": "Model Press",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261003",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "マネーフォワード、『マネーフォワード AI Cowork』の士業向け機能の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「freee-mcp」、受注者との契約・発注・請求・支払を一元管理する「freee業務委託管理」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SB C&S、Zenityとディストリビューター契約を締結AIエージェント向けセキュリティプラットフォームの日本国内における取り扱いを開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "自治体・DMOの観光データ分析をAIエージェントが支援。次世代の観光DMP『Tourism Intelligence DMP』を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "データは貯めるだけでは“堀”にならない - freeeが2年で回した「データフライホイール」の実践知",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Agentic Codingとハーネスエンジニアリング ——AIの自走性能を最大化するためのしくみと考え方",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 比較_20261003",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "エコ・ウェーブ・パワー、スモールキャップ会議で波力エネルギーの可能性を訴える",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_占い おすすめ 理由_20261003",
+      "theme": "占い おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "モルガン・スタンレー、Legrandの目標株価を引き上げ―トップ銘柄に維持",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "イエメン政府軍がタイズを掌握 海上水路制圧のフーシ派と衝突(AP通信)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ローナ・ショアのウィル・ラモスが語る、悲しみを叫びに変えるということ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "広瀬アリス「バッサリいっちゃいました」新ヘアでイベント登場 共演俳優がイメチェン後の変化語る【沖晴くんの涙を殺して】",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "OrcaRouter、AIエージェントの判断を学ぶデータセット「Orca Incident Alignment（OIAS）」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "英王室ゆかりのインター校が和歌山に 全寮制年800万円 「Aレベル」で大学受験資格も(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "最年少では中学2年生…“振り袖商戦”早まる 県外進学者の帰省に合わせ大型連休にフェア開催も 生産数の減少やコスト高騰による供給不足も影響",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 有料_20261003",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 有料",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -43,36 +253,6 @@
       "articles": [
         {
           "title": "NEC、「CEATEC 2026」に出展し、「AX」「セキュリティ」の最新の取り組みを披露",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20261002",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "インフラエンジニアから社内SEへの転職は難しい？違い・手順・相談先までプロが徹底解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AWS Certified AI Business Strategist（AIB-C01）― 受験前に知っておきたい要点と受験談",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
           "source": "Pr Times",
           "trust_score": 8.0
         }
