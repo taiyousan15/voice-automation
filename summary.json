@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-10-03T03:50:02.076233",
-  "total_episodes": 3,
+  "generated_at": "2026-10-03T23:41:28.535483",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20261003",
-      "theme": "skill 方法",
+      "name": "episode_思想 ランキング_20261003",
+      "theme": "思想 ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "今日の運勢 10月4日（日）「12星座占いランキング」第1位は蟹座（かに座）！ あなたの星座は何位？",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【りんごはとりあえず常温←絶対やめて！】老舗青果店が教える「1カ月以上も長持ち」賢い保存法「早く知りたかった〜」",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「もう塩かけない！？」【家事ヤロウ】「ゆで卵のめちゃくちゃウマい食べ方」ドはまって毎週作ってます",
+          "source": "Yomuno",
+          "trust_score": 6.5
+        },
+        {
+          "title": "さつまいも買っても【焼き芋にしないで！？】笠原シェフ「とんでもなく旨い食べ方」が簡単！“塩昆布”入れるって興味津々",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "飲み会で「辞・め・ろｗ」と退職強要コール！→「ちょうど良かったです」お望み通り、即退職届を出した結果…",
+          "source": "Yomuno",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Webエンジニアはやめとけって本当？きついと言われる理由と、後悔しない職場の見極め方を解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『OGURAあんぱん』は30分で完売⁉イベント広場は小椋効果で例年以上の大盛況／第16戦日本GP",
+          "source": "Auto Sport",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20261003",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -20,71 +65,6 @@
           "title": "開発エンジニアから社内SEへ転職｜コードは書き続けられる？違い・後悔しない求人の選び方",
           "source": "Tenshoku Stories",
           "trust_score": 7.5
-        },
-        {
-          "title": "駅前留学NOVAの新テキスト 目的別英会話シリーズ「The Select」が新登場！学びたい目的に合わせてレッスンをカスタマイズ！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261003",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Google、新AIモデル「Gemini 4 Argon」を発表、サイバー防御担当者に先行提供 出力上限は100万トークン",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "エバーコアがGrok Botを過小評価されたAIエージェントの好機と評価",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "2.5次元アイドルグループ「すたぽら」の冠ラジオ『推しえて？すたぽらじお！』第1回公開収録イベントが2026年12月12日（土）に開催決定！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "コートレンタルスタート。ピックルボールを、街の新しい価値に。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "キーバンク、エアビーアンドビーを強気評価―ホテルを第2の成長エンジンと見る",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "XNOVA・Unitree・Eco Forest Friendly、京都市西京区の森林で自律走行ロボットによる森林巡視実証を実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【テクノツリー】帳票電子化ツール「XC-Gate」にてAI-OCR機能をリリース",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261003",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "エコ・ウェーブ・パワー、スモールキャップ会議で波力エネルギーの可能性を訴える",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
         }
       ]
     }
