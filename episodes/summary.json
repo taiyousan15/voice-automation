@@ -1,80 +1,90 @@
 {
-  "generated_at": "2026-10-02T04:05:49.811434",
-  "total_episodes": 4,
+  "generated_at": "2026-10-03T03:50:02.076233",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門_20261002",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門",
+      "name": "episode_skill 方法_20261003",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "創業300余年、福一漁業が挑む「未来の水産業」のデザイン――45億円の大型投資と世界市場への展望",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 比較_20261002",
-      "theme": "バイブコーディング 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『ConoHa VPS byGMO』、AIエージェント開発環境に悪意あるプログラム部品の侵入を防ぐ機能を無料で同梱【GMOインターネット】",
-          "source": "Pr Times",
+          "title": "柳谷智宣のAIトレンドインサイト 第36回 シェア2.4%でも侮るなかれ、全部入りの統合AIサービスGrokの多彩な機能を一挙解説",
+          "source": "Mynavi News",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261002",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+        },
         {
-          "title": "NEC、「CEATEC 2026」に出展し、「AX」「セキュリティ」の最新の取り組みを披露",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20261002",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "インフラエンジニアから社内SEへの転職は難しい？違い・手順・相談先までプロが徹底解説！",
+          "title": "開発エンジニアから社内SEへ転職｜コードは書き続けられる？違い・後悔しない求人の選び方",
           "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "AWS Certified AI Business Strategist（AIB-C01）― 受験前に知っておきたい要点と受験談",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
+          "title": "駅前留学NOVAの新テキスト 目的別英会話シリーズ「The Select」が新登場！学びたい目的に合わせてレッスンをカスタマイズ！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261003",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
+          "title": "Google、新AIモデル「Gemini 4 Argon」を発表、サイバー防御担当者に先行提供 出力上限は100万トークン",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "オラクル、Oracle Fusion Clawを提供し、Fusion Agentic Applicationsを拡張",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "エバーコアがGrok Botを過小評価されたAIエージェントの好機と評価",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "2.5次元アイドルグループ「すたぽら」の冠ラジオ『推しえて？すたぽらじお！』第1回公開収録イベントが2026年12月12日（土）に開催決定！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "コートレンタルスタート。ピックルボールを、街の新しい価値に。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "キーバンク、エアビーアンドビーを強気評価―ホテルを第2の成長エンジンと見る",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "XNOVA・Unitree・Eco Forest Friendly、京都市西京区の森林で自律走行ロボットによる森林巡視実証を実施",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【テクノツリー】帳票電子化ツール「XC-Gate」にてAI-OCR機能をリリース",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261003",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "エコ・ウェーブ・パワー、スモールキャップ会議で波力エネルギーの可能性を訴える",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         }
       ]
     }
