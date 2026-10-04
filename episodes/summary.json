@@ -1,90 +1,70 @@
 {
-  "generated_at": "2026-10-03T03:50:02.076233",
-  "total_episodes": 3,
+  "generated_at": "2026-10-04T04:21:12.384466",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20261003",
-      "theme": "skill 方法",
+      "name": "episode_MCP 比較_20261004",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "柳谷智宣のAIトレンドインサイト 第36回 シェア2.4%でも侮るなかれ、全部入りの統合AIサービスGrokの多彩な機能を一挙解説",
           "source": "Mynavi News",
           "trust_score": 8.0
         },
         {
-          "title": "開発エンジニアから社内SEへ転職｜コードは書き続けられる？違い・後悔しない求人の選び方",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
+          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "駅前留学NOVAの新テキスト 目的別英会話シリーズ「The Select」が新登場！学びたい目的に合わせてレッスンをカスタマイズ！",
+          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_エージェント 活用_20261003",
-      "theme": "エージェント 活用",
+      "name": "episode_MCP おすすめ_20261004",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Google、新AIモデル「Gemini 4 Argon」を発表、サイバー防御担当者に先行提供 出力上限は100万トークン",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "エバーコアがGrok Botを過小評価されたAIエージェントの好機と評価",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "2.5次元アイドルグループ「すたぽら」の冠ラジオ『推しえて？すたぽらじお！』第1回公開収録イベントが2026年12月12日（土）に開催決定！",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "コートレンタルスタート。ピックルボールを、街の新しい価値に。",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "Earendil、AIエージェントハーネスPi 1.0をリリース ——タスクの保存・再開に対応する「Pi Durable」も公開",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.0
         },
         {
-          "title": "キーバンク、エアビーアンドビーを強気評価―ホテルを第2の成長エンジンと見る",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "XNOVA・Unitree・Eco Forest Friendly、京都市西京区の森林で自律走行ロボットによる森林巡視実証を実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "TesterArmy、AIエージェントを使うE2Eテストフレームワーク「e2e」をオープンソースで公開",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.0
         },
         {
-          "title": "【テクノツリー】帳票電子化ツール「XC-Gate」にてAI-OCR機能をリリース",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261003",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
         {
-          "title": "エコ・ウェーブ・パワー、スモールキャップ会議で波力エネルギーの可能性を訴える",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "ECU、「チャットでホームページつくる君」を正式リリース。HPの作成・更新をAIとの会話だけで完結",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
