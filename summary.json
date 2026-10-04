@@ -1,70 +1,70 @@
 {
-  "generated_at": "2026-10-03T23:41:28.535483",
+  "generated_at": "2026-10-04T04:21:12.384466",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 ランキング_20261003",
-      "theme": "思想 ランキング",
+      "name": "episode_MCP 比較_20261004",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "今日の運勢 10月4日（日）「12星座占いランキング」第1位は蟹座（かに座）！ あなたの星座は何位？",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
-        {
-          "title": "【りんごはとりあえず常温←絶対やめて！】老舗青果店が教える「1カ月以上も長持ち」賢い保存法「早く知りたかった〜」",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「もう塩かけない！？」【家事ヤロウ】「ゆで卵のめちゃくちゃウマい食べ方」ドはまって毎週作ってます",
-          "source": "Yomuno",
-          "trust_score": 6.5
-        },
-        {
-          "title": "さつまいも買っても【焼き芋にしないで！？】笠原シェフ「とんでもなく旨い食べ方」が簡単！“塩昆布”入れるって興味津々",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "飲み会で「辞・め・ろｗ」と退職強要コール！→「ちょうど良かったです」お望み通り、即退職届を出した結果…",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Webエンジニアはやめとけって本当？きついと言われる理由と、後悔しない職場の見極め方を解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『OGURAあんぱん』は30分で完売⁉イベント広場は小椋効果で例年以上の大盛況／第16戦日本GP",
-          "source": "Auto Sport",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20261003",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "柳谷智宣のAIトレンドインサイト 第36回 シェア2.4%でも侮るなかれ、全部入りの統合AIサービスGrokの多彩な機能を一挙解説",
           "source": "Mynavi News",
           "trust_score": 8.0
         },
         {
-          "title": "開発エンジニアから社内SEへ転職｜コードは書き続けられる？違い・後悔しない求人の選び方",
-          "source": "Tenshoku Stories",
+          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261004",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
+        },
+        {
+          "title": "Earendil、AIエージェントハーネスPi 1.0をリリース ——タスクの保存・再開に対応する「Pi Durable」も公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "TesterArmy、AIエージェントを使うE2Eテストフレームワーク「e2e」をオープンソースで公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ECU、「チャットでホームページつくる君」を正式リリース。HPの作成・更新をAIとの会話だけで完結",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
