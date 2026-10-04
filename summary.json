@@ -1,68 +1,43 @@
 {
-  "generated_at": "2026-10-04T04:21:12.384466",
+  "generated_at": "2026-10-04T23:54:28.171629",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20261004",
-      "theme": "MCP 比較",
+      "name": "episode_skill 活用_20261004",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
+          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "柳谷智宣のAIトレンドインサイト 第36回 シェア2.4%でも侮るなかれ、全部入りの統合AIサービスGrokの多彩な機能を一挙解説",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Progress Software、Domo Magic ETLを強化し、ガバナンスされたAI機能を拡充",
+          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20261004",
-      "theme": "MCP おすすめ",
+      "name": "episode_スピリチュアル おすすめ_20261004",
+      "theme": "スピリチュアル おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
-          "source": "Serverworks Corporation",
+          "title": "スピリチュアル系YouTube動画のシナリオ作成は、もうAIの仕事に 「会社を辞めた時のために副業に取り組んできたのに」と嘆くシニアの徒労感",
+          "source": "Nikkan Gendai Digital",
           "trust_score": 7.5
         },
         {
-          "title": "Earendil、AIエージェントハーネスPi 1.0をリリース ——タスクの保存・再開に対応する「Pi Durable」も公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "TesterArmy、AIエージェントを使うE2Eテストフレームワーク「e2e」をオープンソースで公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ECU、「チャットでホームページつくる君」を正式リリース。HPの作成・更新をAIとの会話だけで完結",
+          "title": "“信頼度No.1級”政財界でも常連多数【星と暦の解読者 美園環希】のコンテンツが「本格占い｜みのり」で提供開始",
           "source": "Infoseek Japan",
           "trust_score": 9.2
         }
