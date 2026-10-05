@@ -1,45 +1,75 @@
 {
-  "generated_at": "2026-10-04T23:54:28.171629",
+  "generated_at": "2026-10-05T04:05:48.963603",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20261004",
-      "theme": "skill 活用",
+      "name": "episode_MCP 方法_20261005",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
+          "title": "手描きのラクガキを見せるだけ。Claude Codeが3Dプリント用のデータに仕上げてくれた",
+          "source": "Lifehacker",
+          "trust_score": 7.0
+        },
+        {
+          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_スピリチュアル おすすめ_20261004",
-      "theme": "スピリチュアル おすすめ",
+      "name": "episode_エージェント おすすめ 理由_20261005",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "スピリチュアル系YouTube動画のシナリオ作成は、もうAIの仕事に 「会社を辞めた時のために副業に取り組んできたのに」と嘆くシニアの徒労感",
-          "source": "Nikkan Gendai Digital",
+          "title": "『 CAT Project 』をきっかけに 、Web3などの新しい可能性を学ぶ！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "受託開発はやめとけって本当？つらいと言われる理由と、やめとけが当たる会社・当たらない会社の見分け方！",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "“信頼度No.1級”政財界でも常連多数【星と暦の解読者 美園環希】のコンテンツが「本格占い｜みのり」で提供開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "AWS Strands Labs、文章を生成せず選択肢を評価する「Strands Decider 2B」を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "SIerからWeb系への転職は難しい？評価される経験・年収の変化・タイプ別の準備を徹底解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     }
