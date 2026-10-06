@@ -1,75 +1,85 @@
 {
-  "generated_at": "2026-10-05T04:05:48.963603",
-  "total_episodes": 2,
+  "generated_at": "2026-10-06T01:43:08.253653",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261005",
-      "theme": "MCP 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261006",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "手描きのラクガキを見せるだけ。Claude Codeが3Dプリント用のデータに仕上げてくれた",
-          "source": "Lifehacker",
-          "trust_score": 7.0
-        },
-        {
-          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
+          "title": "「AIとどう働くか」が問われる時代へ──MODE CEO・上田氏が語る、現場DXの次なるステージ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261005",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_スピリチュアル 方法_20261006",
+      "theme": "スピリチュアル 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『 CAT Project 』をきっかけに 、Web3などの新しい可能性を学ぶ！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "受託開発はやめとけって本当？つらいと言われる理由と、やめとけが当たる会社・当たらない会社の見分け方！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AWS Strands Labs、文章を生成せず選択肢を評価する「Strands Decider 2B」を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "SIerからWeb系への転職は難しい？評価される経験・年収の変化・タイプ別の準備を徹底解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
+          "title": "出版業の倒産が前年同期比90.9％増。出版業界で30年以上、550冊以上に携わった元編集長・三宅川修慶が、失われる「プロ編集者」の経験を電子書籍へ還元する「プロ電子出版」を提唱",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
+          "title": "出版業の倒産が前年同期比90.9％増。出版業界で30年以上、550冊以上に携わった元編集長・三宅川修慶が、失われる「プロ編集者」の経験を電子書籍へ還元する「プロ電子出版」を提唱",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 方法_20261006",
+      "theme": "思想 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "『キングダム ハーツ コレクション [I～III]』で遊び直す『キングダム ハーツII』は、“プーさんのひと言”すら切ない。大人になって知ったことも忘れたことも、全部しみる",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【地域連携】さくらフォレスト、3回目となるこども職場体験を実施、体験から1ヶ月後に見えたこと",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ミラノ五輪銅・中井亜美（新潟市出身）が東京選手権優勝！ショート・フリーともにトリプルアクセル着氷「フランス杯に向けしっかり準備を」(新潟ニュースNST)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "なぜ「ラグジュアリー日本酒ブランド」を生み出した？「価格は価値の総和」に込めたSAKE HUNDREDの挑戦(TOKYO FM＋)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "シャルレーヌ公妃、白衣を思わせるパンツスーツでモナコをピンク色にライトアップ【ピンクリボン月間】(フィガロジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【男子バスケ】開志国際（新潟） U18日本代表の恒岡ケイマン登場！山形中央に大差で勝利「高校ナンバー1プレイヤーに」(新潟ニュースNST)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "“目に見えない危険”どう対応？新潟市で“サリン”想定した大規模訓練 国際会議を前に連携確認「言葉通じない場合も…適切な対応を」(新潟ニュースNST)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
