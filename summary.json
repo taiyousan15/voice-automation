@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-10-06T01:43:08.253653",
-  "total_episodes": 3,
+  "generated_at": "2026-10-06T04:55:00.352952",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
+    {
+      "name": "episode_MCP ランキング_20261006",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
     {
       "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261006",
       "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
@@ -19,66 +34,106 @@
       ]
     },
     {
-      "name": "episode_スピリチュアル 方法_20261006",
-      "theme": "スピリチュアル 方法",
+      "name": "episode_MCP 方法_20261006",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "出版業の倒産が前年同期比90.9％増。出版業界で30年以上、550冊以上に携わった元編集長・三宅川修慶が、失われる「プロ編集者」の経験を電子書籍へ還元する「プロ電子出版」を提唱",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "「え、これ模型にするの!?」『全日本模型ホビーショー』で発見! デフから超リアルな“普通の人”、極小本格RC、実在するようなSFバイクまで…マニアック過ぎる(?)注目アイテム5選!",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
         },
         {
-          "title": "出版業の倒産が前年同期比90.9％増。出版業界で30年以上、550冊以上に携わった元編集長・三宅川修慶が、失われる「プロ編集者」の経験を電子書籍へ還元する「プロ電子出版」を提唱",
+          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 方法_20261006",
-      "theme": "思想 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『キングダム ハーツ コレクション [I～III]』で遊び直す『キングダム ハーツII』は、“プーさんのひと言”すら切ない。大人になって知ったことも忘れたことも、全部しみる",
-          "source": "Automaton",
-          "trust_score": 7.0
+          "trust_score": 7.5
         },
         {
-          "title": "【地域連携】さくらフォレスト、3回目となるこども職場体験を実施、体験から1ヶ月後に見えたこと",
+          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ミラノ五輪銅・中井亜美（新潟市出身）が東京選手権優勝！ショート・フリーともにトリプルアクセル着氷「フランス杯に向けしっかり準備を」(新潟ニュースNST)",
+          "title": "AWS Events API を MCP 経由で試してみた",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【中国AI最前線】AIエージェントを企業で「動かす」ために何が必要か--Metelix、「Apsara Conference 2026」技術調査レポートを無料公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ハンドメイド作家の75%がAI使用経験あり、経験者の67%が作業時間の削減を実感「minne byGMOペパボ」のAI活用に関する調査【GMOペパボ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 方法_20261006",
+      "theme": "エージェント 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "カントル・フィッツジェラルド、テレコム提携後もCloudflareを中立評価に据え置き",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ベンチャー・スタートアップはやめとけって本当？エンジニアが後悔する理由と見極め方を解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【Claude Cowork】その作業、まだ手でやる？AIを使って仕事のやり方をアップデート！ 10/23（金）好評セミナー「キャシさんのClaude Cowork講座」のアーカイブ映像を無料配信!!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "自信を失っていた専業主婦が寝室を拠点に旅行ビジネスを立ち上げ、仕事と家庭を両立するまで",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ＡＩ活用ハッキング、数十兆円規模の韓国金融機関を攻撃…「弱点」の個人情報流出(ハンギョレ新聞)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "なぜ「ラグジュアリー日本酒ブランド」を生み出した？「価格は価値の総和」に込めたSAKE HUNDREDの挑戦(TOKYO FM＋)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+          "source": "Itmedia",
+          "trust_score": 7.0
         },
         {
-          "title": "シャルレーヌ公妃、白衣を思わせるパンツスーツでモナコをピンク色にライトアップ【ピンクリボン月間】(フィガロジャポン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
+          "title": "2026年10月5日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill ランキング_20261006",
+      "theme": "skill ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "【男子バスケ】開志国際（新潟） U18日本代表の恒岡ケイマン登場！山形中央に大差で勝利「高校ナンバー1プレイヤーに」(新潟ニュースNST)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "“目に見えない危険”どう対応？新潟市で“サリン”想定した大規模訓練 国際会議を前に連携確認「言葉通じない場合も…適切な対応を」(新潟ニュースNST)",
-          "source": "Yahoo Japan",
+          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
+          "source": "Infoseek Japan",
           "trust_score": 9.2
         }
       ]
