@@ -1,10 +1,40 @@
 {
-  "generated_at": "2026-10-05T04:05:48.963603",
-  "total_episodes": 2,
+  "generated_at": "2026-10-06T04:55:00.352952",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261005",
+      "name": "episode_MCP ランキング_20261006",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261006",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「AIとどう働くか」が問われる時代へ──MODE CEO・上田氏が語る、現場DXの次なるステージ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261006",
       "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
@@ -12,64 +42,99 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "手描きのラクガキを見せるだけ。Claude Codeが3Dプリント用のデータに仕上げてくれた",
-          "source": "Lifehacker",
-          "trust_score": 7.0
+          "title": "「え、これ模型にするの!?」『全日本模型ホビーショー』で発見! デフから超リアルな“普通の人”、極小本格RC、実在するようなSFバイクまで…マニアック過ぎる(?)注目アイテム5選!",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
         },
         {
-          "title": "F5のAI推論負荷分散、BlueField-3で高負荷時にEnvoyの3.24倍 スポンサー付き試験で測定",
+          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "trust_score": 7.5
         },
         {
-          "title": "Claude Code更新 Ultracode独立切替【9/25〜10/1】",
+          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AWS Events API を MCP 経由で試してみた",
           "source": "Serverworks Corporation",
           "trust_score": 7.5
+        },
+        {
+          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【中国AI最前線】AIエージェントを企業で「動かす」ために何が必要か--Metelix、「Apsara Conference 2026」技術調査レポートを無料公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ハンドメイド作家の75%がAI使用経験あり、経験者の67%が作業時間の削減を実感「minne byGMOペパボ」のAI活用に関する調査【GMOペパボ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261005",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_エージェント 方法_20261006",
+      "theme": "エージェント 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『 CAT Project 』をきっかけに 、Web3などの新しい可能性を学ぶ！",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "カントル・フィッツジェラルド、テレコム提携後もCloudflareを中立評価に据え置き",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "受託開発はやめとけって本当？つらいと言われる理由と、やめとけが当たる会社・当たらない会社の見分け方！",
+          "title": "ベンチャー・スタートアップはやめとけって本当？エンジニアが後悔する理由と見極め方を解説！",
           "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "AWS Strands Labs、文章を生成せず選択肢を評価する「Strands Decider 2B」を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "SIerからWeb系への転職は難しい？評価される経験・年収の変化・タイプ別の準備を徹底解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
+          "title": "【Claude Cowork】その作業、まだ手でやる？AIを使って仕事のやり方をアップデート！ 10/23（金）好評セミナー「キャシさんのClaude Cowork講座」のアーカイブ映像を無料配信!!",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "【10/21-23開催】年間200本超登壇の本間謙斗が「DXPO福岡’26」で3日連続で基調講演に登壇｜がばいAIコンサルティング、IT・情シスDXPOにも出展",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "自信を失っていた専業主婦が寝室を拠点に旅行ビジネスを立ち上げ、仕事と家庭を両立するまで",
+          "source": "Business Insider",
           "trust_score": 7.0
+        },
+        {
+          "title": "ＡＩ活用ハッキング、数十兆円規模の韓国金融機関を攻撃…「弱点」の個人情報流出(ハンギョレ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年10月5日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill ランキング_20261006",
+      "theme": "skill ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
