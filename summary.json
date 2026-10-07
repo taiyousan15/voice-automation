@@ -1,26 +1,56 @@
 {
-  "generated_at": "2026-10-06T04:55:00.352952",
+  "generated_at": "2026-10-07T00:31:58.019005",
   "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP ランキング_20261006",
-      "theme": "MCP ランキング",
+      "name": "episode_Claude Code おすすめ_20261007",
+      "theme": "Claude Code おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "2026年10月6日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ファッション業界経営層のための共創フォーラム「WWDJAPAN FASHION LINK」第2回開催 “AIに選ばれる”時代にブランドは何をすべきか",
+          "source": "Wwd Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "映像制作会社のSpinel、AIと共同開発した動画レビューツール「Spinel Review」を社内導入 修正確認・誤字チェック・切り抜き提案をAIが支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
+          "source": "Nippon Telegraph And Telephone Developer Portal",
+          "trust_score": 9.7
+        },
+        {
+          "title": "【403人の診断データ調査】仕事でAIを毎日使う人は58%、そのうち59%は繰り返し作業のAI化を「していない」。AIエージェントに業務を任せている人は8%――無料「AI活用度診断」の回答を集計",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIで増えたシステムを、AIで束ねる。構成管理プラットフォーム「IceShore」の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【エキスパート座談会 #2】AI時代の技術コミュニティ：社内・社外のつながりと、これからの役割",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261006",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261007",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -34,107 +64,67 @@
       ]
     },
     {
-      "name": "episode_MCP 方法_20261006",
-      "theme": "MCP 方法",
+      "name": "episode_Claude Code ランキング_20261007",
+      "theme": "Claude Code ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「え、これ模型にするの!?」『全日本模型ホビーショー』で発見! デフから超リアルな“普通の人”、極小本格RC、実在するようなSFバイクまで…マニアック過ぎる(?)注目アイテム5選!",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "この秋、幕張メッセで新たな「発見」を。「DX総合EXPO 2026 秋 東京」開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AWS Events API を MCP 経由で試してみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "行政向け生成AI「QommonsAI」、J-LISフェア2026でエージェント版と行政専用AIアプリストア「Qommons ONE」を披露 - 自治体の定型業務を、職員の承認の基でAIが最後まで進める",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【中国AI最前線】AIエージェントを企業で「動かす」ために何が必要か--Metelix、「Apsara Conference 2026」技術調査レポートを無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ハンドメイド作家の75%がAI使用経験あり、経験者の67%が作業時間の削減を実感「minne byGMOペパボ」のAI活用に関する調査【GMOペパボ】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 方法_20261006",
-      "theme": "エージェント 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "カントル・フィッツジェラルド、テレコム提携後もCloudflareを中立評価に据え置き",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ベンチャー・スタートアップはやめとけって本当？エンジニアが後悔する理由と見極め方を解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【Claude Cowork】その作業、まだ手でやる？AIを使って仕事のやり方をアップデート！ 10/23（金）好評セミナー「キャシさんのClaude Cowork講座」のアーカイブ映像を無料配信!!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "自信を失っていた専業主婦が寝室を拠点に旅行ビジネスを立ち上げ、仕事と家庭を両立するまで",
-          "source": "Business Insider",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ＡＩ活用ハッキング、数十兆円規模の韓国金融機関を攻撃…「弱点」の個人情報流出(ハンギョレ新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "2026年10月5日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill ランキング_20261006",
-      "theme": "skill ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【ドローンの平和利用をスポーツで実現】 日本発のドローンスポーツ複合イベント「DRONE GAMES2026」開催",
+          "title": "NHN テコラス、Cloud Chorus の新サービスとして「Claude」の導入から活用まで幅広く支援する「Claude 総合支援サービス」の提供を開始",
           "source": "Infoseek Japan",
           "trust_score": 9.2
+        },
+        {
+          "title": "YouTubeチャンネル「事業者向けのClaude Code・Codex活用術」を約1年ぶりに再開、会社HPの問い合わせをAIが自動分析する仕組みの作り方を公開",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20261007",
+      "theme": "Claude Code 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Codeのルーティンを利用した開発フローの自動化",
+          "source": "Rakus Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Uravation、法人向け生成AI研修の「料金の目安」を公開。標準コースは400,000円／名、10名以上・15名以上の単価と人数別の早見表、研修費に含まれるもの・含まれないものを1ページに",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "NHN テコラス、Cloud Chorus の新サービスとして「Claude」の導入から活用まで幅広く支援する「Claude 総合支援サービス」の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル おすすめ 理由_20261007",
+      "theme": "スピリチュアル おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "マイルスとコルトレーンを聴き尽くす！ 生誕100年の今こそ必読『季刊・アナログ 93号』発売中！",
+          "source": "Phile Web",
+          "trust_score": 7.5
         }
       ]
     }
