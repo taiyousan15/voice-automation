@@ -1,28 +1,18 @@
 {
-  "generated_at": "2026-10-07T00:31:58.019005",
-  "total_episodes": 5,
+  "generated_at": "2026-10-07T04:21:32.432961",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code おすすめ_20261007",
-      "theme": "Claude Code おすすめ",
+      "name": "episode_skill おすすめ_20261007",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年10月6日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ファッション業界経営層のための共創フォーラム「WWDJAPAN FASHION LINK」第2回開催 “AIに選ばれる”時代にブランドは何をすべきか",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "映像制作会社のSpinel、AIと共同開発した動画レビューツール「Spinel Review」を社内導入 修正確認・誤字チェック・切り抜き提案をAIが支援",
+          "title": "2026年度（令和8年）デミング賞各賞の受賞者について",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -32,12 +22,97 @@
           "trust_score": 9.7
         },
         {
-          "title": "【403人の診断データ調査】仕事でAIを毎日使う人は58%、そのうち59%は繰り返し作業のAI化を「していない」。AIエージェントに業務を任せている人は8%――無料「AI活用度診断」の回答を集計",
+          "title": "人口減少に伴う地域活力低下の課題解決へ。みらいワークス、佐賀県「東京圏向け“さが暮らしセミナー”企画運営業務」を受託",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【累計20万部突破】AI＆パワポ完全対応で8年ぶりに大改訂！定番の思考ツールを網羅した『ビジネスフレームワーク図鑑 第2版 すぐ使える問題解決・アイデア発想ツール75』10月6日発売",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "AIで増えたシステムを、AIで束ねる。構成管理プラットフォーム「IceShore」の提供を開始",
+          "title": "業界初、保険代理店の「担当者コード・資格・保険会社連絡先・試験申込」を一元管理するクラウド型システムを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261007",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "V-Key社、AIエコノミーにおけるAIの安全性とセキュリティを推進するため、CloudsineAI社への戦略的マジョリティ投資を発表",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "提供中のAIセキュリティ・ガバナンス統制基盤を、LLMの入出力からエージェントの行動へ拡張 ― SherLOCK Multi-Agent Platformを提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "HCL Softwareが語るAI運用の課題、失敗要因はエージェントだけではない",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "暴走AIエージェントの痕跡をオンラインで追う調査コミュニティが急成長",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIで成果2倍になっても「給料が変わらない」理不尽(みんかぶマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "NECネクサ、自動電話応答サービスの提供開始 - 電話の一次受付をAIが担当",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261007",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ファッション業界経営層のための共創フォーラム「WWDJAPAN FASHION LINK」第2回開催 “AIに選ばれる”時代にブランドは何をすべきか",
+          "source": "Wwd Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "バイナンス、AI製品群「Binance Intelligence」発表。自然言語で自動取引戦略構築も",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Boomiとセイコーソリューションズがパートナーシップを締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "セイコーソリューションズとBoomiがパートナーシップを締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ファームノート、2つのインパクト投資ファンドを引受先とする第三者割当増資を実施",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -45,86 +120,11 @@
           "title": "【エキスパート座談会 #2】AI時代の技術コミュニティ：社内・社外のつながりと、これからの役割",
           "source": "Gmo Developers",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261007",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「AIとどう働くか」が問われる時代へ──MODE CEO・上田氏が語る、現場DXの次なるステージ",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code ランキング_20261007",
-      "theme": "Claude Code ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "NHN テコラス、Cloud Chorus の新サービスとして「Claude」の導入から活用まで幅広く支援する「Claude 総合支援サービス」の提供を開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
         },
         {
-          "title": "YouTubeチャンネル「事業者向けのClaude Code・Codex活用術」を約1年ぶりに再開、会社HPの問い合わせをAIが自動分析する仕組みの作り方を公開",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 方法_20261007",
-      "theme": "Claude Code 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Claude Codeのルーティンを利用した開発フローの自動化",
-          "source": "Rakus Company",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Uravation、法人向け生成AI研修の「料金の目安」を公開。標準コースは400,000円／名、10名以上・15名以上の単価と人数別の早見表、研修費に含まれるもの・含まれないものを1ページに",
+          "title": "プロダクトセキュリティ統合支援サービス「IssueHunt One」を提供するIssueHunt株式会社、『AIエージェントと診断員の知見を融合した、次世代型・手動脆弱性診断サービス』を提供開始",
           "source": "Pr Times",
           "trust_score": 8.5
-        },
-        {
-          "title": "NHN テコラス、Cloud Chorus の新サービスとして「Claude」の導入から活用まで幅広く支援する「Claude 総合支援サービス」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_スピリチュアル おすすめ 理由_20261007",
-      "theme": "スピリチュアル おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "マイルスとコルトレーンを聴き尽くす！ 生誕100年の今こそ必読『季刊・アナログ 93号』発売中！",
-          "source": "Phile Web",
-          "trust_score": 7.5
         }
       ]
     }
