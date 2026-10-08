@@ -1,140 +1,80 @@
 {
-  "generated_at": "2026-10-08T00:53:08.001783",
-  "total_episodes": 3,
+  "generated_at": "2026-10-08T04:33:16.577397",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20261008",
-      "theme": "占い 活用",
+      "name": "episode_エージェント 活用_20261008",
+      "theme": "エージェント 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "おしゃれ業界人がこの秋買ったものは？ リアルな購入品をスナップ(Numero TOKYO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "ヨークビル・アイブス、SentinelOne株をアウトパフォーム評価で新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "Googleの最新機能「Health Guardian」登場。Pixel Watchで日々の体調をもっと振り返れる(ライフハッカー・ジャパン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "ヨークビル・アイブス、ペガシステムズ株をアウトパフォームで開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "「心から尊敬する」 中川翔子さん、仕事後の行動に称賛 双子の成長で「たのしいな！」と感じる家事とは(Hint-Pot)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "ヨークビル・アイブズ、RBRKに「アウトパフォーム」格付けで新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "奈良時代の奴婢売買、平城京跡で木簡出土 名前や年齢などリアルに示す(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "ヨークビル・アイブスがスノーフレーク株をアウトパフォームで開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "自転車で転倒…ハンドルが腹部に 「たかが転んだだけ」と放置すると“危険な理由”とは(オトナンサー)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "ヨークビル・アイブスがQualys株をアウトパフォームで新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "10月にあえて「ひとえの着物」を選ぶには？春秋両方の季節に着用できるシックな楓の付けさげでレストランへ(婦人画報)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "PDF・Wordを渡して、ブラウザを全自動化。「Cowork」が資料の読み取りに対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール(富山テレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "XBOW、「Next Big Things in Tech」に選出、2026年に入りファスト・カンパニーから2度目の表彰",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_Claude Code 活用_20261008",
-      "theme": "Claude Code 活用",
+      "name": "episode_エージェント おすすめ_20261008",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AIセミナー参加150社のAI活用状況を調査。「AI導入済み」でも78%が業務での使い方を模索",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+          "title": "【九州・中四国の企業様限定】株式会社Carraria（カラリア）、人材紹介の初回1名分を紹介手数料10％で提供するキャンペーンを開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "【10/7話題】イーサリアム「グラムステルダム」がSepoliaで稼働開始、ソラナ財団の金融機関向け決済プログラム、リップルがブレバンハワードとの提携拡大など（音声ニュース）",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "Uravation、法人向け「生成AIセキュリティ研修」に経営層・情シス・全従業員向けの3コースと全社セットを追加。公表事例を教材に、入れてよいデータの線引きと権限・鍵の一覧を自社で決める研修です",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "株式会社給与アップ研究所、現場の「見えない頑張り」をAIが評価・育成につなげる新サービス「EvaLive(TM)」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "株式会社給与アップ研究所、現場の「見えない頑張り」をAIが評価・育成につなげる新サービス「EvaLive(TM)」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "小売業界のAIポリシー違反、半数超はAIへの機密データ入力 ― Netskope調査",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ 理由_20261008",
-      "theme": "占い おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "竹中工務店の入札停止、分かれる自治体の判断 会社の管理体制に問題？事件の被害者？",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "キオクシア・ショックは水星逆行に連動!? 人気占い師yujiが星読みで株価動向を大予測(ELLE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "朝ドラ『ブラッサム』宇野千代が14歳で嫁いだ「最初の結婚」は10日間！実家に戻った際の毒父の秘密の真相",
-          "source": "Shinobi Director Blog",
-          "trust_score": 7.0
-        },
-        {
-          "title": "アサヒ・キリン・サッポロ・サントリー 大手4社がビール価格調整か…話し合いは毎月第1木曜日に 公正取引委員会が強制調査",
-          "source": "日テレnews Nnn",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ビール大手4社が価格調整か 毎月第1木曜に協議で公取委が強制調査",
-          "source": "ライブドアニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「呪術廻戦」挿入歌も！ 世界王者・青柳呂武「口笛で東京藝大に合格」異色の経歴を明かす",
+          "title": "Blue Prism、AIエージェントとRPAを統合する「WorkHQ」日本語版を発表",
           "source": "Mynavi News",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
-          "title": "ビール大手4社 公取委が強制調査",
-          "source": "ライブドアニュース",
-          "trust_score": 7.0
+          "title": "G-JOBエージェントの評判｜ゲームエンジニア経験者のキャリアアップにおすすめ",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
         }
       ]
     }
