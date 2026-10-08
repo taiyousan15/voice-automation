@@ -1,130 +1,140 @@
 {
-  "generated_at": "2026-10-07T04:21:32.432961",
+  "generated_at": "2026-10-08T00:53:08.001783",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261007",
-      "theme": "skill おすすめ",
+      "name": "episode_占い 活用_20261008",
+      "theme": "占い 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年度（令和8年）デミング賞各賞の受賞者について",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
-          "source": "Nippon Telegraph And Telephone Developer Portal",
-          "trust_score": 9.7
-        },
-        {
-          "title": "人口減少に伴う地域活力低下の課題解決へ。みらいワークス、佐賀県「東京圏向け“さが暮らしセミナー”企画運営業務」を受託",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【累計20万部突破】AI＆パワポ完全対応で8年ぶりに大改訂！定番の思考ツールを網羅した『ビジネスフレームワーク図鑑 第2版 すぐ使える問題解決・アイデア発想ツール75』10月6日発売",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "業界初、保険代理店の「担当者コード・資格・保険会社連絡先・試験申込」を一元管理するクラウド型システムを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261007",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "V-Key社、AIエコノミーにおけるAIの安全性とセキュリティを推進するため、CloudsineAI社への戦略的マジョリティ投資を発表",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "提供中のAIセキュリティ・ガバナンス統制基盤を、LLMの入出力からエージェントの行動へ拡張 ― SherLOCK Multi-Agent Platformを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "HCL Softwareが語るAI運用の課題、失敗要因はエージェントだけではない",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "暴走AIエージェントの痕跡をオンラインで追う調査コミュニティが急成長",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIで成果2倍になっても「給料が変わらない」理不尽(みんかぶマガジン)",
+          "title": "おしゃれ業界人がこの秋買ったものは？ リアルな購入品をスナップ(Numero TOKYO)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "NECネクサ、自動電話応答サービスの提供開始 - 電話の一次受付をAIが担当",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "Googleの最新機能「Health Guardian」登場。Pixel Watchで日々の体調をもっと振り返れる(ライフハッカー・ジャパン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「心から尊敬する」 中川翔子さん、仕事後の行動に称賛 双子の成長で「たのしいな！」と感じる家事とは(Hint-Pot)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "奈良時代の奴婢売買、平城京跡で木簡出土 名前や年齢などリアルに示す(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "自転車で転倒…ハンドルが腹部に 「たかが転んだだけ」と放置すると“危険な理由”とは(オトナンサー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "10月にあえて「ひとえの着物」を選ぶには？春秋両方の季節に着用できるシックな楓の付けさげでレストランへ(婦人画報)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール(富山テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_MCP 方法_20261007",
-      "theme": "MCP 方法",
+      "name": "episode_Claude Code 活用_20261008",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ファッション業界経営層のための共創フォーラム「WWDJAPAN FASHION LINK」第2回開催 “AIに選ばれる”時代にブランドは何をすべきか",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
+          "title": "AIセミナー参加150社のAI活用状況を調査。「AI導入済み」でも78%が業務での使い方を模索",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "バイナンス、AI製品群「Binance Intelligence」発表。自然言語で自動取引戦略構築も",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Boomiとセイコーソリューションズがパートナーシップを締結",
+          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "セイコーソリューションズとBoomiがパートナーシップを締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ファームノート、2つのインパクト投資ファンドを引受先とする第三者割当増資を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【エキスパート座談会 #2】AI時代の技術コミュニティ：社内・社外のつながりと、これからの役割",
-          "source": "Gmo Developers",
+          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "プロダクトセキュリティ統合支援サービス「IssueHunt One」を提供するIssueHunt株式会社、『AIエージェントと診断員の知見を融合した、次世代型・手動脆弱性診断サービス』を提供開始",
+          "title": "Uravation、法人向け「生成AIセキュリティ研修」に経営層・情シス・全従業員向けの3コースと全社セットを追加。公表事例を教材に、入れてよいデータの線引きと権限・鍵の一覧を自社で決める研修です",
           "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "株式会社給与アップ研究所、現場の「見えない頑張り」をAIが評価・育成につなげる新サービス「EvaLive(TM)」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株式会社給与アップ研究所、現場の「見えない頑張り」をAIが評価・育成につなげる新サービス「EvaLive(TM)」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "小売業界のAIポリシー違反、半数超はAIへの機密データ入力 ― Netskope調査",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い おすすめ 理由_20261008",
+      "theme": "占い おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "竹中工務店の入札停止、分かれる自治体の判断 会社の管理体制に問題？事件の被害者？",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "キオクシア・ショックは水星逆行に連動!? 人気占い師yujiが星読みで株価動向を大予測(ELLE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "朝ドラ『ブラッサム』宇野千代が14歳で嫁いだ「最初の結婚」は10日間！実家に戻った際の毒父の秘密の真相",
+          "source": "Shinobi Director Blog",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アサヒ・キリン・サッポロ・サントリー 大手4社がビール価格調整か…話し合いは毎月第1木曜日に 公正取引委員会が強制調査",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ビール大手4社が価格調整か 毎月第1木曜に協議で公取委が強制調査",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「呪術廻戦」挿入歌も！ 世界王者・青柳呂武「口笛で東京藝大に合格」異色の経歴を明かす",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ビール大手4社 公取委が強制調査",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
         }
       ]
     }
