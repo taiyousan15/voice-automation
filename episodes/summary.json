@@ -1,45 +1,10 @@
 {
-  "generated_at": "2026-10-07T04:21:32.432961",
-  "total_episodes": 3,
+  "generated_at": "2026-10-08T04:33:16.577397",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261007",
-      "theme": "skill おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年度（令和8年）デミング賞各賞の受賞者について",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "CoCo CLI Hackathon 2026 体験記 — Snowflake CoCoによるネットワーク運用レポート自動生成",
-          "source": "Nippon Telegraph And Telephone Developer Portal",
-          "trust_score": 9.7
-        },
-        {
-          "title": "人口減少に伴う地域活力低下の課題解決へ。みらいワークス、佐賀県「東京圏向け“さが暮らしセミナー”企画運営業務」を受託",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【累計20万部突破】AI＆パワポ完全対応で8年ぶりに大改訂！定番の思考ツールを網羅した『ビジネスフレームワーク図鑑 第2版 すぐ使える問題解決・アイデア発想ツール75』10月6日発売",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "業界初、保険代理店の「担当者コード・資格・保険会社連絡先・試験申込」を一元管理するクラウド型システムを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261007",
+      "name": "episode_エージェント 活用_20261008",
       "theme": "エージェント 活用",
       "status": "failed",
       "audio_url": null,
@@ -47,84 +12,69 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "V-Key社、AIエコノミーにおけるAIの安全性とセキュリティを推進するため、CloudsineAI社への戦略的マジョリティ投資を発表",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "ヨークビル・アイブス、SentinelOne株をアウトパフォーム評価で新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "提供中のAIセキュリティ・ガバナンス統制基盤を、LLMの入出力からエージェントの行動へ拡張 ― SherLOCK Multi-Agent Platformを提供開始",
+          "title": "ヨークビル・アイブス、ペガシステムズ株をアウトパフォームで開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ヨークビル・アイブズ、RBRKに「アウトパフォーム」格付けで新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ヨークビル・アイブスがスノーフレーク株をアウトパフォームで開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ヨークビル・アイブスがQualys株をアウトパフォームで新規カバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "PDF・Wordを渡して、ブラウザを全自動化。「Cowork」が資料の読み取りに対応",
           "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "HCL Softwareが語るAI運用の課題、失敗要因はエージェントだけではない",
-          "source": "Mynavi News",
           "trust_score": 8.0
         },
         {
-          "title": "暴走AIエージェントの痕跡をオンラインで追う調査コミュニティが急成長",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIで成果2倍になっても「給料が変わらない」理不尽(みんかぶマガジン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "NECネクサ、自動電話応答サービスの提供開始 - 電話の一次受付をAIが担当",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "XBOW、「Next Big Things in Tech」に選出、2026年に入りファスト・カンパニーから2度目の表彰",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP 方法_20261007",
-      "theme": "MCP 方法",
+      "name": "episode_エージェント おすすめ_20261008",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ファッション業界経営層のための共創フォーラム「WWDJAPAN FASHION LINK」第2回開催 “AIに選ばれる”時代にブランドは何をすべきか",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
+          "title": "【九州・中四国の企業様限定】株式会社Carraria（カラリア）、人材紹介の初回1名分を紹介手数料10％で提供するキャンペーンを開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "バイナンス、AI製品群「Binance Intelligence」発表。自然言語で自動取引戦略構築も",
+          "title": "【10/7話題】イーサリアム「グラムステルダム」がSepoliaで稼働開始、ソラナ財団の金融機関向け決済プログラム、リップルがブレバンハワードとの提携拡大など（音声ニュース）",
           "source": "New Economy Japan",
           "trust_score": 9.7
         },
         {
-          "title": "Boomiとセイコーソリューションズがパートナーシップを締結",
-          "source": "Pr Times",
+          "title": "Blue Prism、AIエージェントとRPAを統合する「WorkHQ」日本語版を発表",
+          "source": "Mynavi News",
           "trust_score": 8.0
         },
         {
-          "title": "セイコーソリューションズとBoomiがパートナーシップを締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ファームノート、2つのインパクト投資ファンドを引受先とする第三者割当増資を実施",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【エキスパート座談会 #2】AI時代の技術コミュニティ：社内・社外のつながりと、これからの役割",
-          "source": "Gmo Developers",
+          "title": "G-JOBエージェントの評判｜ゲームエンジニア経験者のキャリアアップにおすすめ",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
-        },
-        {
-          "title": "プロダクトセキュリティ統合支援サービス「IssueHunt One」を提供するIssueHunt株式会社、『AIエージェントと診断員の知見を融合した、次世代型・手動脆弱性診断サービス』を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
         }
       ]
     }
