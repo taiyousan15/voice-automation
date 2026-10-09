@@ -1,156 +1,16 @@
 {
-  "generated_at": "2026-10-09T01:06:17.373420",
-  "total_episodes": 5,
+  "generated_at": "2026-10-09T04:36:28.799036",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 方法_20261009",
-      "theme": "哲学 方法",
+      "name": "episode_MCP 方法_20261009",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
-        {
-          "title": "書籍「パーマネントピース 永久平和は技術だ」出版記念講演会を横浜で10月18日に開催(＠Press［PR］)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "BMSG Creative Labのクリエイティブ論 JINとYU TSUBAKIが明かす思想と実践",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【60～70代に聞いた】東大・京大以外で文系が特に強そうな「国立大学」ランキング！ 2位は「大阪大学」と「東京外国語大学」、1位は？(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "立山信仰の布橋灌頂会を題材にした富山発の映画「無明の橋」がいよいよ公開 関係者が県庁でPR(富山テレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "職人・専門人材の減少に、オンライン現場調査で応える。課題解決型サービス「スマートオフロックス」 ― 10月5日より提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "TaiTan × 伊藤亜紗が考える「テクノロジー時代の人文と都市」 AIが最適解を示す時代に必要な“偏り”とは？",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "吉村家会長が一部の飲食店で導入されているファストパス制度を一蹴",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント おすすめ 理由_20261009",
-      "theme": "エージェント おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "企業のセキュリティを停滞させている理由は「レガシーな習慣」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "クラシル株式会社、帳票のデータ化から照合・消込までを自動化する「帳票変換Agent」「消込Agent」をKurashiru AI OSで提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Hiraku agent（ヒラクエージェント）の評判・口コミを解説【ゲーム業界に強い6社と比較】",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "相次ぐ情報漏えい、攻撃側のAI活用「間違いない」 防御側はどう使うか 傾向と対策を大手ベンダー各社に聞く",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【PIVOT出演】「熱狂のデジタルアイランド九州」の舞台裏――QTnet 上席執行役員ビジネス営業本部長が語る、AI・地方分散時代のデジタルインフラ戦略を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIコミュニティ、提供開始3カ月で180コミュニティが導入。延べ参加28万人超、投稿8万件・「いいね」相当のリアクション9.5万件",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "チームスピリット、企業独自ルールに対応する「TeamSpirit MCP」提供開始、AIエージェントによる労務管理支援を実現",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill ランキング_20261009",
-      "theme": "skill ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ_20261009",
-      "theme": "哲学 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "BTS“JUNG KOOK（ジョングク）”が銀座に降臨！着用したウブロ“ビッグ・バン サファイア スカイブルー”に注目(ウオッチライフニュース)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「油の1滴になる覚悟が必要」維新・遠藤敬国対委員長に訊く閣内協力と定数削減にかける決死の思いとは？(選挙ドットコム)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「自己啓発本＝底が浅い」書店で売れまくるのに“アンチ”が多いワケ - ニュースな本",
-          "source": "ダイヤモンド・オンライン",
-          "trust_score": 7.5
-        },
-        {
-          "title": "オーストラリア・ホワイトホース市と松戸市の交流55年の歴史を知る「松戸市国際文化祭」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20261009",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "井浦新、中条あやみ、表情華やぐメガネ姿で登場！メガネのこだわりや、自身の原点、役者論について明かす。「ラインアート シャルマン」×アーティスト・佐々木香菜子。手作業ペイントの限定品も！コラボレーションモデル発売！銀座店舗で11/8までポップアップイベント開催！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
         {
           "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
           "source": "財経新聞：経済・株式の最新ニュース",
@@ -180,6 +40,46 @@
           "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」を始動 第1弾「KS+ SFA」を本日提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261009",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "2026年10月12日号 (バックナンバー目次)",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP ランキング_20261009",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "相次ぐサイバー攻撃への不安を、具体的な点検・対策へ AI利用リスクを無償で確認する『AI Security Check 2026』を 先着10社に提供",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
