@@ -1,80 +1,85 @@
 {
-  "generated_at": "2026-10-08T04:33:16.577397",
-  "total_episodes": 2,
+  "generated_at": "2026-10-09T04:36:28.799036",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261008",
-      "theme": "エージェント 活用",
+      "name": "episode_MCP 方法_20261009",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ヨークビル・アイブス、SentinelOne株をアウトパフォーム評価で新規カバレッジ開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "ヨークビル・アイブス、ペガシステムズ株をアウトパフォームで開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ヨークビル・アイブズ、RBRKに「アウトパフォーム」格付けで新規カバレッジ開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ヨークビル・アイブスがスノーフレーク株をアウトパフォームで開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ヨークビル・アイブスがQualys株をアウトパフォームで新規カバレッジ開始",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "PDF・Wordを渡して、ブラウザを全自動化。「Cowork」が資料の読み取りに対応",
+          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "XBOW、「Next Big Things in Tech」に選出、2026年に入りファスト・カンパニーから2度目の表彰",
+          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        },
+        {
+          "title": "金融・製造業はどう動く アンソロピック「ミュトス」への対応とClaude活用最前線 (テーマ別まとめ記事)",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        },
+        {
+          "title": "インターネット・アカデミー、既存システムの仕様書化・リファクタリングまでAIで実践する法人向けITエンジニア研修を提供開始「Claude Code研修（リファクタリング実践版）」",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」を始動 第1弾「KS+ SFA」を本日提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ_20261008",
-      "theme": "エージェント おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261009",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【九州・中四国の企業様限定】株式会社Carraria（カラリア）、人材紹介の初回1名分を紹介手数料10％で提供するキャンペーンを開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【10/7話題】イーサリアム「グラムステルダム」がSepoliaで稼働開始、ソラナ財団の金融機関向け決済プログラム、リップルがブレバンハワードとの提携拡大など（音声ニュース）",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "Blue Prism、AIエージェントとRPAを統合する「WorkHQ」日本語版を発表",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "G-JOBエージェントの評判｜ゲームエンジニア経験者のキャリアアップにおすすめ",
-          "source": "Tenshoku Stories",
+          "title": "2026年10月12日号 (バックナンバー目次)",
+          "source": "日経クロステック（xtech）",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP ランキング_20261009",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "相次ぐサイバー攻撃への不安を、具体的な点検・対策へ AI利用リスクを無償で確認する『AI Security Check 2026』を 先着10社に提供",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
