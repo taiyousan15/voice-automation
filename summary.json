@@ -1,56 +1,211 @@
 {
-  "generated_at": "2026-10-09T04:36:28.799036",
-  "total_episodes": 3,
+  "generated_at": "2026-10-10T00:39:50.915951",
+  "total_episodes": 7,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261009",
-      "theme": "MCP 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026_20261010",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "金融・製造業はどう動く アンソロピック「ミュトス」への対応とClaude活用最前線 (テーマ別まとめ記事)",
-          "source": "日経クロステック（xtech）",
+          "title": "「みみ、はな、のど、めまいのエキスパート集団」へ。第一医科・林社長が語る「よそにない」価値の創造",
+          "source": "Zuu Online",
           "trust_score": 7.5
         },
         {
-          "title": "インターネット・アカデミー、既存システムの仕様書化・リファクタリングまでAIで実践する法人向けITエンジニア研修を提供開始「Claude Code研修（リファクタリング実践版）」",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」を始動 第1弾「KS+ SFA」を本日提供開始",
+          "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "開催まであと1週間、「AI Innovators Forum 2026 -覚悟と熱意-」全プログラムが確定",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261009",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
+      "name": "episode_MCP 比較_20261010",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "リユース業界で導入拡大、生成AI向け相場データサービス「aucfan.com MCPサーバー」累計契約数100件を突破",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI検索対策（AIO/LLMO）ツール「DolphinX AIO」、AIの回答の中で自社ブランドが何番目に挙げられたかを毎日計測する「言及順位」機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ナウキャスト、「DataLens法人営業」のMCP接続で不動産登記簿データの提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Yusuke Wada氏・chimame氏が登壇 ── Offers、「【実践】CloudflareでアプリもAIエージェントも？Cloudflare Workers最前線」ウェビナーを11/11開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20261010",
+      "theme": "占い 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ハフィーニャは大事に至らずも今後2試合を欠場へ",
+          "source": "サッカーキング",
+          "trust_score": 7.0
+        },
+        {
+          "title": "人工林整備し一棟貸しの宿泊施設オープン 放置された森を収益生み出す拠点に変える挑戦 秋田・五城目町(秋田テレビ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ほぼすべての人がなる「目の老化」50代の今、注意したいこと【医師が解説】(Web eclat)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "平和賞のピレイ氏、イスラエルの「ジェノサイド」指摘 米国の反発必至(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "AMDのリサ・スーCEO、7カ月で2度目の訪韓 サムスン・SKハイニックスとHBM協力を協議",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ポルシェ、911の完全EV化を否定 新スーパーカー構想と2035年戦略を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「クオリティが違う」 “刺身がマジでうまいと思う都道府県”第1位に「ここに住みたい」「スーパーに並ぶ刺身の透明感は現地ならでは」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_占い ランキング_20261010",
+      "theme": "占い ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日向坂46松尾桜、泣いてばかりの自分を変えた“先輩の教え” TGC出演が決まり号泣、母も願い続けた夢＜インタビュー＞",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Kingston、サードパーティー製DRAMモジュールで23年連続首位 シェア62％",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【日本代表】山本昌邦ND「この１食は大きかった」ブラジル戦敗因として食事回数を熱弁",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ソン・シギョン、日本で快進撃！最速完売の単独コンサート＆初の韓国グルメガイド発売記念イベントが大盛況",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Midea、Esaoteの買収を完了",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.0
+        },
+        {
+          "title": "24人組グローバルガールズグループtripleSの日本人メンバーを徹底鑑定！特別番組『tripleSと3人の占い師たち』を、2026年10月17日夜9時より、ABEMAにて2週連続で独占無料配信決定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP ランキング_20261010",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "琉球大教授の書籍が絶版 AIで調べて書籍に記載した裁判事例が実在せず",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "児童ポルノ所持の疑い 千葉県の公立小学校教諭ら4人を書類送検",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "サブスク管理「BSSsymphony」がMCPに対応、AIによる業務データ活用を強化",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "MagicPod、AIエージェントがテストを代行する「AIテストセンター」と、自動化が困難なモバイルテストに対応した「実機テストセンター」を提供開始",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "QUICK E-Solutions、AWSアドバンストティアサービスパートナーに昇格",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "リチェルカ、「納品消込エージェント」で仕入計上業務の自動化を実現",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ナレッジオンデマンド、AI時代のコンテンツプラットフォーム「新WikiWorks」を発表",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 初心者_20261010",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 初心者",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -64,21 +219,46 @@
       ]
     },
     {
-      "name": "episode_MCP ランキング_20261009",
-      "theme": "MCP ランキング",
+      "name": "episode_哲学 おすすめ 理由_20261010",
+      "theme": "哲学 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "相次ぐサイバー攻撃への不安を、具体的な点検・対策へ AI利用リスクを無償で確認する『AI Security Check 2026』を 先着10社に提供",
-          "source": "Infoseek Japan",
+          "title": "世界を旅し、素材に出会い、まだない味をつくる。「旅するメゾン」北海道へ。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "タイムズカー“免許証画像160万件流出”の衝撃…「勝手に口座を作られお金を借りられるリスクも」セキュリティ専門家が推奨する“自衛の手段”",
+          "source": "テレ朝new",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2026年10月版【Amazon Prime Video】おすすめ韓国ドラマ新作・配信予定（随時更新中）",
+          "source": "Yomuno",
+          "trust_score": 7.0
+        },
+        {
+          "title": "タイムズカー“免許証画像160万件流出”の衝撃…「勝手に口座を作られお金を借りられるリスクも」セキュリティ専門家が推奨する“自衛の手段”(ABEMA TIMES)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
-          "source": "Infoseek Japan",
+          "title": "タイムズカー「免許証画像160万件流出」専門家が推奨する「自衛の手段」",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "顧客を惹きつける「価格と品質の完璧なバランス」 イレブンティが提案する顧客体験",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "イレブンティが日本初のメイド・トゥ・メジャーを始動 CEOが考えるラグジュアリー(FASHIONSNAP)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
         }
       ]
