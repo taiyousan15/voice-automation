@@ -1,61 +1,21 @@
 {
-  "generated_at": "2026-10-09T04:36:28.799036",
-  "total_episodes": 3,
+  "generated_at": "2026-10-10T04:22:25.566649",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261009",
-      "theme": "MCP 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261010",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "普段使いのAIに話しかけるだけでテレビの“今”を即リサーチ！インフィニマインド、テレビ解析AI「TVPulse」のMCP連携を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "金融・製造業はどう動く アンソロピック「ミュトス」への対応とClaude活用最前線 (テーマ別まとめ記事)",
-          "source": "日経クロステック（xtech）",
+          "title": "「みみ、はな、のど、めまいのエキスパート集団」へ。第一医科・林社長が語る「よそにない」価値の創造",
+          "source": "Zuu Online",
           "trust_score": 7.5
         },
-        {
-          "title": "インターネット・アカデミー、既存システムの仕様書化・リファクタリングまでAIで実践する法人向けITエンジニア研修を提供開始「Claude Code研修（リファクタリング実践版）」",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」を始動 第1弾「KS+ SFA」を本日提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Kuroco、AI時代のサイバー脅威に備え、セキュリティ対策をさらに強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261009",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "2026年10月12日号 (バックナンバー目次)",
           "source": "日経クロステック（xtech）",
@@ -64,22 +24,17 @@
       ]
     },
     {
-      "name": "episode_MCP ランキング_20261009",
-      "theme": "MCP ランキング",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方_20261010",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "相次ぐサイバー攻撃への不安を、具体的な点検・対策へ AI利用リスクを無償で確認する『AI Security Check 2026』を 先着10社に提供",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
