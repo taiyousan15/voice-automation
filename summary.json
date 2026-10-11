@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-10-10T04:22:25.566649",
-  "total_episodes": 2,
+  "generated_at": "2026-10-11T00:11:20.109589",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261010",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
+      "name": "episode_哲学 おすすめ 理由_20261011",
+      "theme": "哲学 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ナチスを克服したはずのドイツで極右が第1党になる理由／板橋拓己氏（東京大学大学院法学政治学研究科教授）(ビデオニュース・ドットコム)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "社会的養護のもとで暮らすこども・巣立ち後の若者へ。「自分をひらく教室」10月・11月参加者募集｜参加無料・1回から参加可能",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「後でかけなおす」ありふれた電話が少女と父の最後の会話に…ネパール土石流、現地で起きていること",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "幼い娘２人を殺し、起訴された母は、ＤＶから逃れた先の母子施設で“加害者”と３年隠れ同居していた",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "え！本社がドニントンパークサーキットの中に!? レーシングカー「ラディカル」本社を取材",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【先人に学ぶ人生の仕舞い方】三代目三遊亭金馬・70歳没「生花、造花、御供物の儀、かたくお断り申し上げ候」",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "社会的養護のもとで暮らすこども・巣立ち後の若者へ。「自分をひらく教室」10月・11月参加者募集｜参加無料・1回から参加可能",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261011",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -17,24 +62,104 @@
           "trust_score": 7.5
         },
         {
-          "title": "2026年10月12日号 (バックナンバー目次)",
-          "source": "日経クロステック（xtech）",
-          "trust_score": 7.5
+          "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方_20261010",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
+      "name": "episode_Claude Code 比較_20261011",
+      "theme": "Claude Code 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました",
+          "title": "美容師の技術で「あこがれの美髪」を追求する、第２回「Panasonic Beauty Awards 2026」、10月9日より応募受付開始。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【2026年最新情報】AI時代の広告集客セミナー開催！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ドバイ総研、集合住宅の売買・新規賃貸単価を調査 売買は下落、新規賃貸は上昇【2026年9月】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Claude Haiku 5.5 リリース！Sonnet 5との性能差と速度を検証",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング おすすめ_20261011",
+      "theme": "バイブコーディング おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Uravation、法人向け「バイブコーディング合宿（1社貸切）」の提供を開始。1泊2日・研修本体12時間で、営業・経理・総務の担当者が自分の業務ツールを1本作って持ち帰る泊まり込みの研修です",
           "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 8.5
+        },
+        {
+          "title": "トークン利用はAIへの投資戦略。OpenAIのFDEが語る、何を生み出すかが大事なトークンマネジメント",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20261011",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「殴らない＝いい夫」なの？ 70代の母がずっと気づけなかった父のヤバさ。“サイレントモラハラ”に絡め取られた40年(OTONA SALONE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "乃木坂46の長期休暇事情 過ごし方も明かす「楽しんでいます」【GROTESQQQUE-グロテスク-】",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "乃木坂46井上和、アフレコ時にメンバー驚きの行動「血がそろそろ出るんじゃないかという感じで」【GROTESQQQUE-グロテスク-】",
+          "source": "Model Press",
+          "trust_score": 8.5
+        },
+        {
+          "title": "フリークスストア40周年を記念して、楽し気な企画がスタート！【FAVE MOVIE VIBES ONLY】フリークスムービーがお勧めする“FAVE MOVIE”を毎月１回限定上映！",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【鮎釣り釣行】憧れの大河川・吉野川で大鮎を追う(釣りビジョン マガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【予算別徹底解説】物理ロック＋電子ロックで愛車盗難を防ぐ！最新カーセキュリティグッズ4選!!",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "史上初の女性「棋士」権利得た西山白玲、2週間以内に行使なら27年4月1日に「四段」デビュー(日刊スポーツ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
