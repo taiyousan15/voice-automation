@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T04:22:25.566649",
-  "total_episodes": 2,
+  "generated_at": "2026-10-11T04:02:42.195871",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261010",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261011",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -15,25 +15,95 @@
           "title": "「みみ、はな、のど、めまいのエキスパート集団」へ。第一医科・林社長が語る「よそにない」価値の創造",
           "source": "Zuu Online",
           "trust_score": 7.5
-        },
-        {
-          "title": "2026年10月12日号 (バックナンバー目次)",
-          "source": "日経クロステック（xtech）",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方_20261010",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
+      "name": "episode_MCP 比較_20261011",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【講演レポート】船井総合研究所主催「地方不動産活用ビジネスサミット」にて、代表取締役社長 鈴江崇文が講師として登壇しました",
+          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
           "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20261011",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "キャリスタカレッジの評判は？やばい・怪しいと言われる理由と未経験向け7社を徹底比較！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261011",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "コンシューマーAIエージェントがオンラインショッピングを変革——真の勝者は誰か？",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "在沖縄米兵の強盗殺人容疑 茂木外相で米との電話会談で遺憾の意を伝える",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "TestMu AI、2026年Gartner® Magic Quadrant™エージェント型ソフトウェア品質保証プラットフォーム（Agentic Software Quality Assurance Platforms）部門でリーダーに位置づけられる",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "法人向け「Notebook AI」、スキャンPDFからスライドを自動生成可能に",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中国開発の農業AIエージェントがケニアで実用化 小規模農家の収入増を後押し",
+          "source": "Afpbb News",
           "trust_score": 8.0
         }
       ]
