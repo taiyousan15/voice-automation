@@ -1,70 +1,10 @@
 {
-  "generated_at": "2026-10-11T04:02:42.195871",
-  "total_episodes": 4,
+  "generated_at": "2026-10-12T00:23:05.306067",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261011",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「みみ、はな、のど、めまいのエキスパート集団」へ。第一医科・林社長が語る「よそにない」価値の創造",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20261011",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 活用_20261011",
-      "theme": "skill 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "キャリスタカレッジの評判は？やばい・怪しいと言われる理由と未経験向け7社を徹底比較！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261011",
+      "name": "episode_エージェント 活用_20261012",
       "theme": "エージェント 活用",
       "status": "failed",
       "audio_url": null,
@@ -72,39 +12,84 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "コンシューマーAIエージェントがオンラインショッピングを変革——真の勝者は誰か？",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "在沖縄米兵の強盗殺人容疑 茂木外相で米との電話会談で遺憾の意を伝える",
-          "source": "ライブドアニュース",
+          "title": "未来のゲームクリエイターよ、集え。チャットしながらゲームが作れる「Playground」登場",
+          "source": "Gizmodo",
           "trust_score": 7.0
         },
         {
-          "title": "TestMu AI、2026年Gartner® Magic Quadrant™エージェント型ソフトウェア品質保証プラットフォーム（Agentic Software Quality Assurance Platforms）部門でリーダーに位置づけられる",
-          "source": "Prニュースワイヤー",
+          "title": "「リコリコ」千束＆たきな、アロハでキメッ！ ホテルコラボでお部屋からグルメまで満喫しよう",
+          "source": "アニメ！アニメ！",
           "trust_score": 7.5
         },
         {
-          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
+          "title": "【日本・台湾で特許取得】サイカルトラスト、「SBOM（ソフトウェア部品表）」とブロックチェーンを利活用した機器の「真正性証明」技術を権利化。グローバルサプライチェーンのセキュリティ課題を解決へ",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "不正アクセス、世界で急増 「隅っこの脆弱性をAIが見逃さず」 AIが自律的攻撃のケースも",
+          "source": "Fnnプライムオンライン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "OpenAI、GPT-6.1 Astraの公開見送り AI安全対策「減速だけでは不十分」と専門家",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "令和8年度 1級建築士 設計製図試験 受験生応援企画「オリジナル参考解答例 無料閲覧サービス」の提供開始！",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
+          "title": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20261012",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【自分は優しい方だと思う】優しい貴女に会いたい！男性が待ってます♪",
+          "source": "Machicon",
+          "trust_score": 6.5
+        },
+        {
+          "title": "沖縄県のバックアップで本格始動！ブロックチェーン地域通貨「八重山トークン（YAE）」第二次実証実験スタート",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "法人向け「Notebook AI」、スキャンPDFからスライドを自動生成可能に",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "「実質11面筆箱!?」引き出し10個とギミック満載な共立工業の軽トラキャノピー(MotorFan)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "大河ドラマ「茶々」史上最高キャラ・松たか子の名場面を振り返る。井上和は松たか子を超えられるか？【豊臣兄弟！ 満喫リポート】茶々編",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "岩佐が「ビッグチェンジ」で今季初優勝。オサリバンと2位争い「熱い感覚を思い出した」と松下【第10戦決勝会見】",
+          "source": "Auto Sport",
+          "trust_score": 7.5
+        },
+        {
+          "title": "乃木坂46・井上和、初大河にプレッシャーも 先輩・久保史緒里は「とても心強い存在」",
+          "source": "Cinema Today: Movie Information Updated Daily!",
           "trust_score": 7.0
         },
         {
-          "title": "中国開発の農業AIエージェントがケニアで実用化 小規模農家の収入増を後押し",
-          "source": "Afpbb News",
-          "trust_score": 8.0
+          "title": "ふたご座は「貯蓄が吉！」12星座もっちぃ占い｜10/12～18",
+          "source": "Ananweb",
+          "trust_score": 7.0
         }
       ]
     }
