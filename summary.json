@@ -1,95 +1,30 @@
 {
-  "generated_at": "2026-10-12T00:23:05.306067",
-  "total_episodes": 2,
+  "generated_at": "2026-10-12T04:22:21.034620",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261012",
-      "theme": "エージェント 活用",
+      "name": "episode_MCP おすすめ_20261012",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "未来のゲームクリエイターよ、集え。チャットしながらゲームが作れる「Playground」登場",
-          "source": "Gizmodo",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「リコリコ」千束＆たきな、アロハでキメッ！ ホテルコラボでお部屋からグルメまで満喫しよう",
-          "source": "アニメ！アニメ！",
+          "title": "【大阪・ミナミ】組み合わせ無限大の炒飯専門店「みんなの炒飯パラダイス」、あまりのおいしさにすゑひろがりず南條、小鼓を連打！【フットマップ】",
+          "source": "みよか −関西のええとこ、知って”みよか",
           "trust_score": 7.5
         },
         {
-          "title": "【日本・台湾で特許取得】サイカルトラスト、「SBOM（ソフトウェア部品表）」とブロックチェーンを利活用した機器の「真正性証明」技術を権利化。グローバルサプライチェーンのセキュリティ課題を解決へ",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "不正アクセス、世界で急増 「隅っこの脆弱性をAIが見逃さず」 AIが自律的攻撃のケースも",
-          "source": "Fnnプライムオンライン",
+          "title": "Claude Code更新 hooks失敗時ブロック・Mods試用【10/2〜8】",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "OpenAI、GPT-6.1 Astraの公開見送り AI安全対策「減速だけでは不十分」と専門家",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "令和8年度 1級建築士 設計製図試験 受験生応援企画「オリジナル参考解答例 無料閲覧サービス」の提供開始！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 活用_20261012",
-      "theme": "思想 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【自分は優しい方だと思う】優しい貴女に会いたい！男性が待ってます♪",
-          "source": "Machicon",
-          "trust_score": 6.5
-        },
-        {
-          "title": "沖縄県のバックアップで本格始動！ブロックチェーン地域通貨「八重山トークン（YAE）」第二次実証実験スタート",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「実質11面筆箱!?」引き出し10個とギミック満載な共立工業の軽トラキャノピー(MotorFan)",
-          "source": "Yahoo Japan",
+          "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
+          "source": "Infoseek Japan",
           "trust_score": 9.2
-        },
-        {
-          "title": "大河ドラマ「茶々」史上最高キャラ・松たか子の名場面を振り返る。井上和は松たか子を超えられるか？【豊臣兄弟！ 満喫リポート】茶々編",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "岩佐が「ビッグチェンジ」で今季初優勝。オサリバンと2位争い「熱い感覚を思い出した」と松下【第10戦決勝会見】",
-          "source": "Auto Sport",
-          "trust_score": 7.5
-        },
-        {
-          "title": "乃木坂46・井上和、初大河にプレッシャーも 先輩・久保史緒里は「とても心強い存在」",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ふたご座は「貯蓄が吉！」12星座もっちぃ占い｜10/12～18",
-          "source": "Ananweb",
-          "trust_score": 7.0
         }
       ]
     }
