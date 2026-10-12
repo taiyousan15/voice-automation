@@ -1,110 +1,30 @@
 {
-  "generated_at": "2026-10-11T04:02:42.195871",
-  "total_episodes": 4,
+  "generated_at": "2026-10-12T04:22:21.034620",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261011",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
+      "name": "episode_MCP おすすめ_20261012",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「みみ、はな、のど、めまいのエキスパート集団」へ。第一医科・林社長が語る「よそにない」価値の創造",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20261011",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "LobbyAI、公共情報の調査から資料作成までを自動化する AI連携機能「LobbyAI MCP」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 活用_20261011",
-      "theme": "skill 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "キャリスタカレッジの評判は？やばい・怪しいと言われる理由と未経験向け7社を徹底比較！",
-          "source": "Tenshoku Stories",
+          "title": "【大阪・ミナミ】組み合わせ無限大の炒飯専門店「みんなの炒飯パラダイス」、あまりのおいしさにすゑひろがりず南條、小鼓を連打！【フットマップ】",
+          "source": "みよか −関西のええとこ、知って”みよか",
           "trust_score": 7.5
         },
         {
-          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "Claude Code更新 hooks失敗時ブロック・Mods試用【10/2〜8】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
         },
         {
-          "title": "EXIN SIAM(TM)プロフェッショナル認定試験の日本語リリース 2026年10月30日より開始",
+          "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
           "source": "Infoseek Japan",
           "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261011",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "コンシューマーAIエージェントがオンラインショッピングを変革——真の勝者は誰か？",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "在沖縄米兵の強盗殺人容疑 茂木外相で米との電話会談で遺憾の意を伝える",
-          "source": "ライブドアニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "TestMu AI、2026年Gartner® Magic Quadrant™エージェント型ソフトウェア品質保証プラットフォーム（Agentic Software Quality Assurance Platforms）部門でリーダーに位置づけられる",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【英会話×スポーツ科学】ネイティブキャンプ、運動中のエネルギー供給の仕組みを英語で学ぶ教材を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "法人向け「Notebook AI」、スキャンPDFからスライドを自動生成可能に",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "中国開発の農業AIエージェントがケニアで実用化 小規模農家の収入増を後押し",
-          "source": "Afpbb News",
-          "trust_score": 8.0
         }
       ]
     }
