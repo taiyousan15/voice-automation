@@ -1,30 +1,50 @@
 {
-  "generated_at": "2026-10-12T04:22:21.034620",
-  "total_episodes": 1,
+  "generated_at": "2026-10-13T02:30:13.465027",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20261012",
-      "theme": "MCP おすすめ",
+      "name": "episode_skill 方法_20261013",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【大阪・ミナミ】組み合わせ無限大の炒飯専門店「みんなの炒飯パラダイス」、あまりのおいしさにすゑひろがりず南條、小鼓を連打！【フットマップ】",
-          "source": "みよか −関西のええとこ、知って”みよか",
-          "trust_score": 7.5
+          "title": "【刊行直後、早くも重版】Amazonベストセラー1位を獲得。「教育技術」を令和の教室で問い直す『授業の腕を磨く法則』。",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Claude Code更新 hooks失敗時ブロック・Mods試用【10/2〜8】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
+          "title": "【刊行直後、早くも重版】Amazonベストセラー1位を獲得。「教育技術」を令和の教室で問い直す『授業の腕を磨く法則』。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "FastMetal、Anthropic社の最新小型モデル「Claude Haiku 5.5」を提供開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "【英会話×スポーツ】ネイティブキャンプ、サッカーを題材に「言葉の壁を越えるコミュニケーション」を学ぶ教材を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【英会話×スポーツ】ネイティブキャンプ、サッカーを題材に「言葉の壁を越えるコミュニケーション」を学ぶ教材を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 活用_20261013",
+      "theme": "バイブコーディング 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "未来のゲームクリエイターよ、集え。チャットしながらゲームが作れる「Playground」登場",
+          "source": "Gizmodo",
+          "trust_score": 7.0
         }
       ]
     }
