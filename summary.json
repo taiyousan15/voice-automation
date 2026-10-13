@@ -1,50 +1,30 @@
 {
-  "generated_at": "2026-10-13T02:30:13.465027",
-  "total_episodes": 2,
+  "generated_at": "2026-10-13T05:31:01.115777",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 方法_20261013",
-      "theme": "skill 方法",
+      "name": "episode_MCP おすすめ 理由_20261013",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【刊行直後、早くも重版】Amazonベストセラー1位を獲得。「教育技術」を令和の教室で問い直す『授業の腕を磨く法則』。",
+          "title": "NVIDIA独自コア「Olympus」の真価 Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ONLYOFFICE 10.0がリリース、全エディタにAIを統合",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【刊行直後、早くも重版】Amazonベストセラー1位を獲得。「教育技術」を令和の教室で問い直す『授業の腕を磨く法則』。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【英会話×スポーツ】ネイティブキャンプ、サッカーを題材に「言葉の壁を越えるコミュニケーション」を学ぶ教材を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【英会話×スポーツ】ネイティブキャンプ、サッカーを題材に「言葉の壁を越えるコミュニケーション」を学ぶ教材を公開",
+          "title": "ONLYOFFICE 10.0がリリース、全エディタにAIを統合",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 活用_20261013",
-      "theme": "バイブコーディング 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "未来のゲームクリエイターよ、集え。チャットしながらゲームが作れる「Playground」登場",
-          "source": "Gizmodo",
-          "trust_score": 7.0
         }
       ]
     }
