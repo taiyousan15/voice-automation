@@ -1,31 +1,46 @@
 {
-  "generated_at": "2026-10-14T00:13:17.997468",
-  "total_episodes": 3,
+  "generated_at": "2026-10-14T03:34:08.559861",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング おすすめ 理由_20261014",
-      "theme": "バイブコーディング おすすめ 理由",
+      "name": "episode_バイブコーディング 活用_20261014",
+      "theme": "バイブコーディング 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "HSBCがアドビ・システムズを格下げ、無料クローンソフトのリスクを警告",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
           "title": "Epic Gamesがディズニーとの新作ゲームをAI中心で開発する方針に転換、「手書きのコードはもう不要」という社内指示も",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
+          "title": "「DMM 生成AI CAMP 学び放題」の決済機能実装を支援、短期リリースと将来拡張を両立",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
           "title": "【エキスパート座談会 #3】AIエージェント、何を作ってどう活用してる？：それぞれの制約の中で「手綱を握る」仕事へ",
           "source": "Gmo Developers",
           "trust_score": 7.5
+        },
+        {
+          "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
+          "source": "Wired.jp",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP 比較_20261014",
-      "theme": "MCP 比較",
+      "name": "episode_MCP おすすめ_20261014",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -37,44 +52,34 @@
           "trust_score": 8.0
         },
         {
+          "title": "インフキュリオン、三井住友カードと提供する「Winvoice」を活用した請求書支払いサービスがAI接続規格「MCP」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "kintone を AI の相棒に。CData が『Cybozu Days Japan 2026』に出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
           "title": "無料CAD「SolveCraft」公開 AIエージェントから操作可能",
           "source": "Ascii",
           "trust_score": 7.0
         },
         {
-          "title": "博報堂とHakuhodo DY ONE、エージェンティックコマース時代の商品情報のデータエンリッチメントソリューション「Data Enrichment for商品インサイト」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "ONLYOFFICE 10.0、オープンソースのオフィススイートにAIツールとモジュール型アプリを追加し、セキュリティを強化",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.0
         },
         {
-          "title": "博報堂とHakuhodo DY ONE、エージェンティックコマース時代の商品情報のデータエンリッチメントソリューション「Data Enrichment for商品インサイト」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "飲食店本部向け経営管理システムで初、ClaudeやChatGPTに聞くだけで店舗別の売上・人件費率がわかる「FLARO」が「MCP連携」を提供",
+          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261014",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ONLYOFFICE 10.0がリリース、全エディタにAIを統合",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     }
