@@ -1,30 +1,85 @@
 {
-  "generated_at": "2026-10-13T05:31:01.115777",
-  "total_episodes": 1,
+  "generated_at": "2026-10-14T03:34:08.559861",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20261013",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_バイブコーディング 活用_20261014",
+      "theme": "バイブコーディング 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "NVIDIA独自コア「Olympus」の真価 Vera CPUが見せたIPC全振りの重厚構造とメモリー帯域依存",
-          "source": "Ascii",
+          "title": "HSBCがアドビ・システムズを格下げ、無料クローンソフトのリスクを警告",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Epic Gamesがディズニーとの新作ゲームをAI中心で開発する方針に転換、「手書きのコードはもう不要」という社内指示も",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "ONLYOFFICE 10.0がリリース、全エディタにAIを統合",
+          "title": "「DMM 生成AI CAMP 学び放題」の決済機能実装を支援、短期リリースと将来拡張を両立",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【エキスパート座談会 #3】AIエージェント、何を作ってどう活用してる？：それぞれの制約の中で「手綱を握る」仕事へ",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
+          "source": "Wired.jp",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261014",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "docx, xlsx, pptxを閲覧編集できるOSSオフィススイート ibisOfficeをリリース",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ONLYOFFICE 10.0がリリース、全エディタにAIを統合",
+          "title": "インフキュリオン、三井住友カードと提供する「Winvoice」を活用した請求書支払いサービスがAI接続規格「MCP」に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "kintone を AI の相棒に。CData が『Cybozu Days Japan 2026』に出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "無料CAD「SolveCraft」公開 AIエージェントから操作可能",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ONLYOFFICE 10.0、オープンソースのオフィススイートにAIツールとモジュール型アプリを追加し、セキュリティを強化",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "trust_score": 7.0
         }
       ]
     }
