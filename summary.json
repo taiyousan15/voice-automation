@@ -1,63 +1,163 @@
 {
-  "generated_at": "2026-10-14T03:34:08.559861",
-  "total_episodes": 2,
+  "generated_at": "2026-10-14T23:48:37.843701",
+  "total_episodes": 7,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング 活用_20261014",
-      "theme": "バイブコーディング 活用",
+      "name": "episode_バイブコーディング 比較_20261014",
+      "theme": "バイブコーディング 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "HSBCがアドビ・システムズを格下げ、無料クローンソフトのリスクを警告",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "【Expert Cross #5・前編】研究の成果をブランディングへ接続 真次彰平が臨む、「研究するGMOインターネットグループ」への展望",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         },
         {
-          "title": "Epic Gamesがディズニーとの新作ゲームをAI中心で開発する方針に転換、「手書きのコードはもう不要」という社内指示も",
-          "source": "Gigazine",
+          "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
           "title": "「DMM 生成AI CAMP 学び放題」の決済機能実装を支援、短期リリースと将来拡張を両立",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
-        {
-          "title": "【エキスパート座談会 #3】AIエージェント、何を作ってどう活用してる？：それぞれの制約の中で「手綱を握る」仕事へ",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
-          "source": "Wired.jp",
-          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20261014",
-      "theme": "MCP おすすめ",
+      "name": "episode_Claude Code 活用_20261014",
+      "theme": "Claude Code 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
+          "title": "副業から本業の補助まで、AIを最強の相棒にする活用ガイド! 『プロフェッショナルClaude Code 月額100ドルプランを使い倒して労働から解放される方法』発行 技術の泉シリーズ 10月の新刊",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "サーバーワークス、「Claude Partner Network」のSelectパートナーに認定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Meta、AIエージェント向けモデル「Muse Wonder」「Muse Wonder Full」を発表 ——会話の情報を引き継ぎ、長時間の開発作業にも対応",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【視点】メタはAI競争の「後発」から主役に化けるのか？",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "CELF、Excel業務のAI-ready化を支援する「AI開発エージェント」を提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude Codeが切り拓く次世代の暗号解読術！ 『生成AI時代の暗号技術入門 AIエージェントで挑む古典暗号の自動解析』発行 技術の泉シリーズ 10月の新刊",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "GitLab、ソフトウェア開発の工程を、組織のポリシーの下で一つにつなぐ「統制されたソフトウェアファクトリー」の基盤を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル おすすめ_20261014",
+      "theme": "スピリチュアル おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ゲイリー・バーツ、かつしかトリオが出演！モントルー・ジャズ・フェスティバル・ジャパンのスピンオフ「THE CLUB」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【速報】簗農水大臣の道路予算削減発言への抗議決議を採択 栃木・那須烏山市議会(テレビ朝日系（ANN）)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "中国代表団が択捉島を訪問 水産加工場の建設に意欲 高市総理「適切に対応」(テレビ朝日系（ANN）)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "日本郵便、最大4807件の顧客情報漏えいの恐れ、システム不具合で 法人向け発送サイト(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "向こう一週間 全国的に気圧の変動大 頭痛やめまいなどに要注意(tenki.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "介護費用が12兆円超 前年比2800億円増、過去最高〈厚労省〉(福祉新聞WEB)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【速報】台風29号は温帯低気圧に変わりました(tenki.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 8.7
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは_20261014",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "isVIT株式会社が開発。土地を読み、未来を描くAI「TERRA-MICHI」をカンボジア・カンダール州の都市開発計画に活用で合意。",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 比較_20261014",
+      "theme": "MCP 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "きゅうりトマトなすび、農業AIエージェント「ノウノウ」シリーズを全面拡張。農場データと外部AIをつなぐ「ノウノウMCP」も公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ドキュサイン・ジャパン、「PRO of the DX Award 2026」で優秀賞を2年連続受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Contentsquare、人間とAIエージェントのカスタマージャーニーを最適化するAIファーストなエクスペリエンス・プラットフォームを発表",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
           "title": "docx, xlsx, pptxを閲覧編集できるOSSオフィススイート ibisOfficeをリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "インフキュリオン、三井住友カードと提供する「Winvoice」を活用した請求書支払いサービスがAI接続規格「MCP」に対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "kintone を AI の相棒に。CData が『Cybozu Days Japan 2026』に出展",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -67,19 +167,74 @@
           "trust_score": 7.0
         },
         {
-          "title": "ONLYOFFICE 10.0、オープンソースのオフィススイートにAIツールとモジュール型アプリを追加し、セキュリティを強化",
-          "source": "株式会社 共同通信",
+          "title": "博報堂とHakuhodo DY ONE、エージェンティックコマース時代の商品情報のデータエンリッチメントソリューション「Data Enrichment for商品インサイト」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "博報堂とHakuhodo DY ONE、エージェンティックコマース時代の商品情報のデータエンリッチメントソリューション「Data Enrichment for商品インサイト」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code ランキング_20261014",
+      "theme": "Claude Code ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "LeapAI、AIエージェントの業務活用事例を共有する交流会を開催【開催レポート】",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 比較_20261014",
+      "theme": "占い 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "プロトン伝導体を超える超高速酸化物イオン伝導を実現「過剰酸素なのに酸素空孔拡散で伝導」−イオン伝導層を臭化物イオンで挟む材料設計で新物質を創製、低温燃料電池・電解セルへ道−",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【悲報】「女子枠」差別用語になるｗｗｗｗｗｗｗｗｗｗｗｗｗｗ",
+          "source": "Vipper速報",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【前編】電気トラブルが起きたとき、みんな最初に何をしている？初動対応から業者選び、満足度まで徹底調査！（電気工事会社「設備人」調査）",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
+          "title": "【前編】電気トラブルが起きたとき、みんな最初に何をしている？初動対応から業者選び、満足度まで徹底調査！（電気工事会社「設備人」調査）",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「LLMOチェキ」、AI検索対策を自社ブランドのSaaSとして提供できるホワイトラベルパートナーの募集を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "【後編】電気トラブルが起きたとき、みんな最初に何をしている？初動対応から業者選び、満足度まで徹底調査！（電気工事会社「設備人」調査）",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "BNPパリバ ExaneがVylor株をニュートレーティング、目標株価75ドルでカバレッジ開始",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「二輪市場はまだまだ伸びる！」「でも中国やインドメーカーが存在感を爆上げ中…」世界首位のホンダはそんな状況でどう動く？ 二輪事業の責任者が示す方針とは(Webikeプラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
