@@ -1,80 +1,120 @@
 {
-  "generated_at": "2026-10-15T03:13:57.764986",
-  "total_episodes": 2,
+  "generated_at": "2026-10-15T23:38:17.703925",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261015",
-      "theme": "エージェント 活用",
+      "name": "episode_マーケティング戦略 活用_20261015",
+      "theme": "マーケティング戦略 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Appleの新しい「Switch to Safari」キャンペーンではChromeからSafariに乗り換えるべき理由が詳しく説明されている",
-          "source": "Gigazine",
+          "title": "Vtuber七夜聖りあら、滋賀大学データサイエンス学部とのコラボ動画を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Google、「Gemini 4 Argon」を一般公開 - APIは11月末まで入力2ドル・出力10ドル",
-          "source": "Mynavi News",
+          "title": "R6B、Klaviyo公式イベント「Connect in Tokyo about Klaviyo vol.3」を青山で開催 米Authentic Brands GroupのデジタルEVPが来日し登壇",
+          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "IFA・金融機関向けアドバイザリープラットフォーム「TrustEngines」の提供開始",
+          "title": "【BtoCマーケター向け】生成AIを入れても、顧客データが活きないのはなぜか。田中 亨氏がAIエージェントの組織化を解説、11月10日配信",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "クラスター、広域自治体の不登校支援事業のためのバーチャル空間を構築 ―不登校の子どもたちの新たな居場所・学びの場づくりに協力―",
+          "title": "Z世代向け新経済メディア「Future Leaders Hub」にて、SNS総フォロワー13.5万人超のAI研修講師・川井佑一郎氏による連載がスタート",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "BitStarがSNS拡散に強みを持つ新規音楽レーベル「BitStar Music」始動！「ラブでオネガイシマス。」の所属やキッズアイドルグループ「有名になりたい」がデビュー！",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "東洋経済新報社、JAFCOと初の共催カンファレンス「新規事業を、本流へ」を開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
+          "title": "マテリアル、2026 66th ACC TOKYO CREATIVITY AWARDSにてPR部門でACCゴールドを受賞、計4プロジェクトが入賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ゲーミングPC LEVEL∞、『AION2』推奨パソコン発売",
+          "source": "Atpress",
+          "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_エージェント 方法_20261015",
-      "theme": "エージェント 方法",
+      "name": "episode_エージェント 比較_20261015",
+      "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "1976年に「コンピューターを使った数学定理の証明」が発表された際に数学者らはどう反応したのか？",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Supermicro、ラック規模のAIデータセンター展開を加速するため、統合型Open Compute Projectのポートフォリオを拡充",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
+          "title": "OrcaRouter、AIエージェント向けツール集「Agent Tools」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
+          "title": "AIモデルの重みに暗号化した能力を埋め込む手法、NeurIPS 2026採択論文が示す評価の限界",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
+          "trust_score": 7.0
+        },
+        {
+          "title": "【日本初】「スコープ3」のCO2排出から削減・相殺までをエンドツーエンドで可視化し、改ざん不可能な状態で完全証明する「鑑定証明システム（R）」の新特許を権利化。真の環境破壊をストップする新基準へ",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Workday、職務をタスク単位で分析する「Work Intelligence」を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Azureの障害対応に4層の制御 定型処理への移行でAIエージェント費用を削減",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AMDの新型「Ryzen AI Halo」は192GB搭載、3000億パラメータ級モデルに対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Figma、「Config India」で新機能を発表。コード、コンテキスト、AIエージェントをフルスタック・クリエイティブキャンバスに集約。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 比較_20261015",
+      "theme": "バイブコーディング 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "“新生Epic Gamesランチャー”公開、まずはプレビュー版として。AI活用で開発、「Steamより起動が速い」とアピール",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【Expert Cross #5・前編】研究の成果をブランディングへ接続 真次彰平が臨む、「研究するGMOインターネットグループ」への展望",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+          "source": "Itmedia",
+          "trust_score": 7.5
         }
       ]
     }
