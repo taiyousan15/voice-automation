@@ -1,120 +1,70 @@
 {
-  "generated_at": "2026-10-15T23:38:17.703925",
-  "total_episodes": 3,
+  "generated_at": "2026-10-16T03:09:59.207327",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_マーケティング戦略 活用_20261015",
-      "theme": "マーケティング戦略 活用",
+      "name": "episode_バイブコーディング 方法_20261016",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Vtuber七夜聖りあら、滋賀大学データサイエンス学部とのコラボ動画を公開",
+          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "trust_score": 7.0
         },
         {
-          "title": "R6B、Klaviyo公式イベント「Connect in Tokyo about Klaviyo vol.3」を青山で開催 米Authentic Brands GroupのデジタルEVPが来日し登壇",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【BtoCマーケター向け】生成AIを入れても、顧客データが活きないのはなぜか。田中 亨氏がAIエージェントの組織化を解説、11月10日配信",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Z世代向け新経済メディア「Future Leaders Hub」にて、SNS総フォロワー13.5万人超のAI研修講師・川井佑一郎氏による連載がスタート",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "BitStarがSNS拡散に強みを持つ新規音楽レーベル「BitStar Music」始動！「ラブでオネガイシマス。」の所属やキッズアイドルグループ「有名になりたい」がデビュー！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "マテリアル、2026 66th ACC TOKYO CREATIVITY AWARDSにてPR部門でACCゴールドを受賞、計4プロジェクトが入賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ゲーミングPC LEVEL∞、『AION2』推奨パソコン発売",
+          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
           "source": "Atpress",
           "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_エージェント 比較_20261015",
-      "theme": "エージェント 比較",
+      "name": "episode_エージェント ランキング_20261016",
+      "theme": "エージェント ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "OrcaRouter、AIエージェント向けツール集「Agent Tools」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIモデルの重みに暗号化した能力を埋め込む手法、NeurIPS 2026採択論文が示す評価の限界",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【日本初】「スコープ3」のCO2排出から削減・相殺までをエンドツーエンドで可視化し、改ざん不可能な状態で完全証明する「鑑定証明システム（R）」の新特許を権利化。真の環境破壊をストップする新基準へ",
+          "title": "1日に約1,165万回、1秒あたり約135回のサイバー攻撃を検知～9月に攻撃が急増、SQLインジェクションは7月の約1.8倍に～国内で相次ぐ不正アクセスでは、AIエージェントによる攻撃の可能性も",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Workday、職務をタスク単位で分析する「Work Intelligence」を発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Azureの障害対応に4層の制御 定型処理への移行でAIエージェント費用を削減",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AMDの新型「Ryzen AI Halo」は192GB搭載、3000億パラメータ級モデルに対応",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Figma、「Config India」で新機能を発表。コード、コンテキスト、AIエージェントをフルスタック・クリエイティブキャンバスに集約。",
+          "title": "2026年夏ドラマ満足度ランキング発表！満足度No.1は『VIVANT 第2シーズン』と『一流シェフのファミリーレストラン 最終シーズン』《Filmarks調べ》",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 比較_20261015",
-      "theme": "バイブコーディング 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "“新生Epic Gamesランチャー”公開、まずはプレビュー版として。AI活用で開発、「Steamより起動が速い」とアピール",
-          "source": "Automaton",
-          "trust_score": 7.0
         },
         {
-          "title": "【Expert Cross #5・前編】研究の成果をブランディングへ接続 真次彰平が臨む、「研究するGMOインターネットグループ」への展望",
-          "source": "Gmo Developers",
+          "title": "アンドプロの評判・口コミ｜IT転職エージェント7社と比較してわかる強みと注意点を徹底解説！",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に AIでゲームを探す機能も",
+          "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
           "source": "Itmedia",
           "trust_score": 7.5
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] OpenAI「Dots」に追随なるか Google「Gemini Agent」参戦で過熱するパーソナルAI競争",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【年収954万円】Swiftエンジニア案件2026年10月最新｜フリーランス調査【フリーランスボード調べ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "サイボウズ「大企業におけるAI活用実態調査」第2弾を公開 ー AI投資を「増加させる」企業は7割に達するも、AIコストを一元管理している企業は3割未満",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
