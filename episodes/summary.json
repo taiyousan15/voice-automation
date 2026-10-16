@@ -1,80 +1,70 @@
 {
-  "generated_at": "2026-10-15T03:13:57.764986",
+  "generated_at": "2026-10-16T03:09:59.207327",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261015",
-      "theme": "エージェント 活用",
+      "name": "episode_バイブコーディング 方法_20261016",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Appleの新しい「Switch to Safari」キャンペーンではChromeからSafariに乗り換えるべき理由が詳しく説明されている",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Google、待望の新AIモデル「Gemini 4 Argon」一般提供を開始 推論の継続力を強化 一部ベンチでトップに",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Anthropic、社内モノレポをGitから独自基盤へ移行 ——AIエージェントによるコード変更の急増に対応",
-          "source": "Gijutsu Hyohron Company",
+          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Google、「Gemini 4 Argon」を一般公開 - APIは11月末まで入力2ドル・出力10ドル",
-          "source": "Mynavi News",
+          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
+          "source": "Atpress",
           "trust_score": 8.5
-        },
-        {
-          "title": "IFA・金融機関向けアドバイザリープラットフォーム「TrustEngines」の提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "クラスター、広域自治体の不登校支援事業のためのバーチャル空間を構築 ―不登校の子どもたちの新たな居場所・学びの場づくりに協力―",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "東洋経済新報社、JAFCOと初の共催カンファレンス「新規事業を、本流へ」を開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
         }
       ]
     },
     {
-      "name": "episode_エージェント 方法_20261015",
-      "theme": "エージェント 方法",
+      "name": "episode_エージェント ランキング_20261016",
+      "theme": "エージェント ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "1976年に「コンピューターを使った数学定理の証明」が発表された際に数学者らはどう反応したのか？",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "1日に約1,165万回、1秒あたり約135回のサイバー攻撃を検知～9月に攻撃が急増、SQLインジェクションは7月の約1.8倍に～国内で相次ぐ不正アクセスでは、AIエージェントによる攻撃の可能性も",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "Supermicro、ラック規模のAIデータセンター展開を加速するため、統合型Open Compute Projectのポートフォリオを拡充",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
+          "title": "2026年夏ドラマ満足度ランキング発表！満足度No.1は『VIVANT 第2シーズン』と『一流シェフのファミリーレストラン 最終シーズン』《Filmarks調べ》",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AIエージェントによるWebセキュリティ評価サービス「JAPAN AI Cyber」のトライアル受付を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
+          "title": "アンドプロの評判・口コミ｜IT転職エージェント7社と比較してわかる強みと注意点を徹底解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] OpenAI「Dots」に追随なるか Google「Gemini Agent」参戦で過熱するパーソナルAI競争",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【年収954万円】Swiftエンジニア案件2026年10月最新｜フリーランス調査【フリーランスボード調べ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "サイボウズ「大企業におけるAI活用実態調査」第2弾を公開 ー AI投資を「増加させる」企業は7割に達するも、AIコストを一元管理している企業は3割未満",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
