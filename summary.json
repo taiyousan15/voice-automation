@@ -1,70 +1,295 @@
 {
-  "generated_at": "2026-10-16T03:09:59.207327",
-  "total_episodes": 2,
+  "generated_at": "2026-10-16T23:24:09.565642",
+  "total_episodes": 7,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング 方法_20261016",
-      "theme": "バイブコーディング 方法",
+      "name": "episode_MCP 方法_20261016",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
+          "title": "SIG-FIN「2025年度 最優秀論文賞」を受賞 ～MONO Investment技術顧問・中川慧氏らの共著論文～",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "DAIJOBU NIGHT vol.3｜Claude Code/Codex活用術共有会 ～使い倒している人の本気ユースケースを見せ合う夜～",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "DAIJOBU NIGHT vol.3｜Claude Code/Codex活用術共有会 ～使い倒している人の本気ユースケースを見せ合う夜～",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "日本AIスキル認定協会、企業や事業部のAI変革力を評価する「AX企業認定」を開始。2027年度の認定開始に向け申請受付をスタート",
-          "source": "Atpress",
+          "title": "Claude Codeの代わりが無料で見つかった。好きにAIを乗り換えられる「Qwen Code」導入ガイド",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「InfiniCloud(R) AI 3.0」Sovereign / Private AIプラットフォームとして製品ラインナップを刷新。Enterprise用途から無償版CEまで提供",
+          "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "“AIが考え、RPAが動く”を実現 AIエージェントからロボットを直接実行できるBizRobo!新バージョン2026.3を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【株式会社アセンド】AIが対話で電話業務を自動化する「AgenFlow（エージェンフロー）」の提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_エージェント ランキング_20261016",
-      "theme": "エージェント ランキング",
+      "name": "episode_マーケティング戦略 おすすめ 理由_20261016",
+      "theme": "マーケティング戦略 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "1日に約1,165万回、1秒あたり約135回のサイバー攻撃を検知～9月に攻撃が急増、SQLインジェクションは7月の約1.8倍に～国内で相次ぐ不正アクセスでは、AIエージェントによる攻撃の可能性も",
+          "title": "「ご、5億円ん？！」…ディーノ206ベルリネッタ『プロトタイプ』ピニンファリーナが出現！ 量産車で断念したエンジン搭載方法とは？(Webモーターマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "コフレ激戦で買い逃した経験がある人は約6割！ 限定品にこだわらない「私の定番・ご褒美コスメ」へ。｜BEAUTY INSIGHTS JOURNAL #4 冬の「セルフご褒美」に関する調査",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "2026年夏ドラマ満足度ランキング発表！満足度No.1は『VIVANT 第2シーズン』と『一流シェフのファミリーレストラン 最終シーズン』《Filmarks調べ》",
+          "title": "冬の「セルフご褒美」に関する調査｜株式会社PA Communication × 株式会社ネオマーケティングによる「BEAUTY INSIGHTS JOURNAL」＃4",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "株式会社レッドキリン、広告の不正クリックによるコンバージョン計測を防止するWordPress公式プラグイン「Redkirin Ad Click Verification」を無料公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "株式会社レッドキリン、広告の不正クリックによるコンバージョン計測を防止するWordPress公式プラグイン「Redkirin Ad Click Verification」を無料公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Kiii社、麻辣湯の社食サービス「MARTAN for Office」導入！オフィスで麻辣湯の食べ放題を実現",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "アンドプロの評判・口コミ｜IT転職エージェント7社と比較してわかる強みと注意点を徹底解説！",
-          "source": "Tenshoku Stories",
+          "title": "日本初の焼肉レストラン「大同門」再建の軌跡──AI起業家が家業を買い戻した理由",
+          "source": "Zuu Online",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ_20261016",
+      "theme": "エージェント おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "月収150万人事コンサル、月250時間労働の「パンク状態」からの脱却。仕事を捨ててAIを学んだ1ヶ月の死闘(みんかぶマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "NVIDIAが描くAI市場の「次章」、日本の活路はどこか",
-          "source": "Itmedia",
-          "trust_score": 7.5
+          "title": "同じ会社なのに仕事の速さが7倍違う…AIを使う人は「1日」、使わない人は「1週間」かかる現実。600社超を支援した専門家が語る「能力差ではない」理由(みんかぶマガジン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "[ITmedia ビジネスオンライン] OpenAI「Dots」に追随なるか Google「Gemini Agent」参戦で過熱するパーソナルAI競争",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【年収954万円】Swiftエンジニア案件2026年10月最新｜フリーランス調査【フリーランスボード調べ】",
+          "title": "シフト作成をAIで自動化する「AIシフト機能」を介護事業者向けAIメンターMentCareに搭載",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "サイボウズ「大企業におけるAI活用実態調査」第2弾を公開 ー AI投資を「増加させる」企業は7割に達するも、AIコストを一元管理している企業は3割未満",
+          "title": "MAKOTO Prime、宮城県主催「身の丈DXラボ」連携事業の生成AI体験会で講師を担当",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "MCPセキュリティに特化した書籍『MCP実践セキュリティ AIエージェント時代のModel Context Protocol安全運用ガイド』発行",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ヤマザキマザック×ABEJA、製造現場向けフィジカルAIを共同開発 - 工程設計や生産計画を最適化",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ 理由_20261016",
+      "theme": "思想 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「厳選してゲンガーにしました」 3COINSの“ポケモンコラボキーホルダー”が大人気 「思っていたより大きくてインパクトある」「カニカン付きでどこにでも取り付けやすい」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "＜※警察・消防士・自衛隊※＞頑張る男性を支えたい女性へ♪",
+          "source": "Machicon",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「小1からダイエット」急増の恐ろしさ。専門家が警鐘を鳴らす、子どもの身体をむしばむ“痩せたい願望”(with online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「あのママ友の子はもっと勉強してる…」真面目な親ほど陥る“中学受験沼”の闇。情報を集めるほど、わが子を追い詰めてしまうワケ(with online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "60代ひとり暮らし、「お金の不安をなくす考え方」4つ。無理のない倹約習慣、疲れは極力ためない(ESSE-online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "来客用布団、出番のない着物…60代ひとり暮らし、この10年で「手放してよかったもの」3つ(ESSE-online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "土ドラ『再生のウズメ』「年齢分だけ反抗期があった（笑）」 市毛良枝が語る家族のカタチ MAZZEL・EIKI「光は人生のどのタイミングでも差し込んでくる」",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル おすすめ_20261016",
+      "theme": "スピリチュアル おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ジュディ・シル（Judee Sill）純度100％のドキュメンタリーに心を揺さぶられて――映画「贖罪のシンガーソングライター」が伝える〈救済〉映画「ジュディ・シル 贖罪のシンガーソングライター」 - コラム",
+          "source": "Mikiki",
+          "trust_score": 7.0
+        },
+        {
+          "title": "音声ニュースレター「マウントフルネス幸福論」を10月26日より配信開始｜幸福をマウントフルネスで再定義し、人生に実装する",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "音声ニュースレター「マウントフルネス幸福論」を10月26日より配信開始｜幸福をマウントフルネスで再定義し、人生に実装する",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "何でも「願えば叶う」なんてありえない…鏡リュウジがポップ化する“スピ系”ブームと“引き寄せの法則”に感じた違和感(東洋経済オンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "SNSフォロワー累計90万部超の写真家・やなぎさわごう氏×人気の心理占星術研究家・鏡リュウジ氏による初の共著『占いつき写真集 おきよめシマエナガ～12星座のあなたへ癒やしのことば～』11月2日発売",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "岐阜・中津川で開催の『中津川 WILD WOOD 2026』2日間を振り返る総括レポートが到着",
+          "source": "Spice Entertainment Information",
+          "trust_score": 6.5
+        },
+        {
+          "title": "映画版『ストリートファイター／ザ・ムービー』レビュー",
+          "source": "Ign Japan",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20261016",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【非エンジニア向け】Claude Code法人研修のサービスサイトをリニューアル 受講条件、4層構造のセキュリティ対策、第0回～第4回のカリキュラムを掲載",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "IBM Maximo と保全現場のノウハウが詰まったExcelデータをスマートに統合する「MX Stage」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インバウンド急増の一方で深まる“有資格者の未稼働問題”に対応 みらいワークス、奄美群島広域事務組合より『令和8年度 奄美群島地域通訳案内士育成事業』を受託",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Sun*、AI駆動開発向けデザインシステム「Nova」を無償公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インドネシア西ヌサ・トゥンガラ州政府と3eee、日本向け人材育成・就労支援の連携強化に向け協議",
           "source": "Infoseek Japan",
           "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 活用_20261016",
+      "theme": "バイブコーディング 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Nyx Foundation、富山県南砺市のふるさと納税を活用した補助対象事業に採択。研究を地域の未来につなぐ。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
+          "source": "Gigazine",
+          "trust_score": 7.5
         }
       ]
     }
