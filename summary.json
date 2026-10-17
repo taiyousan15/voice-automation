@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T03:01:17.872237",
-  "total_episodes": 2,
+  "generated_at": "2026-10-17T22:59:42.797798",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング 方法_20261017",
-      "theme": "バイブコーディング 方法",
+      "name": "episode_バイブコーディング 活用_20261017",
+      "theme": "バイブコーディング 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -15,30 +15,140 @@
           "title": "Nyx Foundation、富山県南砺市のふるさと納税を活用した補助対象事業に採択。研究を地域の未来につなぐ。",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "【Simeji主催】声で打つ時代へ、AIが変える仕事の仕方を学ぶビジネスミートアップを 10/29 Google 渋谷オフィスで開催｜Google Cloud 協力",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中",
-          "source": "Gigazine",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_バイブコーディング 比較_20261017",
-      "theme": "バイブコーディング 比較",
+      "name": "episode_思想 おすすめ 理由_20261017",
+      "theme": "思想 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【DIY】3Dプリンターで「iPhone Duo」のモックアップを作ってみた〜Claude Opus 5.5に頼んだら数分で完成",
-          "source": "タッチ ラボ",
+          "title": "「とりあえず予選は前に行かないと」とスバルBRZの井口。ポール獲得を起爆剤に決勝の不安克服なるか／第7戦予選",
+          "source": "Auto Sport",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ホンダ「ヴェゼル」に意外な弱点!? 低燃費は魅力も「小回り」が苦手！ 人気SUVの惜しいポイントとは(ベストカーWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "京都に佇む美しい邸宅を拝見！和の情緒を現代に昇華した空間美に注目(モダンリビング)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【大人の冬服】完売必至。銀座でしか買えない「オーラリー 」激レアコラボ(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "月の井酒造店｜茨城・大洗が育てた個性派蔵【日本酒のススメ】",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "乃木坂46伊藤理々杏、卒業発表「43枚目シングルの活動をもって」芸能活動は継続",
+          "source": "Model Press",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ガーシー「なんで刺青入ってたらサウナあかん？そろそろ堂々と入らせてください笑笑」",
+          "source": "Esuteru Japanese Gaming Blog",
+          "trust_score": 8.7
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ 理由_20261017",
+      "theme": "エージェント おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ビヨンドキャリアの評判・口コミ｜ハイクラス転職エージェント7社と比較してわかる強みと注意点！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "NVIDIA RTX Spark 搭載 PC、本日発売 ― Windows PC の新たな幕開け",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "メタ、「Muse Wonder」で再びAIの最前線へ",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIを使わないことが「最も賢いAI判断」となるときとは？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "中小企業経営者が「借りている」ソフトウェア、AIなら数時間で自作できる時代に | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 比較_20261017",
+      "theme": "エージェント 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI動画制作プラットフォーム「AZ8」、「ad:tech tokyo 2026」に出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "NVIDIA「RTX Spark N1X」実機レビューを検証 強力な統合GPUと最大128GBメモリ、CPU性能は用途で差",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "OpenAI次期モデルの「ループ型Transformer」に監視上の懸念 安全性研究者3人の解雇で議論",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "フリコンの評判・口コミは？メリット・デメリットや他社との違いを徹底解説",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "MetaとAppleが協業、Mac2台で動くオープンウェイトAIを無償公開",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
+          "source": "4gamer.net",
           "trust_score": 7.5
         }
       ]
