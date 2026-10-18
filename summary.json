@@ -1,149 +1,49 @@
 {
-  "generated_at": "2026-10-18T03:03:38.417590",
-  "total_episodes": 5,
+  "generated_at": "2026-10-18T22:56:00.166964",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20261018",
-      "theme": "MCP おすすめ",
+      "name": "episode_エージェント 方法_20261018",
+      "theme": "エージェント 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AgentsViewが複数のAIコーディングエージェントの履歴とコストを集約",
-          "source": "ライブドアニュース",
+          "title": "iPhone DuoとAIの融合から、“ポストスマートフォン”のかたちが見えてきた",
+          "source": "Wired.jp",
           "trust_score": 7.5
         },
         {
-          "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "DocBase、パスキーによるログインに対応 ～パスワード入力なしで、フィッシングに強く簡単なログインを実現～",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "NVIDIAの新SoC「RTX Spark」は何がすごい？ Blackwell＋Grace統合で薄型PCが“トークン生成工場”に変わる理由",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "MCPセキュリティに特化した書籍『MCP実践セキュリティ AIエージェント時代のModel Context Protocol安全運用ガイド』発行",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "DocBase、パスキーによるログインに対応 ～パスワード入力なしで、フィッシングに強く簡単なログインを実現～",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261018",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AI動画制作プラットフォーム「AZ8」、「ad:tech tokyo 2026」に出展",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ハサビス氏、AIエージェントの相次ぐ逸脱を「早期警戒」と指摘 国際的な安全基準を提唱",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ホンダ『アコードSUV』2029年登場か！ アウトバック対抗の新型クロスオーバー",
-          "source": "Response",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ホンダ『アコードSUV』2029年登場か！ アウトバック対抗の新型クロスオーバー(レスポンス)",
+          "title": "エイベックス松浦勝人、本気すぎる「AIでお金を儲ける」実験の中身(GOETHE)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "【シドニー観光の20シーンで英語を学ぶ】ネイティブキャンプ、「新旅行英会話 基礎」に「観光 - シドニー」を追加",
+          "title": "アナリストのAI関連主要動向5選：Meta Platformsに最高目標株価、セールスフォースはダブルアップグレード",
+          "source": "Investing- Fx",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【2026年10月】英会話をもっと続けたくなる講師との出会いを。ネイティブキャンプ「講師最新ランキング」を発表",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【シドニー観光の20シーンで英語を学ぶ】ネイティブキャンプ、「新旅行英会話 基礎」に「観光 - シドニー」を追加",
+          "title": "【2026年10月】英会話をもっと続けたくなる講師との出会いを。ネイティブキャンプ「講師最新ランキング」を発表",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "獲得した名刺を営業資産へ AI営業支援CRM「ProSales」が名刺スキャン機能を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20261018",
-      "theme": "skill おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
+          "title": "企業支出管理プラットフォーム「Ramp」、評価額600億ドルで18億5000万ドル調達 AI利用料と企業支出の管理を拡充",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 活用_20261018",
-      "theme": "skill 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
+          "title": "Anthropic、METRの研究者6人に従業員相当のアクセス 承認不要で評価結果を公表",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261018",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
-          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
         }
       ]
