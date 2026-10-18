@@ -1,116 +1,56 @@
 {
-  "generated_at": "2026-10-17T22:59:42.797798",
-  "total_episodes": 4,
+  "generated_at": "2026-10-18T03:03:38.417590",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング 活用_20261017",
-      "theme": "バイブコーディング 活用",
+      "name": "episode_MCP おすすめ_20261018",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Nyx Foundation、富山県南砺市のふるさと納税を活用した補助対象事業に採択。研究を地域の未来につなぐ。",
+          "title": "AgentsViewが複数のAIコーディングエージェントの履歴とコストを集約",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "すべてのAIコーディングエージェントのコストを閲覧・検索・追跡しローカルで動作する「AgentsView」、Claude Code・Codex・Cursor・Copilot・Geminiなど60種類以上のエージェントを自動検出し全文検索も可能",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "DocBase、パスキーによるログインに対応 ～パスワード入力なしで、フィッシングに強く簡単なログインを実現～",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "NVIDIAの新SoC「RTX Spark」は何がすごい？ Blackwell＋Grace統合で薄型PCが“トークン生成工場”に変わる理由",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "MCPセキュリティに特化した書籍『MCP実践セキュリティ AIエージェント時代のModel Context Protocol安全運用ガイド』発行",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "DocBase、パスキーによるログインに対応 ～パスワード入力なしで、フィッシングに強く簡単なログインを実現～",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20261017",
-      "theme": "思想 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「とりあえず予選は前に行かないと」とスバルBRZの井口。ポール獲得を起爆剤に決勝の不安克服なるか／第7戦予選",
-          "source": "Auto Sport",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ホンダ「ヴェゼル」に意外な弱点!? 低燃費は魅力も「小回り」が苦手！ 人気SUVの惜しいポイントとは(ベストカーWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "京都に佇む美しい邸宅を拝見！和の情緒を現代に昇華した空間美に注目(モダンリビング)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【大人の冬服】完売必至。銀座でしか買えない「オーラリー 」激レアコラボ(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "月の井酒造店｜茨城・大洗が育てた個性派蔵【日本酒のススメ】",
-          "source": "Sarai.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "乃木坂46伊藤理々杏、卒業発表「43枚目シングルの活動をもって」芸能活動は継続",
-          "source": "Model Press",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ガーシー「なんで刺青入ってたらサウナあかん？そろそろ堂々と入らせてください笑笑」",
-          "source": "Esuteru Japanese Gaming Blog",
-          "trust_score": 8.7
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント おすすめ 理由_20261017",
-      "theme": "エージェント おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ビヨンドキャリアの評判・口コミ｜ハイクラス転職エージェント7社と比較してわかる強みと注意点！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "NVIDIA RTX Spark 搭載 PC、本日発売 ― Windows PC の新たな幕開け",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "メタ、「Muse Wonder」で再びAIの最前線へ",
-          "source": "Wired.jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ゴムマリの業務AIエージェント、『営業リスト作成』を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIを使わないことが「最も賢いAI判断」となるときとは？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "中小企業経営者が「借りている」ソフトウェア、AIなら数時間で自作できる時代に | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 比較_20261017",
-      "theme": "エージェント 比較",
+      "name": "episode_エージェント 活用_20261018",
+      "theme": "エージェント 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -122,34 +62,89 @@
           "trust_score": 8.0
         },
         {
-          "title": "NVIDIA「RTX Spark N1X」実機レビューを検証 強力な統合GPUと最大128GBメモリ、CPU性能は用途で差",
+          "title": "ハサビス氏、AIエージェントの相次ぐ逸脱を「早期警戒」と指摘 国際的な安全基準を提唱",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
+          "title": "ホンダ『アコードSUV』2029年登場か！ アウトバック対抗の新型クロスオーバー",
+          "source": "Response",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ホンダ『アコードSUV』2029年登場か！ アウトバック対抗の新型クロスオーバー(レスポンス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【シドニー観光の20シーンで英語を学ぶ】ネイティブキャンプ、「新旅行英会話 基礎」に「観光 - シドニー」を追加",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【シドニー観光の20シーンで英語を学ぶ】ネイティブキャンプ、「新旅行英会話 基礎」に「観光 - シドニー」を追加",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "獲得した名刺を営業資産へ AI営業支援CRM「ProSales」が名刺スキャン機能を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20261018",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "OpenAI次期モデルの「ループ型Transformer」に監視上の懸念 安全性研究者3人の解雇で議論",
+          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20261018",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
           "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "吉積情報が提供する Cmosy Pocket（クモシィポケット）が「ITreview Grid Award 2026 Fall」で Leader を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP ランキング_20261018",
+      "theme": "MCP ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「NECが全社員にClaude Cowork導入」「AIで人月モデルは崩壊」――AI活用の“壁”を突破する実践知",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
-        },
-        {
-          "title": "フリコンの評判・口コミは？メリット・デメリットや他社との違いを徹底解説",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "MetaとAppleが協業、Mac2台で動くオープンウェイトAIを無償公開",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める",
-          "source": "4gamer.net",
-          "trust_score": 7.5
         }
       ]
     }
