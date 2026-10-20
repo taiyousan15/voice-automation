@@ -1,35 +1,180 @@
 {
-  "generated_at": "2026-10-19T03:17:33.239517",
-  "total_episodes": 1,
+  "generated_at": "2026-10-20T00:11:52.393885",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261019",
-      "theme": "skill おすすめ",
+      "name": "episode_バイブコーディング 方法_20261020",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【2026年10月版】生成AI主要8サービス料金早見表 ―― 上位モデル「GPT 6 Astra」や「Gemini 4 Argon」が登場",
-          "source": "Business Insider",
+          "title": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催",
+          "source": "Atpress",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "法人向けAI実践研修「bajji AIファーストキャンプ」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「AIエージェント博 2026 byAI博覧会」 新宿住友ビル 三角広場にて12月15日・16日に開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI時代のエンタープライズソフトウェア、「自社構築」か「購入」か | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "アナリストのAI関連主要動向5選：Meta Platformsに最高目標株価、セールスフォースはダブルアップグレード",
+          "source": "Investing- Fx",
           "trust_score": 7.0
         },
         {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
-          "source": "Infoseek Japan",
+          "title": "Bluesky「Attie」にサイト作成機能 AIでゲームやクイズを作り、コミュニティで共有",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20261020",
+      "theme": "哲学 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "全国やプリンス関東で学んだ強度で凌駕し、焦れずに自分たちの強みも表現。日大藤沢が法政二を延長戦で振り切り、神奈川初戦突破!",
+          "source": "Gexaka",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ザ・コンランショップ、カリモク。新作サイドテーブルでソファやベッドサイドを快適に(T JAPAN web)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
+          "title": "世界食料デー2026イベント「今日のイノベーションが、明日の食を支える。」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "レッドブル、進歩を遂げたRB22の大型アップデートは終了。今後は「2027年に活かせる学び」を得る取り組みへ",
+          "source": "Auto Sport",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AMIRIがFCバルセロナとの継続的なパートナーシップの一環としてメンズフォーマルウェアの第二シーズンを発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AMIRIがFCバルセロナとの継続的なパートナーシップの一環としてメンズフォーマルウェアの第二シーズンを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "第5回考亭フォーラム、福建省南平で開催 朱子学と文明対話を議論",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル おすすめ_20261020",
+      "theme": "スピリチュアル おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "『星の王子さま』の世界観が表現された、上質な渋色レザー財布！(Safari Online)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「シングス ザット マター」5周年イベントを開催！ ファッションから瞑想、占い、ヨガまで多彩なコンテンツが集結(Numero TOKYO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント ランキング_20261020",
+      "theme": "エージェント ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【年収783万円】C言語エンジニア案件2026年10月最新｜フリーランス調査【フリーランスボード調べ】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "めじるしアクセサリーの新作をまとめたサイト「めじラブ」を公開【2026年最新】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] AI活用で約2900時間削減した世田谷区、しかし「確認と修正の負担」増加 新たな課題どう対応？",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "感謝株式会社「2034年問題」に挑むAI時代の経営者予備校。「感謝経営者倶楽部」を本格始動！～試験を突破した精鋭によるウーバー型「AIアテンドランキング」を導入",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "感謝株式会社「2034年問題」に挑むAI時代の経営者予備校。「感謝経営者倶楽部」を本格始動！～試験を突破した精鋭によるウーバー型「AIアテンドランキング」を導入",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【2026年10月】英会話をもっと続けたくなる講師との出会いを。ネイティブキャンプ「講師最新ランキング」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【2026年10月】英会話をもっと続けたくなる講師との出会いを。ネイティブキャンプ「講師最新ランキング」を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20261020",
+      "theme": "skill 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ギブリーの「Track」、グローバルなスキル活用拡大に向けGDPR対応方針を公表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【2026年10月版】生成AI主要8サービス料金早見表 ―― 上位モデル「GPT 6 Astra」や「Gemini 4 Argon」が登場",
+          "source": "Business Insider",
+          "trust_score": 7.5
         }
       ]
     }
