@@ -1,35 +1,115 @@
 {
-  "generated_at": "2026-10-19T03:17:33.239517",
-  "total_episodes": 1,
+  "generated_at": "2026-10-20T03:26:11.123571",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261019",
-      "theme": "skill おすすめ",
+      "name": "episode_MCP おすすめ 理由_20261020",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【2026年10月版】生成AI主要8サービス料金早見表 ―― 上位モデル「GPT 6 Astra」や「Gemini 4 Argon」が登場",
-          "source": "Business Insider",
+          "title": "Claude Code更新 大容量Read・サブエージェント圧縮【10/9〜15】",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録",
+          "source": "Rakus Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Stockwork、営業が集めた顧客の一次情報を経営・事業の判断に活かすMCP連携を一般提供",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI特化とは一線を画すHPCの怪物！ 富士通「Monaka」が目指す3D積層と256bit SVE2の真価",
+          "source": "Ascii",
           "trust_score": 7.0
         },
         {
-          "title": "「AIに、毎回いちから説明しなくていい。」いつものChatGPT・Claudeを、仕事の経緯を覚えている秘書にする「XiNAPSE-Agent」β版の提供を開始",
-          "source": "Infoseek Japan",
+          "title": "AI議事録ツールで95%が時短に成功、80%は作成時間が導入前の50%以下に【AI議事録ツール利用者100名調査】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "企業のAIを「ゲートウェイ」で統合管理、パロアルトが示す新たなセキュリティ戦略",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ノーコードデータ連携クラウド「Passwork」、オンプレミスのデータベースや手元のPCのファイルをつなぐ接続エージェント「Passwork Bridge」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261020",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI時代における新たな成長のためのネットワーク価値の再構築",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI時代における新たな成長のためのネットワーク価値の再構築",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ 理由_20261020",
+      "theme": "エージェント おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ビルドジョブの評判・口コミ｜建設・施工管理に強い転職エージェント7社と比較してわかる強みと注意点！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026年10月19日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "オードリー・タンがケアの倫理に基づく“AI執事”「Kami」を語る(クーリエ・ジャポン)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "STEPX Neoが中国で発売、AIエージェント向けOSとMCP連携の実像",
+          "title": "理名、小日向美香、TRUE、結城アイラ……音楽×AI創作で作る驚きのコラボ作品 『PixAI』から注目MV続々登場",
+          "source": "Real Sound｜リアルサウンド",
+          "trust_score": 6.5
+        },
+        {
+          "title": "アーサー・ヘイズ、オープンAIやアンソロピックの投資価値を疑問視。AI企業救済でBTC上昇を予測",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ゼロボード、AI機能「Dr. Zero」の大幅刷新と「Zeroboard Headless」構想を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ゼロボード、AI機能「Dr. Zero」の大幅刷新と「Zeroboard Headless」構想を発表",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "trust_score": 7.5
         }
       ]
     }
