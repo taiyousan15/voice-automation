@@ -1,56 +1,11 @@
 {
-  "generated_at": "2026-10-20T03:26:11.123571",
+  "generated_at": "2026-10-20T23:43:39.038617",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ 理由_20261020",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Claude Code更新 大容量Read・サブエージェント圧縮【10/9〜15】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "仕事を進めるだけでは、仕事しか進まない。木こりのジレンマを Claude Code で解いた5ヶ月の記録",
-          "source": "Rakus Company",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Stockwork、営業が集めた顧客の一次情報を経営・事業の判断に活かすMCP連携を一般提供",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI特化とは一線を画すHPCの怪物！ 富士通「Monaka」が目指す3D積層と256bit SVE2の真価",
-          "source": "Ascii",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AI議事録ツールで95%が時短に成功、80%は作成時間が導入前の50%以下に【AI議事録ツール利用者100名調査】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "企業のAIを「ゲートウェイ」で統合管理、パロアルトが示す新たなセキュリティ戦略",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ノーコードデータ連携クラウド「Passwork」、オンプレミスのデータベースや手元のPCのファイルをつなぐ接続エージェント「Passwork Bridge」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261020",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 まとめ_20261020",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 まとめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -69,47 +24,82 @@
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261020",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_哲学 おすすめ_20261020",
+      "theme": "哲学 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ビルドジョブの評判・口コミ｜建設・施工管理に強い転職エージェント7社と比較してわかる強みと注意点！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "2026年10月19日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "オードリー・タンがケアの倫理に基づく“AI執事”「Kami」を語る(クーリエ・ジャポン)",
+          "title": "ギャンブルで「トータル収支」を気にするのは野暮？優れたギャンブラーが勝ち負けより大切にしていること(ダイヤモンド・オンライン)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "理名、小日向美香、TRUE、結城アイラ……音楽×AI創作で作る驚きのコラボ作品 『PixAI』から注目MV続々登場",
-          "source": "Real Sound｜リアルサウンド",
-          "trust_score": 6.5
+          "title": "4歳の頃の「指は永遠にくっつかない？」⇒ 一体なぜ？ゼノンのパラドックス〝無限〟をアプリ化 海外から議論続々「これ大好き」「頭から離れない」",
+          "source": "Nishinippon",
+          "trust_score": 7.5
         },
         {
-          "title": "アーサー・ヘイズ、オープンAIやアンソロピックの投資価値を疑問視。AI企業救済でBTC上昇を予測",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
+          "title": "2026年10月20日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
         },
         {
-          "title": "ゼロボード、AI機能「Dr. Zero」の大幅刷新と「Zeroboard Headless」構想を発表",
+          "title": "NHK「あさイチ」出演で大反響！いとうせいこう『日日是植物』",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "マックスマーラ、創業75周年を彩るエキシビション「THE MAX!」を銀座で開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ゼロボード、AI機能「Dr. Zero」の大幅刷新と「Zeroboard Headless」構想を発表",
+          "title": "ACEes深田竜生、振り付けでミラクル起こす 阿部亮平は西畑大吾＆深田のパーソナルな部分に「おもしろかったです」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "エンジニア作家がひとりで出版社を立ち上げた理由とは？「誰かを救える物語を書きたい」星嶺舎代表・浅里紘太インタビュー(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 活用_20261020",
+      "theme": "哲学 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "李大統領がＳＮＳより先に気にかけるべきこと【コラム】(ハンギョレ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "MRTグループのMedikiki提供 クラウド型医療機器管理システム「MMS」 無料提供開始から1年半で導入数２００を突破",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        },
+        {
+          "title": "MRTグループのMedikiki提供 クラウド型医療機器管理システム「MMS」無料提供開始から1年半で導入数200を突破",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "アヴァランチーズが語る、音に宿る記憶とサンプリングの魔法──細野晴臣や池田亮司との共作、「第二の故郷」日本との絆",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アフガニスタンでサツマイモの生産が軌道に 飢饉対策で故中村哲医師が推進(西日本新聞me)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
