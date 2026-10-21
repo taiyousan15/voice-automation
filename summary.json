@@ -1,55 +1,60 @@
 {
-  "generated_at": "2026-10-21T03:20:56.325934",
-  "total_episodes": 2,
+  "generated_at": "2026-10-21T23:57:26.956341",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261021",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261021",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AI時代における新たな成長のためのネットワーク価値の再構築",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI時代における新たな成長のためのネットワーク価値の再構築",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "搬送ロボットが栽培棚を移動、植物工場に「Physical AI」を実装MD-Farmが次世代生産システムを公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP ランキング_20261021",
-      "theme": "MCP ランキング",
+      "name": "episode_skill 活用_20261021",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ソシオネクスト、エージェンティックAIの取り組みを推進、先端大規模SoC物理設計へ拡大",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "NE、AIエージェント時代に向け、ネクストエンジンのアプリストアを利用実績と評価を蓄積するプラットフォームへ再構築",
+          "title": "AIの実践記事メディアAimanaVoがMCPに対応、記事の内容をClaudeやChatGPTから直接使える「Skill」の提供を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Ahrefs、SEO・AI 検索の問題を検出する「サイト監査」を強化。4 億件超のリンクを扱う規模へ",
+          "title": "AIの実践記事メディアAimanaVoがMCPに対応、記事の内容をClaudeやChatGPTから直接使える「Skill」の提供を開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Stockwork、営業が集めた顧客の一次情報を経営・事業の判断に活かすMCP連携を一般提供",
+          "title": "IBM Maximo と保全現場のノウハウが詰まったExcelデータをスマートに統合する「MX Stage」を公開",
           "source": "Infoseek Japan",
           "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20261021",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "デザインシステムをAgent Skillsにしてわかったこと",
+          "source": "Yayoi Company Incorporated",
+          "trust_score": 7.5
         }
       ]
     }
