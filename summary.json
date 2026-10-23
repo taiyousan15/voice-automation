@@ -1,49 +1,274 @@
 {
-  "generated_at": "2026-10-23T03:24:51.438889",
-  "total_episodes": 1,
+  "generated_at": "2026-10-23T23:48:37.079115",
+  "total_episodes": 6,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント おすすめ_20261023",
-      "theme": "エージェント おすすめ",
+      "name": "episode_マーケティング戦略 方法_20261023",
+      "theme": "マーケティング戦略 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "アドビがF1初参入 アルピーヌと提携し2027年からAIファン体験を展開",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【2,970円→0円】最大4人協力ホラーFPS『Sker Ritual』＆ホラーADV『Home』ハロウィンセール中のEpic Gamesストアにて10月29日まで無料配布 - Game*Spark",
-          "source": "Google News",
+          "title": "元日本コカ・コーラ副社長が顧問を務める株式会社ALMOと『人財版令和の虎』主宰・榊原清一が\"CSNSO\"として顧問契約を締結！総再生1億回・月100名応募の「勝てるSNS戦略」を導入！",
+          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "【10/22話題】ソラナのAlpenglowがメインネットβで稼働開始、ネイピアラボがロビンフッドチェーンでNapier AMMローンチなど（音声ニュース）",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
+          "title": "【調査レポート】既存クライアントの70％がメール対応などの日常業務にAIを活用",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "LattePandaがLattePanda Sigma 2を発売：組み込み型AIシングルボードサーバー",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アジア株が急落、原油高とAI投資の不透明感が重荷に",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Mistral「Voxtral 3」公開 音声認識・推論・音声合成を統合、毎分0.04ドルから",
+          "title": "EngageLab、メール送信後の返信対応をAIエージェントで自動化",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "美術展スタッフに扮してスパイ任務に挑む没入型体験イベント『潜入百貨店』10月29日より松屋浅草にて開催。没入型体験レーベル「ヰ空間」の最新作",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "title": "EngageLab、メール送信後の返信対応をAIエージェントで自動化",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "個人投資家向けIRセミナー「湘南投資勉強会」参加のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "個人投資家向けIRセミナー「湘南投資勉強会」参加のお知らせ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "K-Beauty体験型ポップアップ第3弾「ClueMetic Popup in Ebisu」、平日の初日に約1,000名が来場。予約数は6,000名に到達し、4日間で延べ5,000名超の来場見込み",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 方法_20261023",
+      "theme": "エージェント 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日本株の決算を「決算書のまま」全科目で、さらに 308 項目に名寄せ。株価・適時開示まで 1 つの API と MCP で届ける「ZENITH Code」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AAIF、Anthropicから寄贈されたエージェントスキルを傘下に ――OpenAIのOpen Responses、Hugging FaceのOpenEnv、AlibabaのOpenSandboxも",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026年10月23日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ノーベル文学賞を続々輩出しているのはニューヨークの小さな独立出版社(クーリエ・ジャポン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "NVIDIA、AIファクトリーの現地導入を最短14日に DSX PODを2027年初頭に提供へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "PE-BANK特別講座「AI時代のキャリア適性診断／傾向と対策」第1回を開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント ランキング_20261023",
+      "theme": "エージェント ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AIを低遅延実行するための推論エンジン「Liquid RIPL」が登場、検索や決済などの低遅延が重要な場面で役立つ",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "OpenAI、判断処理に特化した「Decisions API」を一般提供 GPT-6 Lunaを基盤に高速化",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "住まい｜@DIME アットダイム",
+          "source": "@dime アットダイム",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【緊急レポート】IDEATECH「AI時代を生き残る経営者へ ―『ゼロクリック率68%』が示す転換点」を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Arent、ドイツ・ミュンヘンで開催される「BIM World MUNICH 2026」への出展およびセミナー登壇のお知らせ",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "NTTドコモ、大規模フロントエンド基盤「LAMP」にKongを採用",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "エクイニクス、グローバルでのイノベーションセンター「EPIC」を開設し、実証実験から本番導入までの移行を加速",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ_20261023",
+      "theme": "思想 おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "令和9年度の和歌山県立高校の募集定員、全日制は6200人で昨年度に続き過去最少(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ルイス・ハミルトン レッドブルF1のPUに脱帽「今年最高のエンジンを作った」",
+          "source": "F1-gate",
+          "trust_score": 7.5
+        },
+        {
+          "title": "中越地震から22年 “全村避難”の山古志地区で追悼の集い「復興した姿を全国に伝えたい」新潟・長岡市(新潟ニュースNST)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ハードオフで“定価340万円”の巨大ジャンク品を購入→家に入れたら…… 二度見する光景に「いや～うらやましい！」「ワクワクするねぇ～」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "究極のHHKB「HHKB Professional Elite」登場、アルミ削り出し筐体 - 33万円で限定300台",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【コラム】新潟だけじゃない！東京京都も有力馬が分散！！",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
+        },
+        {
+          "title": "セリアの商品で作った〝1000円ちょっとのキッチン〟⇒ よく見ると…工夫が凝らされた様子に好感の声「素晴らしすぎる完成度」「真似してもいいですか！？」",
+          "source": "Nishinippon",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_マーケティング戦略 ランキング_20261023",
+      "theme": "マーケティング戦略 ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "10年にわたり成長を続けたアプリを表彰する「App Ape 10-Year Award」で18アプリを選定",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「3ケタ×3ケタ」も間違えていた初期のChatGPT 米IT本社の社員が見た”切り捨てる”ことの強さ(AERA DIGITAL)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "都市ランキングとデータで2040年代を展望する『東京は世界一になれるのか』刊行！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【SMN株式会社】2026年9月度テレビCM放送回数ランキング発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "プロベルの「SEO・LLMO顧問」に月間1億PVのメディアを育てたSEO専門家・中川裕貴氏が就任",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【生成AIに参照される会社の条件】IDEATECH、自社が生成AIに推奨されるまでの取り組みをE-E-A-Tの4つの視点から振り返ったガイドを無料公開！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ライトワークスが「ブランド・マネージャー認定協会」とコンテンツ提携 入門講座を『まなびプレミアム』で無料配信",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261023",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "LLMがついに月面へ、月面ローバー「FLIP」が11月にも打ち上げ",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIの導入・実装を本気で進める企業のための専門展「NexTech Week 2026【秋】第7回 AI・人工知能EXPO」出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIの導入・実装を本気で進める企業のための専門展「NexTech Week 2026【秋】第7回 AI・人工知能EXPO」出展",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Stripe と Anthropic、Claude Duet 内でビジネス運営を支援",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Hi3D V1.0をオープンソース化：実運用で検証されたAI 3Dモデル",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "GMOグローバルサイン・ホールディングス—「GMOサイン」でAIエージェント連携の新オプションを提供開始",
+          "source": "Money Post",
           "trust_score": 7.5
         }
       ]
