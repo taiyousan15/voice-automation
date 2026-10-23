@@ -1,119 +1,49 @@
 {
-  "generated_at": "2026-10-22T23:56:52.720243",
-  "total_episodes": 3,
+  "generated_at": "2026-10-23T03:24:51.438889",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill ランキング_20261022",
-      "theme": "skill ランキング",
+      "name": "episode_エージェント おすすめ_20261023",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「サカつくRTW」，★5選手がレベルMAXの即戦力で登場する「SKILL SELECTION SCOUT」を開催",
-          "source": "4gamer.net",
-          "trust_score": 7.0
-        },
-        {
-          "title": "『プロサッカークラブをつくろう! ロード・トゥ・ワールド』★5選手がレベルMAXの即戦力で登場する “SKILL SELECTION SCOUT” 開催！",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "アドビがF1初参入 アルピーヌと提携し2027年からAIファン体験を展開",
+          "source": "F1-gate",
           "trust_score": 7.5
         },
         {
-          "title": "『プロサッカークラブをつくろう! ロード・トゥ・ワールド』★5選手がレベルMAXの即戦力で登場する “SKILL SELECTION SCOUT” 開催！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 活用_20261022",
-      "theme": "哲学 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "【2,970円→0円】最大4人協力ホラーFPS『Sker Ritual』＆ホラーADV『Home』ハロウィンセール中のEpic Gamesストアにて10月29日まで無料配布 - Game*Spark",
+          "source": "Google News",
+          "trust_score": 8.5
+        },
         {
-          "title": "「もう、人間不信だよ」外国人スタッフが50万円分の商品を持ち逃げ、日本人も現金を…どん底のコンビニ店主が見出した“疑い続けること止めるためのルール”",
-          "source": "Money Post",
+          "title": "【10/22話題】ソラナのAlpenglowがメインネットβで稼働開始、ネイピアラボがロビンフッドチェーンでNapier AMMローンチなど（音声ニュース）",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "LattePandaがLattePanda Sigma 2を発売：組み込み型AIシングルボードサーバー",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "SNK本社の開発現場に潜入。ロビーを改装したモーションキャプチャスタジオや，「新世界楽曲雑技団」のベースなど，歴史と進化を感じるスタジオツアーをレポート",
-          "source": "4gamer.net",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ペットギアブランド TAVO の Kamella が広げる新たな移動の可能性",
-          "source": "Hypebeast. Jp",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ヒューリックの記事一覧",
-          "source": "News Post Seven",
-          "trust_score": 7.0
-        },
-        {
-          "title": "手書き帳票・Excelを、AIで\"信頼できるデータ\"に。ミライのゲンバが登壇する製造DX協会共催セミナーを開催＜12/9・参加無料＞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "手書き帳票・Excelを、AIで\"信頼できるデータ\"に。ミライのゲンバが登壇する製造DX協会共催セミナーを開催＜12/9・参加無料＞",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "2027年、創刊100年を迎える岩波文庫は、一年を通じ記念企画を展開いたします",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_占い ランキング_20261022",
-      "theme": "占い ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "米津玄師の新曲“春が灯り”が「劇場版 薬屋のひとりごと 亡妃の秘宝」主題歌に 予告映像と新アー写も公開 - ニュース",
-          "source": "Mikiki",
-          "trust_score": 7.0
-        },
-        {
-          "title": "日本で「最も住み心地のいい田舎」が決定。北海道の「水道のない街」が4年連続トップの理由",
-          "source": "Lifehacker",
-          "trust_score": 7.5
-        },
-        {
-          "title": "カナコード、CleanSpark株を買い推奨に格上げ―Metaとの契約が評価される",
+          "title": "アジア株が急落、原油高とAI投資の不透明感が重荷に",
           "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "三省堂書店 有楽町店 ビジネス書ランキングで1位獲得！採用コンサルタントの初著『すごい採用』が実書店でも1位に",
+          "title": "Mistral「Voxtral 3」公開 音声認識・推論・音声合成を統合、毎分0.04ドルから",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "アメリカの西半球覇権を阻む「ブラジルに差す中国の影」…カギを握る「依存を抜け出せない」分野(ニューズウィーク日本版)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "三省堂書店 有楽町店 ビジネス書ランキングで1位獲得！採用コンサルタントの初著『すごい採用』が実書店でも1位に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "『ロード・オブ・ザ・リング：力の指輪』シーズン3、日本版本予告＆キービジュアル解禁！",
-          "source": "ライブドアニュース",
+          "title": "美術展スタッフに扮してスパイ任務に挑む没入型体験イベント『潜入百貨店』10月29日より松屋浅草にて開催。没入型体験レーベル「ヰ空間」の最新作",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
           "trust_score": 7.5
         }
       ]
