@@ -1,89 +1,49 @@
 {
-  "generated_at": "2026-10-22T03:19:28.199298",
-  "total_episodes": 3,
+  "generated_at": "2026-10-23T03:24:51.438889",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定_20261022",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 設定",
+      "name": "episode_エージェント おすすめ_20261023",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "搬送ロボットが栽培棚を移動、植物工場に「Physical AI」を実装MD-Farmが次世代生産システムを公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261022",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ソシオネクスト、エージェンティックAIの取り組みを推進、先端大規模SoC物理設計へ拡大",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "NE、AIエージェント時代に向け、ネクストエンジンのアプリストアを利用実績と評価を蓄積するプラットフォームへ再構築",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Ahrefs、SEO・AI 検索の問題を検出する「サイト監査」を強化。4 億件超のリンクを扱う規模へ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 活用_20261022",
-      "theme": "バイブコーディング 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年10月21日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「AIエージェント博 2026 byAI博覧会」 カンファレンス第1弾スピーカーを発表！AIエージェントで「AIを使う」から「業務が変わる」フェーズへ。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「AIエージェント博 2026 byAI博覧会」 カンファレンス第1弾スピーカーを発表！AIエージェントで「AIを使う」から「業務が変わる」フェーズへ。",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "アドビがF1初参入 アルピーヌと提携し2027年からAIファン体験を展開",
+          "source": "F1-gate",
           "trust_score": 7.5
         },
         {
-          "title": "「AIエージェント博 2026 byAI博覧会」 カンファレンス第1弾スピーカーを発表！AIエージェントで「AIを使う」から「業務が変わる」フェーズへ。",
-          "source": "Atpress",
+          "title": "【2,970円→0円】最大4人協力ホラーFPS『Sker Ritual』＆ホラーADV『Home』ハロウィンセール中のEpic Gamesストアにて10月29日まで無料配布 - Game*Spark",
+          "source": "Google News",
           "trust_score": 8.5
         },
         {
-          "title": "Ragate株式会社、定額制テクノロジーアドバイザリーサービスが「AWS認定サービスオファリング」に認定",
+          "title": "【10/22話題】ソラナのAlpenglowがメインネットβで稼働開始、ネイピアラボがロビンフッドチェーンでNapier AMMローンチなど（音声ニュース）",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "LattePandaがLattePanda Sigma 2を発売：組み込み型AIシングルボードサーバー",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "アジア株が急落、原油高とAI投資の不透明感が重荷に",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Mistral「Voxtral 3」公開 音声認識・推論・音声合成を統合、毎分0.04ドルから",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "【エキスパート座談会 #4】AI全盛の世の中でどのように教育を行うべきか",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIエージェントで「ERPの魔改造」復活の懸念 せっかくのクリーンコアが崩壊",
-          "source": "Itmedia",
+          "title": "美術展スタッフに扮してスパイ任務に挑む没入型体験イベント『潜入百貨店』10月29日より松屋浅草にて開催。没入型体験レーベル「ヰ空間」の最新作",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
           "trust_score": 7.5
         }
       ]
