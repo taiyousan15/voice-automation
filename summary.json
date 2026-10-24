@@ -1,30 +1,190 @@
 {
-  "generated_at": "2026-10-24T03:19:03.324236",
-  "total_episodes": 1,
+  "generated_at": "2026-10-24T23:03:28.375689",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20261024",
-      "theme": "skill 活用",
+      "name": "episode_Claude Code おすすめ_20261024",
+      "theme": "Claude Code おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AAIF、Anthropicから寄贈されたエージェントスキルを傘下に ――OpenAIのOpen Responses、Hugging FaceのOpenEnv、AlibabaのOpenSandboxも",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
+          "title": "Google Cloud、AIエージェント向け「Agent Compute Engine」発表 認証情報を実行環境から分離",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "インド北東部マニプール州でトラックドライバーの育成・採用を開始",
+          "title": "「録る」だけで終わらない。ポケットAIレコーダー「RoroLee」、Makuakeで先行販売を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「AIを使える」から「AI案件を動かせる」へ。AI Librarium、AI活用の企画から実装までを推進する人材育成プログラム 「AI Business Producer Program」を提供開始",
+          "title": "[ITmedia ビジネスオンライン] 「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "日本株の決算を「決算書のまま」全科目で、さらに 308 項目に名寄せ。株価・適時開示まで 1 つの API と MCP で届ける「ZENITH Code」を公開",
           "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "2026年10月23日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【RAM RIDER】新企画「なぁゲームをつくろうじゃないか!!」ここに始動！",
+          "source": "4gamer.net",
+          "trust_score": 7.0
+        },
+        {
+          "title": "EngageLab、メール送信後の返信対応をAIエージェントで自動化",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20261024",
+      "theme": "占い 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【2026年最新版】SF小説おすすめ33選。宇宙・AI・タイムトラベルからディストピアまで「SF度」「世界観」「読みやすさ」「衝撃」「想像力が爆発する度」で評価してみた(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「マヌルネコ！マヌルネコ！マヌル！！」しまむらの『マヌルネコまみれタオル』が可愛い！「48匹のマヌル！」「リピ買い決定では？」(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "映画『偏向報道』11月1日からアマゾンで先行独占配信――鳥居みゆき主演、兵庫県知事選が企画の契機",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "100歳以上の高齢者 神奈川県内は5943人で過去最多(tvkニュース（テレビ神奈川）)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "東地区1位のA東京を破った三河…エース西田優大が第4Qに3P量産で快勝",
+          "source": "Basketball King",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ちゃんと知っておきたい「税金の行方」…補正予算のうち148兆円が国債で賄われている衝撃(FRaU)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "プロデューサー磯山晶が、Netflixで“明るいコメディ”に賭ける理由",
+          "source": "Wired.jp",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261024",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦(弁護士ドットコムニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "事務員ゼロの福岡の弁護士が、生成AIと二人三脚で一人事務所を運営する",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "PHP脆弱性への対応をきっかけに、サイバーセキュリティ対策を急ぐ企業へ。Meta Heroes、AIを活用したサイト診断・改修を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Shunkan AI、ウェブサイトのセキュリティ強化とAI活用の両立を支援する法人向け研修の受付を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "[ITmedia エンタープライズ] Salesforceは今も「SaaS」なのか ベニオフCEOが認めた「サービス」の変化",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI戦略のビジネス価値を証明する5つの指標",
+          "source": "Japan 日本",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル おすすめ_20261024",
+      "theme": "スピリチュアル おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "過ちを犯したキリスト教徒が「神に赦された」と感じるまでにどれほどの時間がかかるのか？",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『丹波哲郎の大霊界』4Kデジタルリマスター版特報解禁 村上隆デザインポスターのステッカーが入プレに",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 活用_20261024",
+      "theme": "Claude Code 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "モンゴルの大規模火災 KDDIは子会社社員の行動に法令違反なしと確認",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "シャモンダウイルスの世界的拡大リスクは低い WHOが見解を発表",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "競歩の池田向希、CASが4年間の資格停止処分を取り消し競技復帰が可能に",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ネパールのガンガプルナ西峰に2人の遺体 行方不明になっていた日本人か",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「タイムズカー」不正アクセス 集団訴訟を要請の弁護士がパーク24を提訴へ",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
         }
       ]
     }
