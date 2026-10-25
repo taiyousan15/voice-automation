@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-24T03:19:03.324236",
+  "generated_at": "2026-10-25T03:14:17.325296",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill 活用_20261024",
-      "theme": "skill 活用",
+      "name": "episode_バイブコーディング 活用_20261025",
+      "theme": "バイブコーディング 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AAIF、Anthropicから寄贈されたエージェントスキルを傘下に ――OpenAIのOpen Responses、Hugging FaceのOpenEnv、AlibabaのOpenSandboxも",
-          "source": "Gijutsu Hyohron Company",
+          "title": "【RAM RIDER】新企画「なぁゲームをつくろうじゃないか!!」ここに始動！",
+          "source": "4gamer.net",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦(弁護士ドットコムニュース)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "事務員ゼロの福岡の弁護士が、生成AIと二人三脚で一人事務所を運営する",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "インド北東部マニプール州でトラックドライバーの育成・採用を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「AIを使える」から「AI案件を動かせる」へ。AI Librarium、AI活用の企画から実装までを推進する人材育成プログラム 「AI Business Producer Program」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
         }
       ]
     }
