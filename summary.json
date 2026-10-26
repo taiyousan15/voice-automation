@@ -1,76 +1,61 @@
 {
-  "generated_at": "2026-10-25T23:07:26.890033",
+  "generated_at": "2026-10-26T03:15:18.513729",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_スピリチュアル ランキング_20261025",
-      "theme": "スピリチュアル ランキング",
+      "name": "episode_MCP 比較_20261026",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "介助され謝る夫に「助け合うため結婚したんだよ」、抱き合って泣くより言葉で理解し合い対等な関係で…俳優・東ちづるさん",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "MicrosoftとHugging Face、業務AIの20回全成功タスクを約3倍に 状態検証を強化学習に活用",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Canva独自の画像生成AI「Craft」公開、DesignArenaで初登場4位 APIはプレビュー提供",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Microsoft Research、対話型グラフの操作を意味で記述する「Flint-interactive」を発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     },
     {
-      "name": "episode_思想 活用_20261025",
-      "theme": "思想 活用",
+      "name": "episode_MCP 方法_20261026",
+      "theme": "MCP 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "角田裕毅 2027年F1復帰へキャデラックと接触 ボッタス後任候補に浮上",
-          "source": "F1-gate",
-          "trust_score": 7.5
-        },
+          "title": "Google Cloud、AIエージェント向け「Agent Compute Engine」発表 認証情報を実行環境から分離",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 方法_20261026",
+      "theme": "エージェント 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "久しぶりに口座を開いた38歳女性、放置していた高配当銘柄の利回りに驚く",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「今だから話せる…」夕張市財政破綻で関係者が証言―2027年3月に約353億円の借金完済へ_炭鉱から観光→巨額投資と人口流出で赤字財政へ急転落〈気づいたのは『破綻する3年前か』『市長の功罪』〉北海道(FNNプライムオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Highlandersが「フィジカルAI研究所」を開設---ロボットが京都市長を表敬訪問",
-          "source": "Response",
-          "trust_score": 7.5
-        },
-        {
-          "title": "英国軍のグリーンデニムが原点。岡山・井原の縫製工場が地元織物会社に特注した「緑のデニム」で新作軍パンを発表",
+          "title": "「一品一様」の切削工具メーカー東鋼、匠技研工業と販売提携",
           "source": "Pr Times",
           "trust_score": 8.0
         },
-        {
-          "title": "「今だから話せる…」夕張市財政破綻で関係者が証言―2027年3月に約353億円の借金完済へ＿炭鉱から観光→巨額投資と人口流出で赤字財政へ急転落〈気づいたのは『破綻する3年前か』『市長の功罪』〉北海道",
-          "source": "Fnnプライムオンライン",
-          "trust_score": 7.0
-        },
-        {
-          "title": "このはなアリーナでの静岡vs愛媛が中止に…施設の雨漏り発生、コートコンディションの改善見込めず",
-          "source": "Basketball King",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261025",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
         {
           "title": "Windows 11のコード修正にデザイナーも参加、MicrosoftがAI活用を加速",
           "source": "Mynavi News",
@@ -82,9 +67,9 @@
           "trust_score": 8.0
         },
         {
-          "title": "ヒト型ロボットが2大展示会に続々出展 注目集める中国新興と追い上げる日本勢",
-          "source": "Mynavi News",
-          "trust_score": 7.5
+          "title": "メタはAI「Muse」に性的な会話を許可。人間のアダルトクリエイターからは怒りの声",
+          "source": "Wired.jp",
+          "trust_score": 7.0
         },
         {
           "title": "革新的な企業は、常に「実績のある成長戦略」を問い直している(Forbes JAPAN)",
@@ -92,19 +77,14 @@
           "trust_score": 9.2
         },
         {
+          "title": "605回死亡、27時間の死闘。GoogleのAI 4体でマイクラのラスボスを撃破！",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        },
+        {
           "title": "英FCA、AIが増幅する金融リスクに警鐘 監督にもAIエージェント活用",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
-        {
-          "title": "Microsoft 365の2,250超テナントに攻撃試行 AI「ARTEX」でConnectWise認証情報を悪用",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Mellow、ALLESとのコラボ楽曲「口だけ / All Talk」を10月25日（日）18時にYouTubeでプレミア配信",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
         }
       ]
     }
