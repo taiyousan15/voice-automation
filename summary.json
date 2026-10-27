@@ -1,90 +1,65 @@
 {
-  "generated_at": "2026-10-26T03:15:18.513729",
-  "total_episodes": 3,
+  "generated_at": "2026-10-27T00:18:36.708221",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20261026",
-      "theme": "MCP 比較",
+      "name": "episode_skill 方法_20261027",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "MicrosoftとHugging Face、業務AIの20回全成功タスクを約3倍に 状態検証を強化学習に活用",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Canva独自の画像生成AI「Craft」公開、DesignArenaで初登場4位 APIはプレビュー提供",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Microsoft Research、対話型グラフの操作を意味で記述する「Flint-interactive」を発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "株式会社PLAY、「AI Engineering Summit Tokyo 2026」に協賛、当社テックリードが登壇",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP 方法_20261026",
-      "theme": "MCP 方法",
+      "name": "episode_哲学 活用_20261027",
+      "theme": "哲学 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Google Cloud、AIエージェント向け「Agent Compute Engine」発表 認証情報を実行環境から分離",
+          "title": "近畿大学が学生ポータルアプリのAI機能実証実験を開始 「学生支援窓口の24時間オンライン化」を推進",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 方法_20261026",
-      "theme": "エージェント 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「一品一様」の切削工具メーカー東鋼、匠技研工業と販売提携",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "trust_score": 7.5
         },
         {
-          "title": "Windows 11のコード修正にデザイナーも参加、MicrosoftがAI活用を加速",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "面接で一番聞かれるのは「志望動機」、2番目は「ガクチカ」 就活生が実際に受けた面接66件の質問を集計【就活の名人エージェント調べ】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "メタはAI「Muse」に性的な会話を許可。人間のアダルトクリエイターからは怒りの声",
-          "source": "Wired.jp",
-          "trust_score": 7.0
-        },
-        {
-          "title": "革新的な企業は、常に「実績のある成長戦略」を問い直している(Forbes JAPAN)",
+          "title": "【ショベルヘッド再生記14】まさかの上がりバイクか？ ハーレーダビッドソンFXSローライダー「バッテリーケース周辺補修から、前ブレーキ整備まで。まさかの異常現象発生！」(モーサイ)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "605回死亡、27時間の死闘。GoogleのAI 4体でマイクラのラスボスを撃破！",
-          "source": "Gizmodo",
-          "trust_score": 7.0
+          "title": "築40年超の石川県消防学校はどこへ 移転先候補に白山市が名乗りで白熱する金沢市との誘致合戦(MRO北陸放送)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "英FCA、AIが増幅する金融リスクに警鐘 監督にもAIエージェント活用",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "ピレネーの麓、34のグランプリを刻んだ坂｜Musée du Circuit du Comminges",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ピレネーの麓、34のグランプリを刻んだ坂｜Musée du Circuit du Comminges(octane.jp)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「ホンダ ドリーム ファクトリー」出現、プレリュードやシビックを体験展示…パリモーターショー2026",
+          "source": "Response",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「ホンダ ドリーム ファクトリー」出現、プレリュードやシビックを体験展示…パリモーターショー2026(レスポンス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
