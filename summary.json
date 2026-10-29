@@ -1,25 +1,195 @@
 {
-  "generated_at": "2026-10-28T04:00:55.888685",
-  "total_episodes": 1,
+  "generated_at": "2026-10-29T00:42:34.976705",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方_20261028",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
+      "name": "episode_Claude Code 比較_20261029",
+      "theme": "Claude Code 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "CEOがコスト削減よりもイノベーターを優先すべき理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
+          "title": "YouTubeのレビュー動画は製品の故障や耐久性に触れる割合が約半分、実際の購入者の声と比較した結果",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "エイクエント、AI活用実態調査レポート「The Builder's Mindset」を公開 ～生成AIを生産性向上につなげる「ビルダー思考」人材の台頭～",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "VS Codeの新規セッションで「ハーネス」がデフォルトに 複数AIモデルを競わせる新機能も",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Anthropic、単一AIエージェントへの統合指針を公開 品質・速度・コストを評価",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ムーンショットAI、「Kimi K3.1 Pro」提供開始。コーディング評価でClaude Opus 5.5に迫る",
+          "source": "New Economy Japan",
           "trust_score": 9.7
         },
         {
-          "title": "インフォマート、26年12月期大幅増収増益予想、BtoB利用企業130万社突破で収益拡大",
+          "title": "Uravation、「業種別 AI検索引用率」実測 第1弾を公表。研修会社を探す20問を4つのAI検索で240回測定、引用元の70%は研修会社の自社サイト、比較メディアは17%",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Uravation、「業種別 AI検索引用率」実測 第1弾を公表。研修会社を探す20問を4つのAI検索で240回測定、引用元の70%は研修会社の自社サイト、比較メディアは17%",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20261029",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "オラクル、Fusion Clawを搭載した人事向けのFusion Agentic Applicationsを発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20261029",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【ランコム】HOLIDAY COLLECTION 2026 「ビューティー ボックス」発売日決定のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ランコム】HOLIDAY COLLECTION 2026 「ビューティー ボックス」発売日決定のお知らせ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "COTEN、「ポスト資本主義的経営の実践」に向けた調査を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "自己啓発本はなぜ売れるのに嫌われるのか？ 1000冊読んだ大学教授が明かす「日本人が誤解している本当の価値」",
+          "source": "Jbpress (ジェイビープレス) ｜ リアルな知性で世界に勝つ",
+          "trust_score": 8.5
+        },
+        {
+          "title": "毎日750万人が使うSetlogは、なぜ若者の日常になったのか。創業者が語るプロダクトへのこだわり【後半】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "SOYEONが語る、2000年代韓国バンド音楽へのオマージュと創作の自由 i-dleのヒットメーカーが辿り着いた現在地",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "世界初、AIで人工衛星の表面帯電を自動検出する手法を開発",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_スピリチュアル 活用_20261029",
+      "theme": "スピリチュアル 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "浅草に期間限定の「東京力車 占い処」がオープン！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "浅草に期間限定の「東京力車 占い処」がオープン！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "浅草に期間限定の「東京力車 占い処」がオープン 日本人観光客から訪日外国人まで楽しめる、新しい浅草観光体験を提供！",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
+        },
+        {
+          "title": "浅草に期間限定の「東京力車 占い処」がオープン 日本人観光客から訪日外国人まで楽しめる、新しい浅草観光体験を提供！",
+          "source": "Atpress",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【11月12日(木)19:00～・渋谷】来期の事業成長を支える「複業CxO」と経営者が集結！即戦力人材との協業を目指すビジネス交流会を開催！！",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【11月12日(木)19:00～・渋谷】来期の事業成長を支える「複業CxO」と経営者が集結！即戦力人材との協業を目指すビジネス交流会を開催！！",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_占い 活用_20261029",
+      "theme": "占い 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日立が第2四半期決算を発表、通期売上12兆円へ上方修正 - Hitachi Digitalで海外IT事業の成長加速へ",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "InkleがAIスタートアップFinally（経営終了）の記帳部門を買収",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "横瀬のキャンプ場でバリアフリー交流企画 カリンバ体験や木工品も(みんなの経済新聞ネットワーク)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ロボット犬が殺人事件の容疑者逮捕に貢献…集合住宅をパトロールして住民と交流する姿にネット注目（海外）(ニューズウィーク日本版)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "中学受験の感染症対策「小6秋」から開始が約半数",
+          "source": "リセマム",
+          "trust_score": 7.5
+        },
+        {
+          "title": "2026年、流行したと思う推し活関連グッズは「目印マスコット」！タイトーが“いい推しの日”に向けアンケート調査",
+          "source": "アニメ！アニメ！",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【カキ、ムール貝、アサリ】実は美容と栄養の宝庫：鉄、亜鉛、ヨウ素、ビタミンB12が豊富！最新研究(ヨガジャーナルオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
