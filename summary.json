@@ -1,115 +1,190 @@
 {
-  "generated_at": "2026-10-29T04:24:41.942100",
-  "total_episodes": 3,
+  "generated_at": "2026-10-30T00:42:56.256266",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261029",
-      "theme": "エージェント 活用",
+      "name": "episode_MCP おすすめ 理由_20261030",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "SpaceXの400億ドルGPUリースは信用格付けに影響なし――フィッチ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "2026年10月29日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "Amazon.com、新型Echo Show 16などスマートホーム製品を大幅拡充",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "スターテイル、CB Insightsの 2026 Fintech 100に選出",
+          "title": "AI Samurai、特許公報から解説動画を自動生成する新サービス「観る特許」を開発",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "登山の計画、AIにどこまで頼っていい？ 少年の救助事例から考える",
-          "source": "Gizmodo",
+          "title": "AI Samurai、特許公報から解説動画を自動生成する新サービス「観る特許」を開発",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "マネーツリー、金融データをAIアシスタントとつなぐ「Moneytree MCP」がClaudeに対応",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "推しキャラが机の上に! ソニーの“小型空間再現ディスプレイ”見てきた(AV Watch)",
+          "title": "マネーツリー、金融データをAIアシスタントとつなぐ「Moneytree MCP」がClaudeに対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Uravation、生成AIパスポートの無料問題集を新シラバス対応の300問に拡充。2027年2月試験から「AIエージェント」が独立した章になる5章に沿い、本番形式60問や章別で解けて全問に解説つき",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Uravation、生成AIパスポートの無料問題集を新シラバス対応の300問に拡充。2027年2月試験から「AIエージェント」が独立した章になる5章に沿い、本番形式60問や章別で解けて全問に解説つき",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_セールスライティング 方法_20261030",
+      "theme": "セールスライティング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【Adobe Firefly】生成AIで変わる制作フローの基本と活用ポイントを解説！11/12（木）・19（木）セミナー「はじめて学ぶFireflyとPhotoshop連携」のアーカイブを無料配信!!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 方法_20261030",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "浜岡原発1、2号機廃炉工事で請負会社に2億円以上多く支払い データ書き換えで請求額上振れか 2024年度の36件の工事のうち16件で書き換え=愛知・名古屋市(静岡放送（SBS）)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "HitPaw VikPea V6.0.0リリース！動画高画質化を自動化できるAIエージェントが実装",
+          "title": "長谷川京子が手がけるESS BYが伊勢丹新宿店でポップアップを開催！ 2026年秋冬の新作＆初のホームアクセサリーも(SPUR)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "世界文化賞受賞のダニエル・リベスキンドさんが講演会 建築は「変革をもたらす」(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "インド特権階級も信頼＆絶賛≪異次元の的中力≫ウパニシャッド真理占が「本格占い｜みのり」で提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【無料・オンライン80％+通学20％】「IT基礎・AI活用Web/SNSマーケ（オンライン）科」（1月開講/3か月コース）の受講生を募集",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "「キャラメル」創業者が語る「ザラ」コラボ第2弾 子どもが“自分らしく”いられるワードローブを(WWDJAPAN.com)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「キャラメル」創業者が語る「ザラ」コラボ第2弾 子どもが“自分らしく”いられるワードローブを",
+          "source": "Wwd Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "ショートドラマの人気が意味するもの【寄稿】(ハンギョレ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ_20261029",
-      "theme": "エージェント おすすめ",
+      "name": "episode_占い ランキング_20261030",
+      "theme": "占い ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「LINEカレンダー」アプリが登場！トークで調整した予定の一元管理が可能に",
-          "source": "@dime アットダイム",
+          "title": "有機ELテレビはREGZAの新製品「48X770S」「55X770S」がベスト5入り＜ビジュアル＆関連製品売れ筋ランキング9月＞",
+          "source": "Phile Web",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【LIPS labo】サプリメントを始めるきっかけは「肌荒れ・美容の悩み」！美容好きのインナーケア事情",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【LIPS labo】サプリメントを始めるきっかけは「肌荒れ・美容の悩み」！美容好きのインナーケア事情",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "2026年10月30日の運勢ランキング「おひつじ座～うお座」 マリィ・プリマヴェラの【毎日ひとこと占い】",
+          "source": "All Abou",
+          "trust_score": 6.5
+        },
+        {
+          "title": "今日の運勢 10月30日（金）「12星座占いランキング」第1位は魚座（うお座）！ あなたの星座は何位？",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "販売台数は伸びているが…。米国の「セダン回帰」は本当？ 販売増の“ネガティブな要因”とは(carview！)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "関西・駅別中古マンション相場上昇率ランキングを発表！上位は１年間で40％超の上昇(2025年実績)",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ_20261029",
-      "theme": "MCP おすすめ",
+      "name": "episode_MCP 活用_20261030",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "DPro、公式YouTube「AIマーケティングTV」を開設。広告・SNS・LPの現場とAI活用を実演で届ける",
-          "source": "Pr Times",
+          "title": "IBM、AIエージェントを「作る」から「企業で使う」へ - TechXchange 2026で示した実装の壁",
+          "source": "Mynavi News",
           "trust_score": 8.0
         },
         {
-          "title": "DPro、公式YouTube「AIマーケティングTV」を開設。広告・SNS・LPの現場とAI活用を実演で届ける",
+          "title": "eムック 『宇宙開発・新局面 月・火星、その先へ』特集号",
+          "source": "Ascii",
+          "trust_score": 7.0
+        },
+        {
+          "title": "コクヨ、NotionとClaudeを連携した「AI駆動開発」を推進",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "企業内検索システム「Neuron ES」、利用者の口コミ評価により「BOXIL REVIEW AWARD Autumn 2026」対話型AIサービスカテゴリ別No.1を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "企業内検索システム「Neuron ES」、利用者の口コミ評価により「BOXIL REVIEW AWARD Autumn 2026」対話型AIサービスカテゴリ別No.1を受賞",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起 エージェントが攻撃者の指示に従いマルウェアインストールの恐れ",
-          "source": "Itmedia",
           "trust_score": 7.5
-        },
-        {
-          "title": "Neeyamo、Everest Groupの2026年マルチカントリー給与計算PEAK Matrix(R)評価でリーダーおよびスターパフォーマーに認定",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.0
-        },
-        {
-          "title": "supa.ai、KomeKaigi 2026 にゴールドスポンサーとして協賛",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Neeyamo、Everest Groupの2026年マルチカントリー給与計算PEAK Matrix®評価でリーダーおよびスターパフォーマーに認定",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ハートランド・データ、要件管理/ALMツール「Jama Connect」について米Jama Software社と代理店契約を締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     }
