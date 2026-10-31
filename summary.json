@@ -1,101 +1,11 @@
 {
-  "generated_at": "2026-10-31T00:36:03.444545",
-  "total_episodes": 5,
+  "generated_at": "2026-10-31T04:04:44.628687",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 比較_20261031",
-      "theme": "占い 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【2026年11月】Amazonプライムビデオ配信予定一覧｜マッド・マックス・地雷グリコ・力の指輪ほか",
-          "source": "Rakuama Blog",
-          "trust_score": 7.0
-        },
-        {
-          "title": "鈴木彩艶を現地メディアが絶賛「いわばアストン・ヴィラのエデルソン」…CLではGKトップのスタッツも",
-          "source": "サッカーキング",
-          "trust_score": 7.0
-        },
-        {
-          "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "系統用蓄電池コンテナ、GSユアサとCONNEXX SYSTEMSは何が違うのか――国内メーカー徹底比較ウェビナーを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "系統用蓄電池コンテナ、GSユアサとCONNEXX SYSTEMSは何が違うのか――国内メーカー徹底比較ウェビナーを開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【マルキンアド・アイコネクト共同調査】食品企業の40.4％が「サイトを別々に考えたこと」を後悔--企業ブランドと商品ブランドをつなぐWebサイト設計の重要性が明らかに",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "｢国産哨戒機40機の2､3割しか任務に就けない｣防衛予算は増えても部品が足りない､自衛隊の\"共食い整備\"の惨状(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20261031",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【新サービス】Ragate株式会社、AI導入オールインワンツール「AX STUDIO」の先行提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "締結済みの契約書情報をChatGPTやCopilotから活用可能に！法務オートメーション「OLGA」のMCP対応を拡大",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "IBM、AIエージェントを「作る」から「企業で使う」へ - TechXchange 2026で示した実装の壁",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI Samurai、特許公報から解説動画を自動生成する新サービス「観る特許」を開発",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI Samurai、特許公報から解説動画を自動生成する新サービス「観る特許」を開発",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "企業内検索システム「Neuron ES」、利用者の口コミ評価により「BOXIL REVIEW AWARD Autumn 2026」対話型AIサービスカテゴリ別No.1を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026_20261031",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 始め方_20261031",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 始め方",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -109,92 +19,107 @@
       ]
     },
     {
-      "name": "episode_エージェント 方法_20261031",
-      "theme": "エージェント 方法",
+      "name": "episode_エージェント おすすめ_20261031",
+      "theme": "エージェント おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "「バイオハザード レクイエム」30%オフで6,293円！ もうすぐ終了のセール情報まとめ【10月31日更新】「ウルトラ怪獣モンスターファーム」や「モンハンライズ・サンブレイク」のセットも割引",
+          "source": "Game Watch",
+          "trust_score": 7.0
+        },
+        {
+          "title": "BAPE(R) × atmos",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中国が「輸出禁止・制限技術目録」に23項目追加、AI技術の輸出管理を強化する狙い 米中による「AI技術の囲い込み」が他国に及ぼす甚大なリスクとは",
+          "source": "Money Post",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Step Functions のワークフローを AgentCore Gateway 経由で AI エージェントのツールにしてみた【コンソールで検証】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
         {
           "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話",
           "source": "Togetter [トゥギャッター]",
           "trust_score": 7.0
         },
         {
-          "title": "勝ち残るAI感ましましのMeta。企業の利用規約改定でAIフィードましまし",
-          "source": "Gizmodo",
-          "trust_score": 7.0
-        },
-        {
-          "title": "2026年10月30日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "ブラピ『ワンハリ』クリフ・ブース再び、予告編が公開 ─ タランティーノ脚本×フィンチャー監督、IMAX限定上映へ",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         },
         {
-          "title": "中野雅之×小林祐介×原口沙輔が語る、大量消費の時代に音楽と“出会う”ことの意義 「人類にとって大きな転換点に差し掛かっている」",
-          "source": "Real Sound｜リアルサウンド",
-          "trust_score": 7.5
-        },
-        {
-          "title": "複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "開発業者Charles S. Cohen、ウェスト・パーム・ビーチ最新のオフィスタワー「ウェスト・パーム・ポイント」の建設資金全額の調達を完了",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "アクセンチュアがOpenAIのセキュリティー基盤導入を支援、中堅企業も照準",
-          "source": "日経クロステック（xtech）",
+          "title": "ChatGPT有料プランの利用枠が2倍に、Claudeモバイルも機能を更新",
+          "source": "ライブドアニュース",
           "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20261031",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_エージェント ランキング_20261031",
+      "theme": "エージェント ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「服を裏返しに着た経験者」必見！完璧な生徒会長→スカート裏表逆で絶句(ウォーカープラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "Vue.jsとは？できることや特徴、JavaScript・jQueryとの違い、学習方法まで初心者向けに解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
         },
         {
-          "title": "NHK朝ドラ「ブラッサム」黒崎編集長（遠藤憲一）、珠（石橋静河）の才能感じ取っていた「無邪気に心をえぐりに来る瞬間…ゾッとしたよ」",
-          "source": "Sanspo",
+          "title": "[ITmedia ビジネスオンライン] なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+          "source": "Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "『11月1日は本格焼酎＆泡盛の日』記念イベントを開催。山之内すずさんが土井光さん考案のおつまみと本格焼酎・泡盛のペアリングを体験。「レバーと麦焼酎がぴったり合いますね。口の中が幸せです…！(笑)」",
+          "title": "Webエンジニアの職務経歴書を【面接官に刺さる】内容にして転職を確実に決めよう！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "大手企業の27％は従業員1人当たり月額5千円以上をAIに支出、調査レポート「DX・AX未来サーベイ2027-2029」発刊",
           "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ウクライナ南部オレシュキへの人道支援ルートで地雷除去が完了",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "新卒の3年以内離職率、最も高い業界は55.4%、最も低い業界は12.4% 厚生労働省データで17業界をランキング化【就活の名人マガジン】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20261031",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "業務知識の構造化と既存ロジックの再現、NTTデータグループが基幹業務AIで直面した課題",
+          "source": "Mynavi News",
           "trust_score": 8.5
-        },
-        {
-          "title": "「もっと大変な人はいるのよ」親に感情を否定された子の末路…親を支えた“良い子”ほど大人になっても苦しむ理由(with online)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "動詞から始まるものづくり 気鋭ブランド「コユー」が模索する“知覚するための服“",
-          "source": "Fashion Snap",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「自分は変なんじゃないか」ずっと抱えていたコンプレックス。シンガーソングライターiriが初エッセイ『相反』に込めた思い【インタビュー】(ダ・ヴィンチWeb)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "動詞から始まるものづくり 気鋭ブランド「コユー」が模索する“知覚するための服“(FASHIONSNAP)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     }
