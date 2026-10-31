@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-10-30T04:24:32.649210",
-  "total_episodes": 0,
+  "generated_at": "2026-10-31T04:04:44.628687",
+  "total_episodes": 4,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 始め方_20261031",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 始め方",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "脆弱性「検知」から「修正PR作成」までを自動化 AIセキュリティソリューション「cuonology security」提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ_20261031",
+      "theme": "エージェント おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「バイオハザード レクイエム」30%オフで6,293円！ もうすぐ終了のセール情報まとめ【10月31日更新】「ウルトラ怪獣モンスターファーム」や「モンハンライズ・サンブレイク」のセットも割引",
+          "source": "Game Watch",
+          "trust_score": 7.0
+        },
+        {
+          "title": "BAPE(R) × atmos",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中国が「輸出禁止・制限技術目録」に23項目追加、AI技術の輸出管理を強化する狙い 米中による「AI技術の囲い込み」が他国に及ぼす甚大なリスクとは",
+          "source": "Money Post",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Step Functions のワークフローを AgentCore Gateway 経由で AI エージェントのツールにしてみた【コンソールで検証】",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「電話越しにフロントスタッフを突破するのは私の今後の課題にしておきます！」自律型AIに年末年始のホテルについて質問したら勝手に電話をしてしまった話",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ブラピ『ワンハリ』クリフ・ブース再び、予告編が公開 ─ タランティーノ脚本×フィンチャー監督、IMAX限定上映へ",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ChatGPT有料プランの利用枠が2倍に、Claudeモバイルも機能を更新",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント ランキング_20261031",
+      "theme": "エージェント ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Vue.jsとは？できることや特徴、JavaScript・jQueryとの違い、学習方法まで初心者向けに解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] なぜ「半導体の供給はデータセンター優先」に見えるのか AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Webエンジニアの職務経歴書を【面接官に刺さる】内容にして転職を確実に決めよう！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "大手企業の27％は従業員1人当たり月額5千円以上をAIに支出、調査レポート「DX・AX未来サーベイ2027-2029」発刊",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "顧客の声を聞け、AI活用度による技術者評価の弊害をAmazonが公式に認める",
+          "source": "日経クロステック（xtech）",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ウクライナ南部オレシュキへの人道支援ルートで地雷除去が完了",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "新卒の3年以内離職率、最も高い業界は55.4%、最も低い業界は12.4% 厚生労働省データで17業界をランキング化【就活の名人マガジン】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ 理由_20261031",
+      "theme": "skill おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "業務知識の構造化と既存ロジックの再現、NTTデータグループが基幹業務AIで直面した課題",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        }
+      ]
+    }
+  ]
 }
