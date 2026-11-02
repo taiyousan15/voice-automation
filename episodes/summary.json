@@ -1,16 +1,86 @@
 {
-  "generated_at": "2026-11-01T04:27:23.391509",
-  "total_episodes": 1,
+  "generated_at": "2026-11-02T04:28:39.842718",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261101",
-      "theme": "MCP 方法",
+      "name": "episode_MCP ランキング_20261102",
+      "theme": "MCP ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "イラン高官が再攻撃を受けた場合、核兵器を禁じる基本方針の変更に言及",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "一般社団法人日本ポーカー振興協議会（PPCJ） 「アミューズメントポーカー店舗運用ガイドライン」の策定・公表について",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261102",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI事業の立ち上げからM&Aまで伴走する事業参画支援を開始｜AITECH×JP-FORCE Holdings協業のお知らせ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Forex Robotics、サーバ向け脆弱性対策ツール「kevward」をOSS公開 ― AIエージェントと共につくる防御",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "CNO フィナンシャル、2026年第3四半期決算が予想を上回り見通しを引き上げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "メーカーズシャツ鎌倉の店長が語る、数字には表れない「ニーズ」をすくい取る技術",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "タイラー・テクノロジーズ、2026年第3四半期決算でEPSが予想を上回る",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "企業規模に「こだわりなし」の就活生は57%、大手とその子会社だけを考える学生は18% 初任給の希望は「23～26万円」が最多【就活の名人調査】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "＠PRO人（アットプロジン）の評判は？怪しい噂の真相と他のIT転職エージェント7社との違い",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261102",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「未来」の現在：「永遠の化学物質」は消せるか？ PFAS除去の進捗",
+          "source": "Ascii",
+          "trust_score": 7.5
+        },
         {
           "title": "退職代行の前にやるべきこと、責任感が強いからこそ、後任への対応は丁寧にしたい。そんな想いが作らせた、引き継ぎツール「BATON」サービス開始します。",
           "source": "Pr Times",
@@ -20,21 +90,46 @@
           "title": "退職代行の前にやるべきこと、責任感が強いからこそ、後任への対応は丁寧にしたい。そんな想いが作らせた、引き継ぎツール「BATON」サービス開始します。",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 比較_20261102",
+      "theme": "エージェント 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "編集部が厳選、今週の必読記事8選：2026年10月24日〜10月30日公開(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新",
-          "source": "Gijutsu Hyohron Company",
+          "title": "ゲーム業界、2026年上半期の転職で需要増えたのは、「AI系」と「プランナー」「UI・背景・エフェクトデザイナー」。30代前半の転職も多い。専門エージェントに訊いた",
+          "source": "Automaton",
+          "trust_score": 7.0
+        },
+        {
+          "title": "2011年以降竣工の中古マンションでは、約7割が「省エネ基準を満たし住宅ローン控除拡大の可能性が高い」と判定。住まいコンパスによる省エネ基準適合住宅に関する初の大規模実態調査",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "AI検索対策SaaS「Brand UP」MCPサーバーを公開。ChatGPT、Claude・Microsoft Copilotとの連携に対応。計測データをもとにした施策の実行が可能に",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "生命保険加入者4,176人をクロス分析、加入後の低評価は「保険料」が最多｜他社比較なし層で低評価割合が高い傾向",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "締結済みの契約書情報をChatGPTやCopilotから活用可能に！法務オートメーション「OLGA」のMCP対応を拡大",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "【先着3社 限定無料】「AIレビュー顧問」に新プラン『健康診断』を追加。AIで作ったシステムや既存アプリのセキュリティ相談が可能",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【愛知県102店舗目】マシンピラティスやスタジオレッスンなど女性に嬉しいサービスが充実！「キレイになりたい」「リフレッシュしたい」が通うきっかけになる FIT-EASY木曽川西店がプレオープンしました",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
