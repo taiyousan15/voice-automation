@@ -1,16 +1,26 @@
 {
-  "generated_at": "2026-11-01T04:27:23.391509",
-  "total_episodes": 1,
+  "generated_at": "2026-11-02T00:28:43.568032",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 方法_20261101",
-      "theme": "MCP 方法",
+      "name": "episode_MCP おすすめ 理由_20261102",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "イラン高官が再攻撃を受けた場合、核兵器を禁じる基本方針の変更に言及",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "退職代行の前にやるべきこと、責任感が強いからこそ、後任への対応は丁寧にしたい。そんな想いが作らせた、引き継ぎツール「BATON」サービス開始します。",
           "source": "Pr Times",
@@ -20,21 +30,141 @@
           "title": "退職代行の前にやるべきこと、責任感が強いからこそ、後任への対応は丁寧にしたい。そんな想いが作らせた、引き継ぎツール「BATON」サービス開始します。",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 ランキング_20261102",
+      "theme": "哲学 ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "GitHub、AIモデルを自動選択・連携するCopilot Fusionを一般提供、資料とエージェントの作業をまとめるCopilot Projectsをパブリックプレビューに ——GitHub Universe 2026で自動化・コードレビュー・セキュリティも更新",
-          "source": "Gijutsu Hyohron Company",
+          "title": "バッテリィズ・寺家、地元・三重で完全にスーパースターと化す 「催事に来賓で呼ばれ“しゃべりなし”もある」【マルコポロリ！】",
+          "source": "みよか −関西のええとこ、知って”みよか",
           "trust_score": 7.5
         },
         {
-          "title": "AI検索対策SaaS「Brand UP」MCPサーバーを公開。ChatGPT、Claude・Microsoft Copilotとの連携に対応。計測データをもとにした施策の実行が可能に",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "日本が戦うU21スペイン代表の強さに迫る、五輪２連覇目指し欧州選手権予選で最多得点記録樹立",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
         },
         {
-          "title": "締結済みの契約書情報をChatGPTやCopilotから活用可能に！法務オートメーション「OLGA」のMCP対応を拡大",
+          "title": "普段使いもできるガチ装備なアウトドアリュック5選【カバン＆リュック大賞】",
           "source": "Infoseek Japan",
           "trust_score": 9.2
+        },
+        {
+          "title": "開運占い｜シークエンスはやともが占う、あなたの運勢と開運。公式占いサイト「シークエンスはやともの占い」にて『酉の市開運キャンペーン』を実施中",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "経団連常務理事・岩崎一雄の【 書評 】『ヒトとAI』",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "『サ道』『コップのフチ子』のタナカカツキが綴る新刊エッセイ『君は朝を見たか』本日発売！カラダの感覚を頼りに過ごす「ご機嫌への道筋」",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "びっくりさせるだけじゃない！心をえぐるシナリオが楽しめるホラーゲーム5選",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20261102",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Android Studioが40種類超のAIエージェントに対応、Google Playは2027年に折りたたみ対応を重視へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 比較_20261102",
+      "theme": "Claude Code 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【先着3社 限定無料】「AIレビュー顧問」に新プラン『健康診断』を追加。AIで作ったシステムや既存アプリのセキュリティ相談が可能",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "名古屋をAIで盛り上げる。名古屋大学出身の2人が立ち上げたCentral AX、「ファクトリーイノベーションWeek［名古屋］2026」に出展",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【AIクローンゲーム問題】Anthropicの『Claude Code』開発者「AIに特定のゲームを再現しないよう指示した。知的財産の侵害に使われるのはポリシーに反する」",
+          "source": "Esuteru Japanese Gaming Blog",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ_20261102",
+      "theme": "エージェント おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "疑っても止まれない。AIの「都合のいい思考」を読んでみよう",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "CNO フィナンシャル、2026年第3四半期決算が予想を上回り見通しを引き上げ",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "メーカーズシャツ鎌倉の店長が語る、数字には表れない「ニーズ」をすくい取る技術",
+          "source": "Fashion Snap",
+          "trust_score": 9.7
+        },
+        {
+          "title": "タイラー・テクノロジーズ、2026年第3四半期決算でEPSが予想を上回る",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "堀田真由が大手芸能事務所、アミューズ独立後初の公の場",
+          "source": "Sanspo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "企業規模に「こだわりなし」の就活生は57%、大手とその子会社だけを考える学生は18% 初任給の希望は「23～26万円」が最多【就活の名人調査】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "堀田真由、独立発表から一夜明け、東京国際映画祭舞台あいさつに登壇し初の公の場",
+          "source": "Nikkan Sports",
+          "trust_score": 7.5
         }
       ]
     }
