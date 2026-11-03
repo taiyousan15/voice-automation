@@ -1,16 +1,31 @@
 {
-  "generated_at": "2026-11-03T02:51:14.302766",
+  "generated_at": "2026-11-03T05:23:21.296444",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20261103",
-      "theme": "MCP 比較",
+      "name": "episode_エージェント 比較_20261103",
+      "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "Penguin Solutions、次世代AIデータセンター向けの高帯域幅 SMART Modular MRDIMMを発表",
+          "source": "Businesswire",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Penguin Solutions、次世代AIデータセンター向けの高帯域幅 SMART Modular MRDIMMを発表",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "ChatGPTやClaudeなど、いつものAIに「作って」と頼むだけで3D動画が完成。月額契約不要・カード不要で始められる「JANCTION Render」、商用展開を開始",
           "source": "Pr Times",
@@ -22,59 +37,29 @@
           "trust_score": 7.5
         },
         {
-          "title": "あなたのお店、ChatGPT にどう紹介されていますか？-移転前の住所や違う値段で案内され、低評価レビューに悩む店も。飲食店向けにも使える無料『AI映え診断 (Light)』を開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "元Samsung副社長が率いるBOSの勝算 Tenstorrent製NPUとオープン規格で挑む車載AI「Eagle-N」",
-          "source": "Ascii",
+          "title": "【2026年10月版】カメラ・レンズ取引ランキングTOP10を発表 GR IIIxが首位、TOP10の半数がコンデジに",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "コミクス、AIの接続先と権限を棚卸しする経営者向け実践教材を制作",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "不動産ビジネスの次の舞台を、世界へ。第19期国際不動産カレッジ、資格・実務・AI・英語・交流を一体化した総合教育を拡充",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP おすすめ 理由_20261103",
-      "theme": "MCP おすすめ 理由",
+      "name": "episode_バイブコーディング おすすめ_20261103",
+      "theme": "バイブコーディング おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "セキュリティ担当者にすすめたい、分野を越えた学び～Internet Week 2026の歩き方",
-          "source": "Japan Network Information Center Blog",
+          "title": "外注に頼らず「現場の知識」で業務アプリは作れる──AIツール4種の長所と短所 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
           "trust_score": 9.7
-        },
-        {
-          "title": "【ナビ個別指導学院】11月1日より「入会金0円」キャンペーン！冬の先取りで成績アップ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "第三十八回伊藤園お～いお茶新俳句大賞 国内最大級の創作俳句コンテスト 11月3日(火・祝)より作品募集開始！新審査員に林家たい平氏、星野高士氏を迎え、多様な作品を選出します",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Copilotと工程がつながる。Kencopa工程AIエージェント、お使いのAIから工程進捗の集計、操作ができる公式MCPサーバーを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "IBM iのプログラム資産を日本語で検索・分析できる「SS/TOOL-ADV for AI」を発売",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
         }
       ]
     }
