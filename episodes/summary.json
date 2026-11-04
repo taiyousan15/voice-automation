@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T05:23:21.296444",
+  "generated_at": "2026-11-04T04:52:25.225604",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 比較_20261103",
+      "name": "episode_エージェント 比較_20261104",
       "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
@@ -12,54 +12,59 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "Penguin Solutions、次世代AIデータセンター向けの高帯域幅 SMART Modular MRDIMMを発表",
-          "source": "Businesswire",
+          "title": "Shopifyが2026年第3四半期決算で予想を上回る利益を計上、株価は下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "キャリアカンパニー（CAREER ACCOMPANY）の評判は？未経験からのIT転職で使う前に知りたい実態と他社比較",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "Penguin Solutions、次世代AIデータセンター向けの高帯域幅 SMART Modular MRDIMMを発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "エンジニアの短期離職は面接でどう伝える？入社1年未満で辞めた理由の話し方と例文",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
         },
         {
-          "title": "世界のAIデータセンター電力インフラ市場、2034年に307億米ドル規模へ拡大予測 ― 生成AI・GPU需要の急増を背景に年平均11.0％成長",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ChatGPTやClaudeなど、いつものAIに「作って」と頼むだけで3D動画が完成。月額契約不要・カード不要で始められる「JANCTION Render」、商用展開を開始",
+          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
-          "title": "Claude Code更新 MCPタスク・ultrathink【10/23〜29】",
-          "source": "Serverworks Corporation",
+          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【2026年10月版】カメラ・レンズ取引ランキングTOP10を発表 GR IIIxが首位、TOP10の半数がコンデジに",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "これが読めたら天才。Claudeが画像に隠したメッセージ",
+          "source": "Gizmodo",
           "trust_score": 7.0
         },
         {
-          "title": "不動産ビジネスの次の舞台を、世界へ。第19期国際不動産カレッジ、資格・実務・AI・英語・交流を一体化した総合教育を拡充",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】(ITmedia ビジネスオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_バイブコーディング おすすめ_20261103",
-      "theme": "バイブコーディング おすすめ",
+      "name": "episode_バイブコーディング 方法_20261104",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "外注に頼らず「現場の知識」で業務アプリは作れる──AIツール4種の長所と短所 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "title": "AI投資は加速、実行は停滞 ── 勝者を分ける「ビルダー」と「オーケストレーター」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
           "source": "Forbes Japan Official Site",
           "trust_score": 9.7
+        },
+        {
+          "title": "Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
         }
       ]
     }
