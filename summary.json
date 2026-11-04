@@ -1,85 +1,20 @@
 {
-  "generated_at": "2026-11-04T01:08:46.556593",
+  "generated_at": "2026-11-04T04:52:25.225604",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20261104",
-      "theme": "思想 方法",
+      "name": "episode_エージェント 比較_20261104",
+      "theme": "エージェント 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "満月の夜、どう過ごす？ 日記や瞑想など、自分を振り返るための22のアイデア(ウィメンズヘルス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【科学】「大人は電気が流れやすい」体を張ったビリビリ実験に悲鳴！？親子で身近な不思議を学ぶサイエンスショー！新潟・三条市(新潟ニュースNST)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "2億円超でも議会の承認得ず「“いろはのい”がしっかりしてなかった」道の駅リニューアル工事 新潟県村上市(ＢＳＮ新潟放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「ボッテガ・ヴェネタ」がムーミンとコラボ！ 限定バッグやチャーム、財布など(Numero TOKYO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "15個が限界か?! 旬の『八珍柿』を500円で詰め放題!新そばも!! 新潟市(ＢＳＮ新潟放送)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "リーダーが「燃え尽き」を感じたときに試すべき、4つのこと",
-          "source": "Lifehacker",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「シナリオ分析」で栃木の未来を考えるワークショップ 宇都宮大地域デザイン科学部創設１０周年記念(とちぎテレビ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261104",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "元教師の24歳YouTuberが、就活40社でほぼ全落ちした理由を自己分析",
-          "source": "ライブドアニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ラティス・セミコンダクター株が急騰した理由とは",
+          "title": "Shopifyが2026年第3四半期決算で予想を上回る利益を計上、株価は下落",
           "source": "Investing- Fx",
           "trust_score": 6.5
-        },
-        {
-          "title": "Uberはリトライストームからどのように身を守っているのか",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "OrcaRouter、エンドツーエンド暗号化推論「Orca Connect E2E」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "YouTube「就活の名人」が、働き方を学生に伝えたい企業の出演を募集 人事担当者・若手社員との対談企画、費用はかかりません",
-          "source": "Pr Times",
-          "trust_score": 8.0
         },
         {
           "title": "キャリアカンパニー（CAREER ACCOMPANY）の評判は？未経験からのIT転職で使う前に知りたい実態と他社比較",
@@ -87,8 +22,48 @@
           "trust_score": 7.5
         },
         {
-          "title": "「不正アクセス横行」 倫理なきAIに規制が必要なこれだけの理由",
-          "source": "Nikkan Gendai Digital",
+          "title": "エンジニアの短期離職は面接でどう伝える？入社1年未満で辞めた理由の話し方と例文",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "これが読めたら天才。Claudeが画像に隠したメッセージ",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】(ITmedia ビジネスオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261104",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI投資は加速、実行は停滞 ── 勝者を分ける「ビルダー」と「オーケストレーター」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        },
+        {
+          "title": "Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう",
+          "source": "Gijutsu Hyohron Company",
           "trust_score": 7.5
         }
       ]
