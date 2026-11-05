@@ -1,70 +1,50 @@
 {
-  "generated_at": "2026-11-04T04:52:25.225604",
-  "total_episodes": 2,
+  "generated_at": "2026-11-05T05:08:45.359932",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 比較_20261104",
-      "theme": "エージェント 比較",
+      "name": "episode_MCP 活用_20261105",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Shopifyが2026年第3四半期決算で予想を上回る利益を計上、株価は下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
+          "title": "5兆円ファンド「世界のベスト」が指数に負ける理由。AI株をほぼ持たない戦略は、バブル崩壊時に報われるのか？(ダイヤモンド・ザイ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "キャリアカンパニー（CAREER ACCOMPANY）の評判は？未経験からのIT転職で使う前に知りたい実態と他社比較",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
+          "title": "ワークデイ、日本において「Workday Developer Program」 を提供開始 AI時代の開発プラットフォームとオープンエコシステム構築を本格化",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "エンジニアの短期離職は面接でどう伝える？入社1年未満で辞めた理由の話し方と例文",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
+          "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」のSFA機能においてAPI提供を開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "ワークデイ、日本において「Workday Developer Program」 を提供開始 AI時代の開発プラットフォームとオープンエコシステム構築を本格化",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "これが読めたら天才。Claudeが画像に隠したメッセージ",
-          "source": "Gizmodo",
-          "trust_score": 7.0
+          "title": "ブルーテック、AIエージェントによる営業データ活用に向け「Knowledge Suite+」のAPI提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】(ITmedia ビジネスオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 方法_20261104",
-      "theme": "バイブコーディング 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AI投資は加速、実行は停滞 ── 勝者を分ける「ビルダー」と「オーケストレーター」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
+          "title": "コストとガバナンスをどう管理する? 企業向けAI統合管理の最新動向",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
+          "title": "フリークアウトが「DXPO 東京 ’26 秋」に、SNS広告運用伴走型AI「HAWK」をブース出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
