@@ -1,70 +1,175 @@
 {
-  "generated_at": "2026-11-04T04:52:25.225604",
-  "total_episodes": 2,
+  "generated_at": "2026-11-05T01:24:47.503230",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 比較_20261104",
-      "theme": "エージェント 比較",
+      "name": "episode_Claude Code ランキング_20261105",
+      "theme": "Claude Code ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Shopifyが2026年第3四半期決算で予想を上回る利益を計上、株価は下落",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "キャリアカンパニー（CAREER ACCOMPANY）の評判は？未経験からのIT転職で使う前に知りたい実態と他社比較",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "エンジニアの短期離職は面接でどう伝える？入社1年未満で辞めた理由の話し方と例文",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "生成AIが選ぶ「結婚相談所」、1位はIBJメンバーズ（言及率99.4%）【2026年10月調査】",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "これが読めたら天才。Claudeが画像に隠したメッセージ",
-          "source": "Gizmodo",
+          "title": "「2026年ヒット商品ベスト30」発表 1位は「目印チャーム」 TikTok Shop、ボンボンドロップシールも上位に",
+          "source": "産経ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "AIエージェントに日々の仕事を任せたい、どうすべき？【3つのパターンで考える】(ITmedia ビジネスオンライン)",
+          "title": "「2026年ヒット商品ベスト30」発表 1位は「目印チャーム」 TikTok Shop、ボンボンドロップシールも上位に(オリコン)",
           "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "全社員3600人にChatGPTを配ったら、月半ばで「トークン枯渇」 クレディセゾンは想定外の事態をどう乗り切った？",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「イタイイタイ病」で原因企業に賠償を求めた訴訟 最後の原告が96歳で死去",
+          "source": "ライブドアニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "『目印チャーム』『ボンボンドロップシール』など 『日経トレンディ』2026年のヒット商品ベスト30を発表",
+          "source": "Infoseek Japan",
           "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_バイブコーディング 方法_20261104",
-      "theme": "バイブコーディング 方法",
+      "name": "episode_思想 おすすめ 理由_20261105",
+      "theme": "思想 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AI投資は加速、実行は停滞 ── 勝者を分ける「ビルダー」と「オーケストレーター」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
+          "title": "リリー・フランキー「え？俺、出るんだ？」 ウェイン・ワン監督作への出演経緯語る",
+          "source": "テレ朝new",
+          "trust_score": 7.0
         },
         {
-          "title": "Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう",
-          "source": "Gijutsu Hyohron Company",
+          "title": "旧カプセルホテルの8フロアが、アートと交流の場に。「Tokyo Jazz Club」が広げるアートフェアの楽しみ(GQ JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【無課金でフェイスラインをシュッとさせたい！】地道に続けたいマッサージのやり方＆生活習慣のコツ(＠BAILA)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "7年ぶり復活の三菱新型「パジェロ」は歴代で初めて“上質インテリア”にこだわった！ 輸入SUVからの乗り換えもアリ!? 最廉価グレードでも手抜きなし(VAGUE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「自分がガマンすれば」モラハラ夫からの攻撃で委縮してしまった妻へ、周囲ができること【著者インタビュー】(ダ・ヴィンチWeb)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "そのリンク、そのまま開いて大丈夫？Androidでトラッキングを防ぐ簡単な方法",
+          "source": "Lifehacker",
           "trust_score": 7.5
+        },
+        {
+          "title": "子どもが巣立ち夫からも別れを切り出された母、ひとりぼっちの寂しさ",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_マーケティング戦略 ランキング_20261105",
+      "theme": "マーケティング戦略 ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "総人口5万人以上の市区町村を分析『同じ人口でも売上余地が違う街 消費吸引力ランキング』を公開【エムディー株式会社】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "総人口5万人以上の市区町村を分析『同じ人口でも売上余地が違う街 消費吸引力ランキング』を公開【エムディー株式会社】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "【全95行調査】住宅ローン金利、AI回答の5回に1回は公式サイトと違う数字。7割は「実態より不利な方向」",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【全95行調査】住宅ローン金利、AI回答の5回に1回は公式サイトと違う数字。7割は「実態より不利な方向」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "オタクが選んだ『推し・オブ・ザ・イヤー2026』結果発表！ランクインしたのは...？",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "既存のシステムはそのままに、ポイントやランキングで人が動き出す。ゲーミフィケーションの戦略設計と基盤「PLAYCEKIT」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【TechSuite株式会社】【業界特化調査 第32弾】AI検索パートナーズ、医薬品卸会社選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位4社がいずれも登場率9割超",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_マーケティング戦略 おすすめ 理由_20261105",
+      "theme": "マーケティング戦略 おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "キャラクター人気や推し活消費を取り込む…映画館で「新時代の集客方法」",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "EQWEL、SlackbotとMarketing Cloud Engagementを連携させて、マーケティング運用の高度化を実現",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ログリー、AI広告運用エージェント「mureo」の事業会社向け「mureo Pro」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "経営層・人事責任者が集う招待制カンファレンス「HR Executive Summit ENTAKU - 円卓 2027 - 」を初開催。──株式会社YOUTRUST",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "経営層・人事責任者が集う招待制カンファレンス「HR Executive Summit ENTAKU - 円卓 2027 - 」を初開催。──株式会社YOUTRUST",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アース製薬Instagram「くろの絵日記」が「2026 66th ACC TOKYO CREATIVITY AWARDS」でゴールド受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ビールは“飲むだけ”じゃない！ヤッホーブルーイング×トゥモローゲートが挑む「五感で浸透させるブランド体験」イベント",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
