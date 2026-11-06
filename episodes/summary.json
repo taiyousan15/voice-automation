@@ -1,48 +1,108 @@
 {
-  "generated_at": "2026-11-05T05:08:45.359932",
-  "total_episodes": 1,
+  "generated_at": "2026-11-06T05:08:41.101782",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20261105",
-      "theme": "MCP 活用",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261106",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "5兆円ファンド「世界のベスト」が指数に負ける理由。AI株をほぼ持たない戦略は、バブル崩壊時に報われるのか？(ダイヤモンド・ザイ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "「Park Direct」を運営するニーリー、Insight Partnersをリード投資家とする総額60億円のシリーズCラウンドを実施",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ 理由_20261106",
+      "theme": "エージェント おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "株式会社BOTANICO、月額制「WordPress乗り換えプラン」を提供開始。移行先はmicroCMSまたはCloudflare製「EmDash」、AIが日々の更新とSEO・AI検索対策を提案・実行",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "ワークデイ、日本において「Workday Developer Program」 を提供開始 AI時代の開発プラットフォームとオープンエコシステム構築を本格化",
+          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "ブルーテック、「AIエージェントハブ Knowledge Suite+」のSFA機能においてAPI提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ワークデイ、日本において「Workday Developer Program」 を提供開始 AI時代の開発プラットフォームとオープンエコシステム構築を本格化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ブルーテック、AIエージェントによる営業データ活用に向け「Knowledge Suite+」のAPI提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "コストとガバナンスをどう管理する? 企業向けAI統合管理の最新動向",
+          "title": "The Snutsが語る、オアシスやコールドプレイに学んだ「等身大のロック」──日常の喜びを歌う新境地",
           "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "フリークアウトが「DXPO 東京 ’26 秋」に、SNS広告運用伴走型AI「HAWK」をブース出展",
+          "title": "交通比較予約Omio（オミオ）、レイルヨーロッパ買収後の戦略を聞いた、日本・東南アジアへの拡大とAI時代の交通予約【外電】",
+          "source": "Travel Voice",
+          "trust_score": 7.0
+        },
+        {
+          "title": "エンジニアにスカウトが来ない原因は？採用する側から見た来る人・来ない人の違いと改善策",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AI・DXで業界を越えてつながる「異業種大交流会」を初開催。参加者全員に1,000円分の館内チケット進呈＜12/9・10・参加無料＞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261106",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "旅に溶け込むテクノロジー：JETOURが描く未来モビリティの新ビジョン",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "SupermicroがIBMおよびNVIDIAと共同でKVキャッシュソリューションを発表し、推論性能の大幅な向上を実証",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Yealink、AIを活用した職場の未来を形作るため世界の業界リーダーを結集",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIの授業でスマホもPCも禁止、でもAIロボットは置くことにした。米大学の教授の考え",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        },
+        {
+          "title": "韓国デジタルコンテンツ企業8社、「XR Fair Tokyo Autumn 2026」で日本市場に挑む",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
