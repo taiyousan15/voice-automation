@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T01:27:28.515040",
-  "total_episodes": 6,
+  "generated_at": "2026-11-06T05:08:41.101782",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026_20261106",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261106",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -19,222 +19,92 @@
       ]
     },
     {
-      "name": "episode_MCP 方法_20261106",
-      "theme": "MCP 方法",
+      "name": "episode_エージェント おすすめ 理由_20261106",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Unreal Fest Tokyo 2026、Unreal Engine 5.9のプレビューおよびUnreal Engine 6の展望の発表とともに閉幕",
+          "title": "株式会社BOTANICO、月額制「WordPress乗り換えプラン」を提供開始。移行先はmicroCMSまたはCloudflare製「EmDash」、AIが日々の更新とSEO・AI検索対策を提案・実行",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Unreal Fest Tokyo 2026、Unreal Engine 5.9のプレビューおよびUnreal Engine 6の展望の発表とともに閉幕",
+          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "supa.ai、プライベートLLMつき全自動ペネトレーションテスト基盤「supaattack」提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "supa.ai、プライベートLLMつき全自動ペネトレーションテスト基盤「supaattack」提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ITトレンドに、freee カスタムオーダーを掲載",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "スレッドワーク、ChatGPT・ClaudeからChatworkの会話を検索・要約できる「AI連携（MCP）」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "生成AIに、未来を見る力を。未来予測AIプラットフォーム「MatrixFlow」が公式MCPサーバーを提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 方法_20261106",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "蔵内氏の記者会見は異例の“条件付き”に 時間制限や1社1人限定など ジャーナリスト鈴木哲夫氏「もう少しオープンに」 福岡(TNCテレビ西日本)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "JBL「Summit EVEREST」の到達点。ハイエンドオーディオの新たな境地に山之内 正氏が迫る",
-          "source": "Phile Web",
-          "trust_score": 7.5
-        },
-        {
-          "title": "小諸初のウイスキー「KOMORO ORIGIN」誕生！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "パンサー向井に岡野陽一も…さらば森田、“大切にしたい人脈”明かすも「今年の秋にこの人脈なくなりました」「あとは渡辺直美しかいないです」 ABEMA『さらばの合法オークション』収録後会見",
+          "title": "The Snutsが語る、オアシスやコールドプレイに学んだ「等身大のロック」──日常の喜びを歌う新境地",
           "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "真剣にパートナーを探す人は、プロフィールから何を最も知りたいのか？ヨイトキが「関係情報」調査を発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "新明工業｜地域向け体験型イベント「SHINMEI FES 2026」を開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "超ミドルシニアコンソーシアム、第10回勉強会を2026年12月2日（水）に開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_マーケティング戦略 活用_20261106",
-      "theme": "マーケティング戦略 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "タペストリー・インク 2027年度第1四半期の業績を発表 | 通期業績見通しを上方修正",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Spotify、広告・音声表現を表彰する『Spotify Hits Japan 2026』を開催し、各部門の受賞作品を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Spotify、広告・音声表現を表彰する『Spotify Hits Japan 2026』を開催し、各部門の受賞作品を発表",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【ゲームクリエイター向け】ゲーム設計・ビジュアル・市場戦略をつなぐ考え方とは？11/20（金）好評セミナー「ゲームデザインがブランドになる」のアーカイブ映像を無料配信!!",
-          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "冬アイスの祭典がさらに進化！「冬アイスの日」10周年、アイスメーカー12社の“推しアイス”と全国8,192人の調査結果を内覧会で発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "クリスクアジア、沖縄営業所を開設。訪沖外国人の集客と県内企業のアジア展開を支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「ZETA DIVISION」CREATOR部門のSHAKA氏が主催する『LEGENDUS SHAKA ONE 2026』を共催！",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "交通比較予約Omio（オミオ）、レイルヨーロッパ買収後の戦略を聞いた、日本・東南アジアへの拡大とAI時代の交通予約【外電】",
+          "source": "Travel Voice",
           "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 方法_20261106",
-      "theme": "バイブコーディング 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "6人で半年かかる開発が1人で1週間に短縮！ 三井住友ファイナンス＆リースが生成AI活用の新サービス発表、Replit社と協業",
-          "source": "Getnews",
-          "trust_score": 8.5
         },
         {
-          "title": "6人で半年の開発が「1人で1週間」に SMFLが生成AIを活用した企業向け新サービス発表",
-          "source": "Otakei Otakuma",
+          "title": "エンジニアにスカウトが来ない原因は？採用する側から見た来る人・来ない人の違いと改善策",
+          "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "【参加無料】Developers X Summit 2026 に代表 所が登壇します",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「プログラミングを学ぶ」検索が1年でほぼ半減、「AIに書かせる」は1.8倍──ツール検索1位は「Claude Code」（TECH NOISY調べ）",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "日系英国企業Algoritmi Technology Group、現場主導のAI活用を支える株式会社アルゴリトミAIを日本に設立",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "“エンタープライズ バイブコーディング”を用いた「企業向けパーソナライズ型SaaS」を発表",
+          "title": "AI・DXで業界を越えてつながる「異業種大交流会」を初開催。参加者全員に1,000円分の館内チケット進呈＜12/9・10・参加無料＞",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_占い 活用_20261106",
-      "theme": "占い 活用",
+      "name": "episode_エージェント 活用_20261106",
+      "theme": "エージェント 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【グラフ】Jung Kookと祝す、全ての願いを叶えるフェスティブキャンペーンの新クリエィティブが公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "旅に溶け込むテクノロジー：JETOURが描く未来モビリティの新ビジョン",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
         },
         {
-          "title": "ソニーG、純利益1兆3300億円に。TCLとの合弁会社は「詳細の詰めが順調に進んでいる」(AV Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "SupermicroがIBMおよびNVIDIAと共同でKVキャッシュソリューションを発表し、推論性能の大幅な向上を実証",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
         },
         {
-          "title": "「部活をやめるのは悪」「行事は参加一択」…子どもを限界まで追い詰める、“学校の当たり前”の恐ろしさ(with online)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "Yealink、AIを活用した職場の未来を形作るため世界の業界リーダーを結集",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
         },
         {
-          "title": "巨人・松井秀喜新監督から学ぶ「大人の余裕とハンパない社会人力」",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "AIの授業でスマホもPCも禁止、でもAIロボットは置くことにした。米大学の教授の考え",
+          "source": "Gizmodo",
+          "trust_score": 7.5
         },
         {
-          "title": "＜セミナーレポート＞11月5日は「いいりんごの日」 腸から考える健康・美容と食卓での楽しみ方",
+          "title": "韓国デジタルコンテンツ企業8社、「XR Fair Tokyo Autumn 2026」で日本市場に挑む",
+          "source": "Prニュースワイヤー",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "trust_score": 6.5
         },
         {
-          "title": "＜セミナーレポート＞11月5日は「いいりんごの日」 腸から考える健康・美容と食卓での楽しみ方",
+          "title": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "買い物で払う消費税、国をどれくらい支えている？(Yahoo!ニュース オリジナル THE PAGE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     }
