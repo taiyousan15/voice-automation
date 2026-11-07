@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T05:08:41.101782",
+  "generated_at": "2026-11-07T00:47:32.107876",
   "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法_20261106",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 使い方_20261107",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 使い方",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -19,90 +19,90 @@
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261106",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_占い 方法_20261107",
+      "theme": "占い 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "株式会社BOTANICO、月額制「WordPress乗り換えプラン」を提供開始。移行先はmicroCMSまたはCloudflare製「EmDash」、AIが日々の更新とSEO・AI検索対策を提案・実行",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "【占星術士・yujiさんインタビュー】最新刊で伝える、“占いを子育てに活かす方法”(LEE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "「トイレで何してんねん」商業ビルのパウダールームで女子高生がしていた「ありえないこと」。その2時間後、50代女性が目撃した「まさか」【専門家助言】(FORZA STYLE)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "新卒向け「内定通知書」「内定承諾書」のWordテンプレートを無料公開 記載事項・送付時期・法的な位置づけの解説つき【採用の名人】",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "マカオ当局による2026年1〜9月の禁煙・酒類管理法違反検挙数は約5千件…大半が違法喫煙事案(マカオ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "The Snutsが語る、オアシスやコールドプレイに学んだ「等身大のロック」──日常の喜びを歌う新境地",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "ソニーGはエンタメ光る好決算！ JTはロシア事業に暗雲/日経平均急落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月6日号(ダイヤモンド・ザイ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "交通比較予約Omio（オミオ）、レイルヨーロッパ買収後の戦略を聞いた、日本・東南アジアへの拡大とAI時代の交通予約【外電】",
-          "source": "Travel Voice",
-          "trust_score": 7.0
-        },
-        {
-          "title": "エンジニアにスカウトが来ない原因は？採用する側から見た来る人・来ない人の違いと改善策",
-          "source": "Tenshoku Stories",
+          "title": "消費減税法案、衆院通過 石破氏ら自民4人退席「財源明らかでない」",
+          "source": "朝日新聞デジタル",
           "trust_score": 7.5
         },
         {
-          "title": "AI・DXで業界を越えてつながる「異業種大交流会」を初開催。参加者全員に1,000円分の館内チケット進呈＜12/9・10・参加無料＞",
-          "source": "Pr Times",
+          "title": "物価高の冬を乗り越えろ 省エネ家電や電気を使わないで暖をとるグッズ",
+          "source": "日テレnews Nnn",
           "trust_score": 8.0
+        },
+        {
+          "title": "停戦仲介したメラニア夫人 その成果強調(ABEMA TIMES)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_エージェント 活用_20261106",
-      "theme": "エージェント 活用",
+      "name": "episode_MCP おすすめ_20261107",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "旅に溶け込むテクノロジー：JETOURが描く未来モビリティの新ビジョン",
+          "title": "Box、AIエージェントで業務を自動化 - NVIDIA連携や業界特化型AIも強化",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Redis、Redis Irisを拡張しAIエージェントの本番運用に必要なメモリ、コンテキスト、メッセージングを提供",
+          "source": "株式会社 共同通信",
+          "trust_score": 7.5
+        },
+        {
+          "title": "サイバー攻撃は「侵入」から始まらない 攻撃者が仕掛ける準備段階をどう見抜くか",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Redis、Redis Irisを拡張しAIエージェントの本番運用に必要なメモリ、コンテキスト、メッセージングを提供",
           "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "SupermicroがIBMおよびNVIDIAと共同でKVキャッシュソリューションを発表し、推論性能の大幅な向上を実証",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "Zabbix 8.0 LTSをリリース、統合オブザーバビリティへの対応を強化",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Yealink、AIを活用した職場の未来を形作るため世界の業界リーダーを結集",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
+          "title": "社内AIエージェントを「1つにまとめない」- コロプラがA2Aで構築した全社共通の仕組み",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         },
         {
-          "title": "AIの授業でスマホもPCも禁止、でもAIロボットは置くことにした。米大学の教授の考え",
-          "source": "Gizmodo",
-          "trust_score": 7.5
-        },
-        {
-          "title": "韓国デジタルコンテンツ企業8社、「XR Fair Tokyo Autumn 2026」で日本市場に挑む",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Trust株式会社、ソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "Trust株式会社、JavaソースコードからAIで脆弱性を診断する「Webアプリケーション脆弱性診断サービス」を提供開始",
+          "title": "CRGホールディングスが企業のAI活用をテーマとする「WoW Tokyo 2026」に登壇",
           "source": "Pr Times",
           "trust_score": 8.0
         }
