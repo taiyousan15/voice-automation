@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-11-07T04:41:16.578285",
-  "total_episodes": 0,
+  "generated_at": "2026-11-08T04:29:32.530260",
+  "total_episodes": 3,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_skill 活用_20261108",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「PSVのレベルをすぐ超えていく」CL初ゴールのMF佐野航大、元オランダ代表が大絶賛「本当に素晴らしい選手。さらに一段上のステージへ進む」",
+          "source": "The Digest",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ 理由_20261108",
+      "theme": "エージェント おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SESの年収が上がらない理由と上げる方法｜元SESエ ンジニアが平均データと抜け出し方を解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「お願い、仕事を辞めてくれ…」都内在住・年収600万円の36歳妻、年収650万円の38歳夫から告げられた「ひと言」で下した決断(THE GOLD ONLINE（ゴールドオンライン）)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "アクティブコア、Agentic Analytics「maruttoDives（マルットダイブス）」の公式サイトを公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "なぜAIは高級ブランドの価値を正しく理解できないのか(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "『VIVANT』飯田P、ベキの故郷・出雲大社での撮影を回顧「とても胸を打たれました」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "マユリカ「呪いかも」、賞レース決勝を棄権した“呪われた1年”を回顧 所・たけしとの共演に感無量も【オリコンライターズ】",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "乃木が薫に正体を告白！ 父との再会、そして野崎に銃口が――『VIVANT』第23話を振り返る",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261108",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "GREEN×EXPO 2027 公式マスコットキャラクター「トゥンクトゥンク」が大空へ！ ～特別塗装機「JAL トゥンクトゥンクJET」が11月7日（土）から就航～",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【イベントレポート】Simeji×Google Cloud、AI音声入力とバイブコーディングで変わる仕事の未来を語るビジネスミートアップを開催！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【イベントレポート】Simeji×Google Cloud、AI音声入力とバイブコーディングで変わる仕事の未来を語るビジネスミートアップを開催！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ITGマーケティング Inter BEE 2026に出展 4社連携で映像制作ワークフローを提案",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【大阪で糸リフトが得意な医師として専門書執筆】聖心美容クリニック大阪院 寺町 英明院長が、、医学専門書『スレッドリフト治療 糸の選択と手技の秘訣』を担当",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【北海道室蘭市】子育て世帯を応援！出張子ども食堂・食料配布・フードデリバリーを11月29日(日）に開催",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "投手専門の野球教室「PPA」が公式サイトを全面リニューアル！全国10校でケガ予防と球速アップを支援",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        }
+      ]
+    }
+  ]
 }
