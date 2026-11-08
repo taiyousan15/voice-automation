@@ -1,16 +1,96 @@
 {
-  "generated_at": "2026-11-08T00:18:27.812356",
-  "total_episodes": 7,
+  "generated_at": "2026-11-08T04:29:32.530260",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_バイブコーディング おすすめ 理由_20261108",
-      "theme": "バイブコーディング おすすめ 理由",
+      "name": "episode_skill 活用_20261108",
+      "theme": "skill 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "「PSVのレベルをすぐ超えていく」CL初ゴールのMF佐野航大、元オランダ代表が大絶賛「本当に素晴らしい選手。さらに一段上のステージへ進む」",
+          "source": "The Digest",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント おすすめ 理由_20261108",
+      "theme": "エージェント おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "SESの年収が上がらない理由と上げる方法｜元SESエ ンジニアが平均データと抜け出し方を解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「お願い、仕事を辞めてくれ…」都内在住・年収600万円の36歳妻、年収650万円の38歳夫から告げられた「ひと言」で下した決断(THE GOLD ONLINE（ゴールドオンライン）)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "アクティブコア、Agentic Analytics「maruttoDives（マルットダイブス）」の公式サイトを公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "なぜAIは高級ブランドの価値を正しく理解できないのか(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "『VIVANT』飯田P、ベキの故郷・出雲大社での撮影を回顧「とても胸を打たれました」",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "マユリカ「呪いかも」、賞レース決勝を棄権した“呪われた1年”を回顧 所・たけしとの共演に感無量も【オリコンライターズ】",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "乃木が薫に正体を告白！ 父との再会、そして野崎に銃口が――『VIVANT』第23話を振り返る",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261108",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "GREEN×EXPO 2027 公式マスコットキャラクター「トゥンクトゥンク」が大空へ！ ～特別塗装機「JAL トゥンクトゥンクJET」が11月7日（土）から就航～",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
         {
           "title": "【イベントレポート】Simeji×Google Cloud、AI音声入力とバイブコーディングで変わる仕事の未来を語るビジネスミートアップを開催！",
           "source": "Pr Times",
@@ -32,244 +112,14 @@
           "trust_score": 7.0
         },
         {
-          "title": "【経営者のノーベル賞】令和8年度「財界賞経営者賞」決定！",
+          "title": "【北海道室蘭市】子育て世帯を応援！出張子ども食堂・食料配布・フードデリバリーを11月29日(日）に開催",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 6.5
         },
         {
-          "title": "ライブチケットも好評発売中！11月21日（土）～23日（月・祝）にて開催の「UMEKITA SOUND BAZAAR」詳細プログラムを発表。",
+          "title": "投手専門の野球教室「PPA」が公式サイトを全面リニューアル！全国10校でケガ予防と球速アップを支援",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
-        },
-        {
-          "title": "HANAMII、スマートシティ青森推進協議会の事業に採択 ― 2027年2月、青森市で市民参加型の地域課題解決ハッカソン『AOMORI Civic Tech Studio』を開催予定",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 比較_20261108",
-      "theme": "Claude Code 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "macOS Golden Gate 27.3パブリックベータ公開、SiriのApp SkillsとSafari縦型タブを搭載",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "2026年11月6日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "118社の人事担当者に聞いた！採用組織でのAI活用実態調査レポート2026～採用で「AIに任せたい業務」と「実際に任せている業務」～",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "QueryPie AI、AIが攻撃者の視点で侵入リスクを検証する「AIペネトレーションテストサービス」を提供開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_マーケティング戦略 おすすめ_20261108",
-      "theme": "マーケティング戦略 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "スカイマーク、最後のウイングレットなし737退役 神戸で記念チャーター(Aviation Wire)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "生成AIが選ぶ「Web制作会社」、1位はLIG（言及率51.8%）【2026年10月調査】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "生成AIが選ぶ「Web制作会社」、1位はLIG（言及率51.8%）【2026年10月調査】",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "無料トライアルか、商談か。TorchUp、SaaSの「4つの導入負荷」から顧客獲得導線を見直す資料を無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "無料トライアルか、商談か。TorchUp、SaaSの「4つの導入負荷」から顧客獲得導線を見直す資料を無料公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "なぜAIは高級ブランドの価値を正しく理解できないのか(DIAMOND ハーバード・ビジネス・レビュー)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「世界征服をしようとしているわけではありません」 gamescomのキーマンが語る、世界展開の舞台裏",
-          "source": "Ign Japan",
-          "trust_score": 9.7
-        }
-      ]
-    },
-    {
-      "name": "episode_スピリチュアル おすすめ_20261108",
-      "theme": "スピリチュアル おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【11月26日(木)19:00～・渋谷】年末の振り返りと来期戦略を本音で語る！経営者限定・少人数会食「信頼でつながる共創の夜」を開催！！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "江原啓之 21年前の予言が現実に…「自分を中心にして、主体で生きる」人生の輝かせ方",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "「推し活疲れ」の原因はスマホか 月1万円超の出費、睡眠削る人…推しとの「いい距離」は",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "≪開業5周年記念≫石井竜也氏作品「顔魂～KAODAMA～」1点を期間限定 特別展示いたします。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【11月20日(金)19:00～・渋谷】内定辞退・早期離職を防ぐ実践ノウハウを公開！2027年卒採用と若手定着を考える人事ミートアップ開催！！",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【11月20日(金)19:00～・渋谷】内定辞退・早期離職を防ぐ実践ノウハウを公開！2027年卒採用と若手定着を考える人事ミートアップ開催！！",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20261108",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Drawing Agentのアップデート機能「DRAWING SKILL」｜2D図面からAIが3Dモデルを生成",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い おすすめ 理由_20261108",
-      "theme": "占い おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "90㎏越えの52歳、約半年で－20㎏を達成！膝が痛くて正座もできなかったのが、お尻の位置がぐーんと上がった。最初に行った運動とは(OTONA SALONE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「日本の道路狭すぎ」「取り締まる前に整備を」自転車の青切符、摘発1.6万件でも消えない不満！ 車優先の都市交通はなぜ変わらないのか？(Merkmal)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【悲報】母親「息ﾞ子ﾞをﾞ弱ﾞ者ﾞチﾞ一ﾞ牛ﾞにﾞしﾞたﾞくﾞなﾞいﾞ！」父親「……」←これ・・・",
-          "source": "Vipper速報",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【最高視聴率21.8%】振り回される急展開にキュン連続♡沼落ち必至！韓国ラブコメドラマ3選",
-          "source": "Yomuno",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【生活保護と年金】偶数月に2か月分届く老齢年金は、各月に分けて収入認定。満額なら1か月あたり「7万608円」を収入として数える(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "引越し業者に冷蔵庫を壊されたら補償はいくら？購入10万円・使用6年なら目安は約4万円、新品代は出ない(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "クリスマスもお正月も「飾らなかった」53.8％。飾らない理由は「必要性を感じない」が最多",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 活用_20261108",
-      "theme": "占い 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "日本人打者の黄金期突入！？「次に世界で通用するスラッガー」候補。村上…",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "リーズGKトラッフォードが昨季苦難の1年を告白「あの経験に感謝」…カップ戦2冠の糧に成長を実感",
-          "source": "サッカーキング",
-          "trust_score": 7.0
-        },
-        {
-          "title": "米民主党勝利は気候にとって「良いニュース」ではあるが… 意外な問題点も(クーリエ・ジャポン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【65歳以上】年金で暮らす世帯の所得の中身は？「高齢者世帯の所得の内訳一覧表」平均336.1万円のうち、公的年金・恩給は205.9万円(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "犬を『不幸にする人』の特徴5選 愛犬にとっての不幸とは？絶対やってはいけないNG行為まで",
-          "source": "Wanchan Dog Information Portal",
-          "trust_score": 7.5
-        },
-        {
-          "title": "手厚い社会福祉制度は国民の寿命を延ばすのか？",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "赤楚衛二と風間太樹監督が語るNetflix映画「余命一年、男をかう」 「チェリまほ」以来の再タッグで見つけた新たな関係性と「心地よい他者との距離感」",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
         }
       ]
     }
