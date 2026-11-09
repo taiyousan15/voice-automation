@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-11-09T00:41:17.192212",
-  "total_episodes": 0,
+  "generated_at": "2026-11-09T04:41:57.840553",
+  "total_episodes": 4,
   "audio_enabled": true,
-  "episodes": []
+  "episodes": [
+    {
+      "name": "episode_エージェント おすすめ_20261109",
+      "theme": "エージェント おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Google｜@DIME アットダイム",
+          "source": "@dime アットダイム",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「貯金は無意味」発言から3日後、イーロン・マスクがAI代に音を上げる",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "あの三姉妹が帰ってくる！！「みなみけ これから」ティザービジュアル＆ティザーPV、場面写真、放送時期、キャラクター画像、キャスト＆スタッフ解禁！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "日本発のプレミアムオーラルケアブランド「maus（マウス）」誕生。第一弾となるプレミアム歯ブラシを発売開始。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【日本初】高市政権の「サイバーセキュリティ緊急対策パッケージ」にサイカルトラストの特許群で対応。AIエージェント行為の実行前保留とAI診断の実施証明の特許を実施許諾込みで提供し、即日対応化を支援",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 活用_20261109",
+      "theme": "バイブコーディング 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "金融パーソンにとって、AI時代に重要なスキルとは？ ウォール街のルーキーたちが語る",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261109",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「悪事は割に合わない」をAIにも、逆ゲーム理論で探る安全対策",
+          "source": "Ascii",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント ランキング_20261109",
+      "theme": "エージェント ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "メーカー・製造業に強い転職エージェントおすすめ7選｜現役の機械設計エンジニアが選び方を詳しく解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "生成AIが選ぶ「転職エージェント」、1位はリクルートエージェント（言及率99.3%）【2026年10月調査】",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "生成AIが選ぶ「転職エージェント」、1位はリクルートエージェント（言及率99.3%）【2026年10月調査】",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Prime Video視聴ランキング：ドイツ発『ドライブ ー偽りの関係ー』が初登場1位 『ラブ トランジット35＋』は非英語部門2位【10/26/26 - 11/01/26】",
+          "source": "産経ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Prime Video視聴ランキング：ドイツ発『ドライブ ー偽りの関係ー』が初登場1位 『ラブ トランジット35＋』は非英語部門2位【10/26/26 - 11/01/26】",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Prime Video視聴ランキング：ドイツ発『ドライブ ー偽りの関係ー』が初登場1位 『ラブ トランジット35＋』は非英語部門2位【10/26/26 - 11/01/26】",
+          "source": "ライブドアニュース",
+          "trust_score": 7.5
+        }
+      ]
+    }
+  ]
 }
