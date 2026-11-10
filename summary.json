@@ -1,245 +1,40 @@
 {
-  "generated_at": "2026-11-10T03:22:37.511968",
-  "total_episodes": 6,
+  "generated_at": "2026-11-10T05:57:56.992337",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い 活用_20261110",
-      "theme": "占い 活用",
+      "name": "episode_skill 比較_20261110",
+      "theme": "skill 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Cisionのレポート、検索・ソーシャルメディア・AIの間に隠れた消費者動向を明らかに",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "親友・莉々衣（柿原りんか）のピンチに南（芦田愛菜）が立ち上がる！南と湊人（高橋文哉）が夕日で急接近？！ ドラマ『南田南弁護士は天才肌』第４話",
-          "source": "みよか −関西のええとこ、知って”みよか",
-          "trust_score": 7.5
-        },
-        {
-          "title": "『南田南弁護士は天才肌』芦田愛菜＆高橋文哉のロマンチック2ショット実現へ…「ついに夕日のシーン」「素敵ですね」",
-          "source": "産経ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "イスラエル保健省、膀胱がん治療薬ANKTIVAを承認",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "【AIFJ2026 閉幕レポート】世界60カ国・730作品超が集結したアジア最大級の祭典「第2回 AI日本国際映画祭」が閉幕",
+          "title": "生成AIに社内文書を送る前に、個人情報を社内のPCだけで検出・マスキング。AI Librarium、東北大学との共著論文をCSS2026で発表",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "「ずっと会いたかった」レジェンド武豊騎手の突然の登場にファン歓喜！国内外通算5000勝の軌跡たどる特別展 新潟市(新潟ニュースNST)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "新潟県の輸出額は約63億円！世界を魅了する“泳ぐ宝石”ニシキゴイ 各国の大使が驚嘆「こんなにも大きくなるとは」(新潟ニュースNST)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261110",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_MCP おすすめ 理由_20261110",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "「知能逆転」、真価問われる経営者 「日経BP 10大徹底予測！2027」 (徹底予測2027)",
-          "source": "日経クロステック（xtech）",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ゴールドマン・サックス、AI需要見通しでNvidia株の買い推奨を維持",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "旅行予約は「検索」から「AIによる選別」へ、スキフトが描く2026年の旅行産業「Travel Stack」",
-          "source": "Travel Voice",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【おうちにプロ】掃除グッズ・洗剤にかけるお金に関するアンケート調査",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "中小企業向けクラウドERP「eerp」、ERP導入で失敗しないための導入方法論「スモールスタート・MVP拡張法」を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Claudeの記憶(メモリ)は夢見るDreaming機能で強化されており間違った記憶を修正することも可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【愛媛・松山】建売の手軽さに「選べる楽しさ」をプラス！アート不動産が新たな住まいづくりの選択肢「セミオーダー請負」をスタート",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code 方法_20261110",
-      "theme": "Claude Code 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Claude Code更新 書き込み制限・ログイン期限【10/30〜11/5】",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "事業部門主導のAIエージェント「Claude Code」活用マネジメント研修を11月27日に開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "アイスマイリー、WEB雑誌リリース！ Claude導入支援会社おすすめ徹底比較ガイド！失敗しないパートナーの選び方",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "アイスマイリー、WEB雑誌リリース！ Claude導入支援会社おすすめ徹底比較ガイド！失敗しないパートナーの選び方",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "チェック・ポイント・リサーチ、「プロンプト型アドウェア」の手法を発見 AIへの隠れた指示がもたらす企業の新たなセキュリティリスクに警鐘",
+          "title": "商品データ統合プラットフォーム「EBISU PIM」が次世代AI標準規格「MCP」に対応。ClaudeやChatGPTなどの多様なAIから商品データへのシームレスなアクセスを実現",
           "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "Claude Codeの「次回から表示しない」でパスワードが流出する恐れ、GitHubで2539件の秘密情報が見つかる",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 活用_20261110",
-      "theme": "バイブコーディング 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "探究型キッズプログラミング・AI教室アルスクールが子ども向けAI教材アルスタジオAIを正式リリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "OpenAI、豪大学のAI活用を支援 - 学生の81％が週に数回利用",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "欲しいアプリは農家が自分でつくる時代へ！ 酪農家が実践する「Vibe Coding」の最前線",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「プログラミングを学ぶ」検索数が1年で半減／ガートナーの2027年注目技術トップ10／DDoS攻撃、世界は半減・日本は倍増、ほか",
-          "source": "Ascii",
-          "trust_score": 7.5
-        },
-        {
-          "title": "バイブコーディング＋FDE伴走で“パーソナライズSaaS” SMFLが「Replit」で個別開発を高速化",
-          "source": "Ascii",
-          "trust_score": 7.0
-        },
-        {
-          "title": "金融パーソンにとって、AI時代に重要なスキルとは？ ウォール街のルーキーたちが語る",
-          "source": "Business Insider",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_マーケティング戦略 比較_20261110",
-      "theme": "マーケティング戦略 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "かわいいけど重いテーマな『Danchi Days』開発者、「ウィッシュリストは増えたけどあまり売れなかった」つらい報告。ウィッシュリスト数“だけ”を追い求めていた、失敗と反省を赤裸々告白",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "受託開発から自社SaaSへ。TorchUp、投資上限・収益性・撤退基準を整理した無料資料を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "IRBANK、マネックスグループと資本業務提携。総額7.2億円を調達",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "総人口5万人以上の市区町村を分析「昼は強いが夜は弱い街」全国ランキングを公開【エムディー株式会社】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "lmessage導入事例紹介！相続コンサルが紙の顧客フォローをLINE化",
+          "title": "商品データ統合プラットフォーム「EBISU PIM」が次世代AI標準規格「MCP」に対応。ClaudeやChatGPTなどの多様なAIから商品データへのシームレスなアクセスを実現",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
-        },
-        {
-          "title": "未経験OKあり！Webマーケティング転職におすすめなサイト10選―現役webマーケターが厳選",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【11/12無料ウェビナー】600社以上の相談から見えた、SNS運用代行会社選びで失敗しないためのポイント｜StockSun認定パートナー・植本涼太郎が登壇",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20261110",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "丸文、巧妙化するサイバー脅威に対応する次世代セキュリティ事業を大幅強化",
-          "source": "Pr Times",
-          "trust_score": 8.0
         },
         {
           "title": "新人時代、98%が議事録で失敗を経験。最多は「ただの文字起こし」、81%が「どこまで書くか」に悩んでいた【議事録作成経験者100名調査】",
@@ -252,22 +47,47 @@
           "trust_score": 8.0
         },
         {
-          "title": "【Aitria株式会社】AI駆動開発を支えるコンテキスト基盤「Phennec」、正式版を2026年11月5日より提供開始",
+          "title": "Ｓｋｙ株式会社が「WOW Tokyo 2026」に出展",
+          "source": "Kyodonewsprwire",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Ｓｋｙ株式会社が「WOW Tokyo 2026」に出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Ｓｋｙ株式会社が「WOW Tokyo 2026」に出展",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20261110",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "健康保険組合・保健指導機関向け保健事業AI支援システム「ZEAS（ジアス）」をリリース。招待制の無料クローズドテストを開始",
+          "title": "吉積情報、「Cmosy Pocket」の Share ライセンスに「承認者」ロールを追加し、承認機能を拡張",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "選挙運動費用を候補者別に比較できる「選挙のお金図鑑」を無料公開",
+          "title": "【吉積情報株式会社】Google Workspace の移行・バックアップ・共有管理を支える AvePoint 製品の取り扱いを開始",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AI校正・校閲ソリューション『AI editor』 専門のAIエージェントがチームで校正・校閲する構成にリニューアル",
+          "title": "ギブリー、AIエージェント型のWebページ・LP作成運用プラットフォーム「Givery AI for Web」β版の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIの暴走リスクを抑え、高度なAI開発を組織で自走させる。AIネイティブ組織のための新基盤「Einja Skills Manager」β版を提供開始。",
           "source": "Pr Times",
           "trust_score": 8.0
         }
