@@ -1,135 +1,80 @@
 {
-  "generated_at": "2026-11-11T01:08:44.730209",
-  "total_episodes": 3,
+  "generated_at": "2026-11-11T04:44:32.389533",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 比較_20261111",
-      "theme": "エージェント 比較",
+      "name": "episode_skill おすすめ_20261111",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "OrcaRouterのサイバーセキュリティチーム、OrcaCyber、サイバー意思決定モデル「OrcaC2 1.0」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "航空用チタン市場：市場傾向、需要、成長分析、および2026－2035年の予測",
+          "source": "Atpress",
+          "trust_score": 8.5
         },
         {
-          "title": "【2026年11月】フリーランス案件の単価における市場動向【フリーランスボード】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【2026年11月】フリーランス案件の単価における市場動向【フリーランスボード】",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た",
+          "source": "Ascii",
           "trust_score": 7.5
         },
         {
-          "title": "株式会社ブーツ、AI・人工知能EXPOに出展。「セマンティックレイヤー」「オントロジー」の構築支援サービスを紹介",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "株式会社ブーツ、AI・人工知能EXPOに出展。「セマンティックレイヤー」「オントロジー」の構築支援サービスを紹介",
+          "title": "吉積情報、「Cmosy Pocket」の Share ライセンスに「承認者」ロールを追加し、承認機能を拡張",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Laboro.AIと立教大学ビジネスデザイン研究所、AIシミュレーション調査で2030年の経営環境を予測、4つの企業アクションを提言",
+          "title": "【吉積情報株式会社】Google Workspace の移行・バックアップ・共有管理を支える AvePoint 製品の取り扱いを開始",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "Laboro.AIと立教大学ビジネスデザイン研究所、AIシミュレーション調査で2030年の経営環境を予測、4つの企業アクションを提言",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_Claude Code おすすめ_20261111",
-      "theme": "Claude Code おすすめ",
+      "name": "episode_MCP 活用_20261111",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "[ITmedia PC USER] 「Adobe Creative Cloud」が2027年版に 「エージェント型ワークフロー」を志向して作業効率が向上する機能を実装",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「Adobe Firefly」にデザイン・動画編集機能を統合した新キャンバス(デジカメ Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
         {
           "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
           "source": "Automaton",
           "trust_score": 7.0
         },
         {
-          "title": "Claude Opus 5.5の推論能力が11月3日から急激に低下したとの指摘、1400件の利用履歴から変化が判明",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "UiPath、AIで業務を再設計する「Cartographer」発表 自動化の開発期間短縮へ",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIセキュリティのCoWorker、社員のAI利用を守る“ウイルス対策ソフトのAI版”「CoWorker AIハーネス」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AIセキュリティのCoWorker、社員のAI利用を守る“ウイルス対策ソフトのAI版”「CoWorker AIハーネス」を提供開始",
+          "title": "Anthropic新利用ポリシー、11月12日発効―Claude連携機器に接続断時の安全確保を要求",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表 ——推論や画像理解を改善、長時間のエージェント作業も強化",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
+          "title": "中小企業の経営判断は「勘頼み」？ 弥生が指摘する3つの分断",
+          "source": "Mynavi News",
+          "trust_score": 8.0
         },
         {
-          "title": "株式会社ビットエーは採用サイトを全面リニューアルしました。",
+          "title": "「Teads Ad Manager」に新機能を追加し、次世代プラットフォームとして進化",
           "source": "Pr Times",
           "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261111",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "大野修平氏登壇！日税連AIガイドライン徹底解説 ― AI記帳から始める業務変革",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
         },
         {
-          "title": "錢高組、Kencopa工程AIエージェントの製品利用開始。AIを活用し創業320年の技術継承に挑戦。",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "健康保険組合・保健指導機関向け保健事業AI支援システム「ZEAS（ジアス）」をリリース。招待制の無料クローズドテストを開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "AIの暴走リスクを抑え、高度なAI開発を組織で自走させる。AIネイティブ組織のための新基盤「Einja Skills Manager」β版を提供開始。",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "ショート動画屋さん、Instagram動画広告の「入稿前確認シート」を11月9日に公開",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Ｓｋｙ株式会社が「WOW Tokyo 2026」に出展",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
+          "title": "ブリスコラ、プログデンスと「BAMs Series」の販売代理店契約を締結",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
