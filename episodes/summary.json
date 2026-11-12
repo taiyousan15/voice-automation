@@ -1,78 +1,23 @@
 {
-  "generated_at": "2026-11-11T04:44:32.389533",
-  "total_episodes": 2,
+  "generated_at": "2026-11-12T05:47:03.206637",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261111",
-      "theme": "skill おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用_20261112",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "航空用チタン市場：市場傾向、需要、成長分析、および2026－2035年の予測",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "会話だけで動画をブラッシュアップ！ 仕事に使える動画をClaudeとKling 4.0で作って見た",
-          "source": "Ascii",
-          "trust_score": 7.5
-        },
-        {
-          "title": "吉積情報、「Cmosy Pocket」の Share ライセンスに「承認者」ロールを追加し、承認機能を拡張",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【吉積情報株式会社】Google Workspace の移行・バックアップ・共有管理を支える AvePoint 製品の取り扱いを開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20261111",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "[ITmedia PC USER] 「Adobe Creative Cloud」が2027年版に 「エージェント型ワークフロー」を志向して作業効率が向上する機能を実装",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「Adobe Firefly」にデザイン・動画編集機能を統合した新キャンバス(デジカメ Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "AI機能フル投入の「Unreal Engine 5.9」プレビュー版が配信開始。「UE6」を前に、“AIフレンドリー”なゲームエンジンへと様変わり",
-          "source": "Automaton",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Anthropic新利用ポリシー、11月12日発効―Claude連携機器に接続断時の安全確保を要求",
+          "title": "NEC、CEATEC 2026でバーチャルリアリティ技術を活用したメンテナンス業務の革新を紹介",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "trust_score": 7.5
         },
         {
-          "title": "中小企業の経営判断は「勘頼み」？ 弥生が指摘する3つの分断",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「Teads Ad Manager」に新機能を追加し、次世代プラットフォームとして進化",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ブリスコラ、プログデンスと「BAMs Series」の販売代理店契約を締結",
+          "title": "AI駆動セールスプラットフォーム「DealOn」、CRMを永年無料で提供",
           "source": "Pr Times",
           "trust_score": 8.0
         }
