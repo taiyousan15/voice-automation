@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T05:47:03.206637",
-  "total_episodes": 1,
+  "generated_at": "2026-11-13T01:44:59.545741",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用_20261112",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026_20261113",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 2026",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -18,8 +18,53 @@
         },
         {
           "title": "AI駆動セールスプラットフォーム「DealOn」、CRMを永年無料で提供",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_マーケティング戦略 比較_20261113",
+      "theme": "マーケティング戦略 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "迅雷（Xunlei）2026年第3四半期決算：売上高12.9%増も損失拡大",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "HomeToGoが2026年第3四半期に過去最高益を記録、業績見通しを上方修正",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ロイヤル・ユニブリュー、2026年通期見通しを修正——株価は堅調な第3四半期を受け上昇",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "日本のエージェンティック・コマース市場規模は2026年時点で12.5兆円規模～BCG調査",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "スマホのアプリ利用個数は10年で約2倍に 利用者数上位100アプリは7割超が入れ替わり",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "営業代行・営業支援会社との事業提携を拡大。「営業成果・企業成長支援パッケージ」を提供開始。営業支援から経営全体の成長支援へ",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "営業代行・営業支援会社との事業提携を拡大。「営業成果・企業成長支援パッケージ」を提供開始。営業支援から経営全体の成長支援へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         }
       ]
     }
