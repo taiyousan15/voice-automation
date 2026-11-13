@@ -1,25 +1,50 @@
 {
-  "generated_at": "2026-11-12T05:47:03.206637",
+  "generated_at": "2026-11-13T05:06:06.488884",
   "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用_20261112",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 活用",
+      "name": "episode_MCP 比較_20261113",
+      "theme": "MCP 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "NEC、CEATEC 2026でバーチャルリアリティ技術を活用したメンテナンス業務の革新を紹介",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "Cision、ブランドの情報把握力と確信を持った意思決定を支援するAI搭載型「Cision Intelligence」を発表",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "AI駆動セールスプラットフォーム「DealOn」、CRMを永年無料で提供",
+          "title": "ギャプライズ、Claudeを使ったUX改善の4つの機能を提供開始 示唆・案・試作はAI、判断は人",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "マイクロソフト、.NET 11を正式公開―2年間のSTS、.NET 8・9はサポート終了",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Salesforce、「IDC MarketScape: Japan Unified AI Platforms 2026 Vendor Assessment」でリーダーカテゴリーに選出",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ストアレコード、Amazonが実際に差し引いた販売手数料・FBA手数料を自動で取り込む新機能を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【Ahrefs エイチレフス】直近 1 年でリクエスト数 124 倍、日次ユーザー数 77 倍に成長した MCP をさらにアップグレード。AI からの書き込み操作に対応",
+          "source": "Pr Times",
+          "trust_score": 8.5
         }
       ]
     }
