@@ -1,130 +1,90 @@
 {
-  "generated_at": "2026-11-14T01:22:58.712628",
-  "total_episodes": 7,
+  "generated_at": "2026-11-14T04:57:16.999632",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ_20261114",
-      "theme": "占い おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは_20261114",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Inox Wind、Q2売上高58%増も2027年度通期ガイダンスは示さず",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "生活保護は収入があっても受けられる？受給世帯の55.2％が高齢者世帯、そのうち単身は84万2484世帯(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Tata Motors、ジャガー・ランドローバーの利益率見通しを引き下げ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "アストン・ヴィラFWニコラス・ジャクソン、プレミアリーグ月間MVPを初受賞！ 4戦4発＆マンC撃破に貢献",
-          "source": "サッカーキング",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【おかず1品の弁当】ご飯のほうが高くつく？東京都区部の米5kgは2026年9月に3700円。1年前の4689円から989円下がり、0.5合のご飯は約55.5円(LIMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「2店舗回ってもない」「売り切れだった」SNSで話題の『変わったクッション』二度見したくなるデザインで笑っちゃいます！(ハフポスト日本版)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "『超かぐや姫！』無料オンラインライブに“黒鬼”こと「ブラックオニキス」のゲスト参戦が決定。「ツクヨミ感謝祭」の続報が緊急発表、また…祭りが始まるな……（n回目）",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
+          "title": "総資産の約2倍を投じたM&Aで地方創生──チェンジHD福留社長が描くAI時代の次の10年",
+          "source": "Zuu Online",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_マーケティング戦略 おすすめ 理由_20261114",
-      "theme": "マーケティング戦略 おすすめ 理由",
+      "name": "episode_MCP おすすめ_20261114",
+      "theme": "MCP おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "経理財務DX・経営管理DX・M&A戦略の実践を1日で。物語コーポレーション、リクルートスタッフィング、GMOメイクショップらが登壇する経理財務特化カンファレンスを11月24日に開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
+          "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
         },
         {
-          "title": "会員50万人超の下着EC「SHIROHATO」が「W2 Commerce」を採用。悩みから商品を探せる新たな購買導線でCVR約6倍を実現",
+          "title": "freee、「freee請求書 債権管理」のPublic APIを公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "既存顧客へのSaaS提案が「受託の追加対応」で終わる理由とは？ 月額契約への移行を解説するホワイトペーパーをTorchUpが無料公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "ウェビナー開催：広告品質への要請に、メディアはどう応えるか",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【12/9オンライン開催】LayerX×ブリッジコンサルティンググループ共催ウェビナー「IPO準備企業のためのバックオフィスシステム選定のポイント」を開催",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "教員は、ファシリテーター。英国ウルバーハンプトン大学 国際MBAへ進む第1段階を、日本語の講義で学ぶ「SCX Professional Program IMBA - UK WLV」学生募集を開始",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ナハト、「LPO AWARD2026」にてゴールド受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_Claude Code おすすめ 理由_20261114",
-      "theme": "Claude Code おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "Mac miniは仕事で使える？ 買ったはいいけど活用できず。数カ月放置したシステム開発会社がバイブコーディング環境を構築するまで。LandBridgeのMac導入事例①",
+          "title": "Eclipse Foundation、Sovereign AI Foundationを発足 - 17組織が参画",
           "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "プレアナ、生成AIでの実装×数値設計でシミュレーションゲームを継続開発する「kasimプロジェクト」を始動 ゲームの共同開発・IP活用などの協業パートナーを募集",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "株式会社PLAY、INTER BEE 出展者セミナー 企画セッションに登壇",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "遠隔地へ7.1.4chサウンドを届ける「PARAKNOT」と、AIに話しかけるだけでREAPERを動かせる新機能「rigcmd」を同時リリース！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
+          "title": "都市OS「GeonicDB」 が自治体の LGWAN 接続系で利用可能にー庁内端末から都市データと地図をそのまま活用",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "遠隔地へ7.1.4chサウンドを届ける「PARAKNOT」と、AIに話しかけるだけでREAPERを動かせる新機能「rigcmd」を同時リリース！",
-          "source": "Atpress",
+          "title": "株式会社PLAY、INTER BEE 出展者セミナー 企画セッションに登壇",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "担当者ひとりで、HubSpotサイトをまるごとリニューアル。「Kizuna Sites for HubSpot」11月13日提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20261114",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Drawing Agentに製造デジタルツイン機能｜AIが図面を読み「配置・能力・制御」まで設計段階で自動シミュレーション",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「テックキャンプ AIカレッジ」が『PIVOT』に出演し、MC業務の大半をAIが代替するデモを公開！2日間でアプリ・AIエージェントを完成させる人気講座「年末年始特別プログラム」の募集を開始",
+          "source": "Pr Times",
           "trust_score": 8.5
         },
         {
-          "title": "プレアナ、生成AIでの実装×数値設計でシミュレーションゲームを継続開発する「kasimプロジェクト」を始動 ゲームの共同開発・IP活用などの協業パートナーを募集",
-          "source": "Atpress",
-          "trust_score": 8.5
+          "title": "「テックキャンプ AIカレッジ」が『PIVOT』に出演し、MC業務の大半をAIが代替するデモを公開！2日間でアプリ・AIエージェントを完成させる人気講座「年末年始特別プログラム」の募集を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
           "title": "専門家の判断を、AIで扱える形にする。不動産鑑定士が『AIエージェントで機械学習をスキルにする』をKindleで発売。本書記載の手順による結果の再現性を、刊行前に検証済み",
@@ -132,159 +92,29 @@
           "trust_score": 8.5
         },
         {
-          "title": "上海の薬局でロボットがネット注文の薬を棚から取り出す AI商社のデジライズ、中国3都市・7社の現地調査結果を発表",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
+          "source": "Gizmodo",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ_20261114",
-      "theme": "エージェント おすすめ",
+      "name": "episode_MCP おすすめ 理由_20261114",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
-        {
-          "title": "Airo Group Holdings、Cantor Fitzgeraldとアット・ザ・マーケット株式売出し契約を締結",
-          "source": "Investing- Fx",
-          "trust_score": 7.0
-        },
-        {
-          "title": "参天製薬、生成AIの月間活用率95% - 4000件のAIエージェント、MRの面談支援にも",
-          "source": "Mynavi News",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【デザイナー向け】AIでUIデザインチェック＆タスク・資料作成を自動化！ セミナー「Visual Auditing入門」「エージェントワークフロー入門」のアーカイブを無料配信!!",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【8名限定】ナハト・小川 ひとみ氏と語る、「組織の急拡大を支える採用と人材開発」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "GMOペパボ、「GMO AIコマースホールディングス」を設立し持株会社体制へ移行",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AWS Emulator と実際の AWS で応答を比べてみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "先端パッケージの設計候補数を90％以上削減、日立が半導体の開発期間短縮技術を開発",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 比較_20261114",
-      "theme": "MCP 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "担当者ひとりで、HubSpotサイトをまるごとリニューアル。「Kizuna Sites for HubSpot」11月13日提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "担当者ひとりで、HubSpotサイトをまるごとリニューアル。「Kizuna Sites for HubSpot」11月13日提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Cision、ブランドの情報把握力と確信を持った意思決定を支援するAI搭載型「Cision Intelligence」を発表",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.0
-        },
         {
           "title": "Eclipse Foundation、Sovereign AI Foundationを発足",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Cision、ブランドの情報把握力と確信を持った意思決定を支援するAI搭載型「Cision Intelligence」を発表",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ギャプライズ、Claudeを使ったUX改善の4つの機能を提供開始 示唆・案・試作はAI、判断は人",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "マイクロソフト、.NET 11を正式公開―2年間のSTS、.NET 8・9はサポート終了",
+          "title": "「BizForecast AWARD 2026」経営管理システム『BizForecast』を提供するプライマルが経営管理の進化に貢献した導入企業・ビジネスパートナー企業を表彰",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 活用_20261114",
-      "theme": "思想 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "W杯後の進境著しい瀬古歩夢、“初出場”ブラジル戦で地位確立へ「勝利にこだわってやりたい」",
-          "source": "Gexaka",
           "trust_score": 7.5
-        },
-        {
-          "title": "木村拓哉、迎えた54歳の誕生日 アップデートされ続ける“カッコよさ” 初めてを楽しみ、挑戦を続けた国民的スターの1年",
-          "source": "Real Sound｜リアルサウンド",
-          "trust_score": 6.5
-        },
-        {
-          "title": "生後3カ月の娘を包丁で滅多刺しにした母親(車椅子インフルエンサー)に拘禁8年判決 → 閉廷直後、母親が叫ぶ「なんで死刑じゃないんだよ！」",
-          "source": "Esuteru Japanese Gaming Blog",
-          "trust_score": 9.2
-        },
-        {
-          "title": "JO1×go!go!vanillas、『東京リベンジャーズ』主題歌対談、ネガティブな感情を原動力に変えるということ",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "+109%、+49%、+39%：Nvidiaは低迷するも、AI投資テーマは新たな勝者を生み出し続けている",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "「ボトルネック解消」――楽天、衛星通信に自信 今後の展開は“一気に加速”",
-          "source": "Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "F1マシン「FW48」を想起させる深いブルー【ジラール・ペルゴ】ウィリアムズとのコラボ「ロレアート」が登場(WATCHNAVI Salon)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 活用_20261114",
-      "theme": "占い 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ローゼンブラット、需要堅調でCrowdStrikeの目標株価を275ドルに引き上げ",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
         }
       ]
     }
