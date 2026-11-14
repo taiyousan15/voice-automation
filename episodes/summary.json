@@ -1,50 +1,120 @@
 {
-  "generated_at": "2026-11-13T05:06:06.488884",
-  "total_episodes": 1,
+  "generated_at": "2026-11-14T04:57:16.999632",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 比較_20261113",
-      "theme": "MCP 比較",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは_20261114",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Cision、ブランドの情報把握力と確信を持った意思決定を支援するAI搭載型「Cision Intelligence」を発表",
-          "source": "Prニュースワイヤー",
+          "title": "総資産の約2倍を投じたM&Aで地方創生──チェンジHD福留社長が描くAI時代の次の10年",
+          "source": "Zuu Online",
           "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261114",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "学生が発表で使ったスライドがAIを使っていたので使用ソフトを尋ねたら「全部AIです」と言われた、Figmaとかだと思ったらツールごと全部AIとHTMLで作ってた",
+          "source": "Togetter [トゥギャッター]",
+          "trust_score": 7.0
         },
         {
-          "title": "ギャプライズ、Claudeを使ったUX改善の4つの機能を提供開始 示唆・案・試作はAI、判断は人",
+          "title": "freee、「freee請求書 債権管理」のPublic APIを公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "マイクロソフト、.NET 11を正式公開―2年間のSTS、.NET 8・9はサポート終了",
+          "title": "Eclipse Foundation、Sovereign AI Foundationを発足 - 17組織が参画",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "株式会社PLAY、INTER BEE 出展者セミナー 企画セッションに登壇",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "都市OS「GeonicDB」 が自治体の LGWAN 接続系で利用可能にー庁内端末から都市データと地図をそのまま活用",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "株式会社PLAY、INTER BEE 出展者セミナー 企画セッションに登壇",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "Salesforce、「IDC MarketScape: Japan Unified AI Platforms 2026 Vendor Assessment」でリーダーカテゴリーに選出",
+          "title": "担当者ひとりで、HubSpotサイトをまるごとリニューアル。「Kizuna Sites for HubSpot」11月13日提供開始",
           "source": "Pr Times",
-          "trust_score": 8.5
-        },
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20261114",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "ストアレコード、Amazonが実際に差し引いた販売手数料・FBA手数料を自動で取り込む新機能を提供開始",
+          "title": "Drawing Agentに製造デジタルツイン機能｜AIが図面を読み「配置・能力・制御」まで設計段階で自動シミュレーション",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場",
-          "source": "Gigazine",
+          "title": "「テックキャンプ AIカレッジ」が『PIVOT』に出演し、MC業務の大半をAIが代替するデモを公開！2日間でアプリ・AIエージェントを完成させる人気講座「年末年始特別プログラム」の募集を開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「テックキャンプ AIカレッジ」が『PIVOT』に出演し、MC業務の大半をAIが代替するデモを公開！2日間でアプリ・AIエージェントを完成させる人気講座「年末年始特別プログラム」の募集を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "【Ahrefs エイチレフス】直近 1 年でリクエスト数 124 倍、日次ユーザー数 77 倍に成長した MCP をさらにアップグレード。AI からの書き込み操作に対応",
+          "title": "専門家の判断を、AIで扱える形にする。不動産鑑定士が『AIエージェントで機械学習をスキルにする』をKindleで発売。本書記載の手順による結果の再現性を、刊行前に検証済み",
           "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
+          "source": "Gizmodo",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20261114",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Eclipse Foundation、Sovereign AI Foundationを発足",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「BizForecast AWARD 2026」経営管理システム『BizForecast』を提供するプライマルが経営管理の進化に貢献した導入企業・ビジネスパートナー企業を表彰",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         }
       ]
     }
