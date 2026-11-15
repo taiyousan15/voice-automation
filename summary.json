@@ -1,56 +1,11 @@
 {
-  "generated_at": "2026-11-15T00:55:47.862883",
-  "total_episodes": 6,
+  "generated_at": "2026-11-15T04:50:48.738273",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_Claude Code 活用_20261115",
-      "theme": "Claude Code 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AI動画編集を実現し、動画編集業務が11時間から0時間になったAIコンサル・AI活用支援事例を公開。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「コーディング面接」は時代遅れ…アンソロピックのマネージャーが語る、若手が頭角を表す方法",
-          "source": "Business Insider",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Mac miniは仕事で使える？ 買ったはいいけど活用できず。数カ月放置したシステム開発会社がバイブコーディング環境を構築するまで。LandBridgeのMac導入事例①",
-          "source": "Mynavi News",
-          "trust_score": 8.5
-        },
-        {
-          "title": "プレアナ、生成AIでの実装×数値設計でシミュレーションゲームを継続開発する「kasimプロジェクト」を始動 ゲームの共同開発・IP活用などの協業パートナーを募集",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "遠隔地へ7.1.4chサウンドを届ける「PARAKNOT」と、AIに話しかけるだけでREAPERを動かせる新機能「rigcmd」を同時リリース！",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "遠隔地へ7.1.4chサウンドを届ける「PARAKNOT」と、AIに話しかけるだけでREAPERを動かせる新機能「rigcmd」を同時リリース！",
-          "source": "Atpress",
-          "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 連携_20261115",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 連携",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 選び方_20261115",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 選び方",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -64,157 +19,47 @@
       ]
     },
     {
-      "name": "episode_哲学 活用_20261115",
-      "theme": "哲学 活用",
+      "name": "episode_エージェント おすすめ 理由_20261115",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "TRON生みの親が語るAI革命の本質／ 坂村健氏（東洋大学INIAD cHUB機構長）(ビデオニュース・ドットコム)",
+          "title": "『Ingress』推したちに会うため新宿散歩!! 目的に応じて柔軟にたのしむ2026年11月のセカンドサンデーリポート",
+          "source": "Getnews",
+          "trust_score": 8.5
+        },
+        {
+          "title": "ブッカー賞を受賞した小説『The End of Everything』がAI時代に共感を呼ぶ理由(Forbes JAPAN)",
           "source": "Yahoo Japan",
           "trust_score": 9.2
         },
         {
-          "title": "岸井ゆきの × 森田望智 × 岨手由貴子監督が語る映画「すべて真夜中の恋人たち」 「争わない」だけではない“女性同士の複雑な友情”",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "瀬戸内海を豊かな海へ アマモの再生活動を学ぶワークショップ 子供たちが団子作りに挑戦 広島(テレビ新広島)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "スバル「WRX」の6速MT搭載モデルが復活!! 走りは？ シフトフィールは？ さっそく試乗してきた(Car Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "広島『ビールスタンド重富』昭和のスイングカランで注ぐ炭酸爽快ビール",
-          "source": "Otona No Shuumatsu Web",
+          "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "世界の発明に選ばれた 「アリ」のヘルスケアAIアプリ 【野村義樹 ✕ リアルワールド】(オーヴォ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【1月12日(火)】pluszero（東証GRT5132）小代会長を囲む経営者交流会を開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ 理由_20261115",
-      "theme": "skill おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "専門家の判断を、AIで扱える形にする。不動産鑑定士が『AIエージェントで機械学習をスキルにする』をKindleで発売。本書記載の手順による結果の再現性を、刊行前に検証済み",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "専門家の判断を、AIで扱える形にする。不動産鑑定士が『AIエージェントで機械学習をスキルにする』をKindleで発売。本書記載の手順による結果の再現性を、刊行前に検証済み",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_マーケティング戦略 活用_20261115",
-      "theme": "マーケティング戦略 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【マスメディアの大逆襲！】SNS全盛の今、企業の生き残りを左右するのは\"マスメディアの権威性\"だった！！\"テレアポ\"から\"ブランディングしながら営業\"？！「ラジオ営業スキーム」を本格提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "人事部長は見た！成績トップで入社した女子社員23歳が「60日で会社を去った」まさかの理由／新入社員は1年目でどれくらい辞めるのか調べてみた",
-          "source": "日刊spa! | 働く世代のホンネ情報",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【1月16日開講】カレーをテーマにマーケティングの基礎と実践を楽しく学ぶ通学講座「カレー大學総合学部」が新規開講。大人気国民食を題材に、商品開発・企画・戦略の本質を身につけ、即戦力人材を目指します",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "アシックス、3年後に売上高1.5倍の1兆5000億円へ 新中計発表",
-          "source": "Wwd Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "「クリエイターメディア責任者」が新たなグロース責任者となる理由 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
-        },
-        {
-          "title": "人と企業のつながりから、新たなビジネスの可能性を広げるランチ会を開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "TDコーウェン、クラフト・ハインツの株価評価を「ホールド」で維持、目標株価22ドル",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        }
-      ]
-    },
-    {
-      "name": "episode_占い 方法_20261115",
-      "theme": "占い 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "スマホサイズの「小さすぎるホラー本」がいま話題！【美女の教養読書Vol.3】(CanCam.jp)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【速報】74歳女性が「占いサイト」で2380万円詐欺被害 「金運を取り逃さないため」186回送金(京都新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "日本では妻の収入が増えると夫はより多くの家事をするようになるのか？",
+          "title": "現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "守口、門真…中核市見据えた合併議論を 地元商工会議所が要望書提出(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "守口、門真…中核市見据えた合併議論を 地元商工会議所が要望書提出",
-          "source": "産経ニュース",
+          "title": "広島・森下暢仁FA移籍でどこへ行く 巨人や識者が語る「本命」",
+          "source": "Zakzak",
           "trust_score": 7.0
         },
         {
-          "title": "【大阪・平野】自らを「代表窯番」と呼ぶ職人が焼く！ ？ 焼き菓子が売上の9割を占める「パティスリー ガレット」と極上ガレットブルトンヌの秘密(ufu.)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "トヨタ「S-FR」復活へ新展開！ 660ccターボ搭載の軽FRスポーツに変身か、2027年登場説が浮上",
-          "source": "Motor Fan｜自動車情報のモーターファン",
-          "trust_score": 7.5
+          "title": "AIで「昨日のビジネスモデル」を自動化していないか リーダーが向き合うべき再発明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
         }
       ]
     }
