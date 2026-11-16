@@ -1,65 +1,60 @@
 {
-  "generated_at": "2026-11-15T04:50:48.738273",
-  "total_episodes": 2,
+  "generated_at": "2026-11-16T00:54:00.244246",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 選び方_20261115",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 選び方",
+      "name": "episode_哲学 比較_20261116",
+      "theme": "哲学 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "総資産の約2倍を投じたM&Aで地方創生──チェンジHD福留社長が描くAI時代の次の10年",
-          "source": "Zuu Online",
+          "title": "スバル「WRX」の6速MT搭載モデルが復活!! 走りは？ シフトフィールは？ さっそく試乗してきた(Car Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261116",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "グーグル、最大1000問を一括評価するGemini Decisions API―料金と精度検証のポイント",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能",
+          "source": "Gigazine",
           "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261115",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_Claude Code おすすめ_20261116",
+      "theme": "Claude Code おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『Ingress』推したちに会うため新宿散歩!! 目的に応じて柔軟にたのしむ2026年11月のセカンドサンデーリポート",
-          "source": "Getnews",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ブッカー賞を受賞した小説『The End of Everything』がAI時代に共感を呼ぶ理由(Forbes JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
+          "title": "【資料を無料公開】「Microsoft 365 Copilot 業務プロンプト集 50」を公開。Word・Excel・Teamsなど5つのアプリで試せる50本に、ライセンスと確かめ方を添えました",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘",
+          "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
           "source": "Gigazine",
           "trust_score": 7.5
-        },
-        {
-          "title": "通信障害による全米の空港の出発停止をリアルタイム報道 Data is CITY が日米の便の状況と対策を即時発信",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "広島・森下暢仁FA移籍でどこへ行く 巨人や識者が語る「本命」",
-          "source": "Zakzak",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AIで「昨日のビジネスモデル」を自動化していないか リーダーが向き合うべき再発明 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-          "source": "Forbes Japan Official Site",
-          "trust_score": 9.7
         }
       ]
     }
