@@ -1,56 +1,11 @@
 {
-  "generated_at": "2026-11-17T03:35:35.474981",
-  "total_episodes": 3,
+  "generated_at": "2026-11-17T06:34:49.333788",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_マーケティング戦略 比較_20261117",
-      "theme": "マーケティング戦略 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "経費精算・請求書処理・債権管理・管理会計・経理BPOまで、経理財務の課題に応える15社が出展。「BtoB Growth EXPO for 経理財務」11月24日開催、出展企業を公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【本日から\"期間限定\"で公開！】上半期BtoBマーケター調査、AIエージェント利用者の3人に1人が商談増。増加層は\"浮いた時間\"を「顧客理解」に充てる割合が3.4倍",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "総人口5万人以上の市区町村を分析 夜間需要の取りこぼしが大きい街ランキングを公開【エムディー株式会社】",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "衣類クリーニング会社向け「店舗収益・事業再構築支援パッケージ」を提供開始。店舗採算・顧客単価・リピート率・法人契約を一体的に改善",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ヒルトン・ガーデン・イン京都四条烏丸】総支配人に寺見 隆が就任",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【AI時代に企業・ブランドが問われる真価とは？】博報堂ＤＹホールディングス CAIO（最高AI責任者）森正弥氏が特別講演＜12/7・参加無料＞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "BtoBマーケ・AIを体系的に学べる「ツギノテ講座」を開放。48講座・全362回が無料会員なら全回受け放題に",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは_20261117",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新_20261117",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -64,17 +19,127 @@
       ]
     },
     {
-      "name": "episode_skill 活用_20261117",
-      "theme": "skill 活用",
+      "name": "episode_エージェント ランキング_20261117",
+      "theme": "エージェント ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【吉積情報株式会社】介護・看護の BISCUSSホールディングス、Google Workspace で「個人の情報」から「会社の情報」へ",
+          "title": "新卒でエンジニアになるには？就職までの準備と就活対策を現役エンジニアが解説！",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【本日から\"期間限定\"で公開！】上半期BtoBマーケター調査、AIエージェント利用者の3人に1人が商談増。増加層は\"浮いた時間\"を「顧客理解」に充てる割合が3.4倍",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "データサイエンティストとは？仕事内容・年収・なり方を現役エンジニアがわかりやすくに解説",
+          "source": "Tenshoku Stories",
+          "trust_score": 7.5
+        },
+        {
+          "title": "＜ ロフト・PLAZAのベストコスメ 2026に選出 ＞ベースメイクブランド「vim BEAUTY（ヴィムビューティー）」が3部門でランクイン！",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "一般のエンジニアには刺さらない!? それでもMATSimに「使う価値」がある理由",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] 内閣府の“神エクセル“は「0点」 デジタル庁公式ツールを試して分かった「使えないデータ」脱却のポイント",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「任せる業務」の整理が業務効率化のポイントに。オンラインアシスタント(R)が見た、「フジ子さん」活用企業の工夫とは",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261117",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Ahrefs、ちょっと株式会社の導入事例を公開。Claude 連携で制作提案を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【Brivo】販売代理店向けAI連携機能「Brivo Reseller MCP」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "農業現場とAIを繋ぐ仕組みへ。農業人事評価・業務管理アプリ「suino」がMCP連携に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "一般社団法人組込みシステム技術協会とLinux Foundation「組込みLinuxエンジニア認定プログラム」を11月16日より開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261117",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ビジュアル・プロセッシング・ジャパン 3Qは大幅増益、通期予想を上方修正",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Omnissa、AIエージェントを守り、脅威からも企業を保護する新戦略を紹介",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "BOOKERS、MCPに対応。Claude・ChatGPTから有料記事の作成・販売が可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "なぜGPUとTPUを混載するのか？ あえてCPUを外しFP8も捨てたWaymo独自プロセッサーの徹底した割り切り",
+          "source": "Ascii",
+          "trust_score": 7.5
         }
       ]
     }
