@@ -1,50 +1,145 @@
 {
-  "generated_at": "2026-11-16T04:47:03.871352",
-  "total_episodes": 1,
+  "generated_at": "2026-11-17T06:34:49.333788",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 方法_20261116",
-      "theme": "エージェント 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新_20261117",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AWS AgentCore Runtime V2の料金分析―メモリ単価79%上昇、費用を左右する使用量と待機時間",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
+          "title": "AI時代に「修士号」を取得する意義とは？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント ランキング_20261117",
+      "theme": "エージェント ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "マネジメント経験がない30代エンジニアの転職｜評価される経験と求人の選び方を現役面接官が解説",
+          "title": "新卒でエンジニアになるには？就職までの準備と就活対策を現役エンジニアが解説！",
           "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "「生活リズムはぐちゃぐちゃ、AIも怖くなった」26歳女性が“今どきの仕事”を辞めて建設業界に飛び込んだワケ。職人の懐に入るのは「むしろ得意」",
-          "source": "日刊spa! | 働く世代のホンネ情報",
-          "trust_score": 7.5
+          "title": "【本日から\"期間限定\"で公開！】上半期BtoBマーケター調査、AIエージェント利用者の3人に1人が商談増。増加層は\"浮いた時間\"を「顧客理解」に充てる割合が3.4倍",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "30代エンジニアの平均年収はいくら？職種別の相場と年収が伸び悩む原因を現役エンジニアが解説",
+          "title": "データサイエンティストとは？仕事内容・年収・なり方を現役エンジニアがわかりやすくに解説",
           "source": "Tenshoku Stories",
           "trust_score": 7.5
         },
         {
-          "title": "米非営利4団体、AI大手5社に開発差し止め求め提訴―原告は政府査察も提唱",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "バイドゥ、AIモデル「ERNIE 5.5 Flash Preview」の重みを11月25日までに公開へ―Apache 2.0を採用予定",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ゴムマリ、Notion と『Salesforce の連携』を提供開始",
+          "title": "＜ ロフト・PLAZAのベストコスメ 2026に選出 ＞ベースメイクブランド「vim BEAUTY（ヴィムビューティー）」が3部門でランクイン！",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "一般のエンジニアには刺さらない!? それでもMATSimに「使う価値」がある理由",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[ITmedia ビジネスオンライン] 内閣府の“神エクセル“は「0点」 デジタル庁公式ツールを試して分かった「使えないデータ」脱却のポイント",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「任せる業務」の整理が業務効率化のポイントに。オンラインアシスタント(R)が見た、「フジ子さん」活用企業の工夫とは",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261117",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "Personal Agent Protocol 1.0公開、ShopifyやMetaのMuseが対応",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Ahrefs、ちょっと株式会社の導入事例を公開。Claude 連携で制作提案を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "インパクトマネジメント基盤の「impactlake(TM)」、MCPに対応しChatGPTのプラグイン提供を開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【Brivo】販売代理店向けAI連携機能「Brivo Reseller MCP」を発表",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "農業現場とAIを繋ぐ仕組みへ。農業人事評価・業務管理アプリ「suino」がMCP連携に対応",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "一般社団法人組込みシステム技術協会とLinux Foundation「組込みLinuxエンジニア認定プログラム」を11月16日より開始",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ_20261117",
+      "theme": "MCP おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ビジュアル・プロセッシング・ジャパン 3Qは大幅増益、通期予想を上方修正",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Omnissa、AIエージェントを守り、脅威からも企業を保護する新戦略を紹介",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "BOOKERS、MCPに対応。Claude・ChatGPTから有料記事の作成・販売が可能に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "刺しゅう機の専用アプリでサブスクが必要だったのでChatGPTを使ってサブスク不要のアプリを自作",
+          "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "なぜGPUとTPUを混載するのか？ あえてCPUを外しFP8も捨てたWaymo独自プロセッサーの徹底した割り切り",
+          "source": "Ascii",
+          "trust_score": 7.5
         }
       ]
     }
