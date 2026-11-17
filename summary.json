@@ -1,48 +1,78 @@
 {
-  "generated_at": "2026-11-16T04:47:03.871352",
-  "total_episodes": 1,
+  "generated_at": "2026-11-17T03:35:35.474981",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 方法_20261116",
-      "theme": "エージェント 方法",
+      "name": "episode_マーケティング戦略 比較_20261117",
+      "theme": "マーケティング戦略 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AWS AgentCore Runtime V2の料金分析―メモリ単価79%上昇、費用を左右する使用量と待機時間",
+          "title": "経費精算・請求書処理・債権管理・管理会計・経理BPOまで、経理財務の課題に応える15社が出展。「BtoB Growth EXPO for 経理財務」11月24日開催、出展企業を公開",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "マネジメント経験がない30代エンジニアの転職｜評価される経験と求人の選び方を現役面接官が解説",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
+          "title": "【本日から\"期間限定\"で公開！】上半期BtoBマーケター調査、AIエージェント利用者の3人に1人が商談増。増加層は\"浮いた時間\"を「顧客理解」に充てる割合が3.4倍",
+          "source": "Pr Times",
+          "trust_score": 8.5
         },
         {
-          "title": "「生活リズムはぐちゃぐちゃ、AIも怖くなった」26歳女性が“今どきの仕事”を辞めて建設業界に飛び込んだワケ。職人の懐に入るのは「むしろ得意」",
-          "source": "日刊spa! | 働く世代のホンネ情報",
-          "trust_score": 7.5
+          "title": "総人口5万人以上の市区町村を分析 夜間需要の取りこぼしが大きい街ランキングを公開【エムディー株式会社】",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "30代エンジニアの平均年収はいくら？職種別の相場と年収が伸び悩む原因を現役エンジニアが解説",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
+          "title": "衣類クリーニング会社向け「店舗収益・事業再構築支援パッケージ」を提供開始。店舗採算・顧客単価・リピート率・法人契約を一体的に改善",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "米非営利4団体、AI大手5社に開発差し止め求め提訴―原告は政府査察も提唱",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "【ヒルトン・ガーデン・イン京都四条烏丸】総支配人に寺見 隆が就任",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "バイドゥ、AIモデル「ERNIE 5.5 Flash Preview」の重みを11月25日までに公開へ―Apache 2.0を採用予定",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "【AI時代に企業・ブランドが問われる真価とは？】博報堂ＤＹホールディングス CAIO（最高AI責任者）森正弥氏が特別講演＜12/7・参加無料＞",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "ゴムマリ、Notion と『Salesforce の連携』を提供開始",
+          "title": "BtoBマーケ・AIを体系的に学べる「ツギノテ講座」を開放。48講座・全362回が無料会員なら全回受け放題に",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは_20261117",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 とは",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AI時代に「修士号」を取得する意義とは？ | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+          "source": "Forbes Japan Official Site",
+          "trust_score": 9.7
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 活用_20261117",
+      "theme": "skill 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【吉積情報株式会社】介護・看護の BISCUSSホールディングス、Google Workspace で「個人の情報」から「会社の情報」へ",
           "source": "Pr Times",
           "trust_score": 8.0
         }
