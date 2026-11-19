@@ -1,33 +1,88 @@
 {
-  "generated_at": "2026-11-18T05:55:55.346560",
-  "total_episodes": 4,
+  "generated_at": "2026-11-19T02:26:31.918777",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP 活用_20261118",
-      "theme": "MCP 活用",
+      "name": "episode_マーケティング戦略 比較_20261119",
+      "theme": "マーケティング戦略 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "キリフダ、「Allium」採用でオンチェーン分析強化へ。国内企業初のエンタープライズ契約",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
+          "title": "東京リライフクリニックCEO 古山喜章のインタビュー記事を『日中経営者』にて掲載",
+          "source": "Atpress",
+          "trust_score": 8.5
         },
         {
-          "title": "Nonagon Capital、 国立大学や国内大手事業者を含む4者とコンソーシアム型の実証実験を11月より開始",
+          "title": "東京リライフクリニックCEO 古山喜章のインタビュー記事を『日中経営者』にて掲載",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "15歳未満人口100人以上の市区町村を分析 子どもが多いのに教育サービスが少ない街ランキングを公開【エムディー株式会社】",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "ホットリンクグループのNonagon Capital、国立大学や国内大手事業者を含む4者とコンソーシアム型の実証実験を11月より開始",
+          "title": "「建設分野におけるフィジカルAI活用最前線」と題し、国土交通省 能登 眞澄氏/戸田建設(株) 斎藤 寛彰氏/(株)EARTHBRAIN 大場 重生氏によるセミナーを2026年12月18日(金)開催!!",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "「建設分野におけるフィジカルAI活用最前線」と題し、国土交通省 能登 眞澄氏/戸田建設(株) 斎藤 寛彰氏/(株)EARTHBRAIN 大場 重生氏によるセミナーを2026年12月18日(金)開催!!",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "HYBE JAPANのVRコンサート3作品が「ルミエール・ジャパン・アワード2026」VR部門に入賞！VRコンサートプロジェクトも奨励賞を受賞",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【11/24（火）開催】製造業の新規リード獲得を加速させるには？PRIZMAは「成果につながるホワイトペーパーの作り方・活用術」を解説",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20261119",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "転職ドラフト、外部ツールと連携して候補者のレジュメを取得できる公開APIを正式リリース",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "アンフィニクリエイションズ株式会社、2027年春以降にFDEサービスの提供開始を目指し、エンジニアの育成を開始――株式会社本質の「FDE育成プログラム」を導入",
+          "title": "AIセキュリティのCoWorker、いつものAIエージェントに“守りと攻めの点検”を追加する「Blue Harness」「Red Harness」を提供開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Taps株式会社、リリース1ヵ月で問い合わせ件数50件突破。現場ワーカー向け”スマホ1台で”手軽に学べる新しい学習体験を届ける。教育・学習SaaS「Taps」を正式リリース",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "アナリストはGA4のどこを見て、何を疑うのか。AIで自社ECの改善を加速させるデータの読み方【小川卓登壇レポート】",
+          "source": "Uncover Truth",
+          "trust_score": 7.5
+        },
+        {
+          "title": "RingCentral Inc、RBCカンファレンスでAI戦略が成長を後押しと説明",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
+        {
+          "title": "ChatGPT広告のレポート作成を自動化。広告レポート自動化ツール「インハウスプラス」がChatGPT広告に対応",
           "source": "Pr Times",
           "trust_score": 8.0
         },
@@ -35,96 +90,26 @@
           "title": "生成AI・AIエージェント向けセキュリティ「Aurascape」が日本初上陸、ネクストモードが日本初の正規販売代理店に認定",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "WizLaboと連結会計システム「Consoleasy」がAPI連携開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "連結会計システム「Consoleasy」、宝印刷株式会社の「WizLabo」とのAPI連携を発表 ― 連結決算から開示書類作成までのデータ転記を自動化へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_エージェント 活用_20261118",
-      "theme": "エージェント 活用",
+      "name": "episode_バイブコーディング 方法_20261119",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "エクイファックス、J.P.モルガン会議でデータとAIを軸とした成長戦略を説明",
-          "source": "Investing- Fx",
-          "trust_score": 6.5
-        },
-        {
-          "title": "MiTAC Computing、SC26でフルスタックインフラストラクチャを用いてエージェントAIの規模拡大を実現",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Armの株価が本日上昇した理由とは",
-          "source": "Investing- Fx",
-          "trust_score": 6.0
-        },
-        {
-          "title": "ムーディーズ、ティモシー・バットを最高情報責任者に任命",
-          "source": "Businesswire",
-          "trust_score": 7.5
-        },
-        {
-          "title": "ムーディーズ、ティモシー・バットを最高情報責任者に任命",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Gemini 4 Hydrogenは無料でも使える。上位モデル超えの新AIが、いつもの検索窓にもう入っていた",
-          "source": "Lifehacker",
+          "title": "AI時代のエンジニアに必要なのは「人と話す力」。会議が増え、出社が求められ、顧客とも向き合う",
+          "source": "Business Insider",
           "trust_score": 7.0
         },
         {
-          "title": "オープンキャンパスのシーズン到来！ ～個別相談や模擬授業のほか、キャンパスツアーや学食体験も人気。総合型選抜（旧AO入試）の出願条件に課す大学も（8月13日現在）",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ_20261118",
-      "theme": "MCP おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ChatGPT広告のレポート作成を自動化。広告レポート自動化ツール「インハウスプラス」がChatGPT広告に対応",
+          "title": "アンフィニクリエイションズ株式会社、2027年春以降にFDEサービスの提供開始を目指し、エンジニアの育成を開始――株式会社本質の「FDE育成プログラム」を導入",
           "source": "Pr Times",
           "trust_score": 8.0
-        },
-        {
-          "title": "Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261118",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "マッキンゼー、日本マイクロソフト、プロジェクトHD等のキーパーソンが東大生×経営者の交流会「東大メシ」に登壇！",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
         }
       ]
     }
