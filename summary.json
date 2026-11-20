@@ -1,95 +1,190 @@
 {
-  "generated_at": "2026-11-19T05:56:10.083817",
-  "total_episodes": 2,
+  "generated_at": "2026-11-20T02:10:37.835939",
+  "total_episodes": 5,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20261119",
-      "theme": "MCP おすすめ",
+      "name": "episode_マーケティング戦略 活用_20261120",
+      "theme": "マーケティング戦略 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "技術書典21に協賛いたします",
-          "source": "Gmo Developers",
-          "trust_score": 7.0
+          "title": "PDD Holdings、2026年第3四半期EPSは予想超え・売上高は予想下回る",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
-          "source": "財経新聞：経済・株式の最新ニュース",
+          "title": "WPPの最高経営責任者Cindy Rose氏、C Space®の基調講演でAI時代におけるデータの独立性と信頼の重要性を探る",
+          "source": "Prニュースワイヤー",
           "trust_score": 7.5
         },
         {
-          "title": "【セミナー開催】Ragate株式会社、株式会社アイエスビーと共催ウェビナー「AI駆動開発・市民開発の進め方とセキュリティ」を12月2日に開催",
+          "title": "AI時代の知財基盤「SINGULON」を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【セミナー開催】Ragate株式会社、株式会社アイエスビーと共催ウェビナー「AI駆動開発・市民開発の進め方とセキュリティ」を12月2日に開催",
+          "title": "【政治家から絶賛の声】株式会社EMOLVAが政治家・政党向けの「SNS活用・個別相談プログラム」を期間限定で開始｜公職選挙法・炎上リスクなど“政治SNS特有の3つの壁”に対応する独自戦略を共有",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "LeapAI、ディップがオーナーを務めるさいたまブロンコスの新マスコット発表で使われた生成AI映像を上映する無料イベントを11月26日に竹芝で開催。採用・会社紹介動画にどこまで使えるかを制作者が解説",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【イベントレポート】カッティングマシン発売20周年のCricutが新カテゴリーへ／「Cricut StickerPix™メディア向け新製品体験会」で実機を日本で初披露",
+          "source": "Atpress",
+          "trust_score": 8.5
+        },
+        {
+          "title": "【イベントレポート】カッティングマシン発売20周年のCricutが新カテゴリーへ／「Cricut StickerPix™メディア向け新製品体験会」で実機を日本で初披露",
           "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 違い_20261120",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 違い",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "なぜリーダーはいま哲学を学ぶ必要があるのか(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code おすすめ_20261120",
+      "theme": "Claude Code おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "各AIモデルに最適なハーネスはどれか？",
+          "source": "Gigazine",
           "trust_score": 7.0
         },
         {
-          "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
+          "title": "【日本初AI Cafe】ドリンク1杯で、生成AIのトークンが使える。高田馬場「Token Cafe」11月16日オープン",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIは「選ぶ」から「乗り継ぐ」時代へ。Claude も ChatGPT もローカルLLMも、1つのタスクに総動員するAIコーディングエージェント「Noritsugi」、クローズドβ始動",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "サイボウズ、kintoneに新機能「プロセスAIエージェント」 人とAIが業務を分担",
-          "source": "Mynavi News",
+          "title": "AI研修のUravation、代表・佐藤傑の4冊目『AI分身仕事術』を本日発売。自分の仕事の型を覚えた〈AI分身〉を10分で作る方法を1冊に。書籍の執筆・監修のご依頼も受付中",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "デジライズ、海外大手ロボットメーカーと取引を開始 ロボット導入支援サイトを刷新し、世界のロボット37社・95機種を比較できる「Physical AI Labo by デジライズ」を開設",
+          "source": "Pr Times",
           "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261119",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_思想 おすすめ 理由_20261120",
+      "theme": "思想 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "AIに足りないのはデータではない、「企業の暗黙知」を活用する仕組みをテラデータが提案",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "インディゴソリューションズ、KELAグループと販売代理店契約を締結",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Salesforce、Salesforce World Tour Tokyoを開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "S3 Vectorsのハイブリッド検索を日本語で試してみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "機械設計エンジニアの年収はいくら？相場と、年収が上がらない理由・上げ方を現役エンジニアが解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Meta社Agency Partnerが最新の考え方を解説、CyberACEは「効果おまかせAI」による24時間運用の成果を人の運用との比較データで公開",
+          "title": "【上智大学カトリック推薦・合格率85.7％】2026年度公表実績で業界No.1（当社調べ）！推薦入試専門塾EQAO、2027年度対策を11月21日から先着30名限定で受付開始",
           "source": "Pr Times",
           "trust_score": 8.5
+        },
+        {
+          "title": "大満足！超特大かにかにセットで家族親戚大喜びだい！！",
+          "source": "Ameblo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【レポート】中島健人「美しい瞳でクリスマスツリーを眺めている君が好き」新CMキャラクターとしてメニコン新CM発表会に登場",
+          "source": "The First Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        },
+        {
+          "title": "アップル＆モーゼス・マーティン、バーバリーのイベントに姉弟だけで参加",
+          "source": "Vogue",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【社説】米中ロ首脳会談 大国が幅を利かせる世界、横暴許さぬ外交を",
+          "source": "朝日新聞デジタル",
+          "trust_score": 7.0
+        },
+        {
+          "title": "もう床暖房いらないじゃん！ワークマンの「1280円ルームシューズ」履いた瞬間から暖かいし、快適すぎてもう手放せない！",
+          "source": "Buzzfeed",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 おすすめ_20261120",
+      "theme": "思想 おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "定期預金は長く預けるほど利息が増える。100万円なら10年ものは普通預金より年約6773円多い試算(LIMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "1000億円の東電拠出金 原発周辺6市の電気代補助に32億円計上へ 不公平感解消なるか 新潟(新潟ニュースNST)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "広瀬アリス、食事中に友人が話した言葉に「友達だったり家族に伝えていきたいな」",
+          "source": "日テレnews Nnn",
+          "trust_score": 8.5
+        },
+        {
+          "title": "主演 岩橋玄樹×相馬理！中井大がゲスト出演/木曜ドラマ『恋愛ルビの正しいふりかた シーズン2』第５話場面写真・あらすじ・PR動画解禁/11月26日(木)21時25分～放送",
+          "source": "Pr Times",
+          "trust_score": 8.5
+        },
+        {
+          "title": "黄色の小さい紙をパタパタ折って、大量に作ると…… クリスマスにぴったりなアイテムに「作ってみたい！」【海外ハンドメイドまとめ】(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
