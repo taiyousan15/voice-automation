@@ -1,95 +1,105 @@
 {
-  "generated_at": "2026-11-19T05:56:10.083817",
-  "total_episodes": 2,
+  "generated_at": "2026-11-20T05:44:46.356216",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_MCP おすすめ_20261119",
-      "theme": "MCP おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 レビュー_20261120",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 レビュー",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "技術書典21に協賛いたします",
-          "source": "Gmo Developers",
-          "trust_score": 7.0
-        },
+          "title": "なぜリーダーはいま哲学を学ぶ必要があるのか(DIAMOND ハーバード・ビジネス・レビュー)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_skill おすすめ_20261120",
+      "theme": "skill おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
+          "title": "GO TODAY SHAiRE SALON、会計・確定申告アプリ「タックスナップ」と提携 フリーランスビューティシャンの確定申告を、働く場からともに支える",
           "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "SamuraiAX、ヤマト運輸「ビジネスメンバーズ」の運賃と請求金額をAIから取得できるAPI連携をリリース（Samurai App）",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【セミナー開催】Ragate株式会社、株式会社アイエスビーと共催ウェビナー「AI駆動開発・市民開発の進め方とセキュリティ」を12月2日に開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【セミナー開催】Ragate株式会社、株式会社アイエスビーと共催ウェビナー「AI駆動開発・市民開発の進め方とセキュリティ」を12月2日に開催",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Microsoftが新型AIプログラミングモデル「MAI Code 2」と高速版「MAI Code 2 Flash」を発表、GPT-6.1 Solに匹敵する性能を40％のコストで発揮",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "サイボウズ、kintoneに新機能「プロセスAIエージェント」 人とAIが業務を分担",
-          "source": "Mynavi News",
           "trust_score": 8.5
         }
       ]
     },
     {
-      "name": "episode_エージェント おすすめ 理由_20261119",
-      "theme": "エージェント おすすめ 理由",
+      "name": "episode_MCP ランキング_20261120",
+      "theme": "MCP ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
+          "title": "AIエージェントで組み込み開発はどう変わる？ TIの最新技術を見た",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "転職ドラフト、外部ツールと連携して候補者のレジュメを取得できる公開APIを正式リリース",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Taps株式会社、リリース1ヵ月で問い合わせ件数50件突破。現場ワーカー向け”スマホ1台で”手軽に学べる新しい学習体験を届ける。教育・学習SaaS「Taps」を正式リリース",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261120",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "各AIモデルに最適なハーネスはどれか？",
           "source": "Gigazine",
+          "trust_score": 7.0
+        },
+        {
+          "title": "Abbove、欧州のウェルスプランニングをAI時代へ",
+          "source": "Businesswire",
           "trust_score": 7.5
         },
         {
-          "title": "AIに足りないのはデータではない、「企業の暗黙知」を活用する仕組みをテラデータが提案",
-          "source": "Mynavi News",
-          "trust_score": 8.0
+          "title": "Abbove、欧州のウェルスプランニングをAI時代へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "インディゴソリューションズ、KELAグループと販売代理店契約を締結",
+          "title": "SailPoint、自律型アイデンティティ セキュリティで安全なAIエージェント時代を実現",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "Salesforce、Salesforce World Tour Tokyoを開催",
+          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Microsoft Copilotに対応",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "S3 Vectorsのハイブリッド検索を日本語で試してみた",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
-        },
-        {
-          "title": "機械設計エンジニアの年収はいくら？相場と、年収が上がらない理由・上げ方を現役エンジニアが解説！",
-          "source": "Tenshoku Stories",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Meta社Agency Partnerが最新の考え方を解説、CyberACEは「効果おまかせAI」による24時間運用の成果を人の運用との比較データで公開",
+          "title": "法務オートメーション「OLGA」、「第19回 ASPIC AI・クラウドアワード 2026」にて「基幹業務系ASP・SaaS部門 ASPIC会長特別賞」を受賞",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
+        },
+        {
+          "title": "Qlik、Claude との連携により、統制されたビジネスコンテキストの活用と分析ワークフローの実行を支援",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
