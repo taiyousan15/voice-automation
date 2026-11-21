@@ -1,26 +1,11 @@
 {
-  "generated_at": "2026-11-21T02:03:37.542102",
-  "total_episodes": 3,
+  "generated_at": "2026-11-21T05:39:49.982652",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 有料_20261121",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 有料",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "なぜリーダーはいま哲学を学ぶ必要があるのか(DIAMOND ハーバード・ビジネス・レビュー)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 方法_20261121",
-      "theme": "skill 方法",
+      "name": "episode_skill おすすめ_20261121",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -39,47 +24,32 @@
       ]
     },
     {
-      "name": "episode_MCP 活用_20261121",
-      "theme": "MCP 活用",
+      "name": "episode_バイブコーディング おすすめ_20261121",
+      "theme": "バイブコーディング おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "Cision MCP、消費者インテリジェンスを日常のワークフローに導入",
-          "source": "Prニュースワイヤー",
+          "title": "【無料】日本AIスキル認定協会がChatGPTで学ぶAIスキルのプラグインを提供開始",
+          "source": "Atpress",
+          "trust_score": 8.5
+        },
+        {
+          "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+          "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "DXCがCiscoと協業、AIを活用したネットワークの知見をDXC OASISで具体的な対応につなげる",
-          "source": "株式会社 共同通信",
-          "trust_score": 7.5
+          "title": "終わらないAI終末論",
+          "source": "Wired.jp",
+          "trust_score": 6.5
         },
         {
-          "title": "株式会社A、Instagramのタイアップ投稿を分析できる「Aupus」を、MCP・API・ローデータで提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "DXCがCiscoと協業、AIを活用したネットワークの知見をDXC OASISで具体的な対応につなげる",
-          "source": "Prニュースワイヤー",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「パッチ適用を10分で完了」も夢じゃない 人間頼みの防御に引導を渡すキーワードは“AI管制塔”？",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.5
-        },
-        {
-          "title": "法務オートメーション「OLGA」のAI契約レビューにて、Word上でAIに追加修正の指示ができる「マルチターン機能」をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Hitachi Vantara、VSP Oneのオブジェクトストレージとデータレイクハウス機能を強化し、AIの本番運用を支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "2026年11月19日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
         }
       ]
     }
