@@ -1,25 +1,10 @@
 {
-  "generated_at": "2026-11-20T05:44:46.356216",
-  "total_episodes": 4,
+  "generated_at": "2026-11-21T05:39:49.982652",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 レビュー_20261120",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 レビュー",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "なぜリーダーはいま哲学を学ぶ必要があるのか(DIAMOND ハーバード・ビジネス・レビュー)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_skill おすすめ_20261120",
+      "name": "episode_skill おすすめ_20261121",
       "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
@@ -27,79 +12,44 @@
       "audio_duration": null,
       "articles": [
         {
-          "title": "GO TODAY SHAiRE SALON、会計・確定申告アプリ「タックスナップ」と提携 フリーランスビューティシャンの確定申告を、働く場からともに支える",
+          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
           "source": "Pr Times",
           "trust_score": 8.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP ランキング_20261120",
-      "theme": "MCP ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "AIエージェントで組み込み開発はどう変わる？ TIの最新技術を見た",
-          "source": "Itmedia",
-          "trust_score": 7.5
         },
         {
-          "title": "転職ドラフト、外部ツールと連携して候補者のレジュメを取得できる公開APIを正式リリース",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Taps株式会社、リリース1ヵ月で問い合わせ件数50件突破。現場ワーカー向け”スマホ1台で”手軽に学べる新しい学習体験を届ける。教育・学習SaaS「Taps」を正式リリース",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20261120",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "各AIモデルに最適なハーネスはどれか？",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Abbove、欧州のウェルスプランニングをAI時代へ",
-          "source": "Businesswire",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Abbove、欧州のウェルスプランニングをAI時代へ",
+          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング おすすめ_20261121",
+      "theme": "バイブコーディング おすすめ",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【無料】日本AIスキル認定協会がChatGPTで学ぶAIスキルのプラグインを提供開始",
+          "source": "Atpress",
+          "trust_score": 8.5
         },
         {
-          "title": "SailPoint、自律型アイデンティティ セキュリティで安全なAIエージェント時代を実現",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "統合型・法務AIエージェント「LegalBrain エージェント」、Microsoft Copilotに対応",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "終わらないAI終末論",
+          "source": "Wired.jp",
+          "trust_score": 6.5
         },
         {
-          "title": "法務オートメーション「OLGA」、「第19回 ASPIC AI・クラウドアワード 2026」にて「基幹業務系ASP・SaaS部門 ASPIC会長特別賞」を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Qlik、Claude との連携により、統制されたビジネスコンテキストの活用と分析ワークフローの実行を支援",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "2026年11月19日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.0
         }
       ]
     }
