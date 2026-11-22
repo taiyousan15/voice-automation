@@ -1,55 +1,130 @@
 {
-  "generated_at": "2026-11-21T05:39:49.982652",
-  "total_episodes": 2,
+  "generated_at": "2026-11-22T01:05:51.242204",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261121",
-      "theme": "skill おすすめ",
+      "name": "episode_Claude Code おすすめ 理由_20261122",
+      "theme": "Claude Code おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング おすすめ_20261121",
-      "theme": "バイブコーディング おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【無料】日本AIスキル認定協会がChatGPTで学ぶAIスキルのプラグインを提供開始",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
+          "title": "イギリス政府がAppleに暗号化データへのアクセスを求める秘密命令を出していたことを正式に認める",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "終わらないAI終末論",
-          "source": "Wired.jp",
-          "trust_score": 6.5
+          "title": "2026年11月20日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
         },
         {
-          "title": "2026年11月19日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
+        },
+        {
+          "title": "会話の内容の文字起こしやAIエージェントでのタスク割り当てができる、Mac版とWindows版の「Vocciデスクトップアプリ」を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AIで動画編集、記事·音声配信まで自動化。Mac miniで実現する業務改善。LandBridgeのMac導入事例②",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "Claude Codeに実験機能「Code Mode」を追加 ——Claudeが複数のツールをつなぐJavaScriptを生成",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        },
+        {
+          "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 比較_20261122",
+      "theme": "哲学 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ポルシェ・パナメーラ2028年型をスクープ！ ほぼ偽装なしの改良型が出現、V6ターボは360ps級へ進化か",
+          "source": "Motor Fan｜自動車情報のモーターファン",
+          "trust_score": 7.5
+        },
+        {
+          "title": "日本酒と熊本｜熊本酵母から赤酒、球磨焼酎まで、多層な酒文化を辿る【日本酒のススメ】",
+          "source": "Sarai.jp",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「日本一長いキャッチコピー」を書いたコピーライターが『日本一長いタイトルの本…』を書きます。出版社大募集",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【佐藤優】アメリカテック企業のマネージャー職に疲弊。家族でオーストラリア移住が最適解",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「コマンドー」の配信はどこで見れる？見放題・レンタルできるサブスクと吹き替え版を紹介",
+          "source": "アニメ！アニメ！",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「マセラティ」が“トライデント”誕生100周年記念展を銀座で開催 新型“グレカーレ”“グランカブリオ”を日本初公開",
+          "source": "Wwd Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "マセラティ、トライデント誕生100周年を記念した特別展示「100 Years of the Trident Celebration」を東京・銀座で開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方_20261122",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 やり方",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "俳優・アシュトン・カッチャー、アンソロピックIPOで巨額利益を得る。収益性の高い投資家としてのキャリアを築いた方法",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_Claude Code 方法_20261122",
+      "theme": "Claude Code 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "アップル、自律型AIエージェントを開発か―Macでのアプリ操作やコード作成を構想",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "株式会社if、「経理・財務のための生成AI活用コース」を4つのツール編で提供──領収書の読み取り・データ突合・月次報告を、人が確かめる範囲まで設計",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
