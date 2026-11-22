@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-11-21T05:39:49.982652",
-  "total_episodes": 2,
+  "generated_at": "2026-11-22T05:06:39.896477",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261121",
-      "theme": "skill おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門_20261122",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "俳優・アシュトン・カッチャー、アンソロピックIPOで巨額利益を得る。収益性の高い投資家としてのキャリアを築いた方法",
+          "source": "Business Insider",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 活用_20261122",
+      "theme": "バイブコーディング 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "自作アプリ、40分もあればできるって。“ガチ勢”に仕事で使えるアプリの作り方を聞いてみた",
+          "source": "Gizmodo",
+          "trust_score": 7.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 方法_20261122",
+      "theme": "skill 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -24,32 +54,47 @@
       ]
     },
     {
-      "name": "episode_バイブコーディング おすすめ_20261121",
-      "theme": "バイブコーディング おすすめ",
+      "name": "episode_エージェント ランキング_20261122",
+      "theme": "エージェント ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【無料】日本AIスキル認定協会がChatGPTで学ぶAIスキルのプラグインを提供開始",
-          "source": "Atpress",
-          "trust_score": 8.5
-        },
-        {
-          "title": "AIサービス「Lovable」で作ったアプリのパスポート情報や20万件超のプライベートなメッセージがログインしなくても閲覧できたと判明",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "終わらないAI終末論",
-          "source": "Wired.jp",
+          "title": "マーキュリー、創立20周年を迎え、創業者・林正和会長のメッセージを公開",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 6.5
         },
         {
-          "title": "2026年11月19日のヘッドラインニュース",
-          "source": "Gigazine",
+          "title": "ゴムマリ、『API連携開発』を提供開始",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 6.5
+        },
+        {
+          "title": "住まい｜@DIME アットダイム",
+          "source": "@dime アットダイム",
+          "trust_score": 6.5
+        },
+        {
+          "title": "「マルチエージェント設計“15のパターン”」「GoogleのSRE教科書、10年ぶり改訂」 AI時代の新たな常識",
+          "source": "Atmarkit Itmedia",
           "trust_score": 7.0
+        },
+        {
+          "title": "23年続いた三菱電機の「e-F@ctory」が進化 ホンダがカーボンニュートラル化達成",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "平良海馬にMLB９球団が関心！ 最も獲得に積極的なのは…加入すれば先発ローテ入りか「本拠地でどのような投球ができるか検討してきた」と現地記者",
+          "source": "The Digest",
+          "trust_score": 7.0
+        },
+        {
+          "title": "ダイドーフォワード、基幹ブランド「NEWYORKER」の顧客エンゲージメント基盤として「Braze」を導入",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
