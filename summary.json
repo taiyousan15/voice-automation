@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-11-23T01:29:54.594514",
-  "total_episodes": 4,
+  "generated_at": "2026-11-23T05:48:10.913097",
+  "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 導入_20261123",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 導入",
+      "name": "episode_エージェント 活用_20261123",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "営業先のHP・YouTubeをAIで分析し、商談創出まで支援。Sooon、成果報酬型のAI営業代行サービスを展開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "営業支援ツール「SILAS」リニューアル。営業先のHP・YouTubeをAIで分析し、商談創出まで支援。成果報酬型のAI営業代行サービスの展開も",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "【『神柄の雫』が台湾初上陸！】株式会社Rabbitly、2027年1月21日～1月24日に開催される『台北ゲームショウ2027』への出展が決定",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "LINEに食事の写真を送るだけ！「Agent i」に手間なく続けられる食事管理エージェントが登場",
+          "source": "@dime アットダイム",
+          "trust_score": 7.5
+        },
+        {
+          "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "映画『VIVANT』登場人物・キャスト一覧【まとめ】",
+          "source": "Cinema Today: Movie Information Updated Daily!",
+          "trust_score": 7.5
+        },
+        {
+          "title": "OrcaRouter、国内のCSIRT・セキュリティ実務者が集う「NCA Annual Conference 2026」にゴールドスポンサーとして協賛・出展",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261123",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -14,101 +59,6 @@
         {
           "title": "俳優・アシュトン・カッチャー、アンソロピックIPOで巨額利益を得る。収益性の高い投資家としてのキャリアを築いた方法",
           "source": "Business Insider",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 方法_20261123",
-      "theme": "哲学 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【おしゃれな大人の旅バッグ】「リモワ×メゾン マルジェラ」コラボのスーツケースとバッグ、どっちを買うべき？(UOMO)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "国民党・蒋台北市長、民衆党の選挙集会に登場 結束アピール 民進党集会には頼総統／台湾(中央社フォーカス台湾)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "タクティカートプレゼンツ「冬のクラシックフェスタ2026」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "タクティカートプレゼンツ「冬のクラシックフェスタ2026」",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "韓国で２６年ぶりに「民主有功者法」可決…民主化運動の犠牲者・遺族に医療費など支援(ハンギョレ新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "夫婦のキャッチコピーを書きます。11月22日「いい夫婦の日」企画として先着5組様お待ちしてます。",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "夫婦のキャッチコピーを書きます。11月22日「いい夫婦の日」企画として先着5組様お待ちしてます。",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 活用_20261123",
-      "theme": "バイブコーディング 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "自作アプリ、40分もあればできるって。“ガチ勢”に仕事で使えるアプリの作り方を聞いてみた",
-          "source": "Gizmodo",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 おすすめ_20261123",
-      "theme": "哲学 おすすめ",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "ふっくらと膨らむ独創的なフォルム【ウブロ】現代アートを腕元に宿す「クラシック・フュージョン バルーン ドッグ by ジェフ・クーンズ」(WATCHNAVI Salon)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "田中あいみ 師匠・細川たかしからもらいたいクリスマスプレゼント「おねだりします、高級ウイスキー」 | 記事 | 東スポWEB",
-          "source": "東スポweb",
-          "trust_score": 7.0
-        },
-        {
-          "title": "中田さんら名選手が集結",
-          "source": "熊日",
-          "trust_score": 7.0
-        },
-        {
-          "title": "「Asia Pacific’s 100 Best Coffee Shops 2026」にMel Coffee Roastersが選ばれました! 」",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "[プリンスリーグ関西1部]C大阪U-18、京都橘に3発勝利で6連勝…2位以内確定でプレミアPO出場権獲得!!:第16節",
-          "source": "Gexaka",
           "trust_score": 7.5
         }
       ]
