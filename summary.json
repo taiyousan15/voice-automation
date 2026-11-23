@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T05:06:39.896477",
+  "generated_at": "2026-11-23T01:29:54.594514",
   "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門_20261122",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 入門",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 導入_20261123",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 導入",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
@@ -19,7 +19,52 @@
       ]
     },
     {
-      "name": "episode_バイブコーディング 活用_20261122",
+      "name": "episode_哲学 方法_20261123",
+      "theme": "哲学 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "【おしゃれな大人の旅バッグ】「リモワ×メゾン マルジェラ」コラボのスーツケースとバッグ、どっちを買うべき？(UOMO)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "国民党・蒋台北市長、民衆党の選挙集会に登場 結束アピール 民進党集会には頼総統／台湾(中央社フォーカス台湾)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "タクティカートプレゼンツ「冬のクラシックフェスタ2026」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "タクティカートプレゼンツ「冬のクラシックフェスタ2026」",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "韓国で２６年ぶりに「民主有功者法」可決…民主化運動の犠牲者・遺族に医療費など支援(ハンギョレ新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "夫婦のキャッチコピーを書きます。11月22日「いい夫婦の日」企画として先着5組様お待ちしてます。",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "夫婦のキャッチコピーを書きます。11月22日「いい夫婦の日」企画として先着5組様お待ちしてます。",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 活用_20261123",
       "theme": "バイブコーディング 活用",
       "status": "failed",
       "audio_url": null,
@@ -34,67 +79,37 @@
       ]
     },
     {
-      "name": "episode_skill 方法_20261122",
-      "theme": "skill 方法",
+      "name": "episode_哲学 おすすめ_20261123",
+      "theme": "哲学 おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "ThinkingAI、AI利用のセキュリティ統制を強める「AIモニター」の提供を開始--Agentic Engineのセキュリティ対策もあわせて公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント ランキング_20261122",
-      "theme": "エージェント ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "マーキュリー、創立20周年を迎え、創業者・林正和会長のメッセージを公開",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "ゴムマリ、『API連携開発』を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 6.5
-        },
-        {
-          "title": "住まい｜@DIME アットダイム",
-          "source": "@dime アットダイム",
-          "trust_score": 6.5
-        },
-        {
-          "title": "「マルチエージェント設計“15のパターン”」「GoogleのSRE教科書、10年ぶり改訂」 AI時代の新たな常識",
-          "source": "Atmarkit Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "23年続いた三菱電機の「e-F@ctory」が進化 ホンダがカーボンニュートラル化達成",
-          "source": "Itmedia",
-          "trust_score": 7.0
-        },
-        {
-          "title": "平良海馬にMLB９球団が関心！ 最も獲得に積極的なのは…加入すれば先発ローテ入りか「本拠地でどのような投球ができるか検討してきた」と現地記者",
-          "source": "The Digest",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ダイドーフォワード、基幹ブランド「NEWYORKER」の顧客エンゲージメント基盤として「Braze」を導入",
-          "source": "Infoseek Japan",
+          "title": "ふっくらと膨らむ独創的なフォルム【ウブロ】現代アートを腕元に宿す「クラシック・フュージョン バルーン ドッグ by ジェフ・クーンズ」(WATCHNAVI Salon)",
+          "source": "Yahoo Japan",
           "trust_score": 9.2
+        },
+        {
+          "title": "田中あいみ 師匠・細川たかしからもらいたいクリスマスプレゼント「おねだりします、高級ウイスキー」 | 記事 | 東スポWEB",
+          "source": "東スポweb",
+          "trust_score": 7.0
+        },
+        {
+          "title": "中田さんら名選手が集結",
+          "source": "熊日",
+          "trust_score": 7.0
+        },
+        {
+          "title": "「Asia Pacific’s 100 Best Coffee Shops 2026」にMel Coffee Roastersが選ばれました! 」",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "[プリンスリーグ関西1部]C大阪U-18、京都橘に3発勝利で6連勝…2位以内確定でプレミアPO出場権獲得!!:第16節",
+          "source": "Gexaka",
+          "trust_score": 7.5
         }
       ]
     }
