@@ -1,85 +1,50 @@
 {
-  "generated_at": "2026-11-24T05:12:36.594220",
-  "total_episodes": 2,
+  "generated_at": "2026-11-24T08:25:52.481112",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_思想 方法_20261124",
-      "theme": "思想 方法",
+      "name": "episode_エージェント おすすめ 理由_20261124",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "ビジネスパーソン1500人に聞いた「働き続けたい職場」は安定重視か？それとも挑戦重視か？",
+          "title": "リホストか、リライトか、リビルドか――「手堅くいくなら“続COBOL”」はもはや昔話",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "WordやTeamsの裏側に「MAI」？ Microsoftが自社AIを急ぐ理由",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "タスク完了能力とコスパを追求！GoogleがGemini 4ファミリーの中核を担う新AIモデル「Gemini 4 Neon」を発表",
           "source": "@dime アットダイム",
           "trust_score": 7.5
         },
         {
-          "title": "ビジネスパーソン700人に聞いた転職活動でのAIの用途TOP3、3位履歴書・職務経歴書の作成、2位応募書類の添削・校正、1位は？",
+          "title": "AI｜@DIME アットダイム",
           "source": "@dime アットダイム",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Banca Transilvが2026年第3四半期に力強い成長を報告",
-          "source": "Investing- Fx",
           "trust_score": 6.5
         },
         {
-          "title": "【2026年11月24日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)",
-          "source": "Mynavi News",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「MLB CUP 2026」信州チーム（リトルリーグ）が、小学6年生以下の硬式野球の全国大会を制し王者の座を手に！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "「MLB CUP 2026」信州チーム（リトルリーグ）が、小学6年生以下の硬式野球の全国大会を制し王者の座を手に！",
+          "title": "Picsart、自社プラットフォームを支えるAIを開発者と企業に開放",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "「毎日着物着てます」ハンガリー人の装い ⇒ よく見ると…母国の刺繍が随所に「進化した着物」「めちゃくちゃ素敵」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 おすすめ 理由_20261124",
-      "theme": "思想 おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "WeBuyCarsが下半期業績悪化を発表、株価は下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
+        },
         {
-          "title": "【明治神宮大会】大商大・真鍋慧「仕事しないとベンチに帰れない」値千金の逆転３ラン、初Ｖ王手",
-          "source": "Nikkan Sports",
+          "title": "4つのプラットフォームで全方位を制す、AMD「EPYC 9006」のラインナップ全貌とZen 6/6cの実装戦略",
+          "source": "Ascii",
           "trust_score": 7.5
-        },
-        {
-          "title": "「思い切って買ってしまった」【アットコスメ ベスコス第5位】9,000円超えでもリピーターが絶えない朝クリーム(朝日新聞デジタルマガジン＆［and］)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【知事選】立憲民主党県連中島克仁氏の支援を決定 中島克仁氏が事務所開き 「富士トラム構想」巡り対決姿勢を鮮明に 山梨(UTYテレビ山梨)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "職場でのあだ名は「親方」…心ない陰口を跳ね返してきた女性が、愛の告白に「もう二度とだまされない」と逃げ出したワケ(ウォーカープラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "将来、年金はいくらもらえる？ 40〜50代女性の「リアルな受給額」と今からできる備え(webマガジン mi-mollet)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     }
