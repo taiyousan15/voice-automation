@@ -1,65 +1,85 @@
 {
-  "generated_at": "2026-11-23T05:48:10.913097",
+  "generated_at": "2026-11-24T05:12:36.594220",
   "total_episodes": 2,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261123",
-      "theme": "エージェント 活用",
+      "name": "episode_思想 方法_20261124",
+      "theme": "思想 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "営業先のHP・YouTubeをAIで分析し、商談創出まで支援。Sooon、成果報酬型のAI営業代行サービスを展開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "営業支援ツール「SILAS」リニューアル。営業先のHP・YouTubeをAIで分析し、商談創出まで支援。成果報酬型のAI営業代行サービスの展開も",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【『神柄の雫』が台湾初上陸！】株式会社Rabbitly、2027年1月21日～1月24日に開催される『台北ゲームショウ2027』への出展が決定",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "LINEに食事の写真を送るだけ！「Agent i」に手間なく続けられる食事管理エージェントが登場",
+          "title": "ビジネスパーソン1500人に聞いた「働き続けたい職場」は安定重視か？それとも挑戦重視か？",
           "source": "@dime アットダイム",
           "trust_score": 7.5
         },
         {
-          "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
-          "source": "Gigazine",
+          "title": "ビジネスパーソン700人に聞いた転職活動でのAIの用途TOP3、3位履歴書・職務経歴書の作成、2位応募書類の添削・校正、1位は？",
+          "source": "@dime アットダイム",
           "trust_score": 7.5
         },
         {
-          "title": "映画『VIVANT』登場人物・キャスト一覧【まとめ】",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.5
+          "title": "Banca Transilvが2026年第3四半期に力強い成長を報告",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "OrcaRouter、国内のCSIRT・セキュリティ実務者が集う「NCA Annual Conference 2026」にゴールドスポンサーとして協賛・出展",
+          "title": "【2026年11月24日の運勢】12星座占いランキング(総合運・恋愛運・金運・仕事運・健康運)",
+          "source": "Mynavi News",
+          "trust_score": 8.0
+        },
+        {
+          "title": "「MLB CUP 2026」信州チーム（リトルリーグ）が、小学6年生以下の硬式野球の全国大会を制し王者の座を手に！",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "「MLB CUP 2026」信州チーム（リトルリーグ）が、小学6年生以下の硬式野球の全国大会を制し王者の座を手に！",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「毎日着物着てます」ハンガリー人の装い ⇒ よく見ると…母国の刺繍が随所に「進化した着物」「めちゃくちゃ素敵」(西日本新聞me)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     },
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261123",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
+      "name": "episode_思想 おすすめ 理由_20261124",
+      "theme": "思想 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "俳優・アシュトン・カッチャー、アンソロピックIPOで巨額利益を得る。収益性の高い投資家としてのキャリアを築いた方法",
-          "source": "Business Insider",
+          "title": "【明治神宮大会】大商大・真鍋慧「仕事しないとベンチに帰れない」値千金の逆転３ラン、初Ｖ王手",
+          "source": "Nikkan Sports",
           "trust_score": 7.5
+        },
+        {
+          "title": "「思い切って買ってしまった」【アットコスメ ベスコス第5位】9,000円超えでもリピーターが絶えない朝クリーム(朝日新聞デジタルマガジン＆［and］)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【知事選】立憲民主党県連中島克仁氏の支援を決定 中島克仁氏が事務所開き 「富士トラム構想」巡り対決姿勢を鮮明に 山梨(UTYテレビ山梨)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "職場でのあだ名は「親方」…心ない陰口を跳ね返してきた女性が、愛の告白に「もう二度とだまされない」と逃げ出したワケ(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "将来、年金はいくらもらえる？ 40〜50代女性の「リアルな受給額」と今からできる備え(webマガジン mi-mollet)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         }
       ]
     }
