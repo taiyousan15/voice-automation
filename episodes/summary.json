@@ -1,64 +1,49 @@
 {
-  "generated_at": "2026-11-23T05:48:10.913097",
-  "total_episodes": 2,
+  "generated_at": "2026-11-24T08:25:52.481112",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_エージェント 活用_20261123",
-      "theme": "エージェント 活用",
+      "name": "episode_エージェント おすすめ 理由_20261124",
+      "theme": "エージェント おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "営業先のHP・YouTubeをAIで分析し、商談創出まで支援。Sooon、成果報酬型のAI営業代行サービスを展開",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "リホストか、リライトか、リビルドか――「手堅くいくなら“続COBOL”」はもはや昔話",
+          "source": "Atmarkit Itmedia",
+          "trust_score": 7.5
         },
         {
-          "title": "営業支援ツール「SILAS」リニューアル。営業先のHP・YouTubeをAIで分析し、商談創出まで支援。成果報酬型のAI営業代行サービスの展開も",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "WordやTeamsの裏側に「MAI」？ Microsoftが自社AIを急ぐ理由",
+          "source": "Itmedia",
+          "trust_score": 7.5
         },
         {
-          "title": "【『神柄の雫』が台湾初上陸！】株式会社Rabbitly、2027年1月21日～1月24日に開催される『台北ゲームショウ2027』への出展が決定",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "LINEに食事の写真を送るだけ！「Agent i」に手間なく続けられる食事管理エージェントが登場",
+          "title": "タスク完了能力とコスパを追求！GoogleがGemini 4ファミリーの中核を担う新AIモデル「Gemini 4 Neon」を発表",
           "source": "@dime アットダイム",
           "trust_score": 7.5
         },
         {
-          "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
-          "source": "Gigazine",
+          "title": "AI｜@DIME アットダイム",
+          "source": "@dime アットダイム",
+          "trust_score": 6.5
+        },
+        {
+          "title": "Picsart、自社プラットフォームを支えるAIを開発者と企業に開放",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "映画『VIVANT』登場人物・キャスト一覧【まとめ】",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.5
+          "title": "WeBuyCarsが下半期業績悪化を発表、株価は下落",
+          "source": "Investing- Fx",
+          "trust_score": 6.5
         },
         {
-          "title": "OrcaRouter、国内のCSIRT・セキュリティ実務者が集う「NCA Annual Conference 2026」にゴールドスポンサーとして協賛・出展",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく_20261123",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 わかりやすく",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "俳優・アシュトン・カッチャー、アンソロピックIPOで巨額利益を得る。収益性の高い投資家としてのキャリアを築いた方法",
-          "source": "Business Insider",
+          "title": "4つのプラットフォームで全方位を制す、AMD「EPYC 9006」のラインナップ全貌とZen 6/6cの実装戦略",
+          "source": "Ascii",
           "trust_score": 7.5
         }
       ]
