@@ -1,20 +1,105 @@
 {
-  "generated_at": "2026-11-25T07:00:45.923061",
-  "total_episodes": 1,
+  "generated_at": "2026-11-26T06:53:29.490828",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ_20261125",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 おすすめ",
+      "name": "episode_skill おすすめ_20261126",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "鉄板を1日2万回叩く! 南極も支えるいすゞの技術と人づくり",
+          "title": "【吉積情報株式会社】赤嶺 一行、谷川 歩美、南 恵里、丹羽 国彦の 4 名が Google Cloud Partner Top Engineer 2027 を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【吉積情報株式会社】森田 嶺、阪口 優美、赤嶺 一行、池平 基紀の 4 名が 2026 Google Cloud Partner All-stars に選出",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "グローバルパートナーシップを加速、特定技能のONODERA USER RUN 世界銀行主催 第1 回GSP アカデミーに登壇",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "住宅ローンの返済額が約半分に？ PIVOTで「住宅版残価設定ローン」の仕組みを解説",
           "source": "Mynavi News",
           "trust_score": 8.5
+        },
+        {
+          "title": "「住宅ローンの新常識 金利上昇時代を乗り切る借換術」をPIVOT「& SKILL SET」で配信開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261126",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "AWS サインインで、最大 90 日間まで設定可能なサインイン期間が導入されました",
+          "source": "Serverworks Corporation",
+          "trust_score": 7.5
+        },
+        {
+          "title": "ibisWorksで、Word・Excel・PowerPointのファイルをブラウザだけで編集可能に 無料OSSオフィススイートibisOfficeと連携",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "バイナンス、シーボー提供の株価指数データを統合、S＆P500などをリアルタイムで提供",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
+        {
+          "title": "エルマーケ、LINE公式アカウントの数値確認をAIで自動化 毎朝、友だち数の増減がチャットに届く運用を試験開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI在庫管理システム「zaico」、「TOHOKU DX大賞 2026」でソリューション部門優秀賞を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ブラックフライデー】AIボイスレコーダー「Notta Memo」シリーズが最大40%OFF！Amazon・Notta公式ECストアで11月27日より開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_バイブコーディング 方法_20261126",
+      "theme": "バイブコーディング 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "『GTA6』を無理やりPC移植しようとする人々、「AIに丸投げしすぎ」とツッコまれる。“よくわからんけどミスするな”無茶ぶりダメ上司プロンプト",
+          "source": "Automaton",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「2026年度グッドデザイン賞」受賞の3社が語る、「現場の声」から生まれたデザイン",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     }
