@@ -1,160 +1,105 @@
 {
-  "generated_at": "2026-11-26T03:27:23.756461",
-  "total_episodes": 4,
+  "generated_at": "2026-11-26T06:53:29.490828",
+  "total_episodes": 3,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_占い おすすめ 理由_20261126",
-      "theme": "占い おすすめ 理由",
+      "name": "episode_skill おすすめ_20261126",
+      "theme": "skill おすすめ",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【2026年JOYSOUNDカラオケ年間ランキング】M!LKが「好きすぎて滅！」の総合首位をはじめ、主要3部門で「3冠」わずか約3秒、CMでおなじみの「伯方の塩」が総合2位の快挙",
+          "title": "【吉積情報株式会社】赤嶺 一行、谷川 歩美、南 恵里、丹羽 国彦の 4 名が Google Cloud Partner Top Engineer 2027 を受賞",
           "source": "Pr Times",
-          "trust_score": 8.5
+          "trust_score": 8.0
         },
         {
-          "title": "エルフ談義！「ロード・オブ・ザ・リング：力の指輪」ギル＝ガラド＆エルロンド俳優が熱く語る",
-          "source": "Cinema Today: Movie Information Updated Daily!",
-          "trust_score": 7.5
+          "title": "【吉積情報株式会社】森田 嶺、阪口 優美、赤嶺 一行、池平 基紀の 4 名が 2026 Google Cloud Partner All-stars に選出",
+          "source": "Pr Times",
+          "trust_score": 8.0
         },
         {
-          "title": "Netflixアニメ「フールナイト」11月26日配信―植物で1人分の酸素をつくる電力を試算",
+          "title": "グローバルパートナーシップを加速、特定技能のONODERA USER RUN 世界銀行主催 第1 回GSP アカデミーに登壇",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "スペースXのAI計算資源貸し出し―アンソロピック向けは全量提供後に月31億ドル",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "DEI推進企業927社が認定、職場のLGBTQ+取組指標「PRIDE指標2026」発表。国連独立専門家や「虎に翼」脚本家が登壇、「work with Pride 2026」カンファレンスVol.2開催",
-          "source": "Pr Times",
+          "title": "住宅ローンの返済額が約半分に？ PIVOTで「住宅版残価設定ローン」の仕組みを解説",
+          "source": "Mynavi News",
           "trust_score": 8.5
         },
         {
-          "title": "「ホテルを取ったから」クリスマスに夫から1泊の誘いを受けた41歳妻。「もしかして…」の期待から一転した「まさかの出来事」【専門家助言】(FORZA STYLE)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "米国株の下落はAIバブル崩壊の前兆か？ マグニフィセント7の時価総額が約2割減少！ AI投資の真のリスクと今後を見極める4つのサインとは？(ダイヤモンド・ザイ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_スピリチュアル 方法_20261126",
-      "theme": "スピリチュアル 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "【12月15日(火)19:00・渋谷】2027年の事業成長を加速するAI活用×リファラル営業！成長ベンチャー経営者3名が実践ノウハウを語る交流会を開催！！",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "【12月8日(火)19:00・渋谷】2027年の事業成長を加速！AI・SEO・SNSのプロ3名が集結する経営者限定の実践型交流会を開催！！",
+          "title": "「住宅ローンの新常識 金利上昇時代を乗り切る借換術」をPIVOT「& SKILL SET」で配信開始",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_Claude Code おすすめ_20261126",
-      "theme": "Claude Code おすすめ",
+      "name": "episode_MCP 活用_20261126",
+      "theme": "MCP 活用",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "2026年11月25日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Google、Gmailやドライブなど8サービス向けのWorkspace MCPサーバーと公式CLI「gwscli」を一般提供",
-          "source": "Gijutsu Hyohron Company",
+          "title": "AWS サインインで、最大 90 日間まで設定可能なサインイン期間が導入されました",
+          "source": "Serverworks Corporation",
           "trust_score": 7.5
         },
         {
-          "title": "Uravation、伊藤忠インタラクティブの法人向け「AIエージェント実装研修」で、プログラム設計・教材開発・講師を担当。10月26日に提供が始まった、Claude Code活用の実装特化型研修です",
-          "source": "Pr Times",
-          "trust_score": 8.5
-        },
-        {
-          "title": "最先端のAIでも日常的な作業の完了率はわずか約60％だと新ベンチマーク「ShellBench」で判明",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "株式会社if、Claude Code特化の「生成AI×業務効率化 実践コース（3ヶ月）」を法人研修に追加──2026年10月に経産省「Reスキル講座」認定",
+          "title": "ibisWorksで、Word・Excel・PowerPointのファイルをブラウザだけで編集可能に 無料OSSオフィススイートibisOfficeと連携",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AIエージェントは隙あらばサンドボックスの外に出るのか Anthropicが評価手法",
-          "source": "産経ニュース",
-          "trust_score": 7.0
+          "title": "バイナンス、シーボー提供の株価指数データを統合、S＆P500などをリアルタイムで提供",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
         },
         {
-          "title": "海外版スーパーファミコンをWi-Fiに接続してクラウドセーブや生成AIを利用可能にするアダプターを自作",
-          "source": "Gigazine",
-          "trust_score": 7.5
+          "title": "エルマーケ、LINE公式アカウントの数値確認をAIで自動化 毎朝、友だち数の増減がチャットに届く運用を試験開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "AI在庫管理システム「zaico」、「TOHOKU DX大賞 2026」でソリューション部門優秀賞を受賞",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【ブラックフライデー】AIボイスレコーダー「Notta Memo」シリーズが最大40%OFF！Amazon・Notta公式ECストアで11月27日より開催",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20261126",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_バイブコーディング 方法_20261126",
+      "theme": "バイブコーディング 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "〝なんと100年前〟の ピストル型ガラス容器 ⇒ 中の粒の正体は……未開封のまま紐も残る逸品に「何かの撃退目的なの？」「初めて見ました！」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
+          "title": "『GTA6』を無理やりPC移植しようとする人々、「AIに丸投げしすぎ」とツッコまれる。“よくわからんけどミスするな”無茶ぶりダメ上司プロンプト",
+          "source": "Automaton",
+          "trust_score": 7.5
         },
         {
-          "title": "10歳息子が使っているiPad ⇒ 深夜に確認すると…〝驚愕〟親も知らなかった意外な一面にビックリ ひとりで3時間かけて作った動画作品に驚き(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "能登・和倉温泉のサウナ特化型ホテル「HOTEL ZEN SAUNA RESORT -和倉-」、男女が一緒に入れる水着サウナなどSPAエリアの全貌を公開",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "豪、SNS安全対策義務化を可決 違反企業に巨額制裁金(共同通信)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「靴脱いで並べてね」歯医者さんで2歳娘に伝えたら ⇒ なかなか来ない…様子をみると「えっ！」 思わず目を奪われる光景に「こういう投稿だけ見ていたい」「何て可愛い」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「丁寧な人だと錯覚させたい」履歴書の封筒に書いた手書きの〝5文字〟⇒ よく見ると…〝想像以上〟の仕上がりに「印刷だと思われそう」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "もしも巨大なネコだったら？ ふかふかな体を枕にする妄想をしてみた",
-          "source": "Lettuce Club",
-          "trust_score": 7.0
+          "title": "「2026年度グッドデザイン賞」受賞の3社が語る、「現場の声」から生まれたデザイン",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     }
