@@ -1,105 +1,125 @@
 {
-  "generated_at": "2026-11-26T06:53:29.490828",
-  "total_episodes": 3,
+  "generated_at": "2026-11-27T06:45:57.837711",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261126",
-      "theme": "skill おすすめ",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261127",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【吉積情報株式会社】赤嶺 一行、谷川 歩美、南 恵里、丹羽 国彦の 4 名が Google Cloud Partner Top Engineer 2027 を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
+          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
+          "source": "Zuu Online",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP おすすめ 理由_20261127",
+      "theme": "MCP おすすめ 理由",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
         {
-          "title": "【吉積情報株式会社】森田 嶺、阪口 優美、赤嶺 一行、池平 基紀の 4 名が 2026 Google Cloud Partner All-stars に選出",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "グローバルパートナーシップを加速、特定技能のONODERA USER RUN 世界銀行主催 第1 回GSP アカデミーに登壇",
+          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "住宅ローンの返済額が約半分に？ PIVOTで「住宅版残価設定ローン」の仕組みを解説",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
         },
         {
-          "title": "「住宅ローンの新常識 金利上昇時代を乗り切る借換術」をPIVOT「& SKILL SET」で配信開始",
+          "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "「Xen Orchestra」の認証回避が悪用、Juniper製品も――今朝の情シスニュース",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "GitLabがGitLab 19.6をリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【Expert Cross #7・後編】「採用につなげるには、事業を伸ばすしかない」羽賀 流登が見据える、仲間を増やすための事業づくり",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20261126",
-      "theme": "MCP 活用",
+      "name": "episode_バイブコーディング ランキング_20261127",
+      "theme": "バイブコーディング ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AWS サインインで、最大 90 日間まで設定可能なサインイン期間が導入されました",
-          "source": "Serverworks Corporation",
+          "title": "2026年11月26日のヘッドラインニュース",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261127",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "日本企業のエージェント型 AI の実装を、ハッカソンで後押し",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "ibisWorksで、Word・Excel・PowerPointのファイルをブラウザだけで編集可能に 無料OSSオフィススイートibisOfficeと連携",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "少人数の採用チームで年間60名超が内定承諾。Claude Codeで回すAI採用ワークフロー ～AIで採用業務を効率化し、候補者一人ひとりと向き合う時間をつくるFaciloの実践～",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
         },
         {
-          "title": "バイナンス、シーボー提供の株価指数データを統合、S＆P500などをリアルタイムで提供",
+          "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【11/26話題】SBI Solana Globalが本格始動、メタマスクがステーブルコイン決済カードを日本で提供開始、MEXCとの送付・受取停止へなど（音声ニュース）",
           "source": "New Economy Japan",
           "trust_score": 9.7
         },
         {
-          "title": "エルマーケ、LINE公式アカウントの数値確認をAIで自動化 毎朝、友だち数の増減がチャットに届く運用を試験開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "AI在庫管理システム「zaico」、「TOHOKU DX大賞 2026」でソリューション部門優秀賞を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ブラックフライデー】AIボイスレコーダー「Notta Memo」シリーズが最大40%OFF！Amazon・Notta公式ECストアで11月27日より開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング 方法_20261126",
-      "theme": "バイブコーディング 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "『GTA6』を無理やりPC移植しようとする人々、「AIに丸投げしすぎ」とツッコまれる。“よくわからんけどミスするな”無茶ぶりダメ上司プロンプト",
-          "source": "Automaton",
+          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "「2026年度グッドデザイン賞」受賞の3社が語る、「現場の声」から生まれたデザイン",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
+          "title": "Engage Squared、Microsoft Japan Partner of the Yearを2年連続受賞！2026年はBusiness Transformation - Agents部門",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AWS、半導体設計の検証作業をAIで効率化 日本向けクラウド構成を公開",
+          "source": "Mynavi News",
+          "trust_score": 8.5
         }
       ]
     }
