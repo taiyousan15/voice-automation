@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-11-27T03:34:03.748543",
-  "total_episodes": 6,
+  "generated_at": "2026-11-27T06:45:57.837711",
+  "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
+    {
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261127",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
+          "source": "Zuu Online",
+          "trust_score": 7.5
+        }
+      ]
+    },
     {
       "name": "episode_MCP おすすめ 理由_20261127",
       "theme": "MCP おすすめ 理由",
@@ -49,92 +64,17 @@
       ]
     },
     {
-      "name": "episode_思想 おすすめ 理由_20261127",
-      "theme": "思想 おすすめ 理由",
+      "name": "episode_バイブコーディング ランキング_20261127",
+      "theme": "バイブコーディング ランキング",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【2026/11〜12月】Amazonブラックフライデー おすすめ・割引目玉(Amazonデバイス/Apple/Anker/家電製品)",
-          "source": "Rakuama Blog",
-          "trust_score": 7.0
-        },
-        {
-          "title": "【ブラックフライデー開始】電動ワークチェアのLiberNovo、最大43% OFFとなる大規模セールを11月27日より開催",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "無ろ過ビール「アサヒ 贅濁（ぜいだく）」を数量限定発売。きめ細やかな濁りと豊かな味わい(グルメ Watch)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「効率的…なのか？」小4娘『まさかの勉強法』に母も困惑 ⇒ よく見ると…〝想像の斜め上〟な光景に共感の声が続々「やってました」「合格しました」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "笑顔で登校する娘の嘘に気づける…？「お姉ちゃんは学校でいじめられてる」「4年間無視」衝撃の真実(ウォーカープラス)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「愛犬にバレずに食べるチャレンジ」飼い主が準備したのは『赤福』 ⇒ やってみたものの…〝予想外の結果〟にツッコミ続出「開始0秒で」「うちの子もこうです」(西日本新聞me)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「2色買いしてしまいました」 GUの“2990円フリースジャケット”が好評 「毛布みたいにもこもこであったかい」「レトロ好きな私に一番刺さりました」(ねとらぼ)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_思想 活用_20261127",
-      "theme": "思想 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "「窓にペタッ」だけで使えるAnkerの新「防犯カメラ」がすごそう",
-          "source": "Lifehacker",
+          "title": "2026年11月26日のヘッドラインニュース",
+          "source": "Gigazine",
           "trust_score": 7.5
-        },
-        {
-          "title": "『異世界喰滅のサメ』TVアニメ化決定！特報映像や新ビジュアルが公開。異世界ファンタジー×サメ映画を掛け合わせた作品",
-          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
-          "trust_score": 7.0
-        },
-        {
-          "title": "丹念な取材を通して，サバイバルホラーの成立に迫った研究書「バイオハザードの誕生 サバイバルホラーに賭けたゲームクリエイターたち」（ゲーマーのためのブックガイド：第74回）",
-          "source": "4gamer.net",
-          "trust_score": 7.5
-        },
-        {
-          "title": "「現場にこだわり事件解決」和歌山県警の西川健太郎警部補、決意新た 近畿の警察官表彰(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "さらなる活躍誓う、奈良県警の梅崎警部補「みなさんのおかげ」と感謝 近畿の警察官表彰(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "「家族や同僚のおかげ」滋賀県警の豊田徹警部補、謙虚に喜び 近畿の警察官表彰(産経新聞)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "ルナロッサの基地が「海の教室」になった日(GQ JAPAN)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
         }
       ]
     },
@@ -146,6 +86,16 @@
       "audio_length": null,
       "audio_duration": null,
       "articles": [
+        {
+          "title": "日本企業のエージェント型 AI の実装を、ハッカソンで後押し",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "少人数の採用チームで年間60名超が内定承諾。Claude Codeで回すAI採用ワークフロー ～AIで採用業務を効率化し、候補者一人ひとりと向き合う時間をつくるFaciloの実践～",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
         {
           "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
           "source": "Gigazine",
@@ -170,81 +120,6 @@
           "title": "AWS、半導体設計の検証作業をAIで効率化 日本向けクラウド構成を公開",
           "source": "Mynavi News",
           "trust_score": 8.5
-        },
-        {
-          "title": "グローバル・エコシステム連携事業 フランス「STATION F」派遣プログラム",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新_20261127",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        },
-        {
-          "title": "オリエンタルランド vs サンリオ 国民的人気キャラクターの推し活需要を取り込む2社 あなたはどっち派？",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        }
-      ]
-    },
-    {
-      "name": "episode_哲学 ランキング_20261127",
-      "theme": "哲学 ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2週連続で『神話』が1位に！本ランキング11月16日～11月22日",
-          "source": "ブクログ通信",
-          "trust_score": 7.5
-        },
-        {
-          "title": "第15回「岩谷時子賞」 授賞式開催 岩谷時子賞 は 歌舞伎俳優 片岡仁左衛門様",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "笑い飯・哲夫、松浦弥太郎、「里山十帖」の岩佐十良らが登壇！「ちゃんと旅を考える学校」第3期受講生募集開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【ハイアット リージェンシー 京都】ホテル最後の苺ブッフェ。「ストロベリー アフタヌーンティーブッフェ ファイナル 2027」開催",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "miwa、高校時代から活動をしていた原点の場所へ「とてもエモい気持ちになりました」",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "【UESHIMA MUSEUM】篠原涼子がナレーションを担当する無料音声ガイドを提供開始",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "アート・工芸作品のプラットフォーム「B-OWND」、ヴェネチア・ビエンナーレ2026公式サテライトイベントにて「ECC Awards」を受賞",
-          "source": "Infoseek Japan",
-          "trust_score": 9.2
         }
       ]
     }
