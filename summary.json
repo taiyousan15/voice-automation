@@ -1,105 +1,250 @@
 {
-  "generated_at": "2026-11-26T06:53:29.490828",
-  "total_episodes": 3,
+  "generated_at": "2026-11-27T03:34:03.748543",
+  "total_episodes": 6,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_skill おすすめ_20261126",
-      "theme": "skill おすすめ",
+      "name": "episode_MCP おすすめ 理由_20261127",
+      "theme": "MCP おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "【吉積情報株式会社】赤嶺 一行、谷川 歩美、南 恵里、丹羽 国彦の 4 名が Google Cloud Partner Top Engineer 2027 を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【吉積情報株式会社】森田 嶺、阪口 優美、赤嶺 一行、池平 基紀の 4 名が 2026 Google Cloud Partner All-stars に選出",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "グローバルパートナーシップを加速、特定技能のONODERA USER RUN 世界銀行主催 第1 回GSP アカデミーに登壇",
+          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.0
         },
         {
-          "title": "住宅ローンの返済額が約半分に？ PIVOTで「住宅版残価設定ローン」の仕組みを解説",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.0
         },
         {
-          "title": "「住宅ローンの新常識 金利上昇時代を乗り切る借換術」をPIVOT「& SKILL SET」で配信開始",
+          "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
+          "source": "Itmedia",
+          "trust_score": 7.5
+        },
+        {
+          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
           "source": "Pr Times",
           "trust_score": 8.0
+        },
+        {
+          "title": "「Xen Orchestra」の認証回避が悪用、Juniper製品も――今朝の情シスニュース",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
+        {
+          "title": "GitLabがGitLab 19.6をリリース",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "【Expert Cross #7・後編】「採用につなげるには、事業を伸ばすしかない」羽賀 流登が見据える、仲間を増やすための事業づくり",
+          "source": "Gmo Developers",
+          "trust_score": 7.5
         }
       ]
     },
     {
-      "name": "episode_MCP 活用_20261126",
-      "theme": "MCP 活用",
+      "name": "episode_思想 おすすめ 理由_20261127",
+      "theme": "思想 おすすめ 理由",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "AWS サインインで、最大 90 日間まで設定可能なサインイン期間が導入されました",
-          "source": "Serverworks Corporation",
-          "trust_score": 7.5
+          "title": "【2026/11〜12月】Amazonブラックフライデー おすすめ・割引目玉(Amazonデバイス/Apple/Anker/家電製品)",
+          "source": "Rakuama Blog",
+          "trust_score": 7.0
         },
         {
-          "title": "ibisWorksで、Word・Excel・PowerPointのファイルをブラウザだけで編集可能に 無料OSSオフィススイートibisOfficeと連携",
+          "title": "【ブラックフライデー開始】電動ワークチェアのLiberNovo、最大43% OFFとなる大規模セールを11月27日より開催",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "バイナンス、シーボー提供の株価指数データを統合、S＆P500などをリアルタイムで提供",
+          "title": "無ろ過ビール「アサヒ 贅濁（ぜいだく）」を数量限定発売。きめ細やかな濁りと豊かな味わい(グルメ Watch)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「効率的…なのか？」小4娘『まさかの勉強法』に母も困惑 ⇒ よく見ると…〝想像の斜め上〟な光景に共感の声が続々「やってました」「合格しました」(西日本新聞me)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "笑顔で登校する娘の嘘に気づける…？「お姉ちゃんは学校でいじめられてる」「4年間無視」衝撃の真実(ウォーカープラス)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「愛犬にバレずに食べるチャレンジ」飼い主が準備したのは『赤福』 ⇒ やってみたものの…〝予想外の結果〟にツッコミ続出「開始0秒で」「うちの子もこうです」(西日本新聞me)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「2色買いしてしまいました」 GUの“2990円フリースジャケット”が好評 「毛布みたいにもこもこであったかい」「レトロ好きな私に一番刺さりました」(ねとらぼ)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_思想 活用_20261127",
+      "theme": "思想 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "「窓にペタッ」だけで使えるAnkerの新「防犯カメラ」がすごそう",
+          "source": "Lifehacker",
+          "trust_score": 7.5
+        },
+        {
+          "title": "『異世界喰滅のサメ』TVアニメ化決定！特報映像や新ビジュアルが公開。異世界ファンタジー×サメ映画を掛け合わせた作品",
+          "source": "電ファミニコゲーマー – ゲームの面白い記事読んでみない？",
+          "trust_score": 7.0
+        },
+        {
+          "title": "丹念な取材を通して，サバイバルホラーの成立に迫った研究書「バイオハザードの誕生 サバイバルホラーに賭けたゲームクリエイターたち」（ゲーマーのためのブックガイド：第74回）",
+          "source": "4gamer.net",
+          "trust_score": 7.5
+        },
+        {
+          "title": "「現場にこだわり事件解決」和歌山県警の西川健太郎警部補、決意新た 近畿の警察官表彰(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "さらなる活躍誓う、奈良県警の梅崎警部補「みなさんのおかげ」と感謝 近畿の警察官表彰(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "「家族や同僚のおかげ」滋賀県警の豊田徹警部補、謙虚に喜び 近畿の警察官表彰(産経新聞)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "ルナロッサの基地が「海の教室」になった日(GQ JAPAN)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_エージェント 活用_20261127",
+      "theme": "エージェント 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【11/26話題】SBI Solana Globalが本格始動、メタマスクがステーブルコイン決済カードを日本で提供開始、MEXCとの送付・受取停止へなど（音声ニュース）",
           "source": "New Economy Japan",
           "trust_score": 9.7
         },
         {
-          "title": "エルマーケ、LINE公式アカウントの数値確認をAIで自動化 毎朝、友だち数の増減がチャットに届く運用を試験開始",
+          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Engage Squared、Microsoft Japan Partner of the Yearを2年連続受賞！2026年はBusiness Transformation - Agents部門",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "AWS、半導体設計の検証作業をAIで効率化 日本向けクラウド構成を公開",
+          "source": "Mynavi News",
+          "trust_score": 8.5
+        },
+        {
+          "title": "グローバル・エコシステム連携事業 フランス「STATION F」派遣プログラム",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "AI在庫管理システム「zaico」、「TOHOKU DX大賞 2026」でソリューション部門優秀賞を受賞",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【ブラックフライデー】AIボイスレコーダー「Notta Memo」シリーズが最大40%OFF！Amazon・Notta公式ECストアで11月27日より開催",
+          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
           "source": "Pr Times",
           "trust_score": 8.0
         }
       ]
     },
     {
-      "name": "episode_バイブコーディング 方法_20261126",
-      "theme": "バイブコーディング 方法",
+      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新_20261127",
+      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 最新",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "『GTA6』を無理やりPC移植しようとする人々、「AIに丸投げしすぎ」とツッコまれる。“よくわからんけどミスするな”無茶ぶりダメ上司プロンプト",
-          "source": "Automaton",
+          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
+          "source": "Zuu Online",
           "trust_score": 7.5
         },
         {
-          "title": "「2026年度グッドデザイン賞」受賞の3社が語る、「現場の声」から生まれたデザイン",
-          "source": "Gmo Developers",
+          "title": "オリエンタルランド vs サンリオ 国民的人気キャラクターの推し活需要を取り込む2社 あなたはどっち派？",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        }
+      ]
+    },
+    {
+      "name": "episode_哲学 ランキング_20261127",
+      "theme": "哲学 ランキング",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "2週連続で『神話』が1位に！本ランキング11月16日～11月22日",
+          "source": "ブクログ通信",
           "trust_score": 7.5
+        },
+        {
+          "title": "第15回「岩谷時子賞」 授賞式開催 岩谷時子賞 は 歌舞伎俳優 片岡仁左衛門様",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.0
+        },
+        {
+          "title": "笑い飯・哲夫、松浦弥太郎、「里山十帖」の岩佐十良らが登壇！「ちゃんと旅を考える学校」第3期受講生募集開始",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【ハイアット リージェンシー 京都】ホテル最後の苺ブッフェ。「ストロベリー アフタヌーンティーブッフェ ファイナル 2027」開催",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "miwa、高校時代から活動をしていた原点の場所へ「とてもエモい気持ちになりました」",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "【UESHIMA MUSEUM】篠原涼子がナレーションを担当する無料音声ガイドを提供開始",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "アート・工芸作品のプラットフォーム「B-OWND」、ヴェネチア・ビエンナーレ2026公式サテライトイベントにて「ECC Awards」を受賞",
+          "source": "Infoseek Japan",
+          "trust_score": 9.2
         }
       ]
     }
