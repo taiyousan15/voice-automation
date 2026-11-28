@@ -1,125 +1,135 @@
 {
-  "generated_at": "2026-11-27T06:45:57.837711",
+  "generated_at": "2026-11-28T03:11:36.077106",
   "total_episodes": 4,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261127",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
+      "name": "episode_哲学 比較_20261128",
+      "theme": "哲学 比較",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20261127",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
+          "title": "お土産を渡しながら｢つまらないものですが｣は日本人だけではない…世界中の人が自分を下げる\"本当の目的\"(プレジデントオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
         },
         {
-          "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
-          "source": "Itmedia",
+          "title": "桜を枯らす「クビアカ」早期特定へ 国の技術を京都の企業が実用化",
+          "source": "朝日新聞デジタル",
           "trust_score": 7.5
         },
         {
-          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
+          "title": "英文法をやり直したい大人のための新バイブル『おかえりなさい、英文法』が発売",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "「Xen Orchestra」の認証回避が悪用、Juniper製品も――今朝の情シスニュース",
-          "source": "Itmedia",
-          "trust_score": 7.0
+          "title": "Laboro.AI、半導体設計向けAIソリューションをリリース",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "GitLabがGitLab 19.6をリリース",
+          "title": "シンカ、一橋大学とAI活用に関する産学連携プロジェクトを実施",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "【2026年度上半期 飲食店動向】東京23区の居抜き物件の新規登録数は前年同期比5.5％増、都心3区では25.8％増",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "長野県HAKUBA VALLEY【つがいけマウンテンリゾート】12月1日より「マイナ割」リフト券販売開始！",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 活用_20261128",
+      "theme": "MCP 活用",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+          "source": "Gigazine",
+          "trust_score": 7.5
+        },
+        {
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
+        },
+        {
+          "title": "“慎重派“の弥生が汎用AIツールとの連携へ freee、マネフォに続く「MCP対応」、各社の「会計×AI」の戦略は？(ITmedia ビジネスオンライン)",
+          "source": "Yahoo Japan",
+          "trust_score": 9.2
+        },
+        {
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "【Expert Cross #7・後編】「採用につなげるには、事業を伸ばすしかない」羽賀 流登が見据える、仲間を増やすための事業づくり",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング ランキング_20261127",
-      "theme": "バイブコーディング ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年11月26日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261127",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "日本企業のエージェント型 AI の実装を、ハッカソンで後押し",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "少人数の採用チームで年間60名超が内定承諾。Claude Codeで回すAI採用ワークフロー ～AIで採用業務を効率化し、候補者一人ひとりと向き合う時間をつくるFaciloの実践～",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
+          "title": "2026年11月27日のヘッドラインニュース",
           "source": "Gigazine",
           "trust_score": 7.5
         },
         {
-          "title": "【11/26話題】SBI Solana Globalが本格始動、メタマスクがステーブルコイン決済カードを日本で提供開始、MEXCとの送付・受取停止へなど（音声ニュース）",
-          "source": "New Economy Japan",
-          "trust_score": 9.7
-        },
-        {
-          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Engage Squared、Microsoft Japan Partner of the Yearを2年連続受賞！2026年はBusiness Transformation - Agents部門",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AWS、半導体設計の検証作業をAIで効率化 日本向けクラウド構成を公開",
-          "source": "Mynavi News",
+          "title": "Unreal EngineのMCP活用で開発ワークフローはどう変わる？ Epic Games Japanが検証で得た知見を紹介 - GameBusiness.jp",
+          "source": "Google News",
           "trust_score": 8.5
+        },
+        {
+          "title": "金融データ API「ZENITH Code」が米国株に対応。AI エージェントから日米 約 1.4 万銘柄を 1 つの API・MCP で",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        }
+      ]
+    },
+    {
+      "name": "episode_skill 比較_20261128",
+      "theme": "skill 比較",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "GoogleのGeminiチーム、Gemini 4向けの実験的なWebデザインスキル「gemini-frontend-design」を公開",
+          "source": "Gijutsu Hyohron Company",
+          "trust_score": 7.5
+        }
+      ]
+    },
+    {
+      "name": "episode_MCP 方法_20261128",
+      "theme": "MCP 方法",
+      "status": "failed",
+      "audio_url": null,
+      "audio_length": null,
+      "audio_duration": null,
+      "articles": [
+        {
+          "title": "x402株式会社、Claudeの会話からx402に対応した有料APIを1回ごとに購入できる「AgentPay402 MCP on Solana/Base」α版を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "フォトショやイラレのMCP対応は「地獄の釜」だが開くべき理由。アドビが迎えるサブスク以来の転換点",
+          "source": "Business Insider",
+          "trust_score": 7.0
+        },
+        {
+          "title": "[ITmedia エンタープライズ] ClaudeのMCP連携に新機能 スキルもMCP経由で提供、削除前の確認も",
+          "source": "Itmedia",
+          "trust_score": 7.0
         }
       ]
     }
