@@ -1,135 +1,50 @@
 {
-  "generated_at": "2026-11-28T03:11:36.077106",
-  "total_episodes": 4,
+  "generated_at": "2026-11-28T06:19:47.795511",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_哲学 比較_20261128",
-      "theme": "哲学 比較",
+      "name": "episode_エージェント 方法_20261128",
+      "theme": "エージェント 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "お土産を渡しながら｢つまらないものですが｣は日本人だけではない…世界中の人が自分を下げる\"本当の目的\"(プレジデントオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "桜を枯らす「クビアカ」早期特定へ 国の技術を京都の企業が実用化",
-          "source": "朝日新聞デジタル",
-          "trust_score": 7.5
-        },
-        {
-          "title": "英文法をやり直したい大人のための新バイブル『おかえりなさい、英文法』が発売",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "Laboro.AI、半導体設計向けAIソリューションをリリース",
+          "title": "海外大学志望の高校生の71%が「英語スコアとエッセイ・課外活動の両立」に悩む、IELTS活用予定は58%",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "シンカ、一橋大学とAI活用に関する産学連携プロジェクトを実施",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【2026年度上半期 飲食店動向】東京23区の居抜き物件の新規登録数は前年同期比5.5％増、都心3区では25.8％増",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "長野県HAKUBA VALLEY【つがいけマウンテンリゾート】12月1日より「マイナ割」リフト券販売開始！",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 活用_20261128",
-      "theme": "MCP 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "“慎重派“の弥生が汎用AIツールとの連携へ freee、マネフォに続く「MCP対応」、各社の「会計×AI」の戦略は？(ITmedia ビジネスオンライン)",
-          "source": "Yahoo Japan",
-          "trust_score": 9.2
-        },
-        {
-          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "2026年11月27日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "Unreal EngineのMCP活用で開発ワークフローはどう変わる？ Epic Games Japanが検証で得た知見を紹介 - GameBusiness.jp",
-          "source": "Google News",
+          "title": "タイヤづくりはAIでどう変わる？ デザインや材料探索から部門間調整まで、ダンロップとNECが進める開発改革",
+          "source": "Car News",
           "trust_score": 8.5
         },
         {
-          "title": "金融データ API「ZENITH Code」が米国株に対応。AI エージェントから日米 約 1.4 万銘柄を 1 つの API・MCP で",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        }
-      ]
-    },
-    {
-      "name": "episode_skill 比較_20261128",
-      "theme": "skill 比較",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "[ITmedia Mobile] ブラックフライデーで安く買えるGalaxy製品は？ S26 UltraやZ Fold8 Ultra、Galaxy Tabの注目モデルと選び方",
+          "source": "Itmedia",
+          "trust_score": 7.0
+        },
         {
-          "title": "GoogleのGeminiチーム、Gemini 4向けの実験的なWebデザインスキル「gemini-frontend-design」を公開",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP 方法_20261128",
-      "theme": "MCP 方法",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
+          "title": "CertiKとコロンビア大学、AI計算プログラムの形式検証技術「TensorLean」開発",
+          "source": "New Economy Japan",
+          "trust_score": 9.7
+        },
         {
           "title": "x402株式会社、Claudeの会話からx402に対応した有料APIを1回ごとに購入できる「AgentPay402 MCP on Solana/Base」α版を公開",
           "source": "Pr Times",
           "trust_score": 8.0
         },
         {
-          "title": "フォトショやイラレのMCP対応は「地獄の釜」だが開くべき理由。アドビが迎えるサブスク以来の転換点",
-          "source": "Business Insider",
-          "trust_score": 7.0
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+          "source": "財経新聞：経済・株式の最新ニュース",
+          "trust_score": 7.5
         },
         {
-          "title": "[ITmedia エンタープライズ] ClaudeのMCP連携に新機能 スキルもMCP経由で提供、削除前の確認も",
-          "source": "Itmedia",
-          "trust_score": 7.0
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
