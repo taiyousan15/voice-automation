@@ -1,125 +1,50 @@
 {
-  "generated_at": "2026-11-27T06:45:57.837711",
-  "total_episodes": 4,
+  "generated_at": "2026-11-28T06:19:47.795511",
+  "total_episodes": 1,
   "audio_enabled": true,
   "episodes": [
     {
-      "name": "episode_AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味_20261127",
-      "theme": "AIのビジネスモデルと世界中のAI活用と稼ぎ方 意味",
+      "name": "episode_エージェント 方法_20261128",
+      "theme": "エージェント 方法",
       "status": "failed",
       "audio_url": null,
       "audio_length": null,
       "audio_duration": null,
       "articles": [
         {
-          "title": "問い合わせゼロのコロナ禍で売り上げ120%。SNS田中社長が販促グッズで築いた「人が届ける」仕組み",
-          "source": "Zuu Online",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_MCP おすすめ 理由_20261127",
-      "theme": "MCP おすすめ 理由",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
+          "title": "海外大学志望の高校生の71%が「英語スコアとエッセイ・課外活動の両立」に悩む、IELTS活用予定は58%",
           "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始",
-          "source": "Gijutsu Hyohron Company",
-          "trust_score": 7.0
-        },
-        {
-          "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？ マネーフォワードに聞いた狙いと安全策",
-          "source": "Itmedia",
           "trust_score": 7.5
         },
         {
-          "title": "顧客データを、人口統計と地図で経営戦略に。Salesforceで動く商圏分析アプリ「ブリッジマップ 2.0」を提供開始",
-          "source": "Pr Times",
-          "trust_score": 8.0
+          "title": "タイヤづくりはAIでどう変わる？ デザインや材料探索から部門間調整まで、ダンロップとNECが進める開発改革",
+          "source": "Car News",
+          "trust_score": 8.5
         },
         {
-          "title": "「Xen Orchestra」の認証回避が悪用、Juniper製品も――今朝の情シスニュース",
+          "title": "[ITmedia Mobile] ブラックフライデーで安く買えるGalaxy製品は？ S26 UltraやZ Fold8 Ultra、Galaxy Tabの注目モデルと選び方",
           "source": "Itmedia",
           "trust_score": 7.0
         },
         {
-          "title": "GitLabがGitLab 19.6をリリース",
-          "source": "Pr Times",
-          "trust_score": 8.0
-        },
-        {
-          "title": "【Expert Cross #7・後編】「採用につなげるには、事業を伸ばすしかない」羽賀 流登が見据える、仲間を増やすための事業づくり",
-          "source": "Gmo Developers",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_バイブコーディング ランキング_20261127",
-      "theme": "バイブコーディング ランキング",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "2026年11月26日のヘッドラインニュース",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        }
-      ]
-    },
-    {
-      "name": "episode_エージェント 活用_20261127",
-      "theme": "エージェント 活用",
-      "status": "failed",
-      "audio_url": null,
-      "audio_length": null,
-      "audio_duration": null,
-      "articles": [
-        {
-          "title": "日本企業のエージェント型 AI の実装を、ハッカソンで後押し",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.5
-        },
-        {
-          "title": "少人数の採用チームで年間60名超が内定承諾。Claude Codeで回すAI採用ワークフロー ～AIで採用業務を効率化し、候補者一人ひとりと向き合う時間をつくるFaciloの実践～",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
-          "source": "Gigazine",
-          "trust_score": 7.5
-        },
-        {
-          "title": "【11/26話題】SBI Solana Globalが本格始動、メタマスクがステーブルコイン決済カードを日本で提供開始、MEXCとの送付・受取停止へなど（音声ニュース）",
+          "title": "CertiKとコロンビア大学、AI計算プログラムの形式検証技術「TensorLean」開発",
           "source": "New Economy Japan",
           "trust_score": 9.7
         },
         {
-          "title": "阪急阪神不動産・神戸新聞社・熊本市が台北で登壇 台湾 AI スタートアップの技術を関西・九州の現場へ",
+          "title": "x402株式会社、Claudeの会話からx402に対応した有料APIを1回ごとに購入できる「AgentPay402 MCP on Solana/Base」α版を公開",
+          "source": "Pr Times",
+          "trust_score": 8.0
+        },
+        {
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
           "source": "財経新聞：経済・株式の最新ニュース",
           "trust_score": 7.5
         },
         {
-          "title": "Engage Squared、Microsoft Japan Partner of the Yearを2年連続受賞！2026年はBusiness Transformation - Agents部門",
-          "source": "財経新聞：経済・株式の最新ニュース",
-          "trust_score": 7.0
-        },
-        {
-          "title": "AWS、半導体設計の検証作業をAIで効率化 日本向けクラウド構成を公開",
-          "source": "Mynavi News",
-          "trust_score": 8.5
+          "title": "Aurora Mobile株式会社、「AI in Action」グローバル・ロードショーを東京で開幕",
+          "source": "Pr Times",
+          "trust_score": 8.0
         }
       ]
     }
